@@ -1,9 +1,35 @@
-function App() {
+import {
+  createBrowserRouter,
+  RouterProvider,
+  Outlet,
+  ScrollRestoration,
+} from "react-router-dom";
+import Landing from "./pages/Landing";
+import HowItWorks from "./pages/HowItWorks";
+import Contact from "./pages/Contact";
+
+function RootLayout() {
   return (
-    <div className="min-h-screen bg-gray-900 text-white flex items-center justify-center">
-      <h1 className="text-4xl font-bold">SoundScout</h1>
-    </div>
+    <>
+      <ScrollRestoration />
+      <Outlet />
+    </>
   );
+}
+
+const router = createBrowserRouter([
+  {
+    element: <RootLayout />,
+    children: [
+      { path: "/", element: <Landing /> },
+      { path: "/how-it-works", element: <HowItWorks /> },
+      { path: "/contact", element: <Contact /> },
+    ],
+  },
+]);
+
+function App() {
+  return <RouterProvider router={router} />;
 }
 
 export default App;
