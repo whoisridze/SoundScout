@@ -104,3 +104,41 @@ export interface SocialLink {
   icon: "github" | "linktree" | "email";
   description: string;
 }
+
+// Auth types
+export interface LoginCredentials {
+  email: string;
+  password: string;
+}
+
+export interface RegisterFormData {
+  email: string;
+  username: string;
+  password: string;
+  confirmPassword: string;
+}
+
+export interface RegisterRequest {
+  email: string;
+  username: string;
+  password: string;
+}
+
+export interface AuthTokens {
+  access_token: string;
+  refresh_token: string;
+  token_type: string;
+}
+
+export interface User {
+  id: string;
+  email: string;
+  username: string;
+  role: "user" | "admin";
+  is_active: boolean;
+  created_at: string;
+}
+
+export interface AuthError {
+  detail: string;
+}

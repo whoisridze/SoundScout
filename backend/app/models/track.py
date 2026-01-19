@@ -69,7 +69,7 @@ class FavoriteTrackResponse(BaseModel):
 
 class FavoriteListResponse(BaseModel):
     """Response for paginated favorites list."""
-    tracks: list
+    tracks: list["FavoriteTrackResponse"]
     total: int
     page: int
     per_page: int

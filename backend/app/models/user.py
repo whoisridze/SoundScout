@@ -105,7 +105,7 @@ class AdminUserUpdate(BaseModel):
 
 class UserListResponse(BaseModel):
     """Schema for paginated user list."""
-    users: list
+    users: list["UserResponse"]
     total: int
     page: int
     per_page: int

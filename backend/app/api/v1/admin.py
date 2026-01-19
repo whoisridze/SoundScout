@@ -2,6 +2,7 @@ from fastapi import APIRouter, Depends, Query
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
 from app.api.deps import get_db, get_current_admin_user
+from app.core.exceptions import NotFoundError
 from app.models.user import (
     UserInDB,
     UserResponse,
@@ -45,8 +46,6 @@ async def get_user(
     db: AsyncIOMotorDatabase = Depends(get_db),
 ):
     """Get user details (admin only)."""
-    from app.core.exceptions import NotFoundError
-
     user = await user_service.get_user_by_id(db, user_id)
     if not user:
         raise NotFoundError("User")

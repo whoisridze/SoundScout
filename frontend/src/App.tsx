@@ -4,9 +4,8 @@ import {
   Outlet,
   ScrollRestoration,
 } from "react-router-dom";
-import Landing from "./pages/Landing";
-import HowItWorks from "./pages/HowItWorks";
-import Contact from "./pages/Contact";
+import { Landing, HowItWorks, Contact, Login, Register } from "./pages";
+import { AuthProvider } from "./contexts";
 
 function RootLayout() {
   return (
@@ -24,12 +23,18 @@ const router = createBrowserRouter([
       { path: "/", element: <Landing /> },
       { path: "/how-it-works", element: <HowItWorks /> },
       { path: "/contact", element: <Contact /> },
+      { path: "/login", element: <Login /> },
+      { path: "/register", element: <Register /> },
     ],
   },
 ]);
 
 function App() {
-  return <RouterProvider router={router} />;
+  return (
+    <AuthProvider>
+      <RouterProvider router={router} />
+    </AuthProvider>
+  );
 }
 
 export default App;

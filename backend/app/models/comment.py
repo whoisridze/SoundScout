@@ -61,7 +61,7 @@ class CommentResponse(BaseModel):
 
 class CommentListResponse(BaseModel):
     """Response for paginated comments list."""
-    comments: list
+    comments: list["CommentResponse"]
     total: int
     page: int
     per_page: int
