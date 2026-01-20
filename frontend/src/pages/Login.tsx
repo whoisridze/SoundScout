@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useNavigate, useLocation } from "react-router-dom";
 import { LogIn } from "lucide-react";
 import { AuthLayout, FormInput, FormError, Button } from "@/components";
 import { useAuth } from "@/contexts";
@@ -7,7 +7,9 @@ import type { LoginCredentials } from "@/types";
 
 export default function Login() {
   const navigate = useNavigate();
+  const location = useLocation();
   const { login } = useAuth();
+  const from = (location.state as { from?: string })?.from || "/dashboard";
   const [formState, setFormState] = useState<LoginCredentials>({
     email: "",
     password: "",
@@ -42,7 +44,7 @@ export default function Login() {
     setIsSubmitting(true);
     try {
       await login(formState);
-      navigate("/");
+      navigate(from, { replace: true });
     } catch (error) {
       setApiError(
         error instanceof Error ? error.message : "Login failed. Please try again."

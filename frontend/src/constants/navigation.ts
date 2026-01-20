@@ -5,6 +5,16 @@ export const NAV_LINKS: NavLink[] = [
   { to: "/register", label: "Sign up free", variant: "primary" },
 ];
 
+export interface AppNavLink {
+  to: string;
+  label: string;
+}
+
+export const APP_NAV_LINKS: AppNavLink[] = [
+  { to: "/dashboard", label: "Explore" },
+  { to: "/favorites", label: "Favorites" },
+];
+
 export const FOOTER_SECTIONS: FooterSection[] = [
   {
     title: "Pages",

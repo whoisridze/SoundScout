@@ -70,7 +70,7 @@ export default function Register() {
         username: formState.username,
         password: formState.password,
       });
-      navigate("/");
+      navigate("/dashboard", { replace: true });
     } catch (error) {
       setApiError(
         error instanceof Error ? error.message : "Registration failed. Please try again."
