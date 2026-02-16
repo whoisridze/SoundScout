@@ -4,10 +4,23 @@ import {
   Outlet,
   ScrollRestoration,
 } from "react-router-dom";
-import { Landing, HowItWorks, Contact, Login, Register } from "./pages";
-import { AuthProvider } from "./contexts";
-import { ProtectedRoute, AdminRoute } from "./components";
+import {
+  Landing,
+  HowItWorks,
+  Contact,
+  Login,
+  Register,
+  Dashboard,
+  Subgenres,
+  Artists,
+  ArtistDetail,
+  NotFound,
+} from "./pages";
+import { AuthProvider, AudioPlayerProvider } from "./contexts";
+import { ProtectedRoute, AdminRoute, ErrorBoundary } from "./components";
+import { AudioPlayer } from "./components/discovery";
 import { AppLayout } from "./layouts";
+import { QueryProvider } from "./providers";
 
 function RootLayout() {
   return (
@@ -18,16 +31,7 @@ function RootLayout() {
   );
 }
 
-// Placeholder pages (to be implemented in Phase 2+)
-function Dashboard() {
-  return (
-    <div className="max-w-[1400px] mx-auto px-6 py-8">
-      <h1 className="text-3xl font-bold text-text-primary">Explore Genres</h1>
-      <p className="text-text-secondary mt-2">Coming soon...</p>
-    </div>
-  );
-}
-
+// Placeholder pages (to be implemented in Phase 3+)
 function Favorites() {
   return (
     <div className="max-w-[1400px] mx-auto px-6 py-8">
@@ -82,6 +86,16 @@ function AdminComments() {
   );
 }
 
+// App layout with audio player
+function AppLayoutWithPlayer() {
+  return (
+    <AudioPlayerProvider>
+      <AppLayout />
+      <AudioPlayer />
+    </AudioPlayerProvider>
+  );
+}
+
 const router = createBrowserRouter([
   {
     element: <RootLayout />,
@@ -98,15 +112,15 @@ const router = createBrowserRouter([
         element: <ProtectedRoute />,
         children: [
           {
-            element: <AppLayout />,
+            element: <AppLayoutWithPlayer />,
             children: [
               { path: "/dashboard", element: <Dashboard /> },
               { path: "/favorites", element: <Favorites /> },
               { path: "/profile", element: <Profile /> },
               { path: "/settings", element: <Settings /> },
-              { path: "/genre/:genreId", element: <div>Genre Page</div> },
-              { path: "/genre/:genreId/:subgenre", element: <div>Artists Page</div> },
-              { path: "/artist/:artistId", element: <div>Artist Page</div> },
+              { path: "/genre/:genreId", element: <Subgenres /> },
+              { path: "/genre/:genreId/:subgenre", element: <Artists /> },
+              { path: "/artist/:artistId", element: <ArtistDetail /> },
             ],
           },
         ],
@@ -117,7 +131,7 @@ const router = createBrowserRouter([
         element: <AdminRoute />,
         children: [
           {
-            element: <AppLayout />,
+            element: <AppLayoutWithPlayer />,
             children: [
               { path: "/admin", element: <AdminDashboard /> },
               { path: "/admin/users", element: <AdminUsers /> },
@@ -126,15 +140,22 @@ const router = createBrowserRouter([
           },
         ],
       },
+
+      // 404 catch-all
+      { path: "*", element: <NotFound /> },
     ],
   },
 ]);
 
 function App() {
   return (
-    <AuthProvider>
-      <RouterProvider router={router} />
-    </AuthProvider>
+    <QueryProvider>
+      <AuthProvider>
+        <ErrorBoundary>
+          <RouterProvider router={router} />
+        </ErrorBoundary>
+      </AuthProvider>
+    </QueryProvider>
   );
 }
 
