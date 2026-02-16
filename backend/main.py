@@ -7,6 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
 from app.db import mongodb
 from app.api.v1.router import router as api_v1_router
+from app.services import spotify, deezer
 
 # Configure logging
 logging.basicConfig(
@@ -24,6 +25,8 @@ async def lifespan(app: FastAPI):
     logger.info("Application started")
     yield
     # Shutdown
+    await spotify.close()
+    await deezer.close()
     await mongodb.disconnect()
     logger.info("Application stopped")
 

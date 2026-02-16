@@ -1,6 +1,6 @@
-from fastapi import APIRouter, Query
+from fastapi import APIRouter, Path, Query
 
-from app.core.exceptions import NotFoundError, ValidationError
+from app.core.exceptions import NotFoundError
 from app.services import spotify
 
 router = APIRouter(prefix="/genres", tags=["Genres"])
@@ -34,8 +34,8 @@ async def search_genres(
     return {"query": q, "genres": matches, "total": len(matches)}
 
 
-@router.get("/{main_genre}/subgenres")
-async def get_subgenres(main_genre: str):
+@router.get("/{main_genre:path}/subgenres")
+async def get_subgenres(main_genre: str = Path(..., description="Main genre name")):
     """Get subgenres for a specific main genre."""
     subgenres = spotify.get_subgenres(main_genre)
     if not subgenres:
