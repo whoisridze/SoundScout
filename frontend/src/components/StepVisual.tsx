@@ -14,7 +14,9 @@ interface StepVisualProps {
   step: Step;
 }
 
-export default function StepVisual({ step }: StepVisualProps) {
+import { memo } from "react";
+
+export default memo(function StepVisual({ step }: StepVisualProps) {
   const colors = COLOR_MAP[step.color];
   const visual = step.visual;
 
@@ -184,4 +186,4 @@ export default function StepVisual({ step }: StepVisualProps) {
   }
 
   return null;
-}
+})

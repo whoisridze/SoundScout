@@ -1,9 +1,11 @@
+import { memo } from "react";
+
 interface GradientBackgroundProps {
   variant?: "default" | "contact" | "auth";
   fixed?: boolean;
 }
 
-export default function GradientBackground({
+export default memo(function GradientBackground({
   variant = "default",
   fixed = false,
 }: GradientBackgroundProps) {
@@ -34,4 +36,4 @@ export default function GradientBackground({
       <div className="absolute bottom-1/4 right-1/4 w-[400px] h-[400px] bg-accent-600/20 rounded-full blur-[128px]" />
     </div>
   );
-}
+})

@@ -142,3 +142,80 @@ export interface User {
 export interface AuthError {
   detail: string;
 }
+
+// Spotify/Artist types
+export interface SpotifyImage {
+  url: string;
+  height: number | null;
+  width: number | null;
+}
+
+export interface Artist {
+  id: string;
+  name: string;
+  followers: number;
+  genres: string[];
+  images: SpotifyImage[];
+  popularity?: number;
+  external_urls?: {
+    spotify: string;
+  };
+}
+
+export interface Album {
+  id: string;
+  name: string;
+  images: SpotifyImage[];
+  release_date: string;
+  album_type: string;
+}
+
+export interface Track {
+  id: string;
+  name: string;
+  duration_ms: number;
+  preview_url: string | null;
+  track_number: number;
+  album: Album;
+  artists: Pick<Artist, "id" | "name">[];
+  external_urls?: {
+    spotify: string;
+  };
+}
+
+// API Response types
+export interface GenresResponse {
+  genres: string[];
+  total: number;
+}
+
+export interface SubgenresResponse {
+  main_genre: string;
+  subgenres: string[];
+  total: number;
+}
+
+export interface AllGenresResponse {
+  main_genres: string[];
+  genres_map: Record<string, string[]>;
+}
+
+export interface ArtistsByGenreResponse {
+  genre: string;
+  artists: Artist[];
+  total: number;
+}
+
+export interface ArtistDetailResponse extends Artist {
+  // Artist details are the same as Artist type
+}
+
+export interface SimilarArtistsResponse {
+  similar_artists: Artist[];
+  based_on_genre: string;
+}
+
+export interface ArtistTracksResponse {
+  tracks: Track[];
+  total: number;
+}

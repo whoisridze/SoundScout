@@ -1,4 +1,6 @@
-export default function GrainOverlay() {
+import { memo } from "react";
+
+export default memo(function GrainOverlay() {
   return (
     <div
       className="absolute inset-0 opacity-[0.015] pointer-events-none"
@@ -7,4 +9,4 @@ export default function GrainOverlay() {
       }}
     />
   );
-}
+})

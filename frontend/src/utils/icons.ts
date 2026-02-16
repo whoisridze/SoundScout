@@ -15,8 +15,6 @@ export const SOCIAL_ICON_MAP: Record<string, LucideIcon> = {
   github: Github,
   linktree: ExternalLink,
   email: Mail,
-  GitHub: Github,
-  Linktree: ExternalLink,
 };
 
 // How It Works step icons

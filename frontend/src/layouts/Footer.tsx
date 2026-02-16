@@ -14,7 +14,7 @@ export default function Footer() {
               </h4>
               <ul className="space-y-3">
                 {section.links.map((link) => {
-                  const Icon = SOCIAL_ICON_MAP[link.label];
+                  const Icon = SOCIAL_ICON_MAP[link.label.toLowerCase()];
 
                   if (link.external && link.href) {
                     return (

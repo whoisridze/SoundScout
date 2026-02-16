@@ -3,3 +3,8 @@ export { default as HowItWorks } from "./HowItWorks";
 export { default as Contact } from "./Contact";
 export { default as Login } from "./Login";
 export { default as Register } from "./Register";
+export { default as Dashboard } from "./Dashboard";
+export { default as Subgenres } from "./Subgenres";
+export { default as Artists } from "./Artists";
+export { default as ArtistDetail } from "./ArtistDetail";
+export { default as NotFound } from "./NotFound";

@@ -9,3 +9,8 @@ export { default as LoadingScreen } from "./LoadingScreen";
 export { default as ProtectedRoute } from "./ProtectedRoute";
 export { default as AdminRoute } from "./AdminRoute";
 export { default as UserMenu } from "./UserMenu";
+export { default as ErrorBoundary } from "./ErrorBoundary";
+export { default as StepIndicator } from "./StepIndicator";
+
+// Discovery components
+export * from "./discovery";

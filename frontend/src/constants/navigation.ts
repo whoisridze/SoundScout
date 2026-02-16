@@ -12,7 +12,6 @@ export interface AppNavLink {
 
 export const APP_NAV_LINKS: AppNavLink[] = [
   { to: "/dashboard", label: "Explore" },
-  { to: "/favorites", label: "Favorites" },
 ];
 
 export const FOOTER_SECTIONS: FooterSection[] = [
