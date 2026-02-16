@@ -5,6 +5,7 @@ from app.models.user import (
     UserInDB,
     UserResponse,
     UserProfileResponse,
+    PublicUserProfileResponse,
     AdminUserUpdate,
     UserListResponse,
 )

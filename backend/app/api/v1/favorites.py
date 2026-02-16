@@ -1,6 +1,6 @@
 from typing import List
 
-from fastapi import APIRouter, Depends, Query
+from fastapi import APIRouter, Depends, Query, HTTPException, status
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
 from app.api.deps import get_db, get_current_active_user
@@ -81,6 +81,11 @@ async def check_favorites_batch(
     db: AsyncIOMotorDatabase = Depends(get_db),
 ):
     """Check which tracks from list are in favorites."""
+    if len(spotify_ids) > 100:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Maximum 100 IDs per batch",
+        )
     favorited = await favorites_service.check_favorites_batch(
         db, str(current_user.id), spotify_ids
     )

@@ -1,3 +1,4 @@
+import asyncio
 from datetime import datetime, timedelta, timezone
 from typing import Any, Dict, Optional, Tuple
 import uuid
@@ -8,15 +9,20 @@ from jose import JWTError, jwt
 from app.core.config import settings
 
 
-# Password utilities
-def verify_password(plain_password: str, hashed_password: str) -> bool:
-    return bcrypt.checkpw(
-        plain_password.encode("utf-8"), hashed_password.encode("utf-8")
+# Password utilities (async to avoid blocking the event loop)
+async def verify_password(plain_password: str, hashed_password: str) -> bool:
+    return await asyncio.to_thread(
+        bcrypt.checkpw,
+        plain_password.encode("utf-8"),
+        hashed_password.encode("utf-8"),
     )
 
 
-def get_password_hash(password: str) -> str:
-    return bcrypt.hashpw(password.encode("utf-8"), bcrypt.gensalt()).decode("utf-8")
+async def get_password_hash(password: str) -> str:
+    hashed = await asyncio.to_thread(
+        bcrypt.hashpw, password.encode("utf-8"), bcrypt.gensalt()
+    )
+    return hashed.decode("utf-8")
 
 
 def validate_password_strength(password: str) -> Tuple[bool, Optional[str]]:
@@ -78,7 +84,7 @@ def decode_token(token: str) -> Optional[Dict[str, Any]]:
 
 
 def verify_token(token: str, token_type: str = "access") -> Optional[str]:
-    """Verify token and return subject (username) if valid."""
+    """Verify token and return subject (user_id) if valid."""
     payload = decode_token(token)
     if payload is None:
         return None

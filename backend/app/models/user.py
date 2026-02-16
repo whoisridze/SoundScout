@@ -29,6 +29,15 @@ class UserUpdate(BaseModel):
     username: Optional[str] = Field(None, min_length=3, max_length=50)
     email: Optional[EmailStr] = None
 
+    @field_validator("username")
+    @classmethod
+    def username_alphanumeric(cls, v: Optional[str]) -> Optional[str]:
+        if v is None:
+            return v
+        if not v.replace("_", "").replace("-", "").isalnum():
+            raise ValueError("Username must be alphanumeric (underscores and hyphens allowed)")
+        return v.lower()
+
 
 class UserInDB(UserBase):
     """User document from database."""
@@ -67,7 +76,7 @@ class UserResponse(BaseModel):
 
 
 class UserProfileResponse(BaseModel):
-    """Schema for user profile with stats."""
+    """Schema for user profile with stats (private — includes email)."""
     id: str
     username: str
     email: str
@@ -89,6 +98,32 @@ class UserProfileResponse(BaseModel):
             username=user.username,
             email=user.email,
             is_active=user.is_active,
+            role=user.role,
+            created_at=user.created_at,
+            favorites_count=favorites_count,
+            comments_count=comments_count,
+        )
+
+
+class PublicUserProfileResponse(BaseModel):
+    """Schema for public user profile (no email)."""
+    id: str
+    username: str
+    role: UserRole
+    created_at: datetime
+    favorites_count: int = 0
+    comments_count: int = 0
+
+    @classmethod
+    def from_db(
+        cls,
+        user: UserInDB,
+        favorites_count: int = 0,
+        comments_count: int = 0,
+    ) -> "PublicUserProfileResponse":
+        return cls(
+            id=str(user.id),
+            username=user.username,
             role=user.role,
             created_at=user.created_at,
             favorites_count=favorites_count,

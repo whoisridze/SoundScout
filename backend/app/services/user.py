@@ -1,6 +1,7 @@
+import math
+import re
 from datetime import datetime, timezone
 from typing import List, Optional
-import math
 
 from bson import ObjectId
 from motor.motor_asyncio import AsyncIOMotorDatabase
@@ -22,7 +23,7 @@ async def create_user(
     user_doc = {
         "username": user_data.username.lower(),
         "email": user_data.email.lower(),
-        "hashed_password": get_password_hash(user_data.password),
+        "hashed_password": await get_password_hash(user_data.password),
         "is_active": True,
         "role": role.value,
         "created_at": now,
@@ -99,9 +100,10 @@ async def get_all_users(
 
     query = {}
     if search:
+        escaped = re.escape(search)
         query["$or"] = [
-            {"username": {"$regex": search, "$options": "i"}},
-            {"email": {"$regex": search, "$options": "i"}},
+            {"username": {"$regex": escaped, "$options": "i"}},
+            {"email": {"$regex": escaped, "$options": "i"}},
         ]
 
     cursor = db.users.find(query)

@@ -2,7 +2,7 @@ from fastapi import APIRouter, Depends
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
 from app.api.deps import get_db, get_current_active_user
-from app.models.user import UserInDB, UserUpdate, UserResponse, UserProfileResponse
+from app.models.user import UserInDB, UserUpdate, UserResponse, UserProfileResponse, PublicUserProfileResponse
 from app.services import user as user_service
 from app.services import favorites as favorites_service
 from app.services import comments as comments_service
@@ -43,7 +43,7 @@ async def update_profile(
     return UserResponse.from_db(updated_user)
 
 
-@router.get("/user/{username}", response_model=UserProfileResponse)
+@router.get("/user/{username}", response_model=PublicUserProfileResponse)
 async def get_user_profile(
     username: str,
     db: AsyncIOMotorDatabase = Depends(get_db),
@@ -62,7 +62,7 @@ async def get_user_profile(
         db, str(user.id)
     )
 
-    return UserProfileResponse.from_db(
+    return PublicUserProfileResponse.from_db(
         user,
         favorites_count=favorites_count,
         comments_count=comments_count,

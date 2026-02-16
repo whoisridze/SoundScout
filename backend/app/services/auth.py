@@ -20,7 +20,7 @@ async def authenticate_user(
     if not user:
         raise InvalidCredentialsError()
 
-    if not verify_password(password, user.hashed_password):
+    if not await verify_password(password, user.hashed_password):
         raise InvalidCredentialsError()
 
     if not user.is_active:
@@ -31,8 +31,9 @@ async def authenticate_user(
 
 def create_tokens(user: UserInDB) -> Token:
     """Create access and refresh tokens for user."""
-    access_token = create_access_token(subject=user.username)
-    refresh_token = create_refresh_token(subject=user.username)
+    user_id = str(user.id)
+    access_token = create_access_token(subject=user_id)
+    refresh_token = create_refresh_token(subject=user_id)
     return Token(access_token=access_token, refresh_token=refresh_token)
 
 
@@ -42,16 +43,16 @@ async def refresh_access_token(db: AsyncIOMotorDatabase, refresh_token: str) -> 
     Note: Only returns new access token, not a new refresh token.
     This is more secure as refresh tokens should be long-lived and not rotated on every use.
     """
-    username = verify_token(refresh_token, token_type="refresh")
-    if not username:
+    user_id = verify_token(refresh_token, token_type="refresh")
+    if not user_id:
         raise InvalidTokenError("Invalid or expired refresh token")
 
-    user = await user_service.get_user_by_username(db, username)
+    user = await user_service.get_user_by_id(db, user_id)
     if not user:
         raise InvalidTokenError("User not found")
 
     if not user.is_active:
         raise InactiveUserError()
 
-    access_token = create_access_token(subject=user.username)
+    access_token = create_access_token(subject=str(user.id))
     return AccessToken(access_token=access_token)

@@ -22,11 +22,11 @@ async def get_current_user(
     db: AsyncIOMotorDatabase = Depends(get_db),
 ) -> UserInDB:
     """Get current authenticated user from JWT token."""
-    username = verify_token(credentials.credentials)
-    if not username:
+    user_id = verify_token(credentials.credentials)
+    if not user_id:
         raise AuthenticationError()
 
-    user = await user_service.get_user_by_username(db, username)
+    user = await user_service.get_user_by_id(db, user_id)
     if not user:
         raise AuthenticationError()
 
