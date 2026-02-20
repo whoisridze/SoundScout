@@ -36,6 +36,14 @@ class InactiveUserError(HTTPException):
         )
 
 
+class ForbiddenError(HTTPException):
+    def __init__(self, detail: str = "You do not have permission to perform this action"):
+        super().__init__(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail=detail,
+        )
+
+
 class UserExistsError(HTTPException):
     def __init__(self, detail: str = "User with this email or username already exists"):
         super().__init__(
@@ -57,15 +65,6 @@ class ValidationError(HTTPException):
         super().__init__(
             status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
             detail=detail,
-        )
-
-
-class RateLimitError(HTTPException):
-    def __init__(self, retry_after: int = 300):
-        super().__init__(
-            status_code=status.HTTP_429_TOO_MANY_REQUESTS,
-            detail=f"Too many requests. Try again in {retry_after // 60} minutes.",
-            headers={"Retry-After": str(retry_after)},
         )
 
 

@@ -35,11 +35,15 @@ class Settings(BaseSettings):
         "http://127.0.0.1:3000",
     ]
 
-    # Rate Limiting
-    rate_limit_login_max: int = 5
-    rate_limit_login_window: int = 300
-    rate_limit_refresh_max: int = 10
-    rate_limit_refresh_window: int = 300
+    # Uploads
+    upload_dir: str = "uploads"
+    max_avatar_size: int = 2 * 1024 * 1024   # 2MB
+    max_banner_size: int = 5 * 1024 * 1024   # 5MB
+    allowed_image_types: List[str] = [
+        "image/jpeg",
+        "image/png",
+        "image/webp",
+    ]
 
     model_config = {
         "env_file": ".env",

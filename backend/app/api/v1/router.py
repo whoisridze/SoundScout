@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-from app.api.v1 import auth, genres, artists, favorites, comments, profile, admin
+from app.api.v1 import auth, genres, artists, favorites, comments, profile, search, admin
 
 router = APIRouter()
 
@@ -11,4 +11,5 @@ router.include_router(artists.router)
 router.include_router(favorites.router)
 router.include_router(comments.router)
 router.include_router(profile.router)
+router.include_router(search.router)
 router.include_router(admin.router)

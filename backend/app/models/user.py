@@ -28,6 +28,7 @@ class UserUpdate(BaseModel):
     """Schema for updating user profile."""
     username: Optional[str] = Field(None, min_length=3, max_length=50)
     email: Optional[EmailStr] = None
+    status: Optional[str] = Field(None, max_length=100)
 
     @field_validator("username")
     @classmethod
@@ -50,6 +51,9 @@ class UserInDB(UserBase):
     hashed_password: str
     is_active: bool = True
     role: UserRole = UserRole.USER
+    avatar_url: Optional[str] = None
+    banner_url: Optional[str] = None
+    status: Optional[str] = None
     created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
     updated_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
 
@@ -61,6 +65,9 @@ class UserResponse(BaseModel):
     email: str
     is_active: bool
     role: UserRole
+    avatar_url: Optional[str] = None
+    banner_url: Optional[str] = None
+    status: Optional[str] = None
     created_at: datetime
 
     @classmethod
@@ -71,6 +78,9 @@ class UserResponse(BaseModel):
             email=user.email,
             is_active=user.is_active,
             role=user.role,
+            avatar_url=user.avatar_url,
+            banner_url=user.banner_url,
+            status=user.status,
             created_at=user.created_at,
         )
 
@@ -82,6 +92,9 @@ class UserProfileResponse(BaseModel):
     email: str
     is_active: bool
     role: UserRole
+    avatar_url: Optional[str] = None
+    banner_url: Optional[str] = None
+    status: Optional[str] = None
     created_at: datetime
     favorites_count: int = 0
     comments_count: int = 0
@@ -99,6 +112,9 @@ class UserProfileResponse(BaseModel):
             email=user.email,
             is_active=user.is_active,
             role=user.role,
+            avatar_url=user.avatar_url,
+            banner_url=user.banner_url,
+            status=user.status,
             created_at=user.created_at,
             favorites_count=favorites_count,
             comments_count=comments_count,
@@ -110,6 +126,9 @@ class PublicUserProfileResponse(BaseModel):
     id: str
     username: str
     role: UserRole
+    avatar_url: Optional[str] = None
+    banner_url: Optional[str] = None
+    status: Optional[str] = None
     created_at: datetime
     favorites_count: int = 0
     comments_count: int = 0
@@ -125,10 +144,31 @@ class PublicUserProfileResponse(BaseModel):
             id=str(user.id),
             username=user.username,
             role=user.role,
+            avatar_url=user.avatar_url,
+            banner_url=user.banner_url,
+            status=user.status,
             created_at=user.created_at,
             favorites_count=favorites_count,
             comments_count=comments_count,
         )
+
+
+# Settings models
+class PasswordChange(BaseModel):
+    """Schema for changing password."""
+    current_password: str = Field(..., min_length=1)
+    new_password: str = Field(..., min_length=8, max_length=128)
+
+
+class EmailChange(BaseModel):
+    """Schema for changing email."""
+    email: EmailStr
+    password: str = Field(..., min_length=1)
+
+
+class DeleteAccountRequest(BaseModel):
+    """Schema for account deletion confirmation."""
+    password: str = Field(..., min_length=1)
 
 
 # Admin models

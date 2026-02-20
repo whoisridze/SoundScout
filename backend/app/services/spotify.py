@@ -2,7 +2,7 @@ import asyncio
 import base64
 import json
 import logging
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Dict, List, Optional
 
@@ -43,7 +43,7 @@ class SpotifyService:
             if (
                 self._access_token
                 and self._token_expires_at
-                and datetime.now() < self._token_expires_at
+                and datetime.now(timezone.utc) < self._token_expires_at
             ):
                 return self._access_token
 
@@ -69,7 +69,7 @@ class SpotifyService:
             data = response.json()
             self._access_token = data["access_token"]
             # Refresh 60 seconds before expiration
-            self._token_expires_at = datetime.now() + timedelta(
+            self._token_expires_at = datetime.now(timezone.utc) + timedelta(
                 seconds=data["expires_in"] - 60
             )
             return self._access_token
@@ -93,9 +93,10 @@ class SpotifyService:
             return await self._request(endpoint, params, _retry=False)
 
         if response.status_code == 429:
-            retry_after = int(response.headers.get("Retry-After", "1"))
+            retry_after = min(int(response.headers.get("Retry-After", "1")), 10)
             logger.warning("Spotify rate limited, retrying after %ds", retry_after)
             await asyncio.sleep(retry_after)
+            token = await self._get_access_token()
             response = await client.get(
                 f"{self.base_url}{endpoint}",
                 headers={"Authorization": f"Bearer {token}"},
@@ -215,6 +216,19 @@ class SpotifyService:
 
         result = {**result, "items": items}
         return result
+
+    async def search_by_name(self, query: str, limit: int = 3) -> Dict:
+        """Search artists by name (for global search bar)."""
+        data = await self._request(
+            "/search",
+            params={
+                "q": query,
+                "type": "artist",
+                "limit": limit,
+                "market": "US",
+            },
+        )
+        return data
 
     async def get_artist_top_tracks(self, artist_id: str, market: str = "US") -> Dict:
         """Get artist's top tracks."""

@@ -1,4 +1,4 @@
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel, EmailStr, Field
 
 
 class Token(BaseModel):
@@ -17,7 +17,7 @@ class AccessToken(BaseModel):
 class LoginRequest(BaseModel):
     """Login request schema."""
     email: EmailStr
-    password: str
+    password: str = Field(..., max_length=128)
 
 
 class RefreshRequest(BaseModel):

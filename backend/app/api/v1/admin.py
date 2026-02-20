@@ -1,3 +1,5 @@
+import asyncio
+
 from fastapi import APIRouter, Depends, Query
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
@@ -60,6 +62,12 @@ async def update_user(
     db: AsyncIOMotorDatabase = Depends(get_db),
 ):
     """Update user (admin only) - can change role and active status."""
+    if user_id == str(admin.id):
+        from fastapi import HTTPException, status
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Cannot modify your own role or status",
+        )
     user = await user_service.admin_update_user(db, user_id, update_data)
     return UserResponse.from_db(user)
 
@@ -123,9 +131,11 @@ async def get_stats(
     db: AsyncIOMotorDatabase = Depends(get_db),
 ):
     """Get platform statistics (admin only)."""
-    users_count = await user_service.get_users_count(db)
-    comments_count = await db.comments.count_documents({"is_deleted": False})
-    favorites_count = await db.favorites.count_documents({})
+    users_count, comments_count, favorites_count = await asyncio.gather(
+        user_service.get_users_count(db),
+        db.comments.count_documents({"is_deleted": False}),
+        db.favorites.count_documents({}),
+    )
 
     return {
         "users": users_count,

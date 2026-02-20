@@ -7,8 +7,8 @@ from bson import ObjectId
 from motor.motor_asyncio import AsyncIOMotorDatabase
 from pymongo.errors import DuplicateKeyError
 
-from app.core.exceptions import UserExistsError, NotFoundError
-from app.core.security import get_password_hash
+from app.core.exceptions import UserExistsError, NotFoundError, AuthenticationError
+from app.core.security import get_password_hash, verify_password, validate_password_strength
 from app.models.user import UserCreate, UserUpdate, UserInDB, AdminUserUpdate
 from app.models.common import UserRole
 
@@ -67,6 +67,8 @@ async def update_user(
         update_fields["username"] = user_data.username.lower()
     if user_data.email is not None:
         update_fields["email"] = user_data.email.lower()
+    if user_data.status is not None:
+        update_fields["status"] = user_data.status
 
     if not update_fields:
         user = await get_user_by_id(db, user_id)
@@ -86,6 +88,132 @@ async def update_user(
         return await get_user_by_id(db, user_id)
     except DuplicateKeyError:
         raise UserExistsError("Username or email already taken")
+
+
+_ALLOWED_IMAGE_FIELDS = {"avatar_url", "banner_url"}
+
+
+async def update_user_image(
+    db: AsyncIOMotorDatabase,
+    user_id: str,
+    field: str,
+    url: str,
+) -> UserInDB:
+    """Update user avatar or banner URL."""
+    if field not in _ALLOWED_IMAGE_FIELDS:
+        raise ValueError(f"Invalid image field: {field}")
+    result = await db.users.update_one(
+        {"_id": ObjectId(user_id)},
+        {"$set": {field: url, "updated_at": datetime.now(timezone.utc)}},
+    )
+    if result.matched_count == 0:
+        raise NotFoundError("User")
+    return await get_user_by_id(db, user_id)
+
+
+async def remove_user_image(
+    db: AsyncIOMotorDatabase,
+    user_id: str,
+    field: str,
+) -> UserInDB:
+    """Remove user avatar or banner URL (set to null)."""
+    if field not in _ALLOWED_IMAGE_FIELDS:
+        raise ValueError(f"Invalid image field: {field}")
+    result = await db.users.update_one(
+        {"_id": ObjectId(user_id)},
+        {"$set": {field: None, "updated_at": datetime.now(timezone.utc)}},
+    )
+    if result.matched_count == 0:
+        raise NotFoundError("User")
+    return await get_user_by_id(db, user_id)
+
+
+# Settings functions
+async def change_password(
+    db: AsyncIOMotorDatabase,
+    user_id: str,
+    current_password: str,
+    new_password: str,
+) -> bool:
+    """Change user password after verifying current one."""
+    user = await get_user_by_id(db, user_id)
+    if not user:
+        raise NotFoundError("User")
+
+    if not await verify_password(current_password, user.hashed_password):
+        raise AuthenticationError("Current password is incorrect")
+
+    is_valid, error_msg = validate_password_strength(new_password)
+    if not is_valid:
+        raise ValueError(error_msg)
+
+    hashed = await get_password_hash(new_password)
+    await db.users.update_one(
+        {"_id": ObjectId(user_id)},
+        {"$set": {"hashed_password": hashed, "updated_at": datetime.now(timezone.utc)}},
+    )
+    return True
+
+
+async def change_email(
+    db: AsyncIOMotorDatabase,
+    user_id: str,
+    new_email: str,
+    password: str,
+) -> UserInDB:
+    """Change user email after verifying password."""
+    user = await get_user_by_id(db, user_id)
+    if not user:
+        raise NotFoundError("User")
+
+    if not await verify_password(password, user.hashed_password):
+        raise AuthenticationError("Password is incorrect")
+
+    # Check uniqueness
+    existing = await get_user_by_email(db, new_email)
+    if existing and str(existing.id) != user_id:
+        raise UserExistsError("Email already taken")
+
+    try:
+        await db.users.update_one(
+            {"_id": ObjectId(user_id)},
+            {"$set": {"email": new_email.lower(), "updated_at": datetime.now(timezone.utc)}},
+        )
+    except DuplicateKeyError:
+        raise UserExistsError("Email already taken")
+
+    return await get_user_by_id(db, user_id)
+
+
+async def delete_user_account(
+    db: AsyncIOMotorDatabase,
+    user_id: str,
+    password: str,
+) -> bool:
+    """Delete own account after verifying password."""
+    user = await get_user_by_id(db, user_id)
+    if not user:
+        raise NotFoundError("User")
+
+    if not await verify_password(password, user.hashed_password):
+        raise AuthenticationError("Password is incorrect")
+
+    # Clean up related data first, then delete user
+    await db.favorites.delete_many({"user_id": ObjectId(user_id)})
+    await db.comments.update_many(
+        {"user_id": ObjectId(user_id)},
+        {"$set": {"is_deleted": True}},
+    )
+
+    # Delete uploaded files
+    from app.services import uploads as uploads_service
+    await uploads_service.delete_upload(user.avatar_url)
+    await uploads_service.delete_upload(user.banner_url)
+
+    # Delete user document last
+    await db.users.delete_one({"_id": ObjectId(user_id)})
+
+    return True
 
 
 # Admin functions
@@ -149,16 +277,24 @@ async def delete_user(db: AsyncIOMotorDatabase, user_id: str) -> bool:
     if not ObjectId.is_valid(user_id):
         raise NotFoundError("User")
 
-    result = await db.users.delete_one({"_id": ObjectId(user_id)})
-    if result.deleted_count == 0:
+    user = await get_user_by_id(db, user_id)
+    if not user:
         raise NotFoundError("User")
 
-    # Also delete user's favorites and comments
+    # Clean up related data first
     await db.favorites.delete_many({"user_id": ObjectId(user_id)})
     await db.comments.update_many(
         {"user_id": ObjectId(user_id)},
         {"$set": {"is_deleted": True}},
     )
+
+    # Delete uploaded files
+    from app.services import uploads as uploads_service
+    await uploads_service.delete_upload(user.avatar_url)
+    await uploads_service.delete_upload(user.banner_url)
+
+    # Delete user document last
+    await db.users.delete_one({"_id": ObjectId(user_id)})
 
     return True
 

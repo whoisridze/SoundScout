@@ -27,6 +27,7 @@ async def create_comment(
         str(current_user.id),
         current_user.username,
         comment_data,
+        avatar_url=getattr(current_user, "avatar_url", None),
     )
     return CommentResponse.from_db(comment, str(current_user.id))
 
@@ -64,6 +65,26 @@ async def get_my_comments(
     )
     return CommentListResponse(
         comments=[CommentResponse.from_db(c, str(current_user.id)) for c in comments],
+        total=total,
+        page=page,
+        per_page=per_page,
+        pages=pages,
+    )
+
+
+@router.get("/artist/{artist_id}", response_model=CommentListResponse)
+async def get_artist_comments(
+    artist_id: str,
+    page: int = Query(1, ge=1),
+    per_page: int = Query(15, ge=1, le=100),
+    db: AsyncIOMotorDatabase = Depends(get_db),
+):
+    """Get all comments for an artist's tracks (public)."""
+    comments, total, pages = await comments_service.get_artist_comments(
+        db, artist_id, page, per_page
+    )
+    return CommentListResponse(
+        comments=[CommentResponse.from_db(c) for c in comments],
         total=total,
         page=page,
         per_page=per_page,

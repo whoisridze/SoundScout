@@ -1,11 +1,17 @@
+import asyncio
+import logging
 from datetime import datetime, timezone
 from typing import List, Optional
 import math
 
 from bson import ObjectId
 from motor.motor_asyncio import AsyncIOMotorDatabase
+from pymongo.errors import DuplicateKeyError
 
 from app.models.track import FavoriteTrack, FavoriteTrackCreate
+from app.services.deezer import deezer
+
+logger = logging.getLogger(__name__)
 
 
 async def add_favorite(
@@ -39,9 +45,17 @@ async def add_favorite(
         "added_at": now,
     }
 
-    result = await db.favorites.insert_one(doc)
-    doc["_id"] = result.inserted_id
-    return FavoriteTrack(**doc)
+    try:
+        result = await db.favorites.insert_one(doc)
+        doc["_id"] = result.inserted_id
+        return FavoriteTrack(**doc)
+    except DuplicateKeyError:
+        # Concurrent insert — return the existing document
+        existing = await db.favorites.find_one({
+            "user_id": ObjectId(user_id),
+            "spotify_id": track_data.spotify_id,
+        })
+        return FavoriteTrack(**existing)
 
 
 async def remove_favorite(
@@ -105,3 +119,44 @@ async def check_favorites_batch(
     })
     docs = await cursor.to_list(len(spotify_ids))
     return [doc["spotify_id"] for doc in docs]
+
+
+def _is_expired_url(url: Optional[str]) -> bool:
+    """Check if a preview URL is from Spotify (expires) or missing."""
+    if not url:
+        return True
+    return "scdn.co" in url
+
+
+async def refresh_preview_urls(
+    db: AsyncIOMotorDatabase,
+    tracks: List[FavoriteTrack],
+) -> List[FavoriteTrack]:
+    """Replace expired Spotify preview URLs with stable Deezer ones."""
+    needs_refresh = [
+        (i, t) for i, t in enumerate(tracks) if _is_expired_url(t.preview_url)
+    ]
+    if not needs_refresh:
+        return tracks
+
+    tasks = [
+        deezer.search_track(t.name, t.artist_name) for _, t in needs_refresh
+    ]
+    results = await asyncio.gather(*tasks, return_exceptions=True)
+
+    updates = []
+    for (idx, fav), result in zip(needs_refresh, results):
+        if isinstance(result, str):
+            tracks[idx].preview_url = result
+            updates.append(
+                db.favorites.update_one(
+                    {"_id": fav.id}, {"$set": {"preview_url": result}}
+                )
+            )
+
+    # Persist new URLs so future requests skip Deezer
+    if updates:
+        await asyncio.gather(*updates)
+        logger.info("Refreshed %d/%d preview URLs from Deezer", len(updates), len(needs_refresh))
+
+    return tracks

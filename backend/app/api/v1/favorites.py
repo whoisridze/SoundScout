@@ -52,6 +52,7 @@ async def get_favorites(
     tracks, total, pages = await favorites_service.get_user_favorites(
         db, str(current_user.id), page, per_page
     )
+    tracks = await favorites_service.refresh_preview_urls(db, tracks)
     return FavoriteListResponse(
         tracks=[FavoriteTrackResponse.from_db(t) for t in tracks],
         total=total,

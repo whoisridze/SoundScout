@@ -21,7 +21,7 @@ class MongoDB:
         )
         self.database = self.client[settings.database_name]
         await self._create_indexes()
-        logger.info(f"Connected to MongoDB: {settings.database_name}")
+        logger.info("Connected to MongoDB: %s", settings.database_name)
 
     async def disconnect(self) -> None:
         """Disconnect from MongoDB."""
@@ -50,8 +50,10 @@ class MongoDB:
         comments = self.database.comments
         await comments.create_index("track_id")
         await comments.create_index("user_id")
+        await comments.create_index("artist_id")
         await comments.create_index("created_at")
         await comments.create_index([("track_id", 1), ("is_deleted", 1)])
+        await comments.create_index([("artist_id", 1), ("is_deleted", 1)])
 
         logger.info("Database indexes created")
 

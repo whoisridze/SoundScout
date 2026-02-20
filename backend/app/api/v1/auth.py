@@ -45,7 +45,7 @@ async def login(
 ):
     """Authenticate user and return tokens."""
     user = await auth_service.authenticate_user(db, login_data.email, login_data.password)
-    logger.info(f"Login successful: {user.username} from {request.client.host}")
+    logger.info("Login successful: %s from %s", user.username, request.client.host if request.client else "unknown")
     return auth_service.create_tokens(user)
 
 
@@ -75,5 +75,5 @@ async def logout(
     The client is responsible for removing tokens from storage.
     For full token invalidation, implement a token blacklist with Redis.
     """
-    logger.info(f"Logout: {current_user.username} from {request.client.host}")
+    logger.info("Logout: %s from %s", current_user.username, request.client.host if request.client else "unknown")
     return {"message": "Successfully logged out"}
