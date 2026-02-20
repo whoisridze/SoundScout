@@ -1,15 +1,17 @@
 import { memo } from "react";
-import { Play, Pause, Music2 } from "lucide-react";
+import { Play, Pause, Music2, MessageCircle } from "lucide-react";
 import { formatDuration } from "@/utils";
 import { useAudioPlayerContext } from "@/contexts";
+import { FavoriteButton } from "@/components";
 import type { Track } from "@/types";
 
 interface TrackCardProps {
   track: Track;
   index: number;
+  onCommentClick?: () => void;
 }
 
-function TrackCard({ track, index }: TrackCardProps) {
+function TrackCard({ track, index, onCommentClick }: TrackCardProps) {
   const { play, pause, isPlaying, currentTrack } = useAudioPlayerContext();
 
   const isCurrentTrack = currentTrack?.id === track.id;
@@ -100,6 +102,20 @@ function TrackCard({ track, index }: TrackCardProps) {
       <div className="text-sm text-text-muted tabular-nums">
         {formatDuration(track.duration_ms)}
       </div>
+
+      {/* Comment button */}
+      {onCommentClick && (
+        <button
+          onClick={onCommentClick}
+          aria-label={`Comment on ${track.name}`}
+          className="p-1.5 text-text-muted hover:text-primary-400 transition-default"
+        >
+          <MessageCircle className="w-4 h-4" />
+        </button>
+      )}
+
+      {/* Favorite button */}
+      <FavoriteButton track={track} />
 
       {/* No preview indicator */}
       {!hasPreview && (

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import { LogIn } from "lucide-react";
 import { AuthLayout, FormInput, FormError, Button } from "@/components";
@@ -6,6 +6,7 @@ import { useAuth } from "@/contexts";
 import type { LoginCredentials } from "@/types";
 
 export default function Login() {
+  useEffect(() => { document.title = "Login — SoundScout"; return () => { document.title = "SoundScout"; }; }, []);
   const navigate = useNavigate();
   const location = useLocation();
   const { login } = useAuth();

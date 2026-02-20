@@ -14,6 +14,9 @@ import {
   Subgenres,
   Artists,
   ArtistDetail,
+  Profile,
+  PublicProfile,
+  Settings,
   NotFound,
 } from "./pages";
 import { AuthProvider, AudioPlayerProvider } from "./contexts";
@@ -31,34 +34,7 @@ function RootLayout() {
   );
 }
 
-// Placeholder pages (to be implemented in Phase 3+)
-function Favorites() {
-  return (
-    <div className="max-w-[1400px] mx-auto px-6 py-8">
-      <h1 className="text-3xl font-bold text-text-primary">Your Favorites</h1>
-      <p className="text-text-secondary mt-2">Coming soon...</p>
-    </div>
-  );
-}
-
-function Profile() {
-  return (
-    <div className="max-w-[1400px] mx-auto px-6 py-8">
-      <h1 className="text-3xl font-bold text-text-primary">Profile</h1>
-      <p className="text-text-secondary mt-2">Coming soon...</p>
-    </div>
-  );
-}
-
-function Settings() {
-  return (
-    <div className="max-w-[1400px] mx-auto px-6 py-8">
-      <h1 className="text-3xl font-bold text-text-primary">Settings</h1>
-      <p className="text-text-secondary mt-2">Coming soon...</p>
-    </div>
-  );
-}
-
+// Placeholder pages (to be implemented in Phase 4)
 function AdminDashboard() {
   return (
     <div className="max-w-[1400px] mx-auto px-6 py-8">
@@ -115,9 +91,9 @@ const router = createBrowserRouter([
             element: <AppLayoutWithPlayer />,
             children: [
               { path: "/dashboard", element: <Dashboard /> },
-              { path: "/favorites", element: <Favorites /> },
               { path: "/profile", element: <Profile /> },
               { path: "/settings", element: <Settings /> },
+              { path: "/user/:username", element: <PublicProfile /> },
               { path: "/genre/:genreId", element: <Subgenres /> },
               { path: "/genre/:genreId/:subgenre", element: <Artists /> },
               { path: "/artist/:artistId", element: <ArtistDetail /> },

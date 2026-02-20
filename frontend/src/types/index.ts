@@ -136,6 +136,9 @@ export interface User {
   username: string;
   role: "user" | "admin";
   is_active: boolean;
+  avatar_url: string | null;
+  banner_url: string | null;
+  status: string | null;
   created_at: string;
 }
 
@@ -218,4 +221,169 @@ export interface SimilarArtistsResponse {
 export interface ArtistTracksResponse {
   tracks: Track[];
   total: number;
+}
+
+// Profile types
+export interface UserProfileResponse {
+  id: string;
+  username: string;
+  email: string;
+  is_active: boolean;
+  role: "user" | "admin";
+  avatar_url: string | null;
+  banner_url: string | null;
+  status: string | null;
+  created_at: string;
+  favorites_count: number;
+  comments_count: number;
+}
+
+export interface PublicUserProfileResponse {
+  id: string;
+  username: string;
+  role: "user" | "admin";
+  avatar_url: string | null;
+  banner_url: string | null;
+  status: string | null;
+  created_at: string;
+  favorites_count: number;
+  comments_count: number;
+}
+
+export interface ProfileUpdateRequest {
+  username?: string;
+  status?: string;
+}
+
+export interface PasswordChangeRequest {
+  current_password: string;
+  new_password: string;
+}
+
+export interface EmailChangeRequest {
+  email: string;
+  password: string;
+}
+
+export interface DeleteAccountRequest {
+  password: string;
+}
+
+// Favorites types
+export interface FavoriteTrack {
+  id: string;
+  spotify_id: string;
+  name: string;
+  artist_id: string;
+  artist_name: string;
+  album_name: string;
+  album_image: string | null;
+  preview_url: string | null;
+  duration_ms: number;
+  popularity: number;
+  added_at: string;
+}
+
+export interface FavoriteTrackCreate {
+  spotify_id: string;
+  name: string;
+  artist_id: string;
+  artist_name: string;
+  album_name: string;
+  album_image: string | null;
+  preview_url: string | null;
+  duration_ms: number;
+  popularity: number;
+}
+
+export interface FavoriteListResponse {
+  tracks: FavoriteTrack[];
+  total: number;
+  page: number;
+  per_page: number;
+  pages: number;
+}
+
+export interface FavoriteCheckResponse {
+  is_favorite: boolean;
+}
+
+export interface FavoriteBatchResponse {
+  favorited: string[];
+}
+
+// Comment types
+export interface Comment {
+  id: string;
+  track_id: string;
+  track_name: string;
+  artist_id: string;
+  artist_name: string;
+  user_id: string;
+  username: string;
+  avatar_url: string | null;
+  content: string;
+  created_at: string;
+  updated_at: string;
+  is_own: boolean;
+}
+
+export interface CommentCreateRequest {
+  track_id: string;
+  track_name: string;
+  artist_id: string;
+  artist_name: string;
+  content: string;
+}
+
+export interface CommentUpdateRequest {
+  content: string;
+}
+
+export interface CommentListResponse {
+  comments: Comment[];
+  total: number;
+  page: number;
+  per_page: number;
+  pages: number;
+}
+
+// Activity feed types (server-side paginated)
+export interface ActivityFeedItem {
+  type: "favorite" | "comment";
+  id: string;
+  track_name: string;
+  artist_name: string | null;
+  album_image: string | null;
+  content: string | null;
+  track_id: string | null;
+  artist_id: string | null;
+  timestamp: string;
+}
+
+export interface ActivityFeedResponse {
+  items: ActivityFeedItem[];
+  total: number;
+  page: number;
+  per_page: number;
+  pages: number;
+}
+
+// Search types
+export interface UserSearchResult {
+  id: string;
+  username: string;
+  avatar_url: string | null;
+}
+
+export interface ArtistSearchResult {
+  id: string;
+  name: string;
+  followers: number;
+  image: string | null;
+}
+
+export interface SearchResponse {
+  users: UserSearchResult[];
+  artists: ArtistSearchResult[];
 }

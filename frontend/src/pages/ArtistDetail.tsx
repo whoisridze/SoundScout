@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useState, useRef, useCallback } from "react";
 import { useParams, useNavigate, useLocation } from "react-router-dom";
 import { motion } from "framer-motion";
 import {
@@ -14,8 +14,10 @@ import {
   TrackCard,
   LoadingGrid,
   ErrorState,
+  CommentsSection,
 } from "@/components/discovery";
 import { formatFollowers } from "@/utils";
+import type { Track } from "@/types";
 
 export default function ArtistDetail() {
   const { artistId } = useParams<{ artistId: string }>();
@@ -45,6 +47,17 @@ export default function ArtistDetail() {
       document.title = "SoundScout";
     };
   }, [artist]);
+
+  const [commentingTrack, setCommentingTrack] = useState<Track | null>(null);
+  const commentsSectionRef = useRef<HTMLDivElement>(null);
+
+  const handleCommentOnTrack = useCallback((track: Track) => {
+    setCommentingTrack(track);
+    // Small delay to ensure the ref is rendered before scrolling
+    setTimeout(() => {
+      commentsSectionRef.current?.scrollIntoView({ behavior: "smooth" });
+    }, 50);
+  }, []);
 
   const handleBack = () => {
     // Safe back navigation: only go back if there's history within the app
@@ -245,7 +258,12 @@ export default function ArtistDetail() {
           ) : tracks && tracks.tracks.length > 0 ? (
             <div className="bg-bg-surface rounded-2xl border border-border-subtle overflow-hidden">
               {tracks.tracks.map((track, index) => (
-                <TrackCard key={track.id} track={track} index={index} />
+                <TrackCard
+                  key={track.id}
+                  track={track}
+                  index={index}
+                  onCommentClick={() => handleCommentOnTrack(track)}
+                />
               ))}
             </div>
           ) : (
@@ -303,6 +321,15 @@ export default function ArtistDetail() {
             </p>
           )}
         </motion.div>
+
+        {/* Comments */}
+        <CommentsSection
+          ref={commentsSectionRef}
+          artistId={artist.id}
+          artistName={artist.name}
+          commentingTrack={commentingTrack}
+          onClearTrack={() => setCommentingTrack(null)}
+        />
       </div>
     </div>
   );

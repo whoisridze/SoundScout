@@ -6,7 +6,6 @@ export function useSubgenres(mainGenre: string) {
   return useQuery<SubgenresResponse, Error>({
     queryKey: ["subgenres", mainGenre],
     queryFn: () => genreService.getSubgenres(mainGenre),
-    staleTime: 5 * 60 * 1000, // 5 minutes
     enabled: !!mainGenre,
   });
 }

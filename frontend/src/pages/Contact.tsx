@@ -1,6 +1,6 @@
 import { ArrowUpRight, Send } from "lucide-react";
 import { motion } from "framer-motion";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { PageLayout } from "@/layouts";
 import { GradientBackground } from "@/components";
 import { SOCIAL_LINKS } from "@/constants";
@@ -8,6 +8,7 @@ import { staggerContainer, staggerItem } from "@/utils/animations";
 import { SOCIAL_ICON_MAP } from "@/utils/icons";
 
 export default function Contact() {
+  useEffect(() => { document.title = "Contact — SoundScout"; return () => { document.title = "SoundScout"; }; }, []);
   const [formState, setFormState] = useState({
     name: "",
     email: "",

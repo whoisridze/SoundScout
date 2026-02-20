@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
@@ -12,6 +13,7 @@ import { GradientBackground, GrainOverlay, StepVisual } from "@/components";
 import { STEPS, FLOW_ITEMS, COLOR_MAP, FLOW_NODE_STYLES } from "@/constants/how-it-works";
 
 export default function HowItWorks() {
+  useEffect(() => { document.title = "How It Works — SoundScout"; return () => { document.title = "SoundScout"; }; }, []);
   return (
     <PageLayout>
 

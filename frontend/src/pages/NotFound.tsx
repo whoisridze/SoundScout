@@ -1,7 +1,9 @@
+import { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { ArrowLeft } from "lucide-react";
 
 export default function NotFound() {
+  useEffect(() => { document.title = "Not Found — SoundScout"; return () => { document.title = "SoundScout"; }; }, []);
   return (
     <div className="min-h-screen bg-bg-base flex items-center justify-center px-6">
       <div className="text-center">

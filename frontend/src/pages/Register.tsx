@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { UserPlus } from "lucide-react";
 import { AuthLayout, FormInput, FormError, Button } from "@/components";
@@ -6,6 +6,7 @@ import { useAuth } from "@/contexts";
 import type { RegisterFormData } from "@/types";
 
 export default function Register() {
+  useEffect(() => { document.title = "Register — SoundScout"; return () => { document.title = "SoundScout"; }; }, []);
   const navigate = useNavigate();
   const { register } = useAuth();
   const [formState, setFormState] = useState<RegisterFormData>({

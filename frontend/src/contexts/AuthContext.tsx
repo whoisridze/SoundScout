@@ -8,6 +8,7 @@ import {
   type ReactNode,
 } from "react";
 import { authService } from "@/services/auth";
+import { queryClient } from "@/providers/QueryProvider";
 import type { User, LoginCredentials, RegisterRequest } from "@/types";
 
 interface AuthContextType {
@@ -66,6 +67,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
   const login = useCallback(async (credentials: LoginCredentials) => {
     await authService.login(credentials);
+    queryClient.clear();
     const userData = await authService.getCurrentUser();
     setUser(userData);
   }, []);
@@ -73,12 +75,14 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const register = useCallback(async (data: RegisterRequest) => {
     await authService.register(data);
     await authService.login({ email: data.email, password: data.password });
+    queryClient.clear();
     const userData = await authService.getCurrentUser();
     setUser(userData);
   }, []);
 
   const logout = useCallback(async () => {
     await authService.logout();
+    queryClient.clear();
     setUser(null);
   }, []);
 

@@ -28,6 +28,8 @@ export default function Artists() {
 
   const { data, isLoading, isError, error, refetch } = useArtists(subgenreName);
 
+  useEffect(() => { document.title = subgenreName ? `${subgenreName} Artists — SoundScout` : "Artists — SoundScout"; return () => { document.title = "SoundScout"; }; }, [subgenreName]);
+
   // Reset pagination when navigating to a different subgenre
   useEffect(() => {
     setCurrentPage(0);

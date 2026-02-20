@@ -55,8 +55,16 @@ export default function UserMenu() {
         aria-haspopup="true"
         className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-bg-elevated transition-default"
       >
-        <div className="w-8 h-8 rounded-full bg-primary-600 flex items-center justify-center text-white font-medium text-sm">
-          {initial}
+        <div className="w-8 h-8 rounded-full bg-primary-600 flex items-center justify-center text-white font-medium text-sm overflow-hidden">
+          {user.avatar_url ? (
+            <img
+              src={user.avatar_url}
+              alt={user.username}
+              className="w-full h-full object-cover"
+            />
+          ) : (
+            initial
+          )}
         </div>
         <span className="text-text-primary font-medium hidden sm:block">
           {user.username}

@@ -7,4 +7,7 @@ export { default as Dashboard } from "./Dashboard";
 export { default as Subgenres } from "./Subgenres";
 export { default as Artists } from "./Artists";
 export { default as ArtistDetail } from "./ArtistDetail";
+export { default as Profile } from "./Profile";
+export { default as PublicProfile } from "./PublicProfile";
+export { default as Settings } from "./Settings";
 export { default as NotFound } from "./NotFound";

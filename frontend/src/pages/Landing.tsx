@@ -1,6 +1,6 @@
 import { ArrowRight, Music, Radio, Sparkles, Heart, Users, Quote } from "lucide-react";
 import { Link } from "react-router-dom";
-import { useRef } from "react";
+import { useRef, useEffect } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { fadeInUp, defaultTransition, defaultViewport } from "@/utils/animations";
 import { PageLayout } from "@/layouts";
@@ -8,6 +8,7 @@ import { GradientBackground, GrainOverlay } from "@/components";
 import { MARQUEE_GENRES, GENRE_CARDS, TESTIMONIALS, SPOTIFY_STATS } from "@/constants/landing";
 
 export default function Landing() {
+  useEffect(() => { document.title = "SoundScout — Discover Music"; return () => { document.title = "SoundScout"; }; }, []);
   const heroRef = useRef<HTMLElement>(null);
   const { scrollYProgress } = useScroll({
     target: heroRef,

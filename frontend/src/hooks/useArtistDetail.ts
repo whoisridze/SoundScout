@@ -23,21 +23,18 @@ export function useArtistDetail(artistId: string): UseArtistDetailResult {
     queryKey: ["artist", artistId],
     queryFn: () => artistService.getArtistDetails(artistId),
     enabled: !!artistId,
-    staleTime: 5 * 60 * 1000,
   });
 
   const similarQuery = useQuery<SimilarArtistsResponse, Error>({
     queryKey: ["artist", artistId, "similar"],
     queryFn: () => artistService.getSimilarArtists(artistId),
     enabled: !!artistId,
-    staleTime: 5 * 60 * 1000,
   });
 
   const tracksQuery = useQuery<ArtistTracksResponse, Error>({
     queryKey: ["artist", artistId, "tracks"],
     queryFn: () => artistService.getArtistTracks(artistId),
     enabled: !!artistId,
-    staleTime: 5 * 60 * 1000,
   });
 
   return {

@@ -1,4 +1,4 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import { Shuffle, Layers, Loader2, ArrowLeft } from "lucide-react";
@@ -9,6 +9,7 @@ import { EmptyState, ErrorState } from "@/components/discovery";
 import { getGenreIcon, getGenreColors } from "@/constants";
 
 export default function Dashboard() {
+  useEffect(() => { document.title = "Explore — SoundScout"; return () => { document.title = "SoundScout"; }; }, []);
   const { data, isLoading, isError, error, refetch } = useGenres();
   const navigate = useNavigate();
 
@@ -47,8 +48,8 @@ export default function Dashboard() {
     <div className="min-h-[calc(100vh-64px)] flex items-center justify-center relative overflow-hidden">
       {/* Background decorations */}
       <div className="absolute inset-0 pointer-events-none">
-        <div className="absolute top-1/4 left-1/4 w-[500px] h-[500px] bg-primary-500/15 rounded-full blur-[120px]" />
-        <div className="absolute bottom-1/4 right-1/4 w-[400px] h-[400px] bg-accent-500/15 rounded-full blur-[120px]" />
+        <div className="absolute top-1/4 left-1/4 w-[500px] h-[500px] bg-primary-500/8 rounded-full blur-[120px]" />
+        <div className="absolute bottom-1/4 right-1/4 w-[400px] h-[400px] bg-accent-500/8 rounded-full blur-[120px]" />
       </div>
 
       {/* Main content */}

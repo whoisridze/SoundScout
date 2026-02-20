@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import { motion } from "framer-motion";
 import { Search, TrendingUp } from "lucide-react";
@@ -11,6 +11,8 @@ export default function Subgenres() {
   const { genreId } = useParams<{ genreId: string }>();
   const genre = decodeURIComponent(genreId || "");
   const [searchQuery, setSearchQuery] = useState("");
+
+  useEffect(() => { document.title = genre ? `${genre} — SoundScout` : "Subgenres — SoundScout"; return () => { document.title = "SoundScout"; }; }, [genre]);
 
   const { data, isLoading, isError, error, refetch } = useSubgenres(genre);
 

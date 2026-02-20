@@ -11,6 +11,13 @@ export { default as AdminRoute } from "./AdminRoute";
 export { default as UserMenu } from "./UserMenu";
 export { default as ErrorBoundary } from "./ErrorBoundary";
 export { default as StepIndicator } from "./StepIndicator";
+export { default as FavoriteButton } from "./FavoriteButton";
+export { default as EditProfileModal } from "./EditProfileModal";
+export { default as ImageCropModal } from "./ImageCropModal";
+export { default as ActivityFeed } from "./ActivityFeed";
+export { default as ProfileFavorites } from "./ProfileFavorites";
+export { default as ProfileComments } from "./ProfileComments";
+export { default as SearchBar } from "./SearchBar";
 
 // Discovery components
 export * from "./discovery";

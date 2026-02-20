@@ -4,3 +4,4 @@ export { default as AudioPlayer } from "./AudioPlayer";
 export { default as LoadingGrid } from "./LoadingGrid";
 export { default as EmptyState } from "./EmptyState";
 export { default as ErrorState } from "./ErrorState";
+export { default as CommentsSection } from "./CommentsSection";
