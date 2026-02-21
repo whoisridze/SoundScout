@@ -5,4 +5,5 @@ export { profileService } from "./profile";
 export { favoritesService } from "./favorites";
 export { commentsService } from "./comments";
 export { searchService } from "./search";
+export { adminService } from "./admin";
 export { default as api } from "./api";

@@ -18,6 +18,9 @@ import {
   PublicProfile,
   Settings,
   NotFound,
+  AdminDashboard,
+  AdminUsers,
+  AdminComments,
 } from "./pages";
 import { AuthProvider, AudioPlayerProvider } from "./contexts";
 import { ProtectedRoute, AdminRoute, ErrorBoundary } from "./components";
@@ -31,34 +34,6 @@ function RootLayout() {
       <ScrollRestoration />
       <Outlet />
     </>
-  );
-}
-
-// Placeholder pages (to be implemented in Phase 4)
-function AdminDashboard() {
-  return (
-    <div className="max-w-[1400px] mx-auto px-6 py-8">
-      <h1 className="text-3xl font-bold text-text-primary">Admin Dashboard</h1>
-      <p className="text-text-secondary mt-2">Coming soon...</p>
-    </div>
-  );
-}
-
-function AdminUsers() {
-  return (
-    <div className="max-w-[1400px] mx-auto px-6 py-8">
-      <h1 className="text-3xl font-bold text-text-primary">Manage Users</h1>
-      <p className="text-text-secondary mt-2">Coming soon...</p>
-    </div>
-  );
-}
-
-function AdminComments() {
-  return (
-    <div className="max-w-[1400px] mx-auto px-6 py-8">
-      <h1 className="text-3xl font-bold text-text-primary">Manage Comments</h1>
-      <p className="text-text-secondary mt-2">Coming soon...</p>
-    </div>
   );
 }
 

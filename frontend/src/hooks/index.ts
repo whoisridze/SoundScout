@@ -30,3 +30,11 @@ export {
   useDeleteComment,
 } from "./useComments";
 export { useSearch } from "./useSearch";
+export {
+  useAdminStats,
+  useAdminUsers,
+  useAdminUpdateUser,
+  useAdminDeleteUser,
+  useAdminComments,
+  useAdminDeleteComment,
+} from "./useAdmin";

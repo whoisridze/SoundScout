@@ -369,6 +369,26 @@ export interface ActivityFeedResponse {
   pages: number;
 }
 
+// Admin types
+export interface AdminStatsResponse {
+  users: number;
+  comments: number;
+  favorites: number;
+}
+
+export interface AdminUserUpdate {
+  is_active?: boolean;
+  role?: "user" | "admin";
+}
+
+export interface UserListResponse {
+  users: User[];
+  total: number;
+  page: number;
+  per_page: number;
+  pages: number;
+}
+
 // Search types
 export interface UserSearchResult {
   id: string;

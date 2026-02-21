@@ -11,3 +11,6 @@ export { default as Profile } from "./Profile";
 export { default as PublicProfile } from "./PublicProfile";
 export { default as Settings } from "./Settings";
 export { default as NotFound } from "./NotFound";
+export { default as AdminDashboard } from "./AdminDashboard";
+export { default as AdminUsers } from "./AdminUsers";
+export { default as AdminComments } from "./AdminComments";
