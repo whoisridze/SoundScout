@@ -8,8 +8,8 @@ export default function AppNavbar() {
       <div className="max-w-[1400px] mx-auto px-6 h-16 flex items-center gap-4">
         <div className="flex items-center gap-6 flex-shrink-0">
           <Link
-            to="/dashboard"
-            className="flex items-center gap-2 text-text-primary font-semibold text-xl"
+            to="/"
+            className="flex items-center gap-2 text-text-primary font-semibold text-xl hover:opacity-80 transition-default"
           >
             <Disc3 className="w-7 h-7 text-primary-500" />
             <span className="hidden sm:inline">SoundScout</span>

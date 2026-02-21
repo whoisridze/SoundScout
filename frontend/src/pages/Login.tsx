@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link, useNavigate, useLocation } from "react-router-dom";
+import { Link, useNavigate, useLocation, useSearchParams } from "react-router-dom";
 import { LogIn } from "lucide-react";
 import { AuthLayout, FormInput, FormError, Button } from "@/components";
 import { useAuth } from "@/contexts";
@@ -9,14 +9,17 @@ export default function Login() {
   useEffect(() => { document.title = "Login — SoundScout"; return () => { document.title = "SoundScout"; }; }, []);
   const navigate = useNavigate();
   const location = useLocation();
+  const [searchParams] = useSearchParams();
   const { login } = useAuth();
   const from = (location.state as { from?: string })?.from || "/dashboard";
+  const deactivated = searchParams.get("reason") === "deactivated";
   const [formState, setFormState] = useState<LoginCredentials>({
     email: "",
     password: "",
   });
   const [errors, setErrors] = useState<Partial<LoginCredentials>>({});
   const [apiError, setApiError] = useState("");
+  const [isDeactivated, setIsDeactivated] = useState(deactivated);
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const validateForm = (): boolean => {
@@ -47,9 +50,14 @@ export default function Login() {
       await login(formState);
       navigate(from, { replace: true });
     } catch (error) {
-      setApiError(
-        error instanceof Error ? error.message : "Login failed. Please try again."
-      );
+      const msg = error instanceof Error ? error.message : "Login failed. Please try again.";
+      if (msg.toLowerCase().includes("inactive")) {
+        setIsDeactivated(true);
+        setApiError("");
+      } else {
+        setIsDeactivated(false);
+        setApiError(msg);
+      }
     } finally {
       setIsSubmitting(false);
     }
@@ -68,6 +76,11 @@ export default function Login() {
       subtitle="Sign in to continue exploring music"
     >
       <form onSubmit={handleSubmit} className="space-y-5">
+        {isDeactivated && (
+          <div className="px-4 py-3 bg-error-500/10 border border-error-500/20 rounded-lg text-sm text-error-400">
+            Your account has been deactivated. Please contact support if you believe this is a mistake.
+          </div>
+        )}
         {apiError && <FormError message={apiError} />}
 
         <FormInput

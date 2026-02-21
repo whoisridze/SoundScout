@@ -1,18 +1,21 @@
 import { useState, useEffect } from "react";
-import { useParams, Navigate } from "react-router-dom";
+import { useParams, Navigate, Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import {
   Heart,
   MessageCircle,
   Calendar,
   Activity,
+  UserX,
 } from "lucide-react";
+import axios from "axios";
 import { usePublicProfile } from "@/hooks";
 import { useAuth } from "@/contexts";
 import {
   ActivityFeed,
   ProfileFavorites,
   ProfileComments,
+  Button,
 } from "@/components";
 import { ErrorState } from "@/components/discovery";
 
@@ -72,12 +75,32 @@ export default function PublicProfile() {
   }
 
   if (isError || !profile) {
+    const is404 = axios.isAxiosError(error) && error.response?.status === 404;
     return (
       <div className="min-h-[calc(100vh-64px)] flex items-center justify-center px-6">
-        <ErrorState
-          message={error?.message || "User not found"}
-          onRetry={refetch}
-        />
+        {is404 ? (
+          <div className="flex flex-col items-center justify-center py-16 text-center">
+            <div className="w-16 h-16 rounded-full bg-bg-surface border border-border-subtle flex items-center justify-center mb-4">
+              <UserX className="w-8 h-8 text-text-muted" />
+            </div>
+            <h2 className="text-lg font-semibold text-text-primary mb-1">
+              User not found
+            </h2>
+            <p className="text-sm text-text-muted mb-4">
+              This account doesn't exist or has been deactivated.
+            </p>
+            <Link to="/dashboard">
+              <Button variant="secondary" size="sm">
+                Back to Dashboard
+              </Button>
+            </Link>
+          </div>
+        ) : (
+          <ErrorState
+            message={error?.message || "Failed to load profile"}
+            onRetry={refetch}
+          />
+        )}
       </div>
     );
   }

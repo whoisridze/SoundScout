@@ -47,6 +47,17 @@ api.interceptors.response.use(
       _retry?: boolean;
     };
 
+    // Handle deactivated account (403 "Inactive user account")
+    if (
+      error.response?.status === 403 &&
+      (error.response?.data as { detail?: string })?.detail === "Inactive user account"
+    ) {
+      localStorage.removeItem(TOKEN_KEY);
+      localStorage.removeItem(REFRESH_TOKEN_KEY);
+      window.location.href = "/login?reason=deactivated";
+      return Promise.reject(error);
+    }
+
     // If error is 401 and we haven't already retried
     if (error.response?.status === 401 && !originalRequest._retry) {
       // Don't retry for auth endpoints (login, register, refresh)

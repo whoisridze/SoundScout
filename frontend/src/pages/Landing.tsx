@@ -5,9 +5,12 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { fadeInUp, defaultTransition, defaultViewport } from "@/utils/animations";
 import { PageLayout } from "@/layouts";
 import { GradientBackground, GrainOverlay } from "@/components";
+import { useAuth } from "@/contexts";
 import { MARQUEE_GENRES, GENRE_CARDS, TESTIMONIALS, SPOTIFY_STATS } from "@/constants/landing";
 
 export default function Landing() {
+  const { isAuthenticated } = useAuth();
+  const ctaTo = isAuthenticated ? "/dashboard" : "/register";
   useEffect(() => { document.title = "SoundScout — Discover Music"; return () => { document.title = "SoundScout"; }; }, []);
   const heroRef = useRef<HTMLElement>(null);
   const { scrollYProgress } = useScroll({
@@ -54,7 +57,7 @@ export default function Landing() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link
-              to="/register"
+              to={ctaTo}
               className="group flex items-center gap-2 bg-primary-600 hover:bg-primary-700 text-white px-8 py-4 rounded-md font-semibold text-lg transition-default shadow-lg hover:shadow-glow-primary"
             >
               Start exploring

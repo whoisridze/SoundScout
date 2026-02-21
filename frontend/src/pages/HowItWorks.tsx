@@ -10,9 +10,11 @@ import {
 import { STEP_ICON_MAP, FLOW_ICONS } from "@/utils/icons";
 import { PageLayout } from "@/layouts";
 import { GradientBackground, GrainOverlay, StepVisual } from "@/components";
+import { useAuth } from "@/contexts";
 import { STEPS, FLOW_ITEMS, COLOR_MAP, FLOW_NODE_STYLES } from "@/constants/how-it-works";
 
 export default function HowItWorks() {
+  const { isAuthenticated } = useAuth();
   useEffect(() => { document.title = "How It Works — SoundScout"; return () => { document.title = "SoundScout"; }; }, []);
   return (
     <PageLayout>
@@ -212,7 +214,7 @@ export default function HowItWorks() {
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link
-              to="/register"
+              to={isAuthenticated ? "/dashboard" : "/register"}
               className="group flex items-center gap-2 bg-primary-600 hover:bg-primary-700 text-white px-8 py-4 rounded-md font-semibold transition-default shadow-lg hover:shadow-glow-primary"
             >
               Get started free
