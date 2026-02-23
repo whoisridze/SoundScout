@@ -156,7 +156,6 @@ export interface SpotifyImage {
 export interface Artist {
   id: string;
   name: string;
-  followers: number;
   genres: string[];
   images: SpotifyImage[];
   popularity?: number;
@@ -399,7 +398,7 @@ export interface UserSearchResult {
 export interface ArtistSearchResult {
   id: string;
   name: string;
-  followers: number;
+  genres: string[];
   image: string | null;
 }
 

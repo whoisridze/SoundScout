@@ -1,16 +1,21 @@
 import { memo } from "react";
 import { Link } from "react-router-dom";
-import { Users, Play } from "lucide-react";
-import { formatFollowers } from "@/utils";
+import { Users, Music, Play } from "lucide-react";
 import type { Artist } from "@/types";
 
 interface ArtistCardProps {
   artist: Artist;
   replace?: boolean;
+  fallbackGenre?: string;
 }
 
-function ArtistCard({ artist, replace }: ArtistCardProps) {
+function ArtistCard({ artist, replace, fallbackGenre }: ArtistCardProps) {
   const imageUrl = artist.images[0]?.url;
+
+  // Show a genre that's different from what the user is already browsing
+  const displayGenre = fallbackGenre
+    ? artist.genres.find((g) => g !== fallbackGenre)
+    : artist.genres[0];
 
   return (
     <Link
@@ -47,10 +52,12 @@ function ArtistCard({ artist, replace }: ArtistCardProps) {
         <h3 className="font-semibold text-text-primary truncate">
           {artist.name}
         </h3>
-        <p className="text-sm text-text-muted flex items-center gap-1.5 mt-1">
-          <Users className="w-3.5 h-3.5" />
-          {formatFollowers(artist.followers)}
-        </p>
+        {displayGenre && (
+          <p className="text-sm text-text-muted flex items-center gap-1.5 mt-1">
+            <Music className="w-3.5 h-3.5" />
+            {displayGenre}
+          </p>
+        )}
       </div>
     </Link>
   );

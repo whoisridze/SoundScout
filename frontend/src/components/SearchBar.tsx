@@ -2,7 +2,6 @@ import { useState, useEffect, useRef, useCallback } from "react";
 import { Link } from "react-router-dom";
 import { Search, Loader2, Music2 } from "lucide-react";
 import { useSearch } from "@/hooks";
-import { formatFollowers } from "@/utils";
 
 const DEBOUNCE_MS = 300;
 
@@ -153,7 +152,7 @@ export default function SearchBar() {
                           {artist.name}
                         </p>
                         <p className="text-xs text-text-muted">
-                          {formatFollowers(artist.followers)} followers
+                          {artist.genres[0] || "Artist"}
                         </p>
                       </div>
                     </Link>

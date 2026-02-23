@@ -9,7 +9,7 @@ import type {
 class ArtistService {
   async getArtistsByGenre(
     genre: string,
-    limit: number = 20
+    limit: number = 10
   ): Promise<ArtistsByGenreResponse> {
     const encodedGenre = encodeURIComponent(genre);
     const response = await api.get<ArtistsByGenreResponse>(

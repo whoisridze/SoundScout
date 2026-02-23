@@ -16,7 +16,6 @@ import {
   ErrorState,
   CommentsSection,
 } from "@/components/discovery";
-import { formatFollowers } from "@/utils";
 import type { Track } from "@/types";
 
 export default function ArtistDetail() {
@@ -184,19 +183,6 @@ export default function ArtistDetail() {
                   >
                     {artist.name}
                   </motion.h1>
-
-                  {/* Followers */}
-                  <motion.div
-                    className="flex items-center gap-2 mt-4 justify-center md:justify-start"
-                    initial={{ opacity: 0 }}
-                    animate={{ opacity: 1 }}
-                    transition={{ duration: 0.4, delay: 0.2 }}
-                  >
-                    <Users className="w-4 h-4 text-primary-400" />
-                    <span className="text-base text-text-secondary">
-                      {formatFollowers(artist.followers)} followers
-                    </span>
-                  </motion.div>
                 </div>
 
                 {/* Genres */}
@@ -311,7 +297,7 @@ export default function ArtistDetail() {
                       delay: 0.2 + index * 0.03,
                     }}
                   >
-                    <ArtistCard artist={similar} replace />
+                    <ArtistCard artist={similar} replace fallbackGenre={similarArtists?.based_on_genre ?? undefined} />
                   </motion.div>
                 ))}
             </div>

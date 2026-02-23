@@ -139,7 +139,7 @@ export default function Artists() {
                 >
                   {paginatedArtists.map((artist) => (
                     <div key={artist.id}>
-                      <ArtistCard artist={artist} />
+                      <ArtistCard artist={artist} fallbackGenre={subgenreName} />
                     </div>
                   ))}
                 </motion.div>
