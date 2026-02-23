@@ -39,7 +39,7 @@ async def search_artists(
         {
             "id": a["id"],
             "name": a["name"],
-            "followers": a.get("followers", {}).get("total", 0),
+            "genres": a.get("genres", []),
             "image": a["images"][0]["url"] if a.get("images") else None,
         }
         for a in items

@@ -1,11 +1,21 @@
-from typing import Optional
-
 from fastapi import APIRouter, Query
 
 from app.core.exceptions import NotFoundError, SpotifyAPIError
 from app.services import deezer, spotify
 
 router = APIRouter(prefix="/artists", tags=["Artists"])
+
+
+def _artist_rank(a: dict) -> tuple:
+    """Rank artists by available signals (no followers/popularity needed).
+
+    Heuristic: artists with images and genre tags are more established.
+    """
+    images = a.get("images", [])
+    has_image = 1 if images else 0
+    max_res = max((img.get("height", 0) or 0 for img in images), default=0)
+    genre_count = len(a.get("genres", []))
+    return (has_image, max_res, genre_count)
 
 
 @router.get("/artist/{artist_id}")
@@ -19,8 +29,6 @@ async def get_artist_details(artist_id: str):
     return {
         "id": artist["id"],
         "name": artist["name"],
-        "popularity": artist["popularity"],
-        "followers": artist["followers"]["total"],
         "genres": artist["genres"],
         "images": artist["images"],
         "external_urls": artist["external_urls"],
@@ -31,7 +39,7 @@ async def get_artist_details(artist_id: str):
 @router.get("/artist/{artist_id}/similar")
 async def get_similar_artists(
     artist_id: str,
-    limit: int = Query(10, ge=1, le=20, description="Number of similar artists"),
+    limit: int = Query(10, ge=1, le=10, description="Number of similar artists"),
 ):
     """Get similar artists based on shared genres."""
     # Get the original artist's details
@@ -61,7 +69,7 @@ async def get_similar_artists(
     # First pass: try genres from our validated list (with text fallback)
     for genre in artist_genres:
         if genre in valid_subgenres:
-            search_results = await spotify.search_artists_direct(genre, limit=limit + 5)
+            search_results = await spotify.search_artists_direct(genre, limit=10)
             found_artists = search_results.get("items", [])
             if len(found_artists) >= 3:
                 used_genre = genre
@@ -71,30 +79,24 @@ async def get_similar_artists(
     if len(found_artists) < 3:
         for genre in artist_genres:
             if len(genre.split()) > 1 or genre in valid_subgenres:
-                search_results = await spotify.search_artists_direct(genre, limit=limit + 5)
+                search_results = await spotify.search_artists_direct(genre, limit=10)
                 found_artists = search_results.get("items", [])
                 if len(found_artists) >= 3:
                     used_genre = genre
                     break
 
-    # Filter out the original artist, format and sort by followers
-    similar = sorted(
-        [
-            {
-                "id": a["id"],
-                "name": a["name"],
-                "popularity": a["popularity"],
-                "followers": a["followers"]["total"],
-                "genres": a["genres"],
-                "images": a["images"],
-                "external_urls": a["external_urls"],
-            }
-            for a in found_artists
-            if a["id"] != artist_id
-        ],
-        key=lambda a: a["followers"],
-        reverse=True,
-    )[:limit]
+    found_artists.sort(key=_artist_rank, reverse=True)
+    similar = [
+        {
+            "id": a["id"],
+            "name": a["name"],
+            "genres": a["genres"],
+            "images": a["images"],
+            "external_urls": a["external_urls"],
+        }
+        for a in found_artists
+        if a["id"] != artist_id
+    ][:limit]
 
     return {
         "artist_id": artist_id,
@@ -109,7 +111,7 @@ async def get_similar_artists(
 @router.get("/{genre}")
 async def get_artists_by_genre(
     genre: str,
-    limit: int = Query(20, ge=1, le=50, description="Number of artists to return"),
+    limit: int = Query(10, ge=1, le=10, description="Number of artists to return"),
 ):
     """Search artists by genre using Spotify API."""
     # Validate genre exists
@@ -121,22 +123,17 @@ async def get_artists_by_genre(
     artists_data = await spotify.search_artists_direct(genre, limit)
     artists = artists_data.get("items", [])
 
-    formatted = sorted(
-        [
-            {
-                "id": a["id"],
-                "name": a["name"],
-                "popularity": a["popularity"],
-                "followers": a["followers"]["total"],
-                "images": a["images"],
-                "genres": a["genres"],
-                "external_urls": a["external_urls"],
-            }
-            for a in artists
-        ],
-        key=lambda a: a["followers"],
-        reverse=True,
-    )
+    artists.sort(key=_artist_rank, reverse=True)
+    formatted = [
+        {
+            "id": a["id"],
+            "name": a["name"],
+            "images": a["images"],
+            "genres": a["genres"],
+            "external_urls": a["external_urls"],
+        }
+        for a in artists
+    ]
 
     return {"genre": genre, "artists": formatted, "total": len(formatted)}
 
@@ -154,7 +151,7 @@ async def get_artist_tracks(artist_id: str):
         {
             "id": t["id"],
             "name": t["name"],
-            "popularity": t["popularity"],
+            "popularity": t.get("popularity", 0),
             "preview_url": t["preview_url"],
             "duration_ms": t["duration_ms"],
             "track_number": t.get("track_number", 1),

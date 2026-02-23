@@ -151,7 +151,7 @@ class SpotifyService:
             params={
                 "q": f'genre:"{genre}"',
                 "type": "artist",
-                "limit": 50,
+                "limit": 10,
                 "market": "US",
             },
         )
@@ -169,53 +169,64 @@ class SpotifyService:
         return False
 
     async def search_artists_direct(self, genre: str, limit: int = 20) -> Dict:
-        """Search artists by genre directly from Spotify (no validation)."""
-        # Always request max (50) from Spotify, return best `limit`
-        data = await self._request(
-            "/search",
-            params={
-                "q": f'genre:"{genre}"',
-                "type": "artist",
-                "limit": 50,
-                "market": "US",
-            },
-        )
-        result = data.get("artists", {})
-        items = result.get("items", [])
-        genre_count = len(items)
-
-        # If genre: search returns too few, also try text search and merge
-        if len(items) < limit:
-            data = await self._request(
+        """Search artists by genre using text search (primary) + genre tag search."""
+        # Text search (paginated, returns popular artists) + genre tag search
+        text_tasks = [
+            self._request(
                 "/search",
                 params={
                     "q": genre,
                     "type": "artist",
-                    "limit": 50,
+                    "limit": 10,
+                    "offset": offset,
                     "market": "US",
                 },
             )
-            fallback_items = data.get("artists", {}).get("items", [])
+            for offset in range(0, 30, 10)
+        ]
+        genre_task = self._request(
+            "/search",
+            params={
+                "q": f'genre:"{genre}"',
+                "type": "artist",
+                "limit": 10,
+                "market": "US",
+            },
+        )
+        results = await asyncio.gather(
+            *text_tasks, genre_task, return_exceptions=True
+        )
 
-            # If genre: search found almost nothing (<5), Spotify has poor
-            # coverage for this style (e.g. regional genres like russian hip hop).
-            # Be lenient and allow artists with empty genre arrays through.
-            # Otherwise require genre tag match to keep results relevant.
-            lenient = genre_count < 5
-            filtered = [
-                a for a in fallback_items
-                if (lenient and not a.get("genres"))
-                or self._genre_words_match(genre, a.get("genres", []))
-            ]
-            # Merge: original results first, then filtered fallback (no dupes)
-            seen_ids = {a["id"] for a in items}
-            for a in filtered:
+        seen_ids: set = set()
+        text_matched: List = []  # text results with matching genre tags
+        text_no_genres: List = []  # text results with no genres (probably relevant)
+
+        # Process text search results in tiers
+        for r in results[:3]:
+            if isinstance(r, Exception):
+                continue
+            for a in r.get("artists", {}).get("items", []):
+                if a["id"] in seen_ids:
+                    continue
+                seen_ids.add(a["id"])
+                if not a.get("genres"):
+                    text_no_genres.append(a)
+                elif self._genre_words_match(genre, a["genres"]):
+                    text_matched.append(a)
+                # else: has genres but none match (e.g. "Trapt" for trap) — skip
+
+        # Genre tag search results (exact tag matches, fills gaps)
+        genre_items: List = []
+        genre_result = results[3]
+        if not isinstance(genre_result, Exception):
+            for a in genre_result.get("artists", {}).get("items", []):
                 if a["id"] not in seen_ids:
-                    items.append(a)
+                    genre_items.append(a)
                     seen_ids.add(a["id"])
 
-        result = {**result, "items": items}
-        return result
+        # Merge: confirmed matches first, then genre search, then no-tag artists
+        items = text_matched + genre_items + text_no_genres
+        return {"items": items}
 
     async def search_by_name(self, query: str, limit: int = 3) -> Dict:
         """Search artists by name (for global search bar)."""

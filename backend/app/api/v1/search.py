@@ -20,7 +20,7 @@ class UserSearchResult(BaseModel):
 class ArtistSearchResult(BaseModel):
     id: str
     name: str
-    followers: int
+    genres: List[str] = []
     image: Optional[str] = None
 
 
