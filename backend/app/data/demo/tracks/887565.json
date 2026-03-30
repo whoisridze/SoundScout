@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "499988832",
+      "name": "The Night We Met",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/a/0/dfa99f9a7c601cec5cceefc99265835a.mp3?hdnea=exp=1774860054~acl=/api/1/1/d/f/a/0/dfa99f9a7c601cec5cceefc99265835a.mp3*~data=user_id=0,application_id=42~hmac=0d6c921e8d31e213a67b2f4da549984c137d473b62e036c5e16eb4c32c042ded",
+      "duration_ms": 208000,
+      "track_number": 1,
+      "album": {
+        "id": "63571272",
+        "name": "13 Reasons Why (Season 2)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19b14fa5b494e0e74332f7dbf8dab87d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19b14fa5b494e0e74332f7dbf8dab87d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19b14fa5b494e0e74332f7dbf8dab87d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/499988832"
+      }
+    },
+    {
+      "id": "3309760381",
+      "name": "The Yawning Grave",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/9/0/4f9d769ebfc83a3a4547788bfbaa46fc.mp3?hdnea=exp=1774860054~acl=/api/1/1/4/f/9/0/4f9d769ebfc83a3a4547788bfbaa46fc.mp3*~data=user_id=0,application_id=42~hmac=22a548d956b5937cc1c2b1ea654523d7243835761b0b9641fc2c05a290120a2d",
+      "duration_ms": 192000,
+      "track_number": 2,
+      "album": {
+        "id": "737550051",
+        "name": "Strange Trails",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb1f906b81ee6bd532762a6a64d8bdc8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb1f906b81ee6bd532762a6a64d8bdc8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb1f906b81ee6bd532762a6a64d8bdc8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3309760381"
+      }
+    },
+    {
+      "id": "2895857361",
+      "name": "Ends of the Earth",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/8/0/6080fc1d3d5691013a4d73848c49b2c8.mp3?hdnea=exp=1774860054~acl=/api/1/1/6/0/8/0/6080fc1d3d5691013a4d73848c49b2c8.mp3*~data=user_id=0,application_id=42~hmac=e065d3bcd8c2117757152df42ae7a899bc0e43489b2fd3581891b67c925eb1f1",
+      "duration_ms": 284000,
+      "track_number": 3,
+      "album": {
+        "id": "617296071",
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6a386933c84c579c5ceb7fe61c8e906/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6a386933c84c579c5ceb7fe61c8e906/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6a386933c84c579c5ceb7fe61c8e906/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2895857361"
+      }
+    },
+    {
+      "id": "3309760371",
+      "name": "Meet Me in the Woods",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/8/0/2d8baed07aa18190651ec1c438bbe0d9.mp3?hdnea=exp=1774860054~acl=/api/1/1/2/d/8/0/2d8baed07aa18190651ec1c438bbe0d9.mp3*~data=user_id=0,application_id=42~hmac=cb59dc242ba73fd780fe41055032e7a7027fc49e69a8175f3a5a254ec69cb404",
+      "duration_ms": 262000,
+      "track_number": 4,
+      "album": {
+        "id": "737550051",
+        "name": "Strange Trails",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb1f906b81ee6bd532762a6a64d8bdc8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb1f906b81ee6bd532762a6a64d8bdc8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb1f906b81ee6bd532762a6a64d8bdc8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3309760371"
+      }
+    },
+    {
+      "id": "485941132",
+      "name": "When the Night is Over",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/f/0/66f79064bca2a1deee1daccdbf66dca6.mp3?hdnea=exp=1774860054~acl=/api/1/1/6/6/f/0/66f79064bca2a1deee1daccdbf66dca6.mp3*~data=user_id=0,application_id=42~hmac=72d47b6334fa8d3719e24be092eb33aa90ca25567f7fbea06363caf18d1828f7",
+      "duration_ms": 312000,
+      "track_number": 5,
+      "album": {
+        "id": "61220672",
+        "name": "Vide Noir",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c6dbe5fe60d65aec39378edb1855b06/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c6dbe5fe60d65aec39378edb1855b06/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c6dbe5fe60d65aec39378edb1855b06/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/485941132"
+      }
+    },
+    {
+      "id": "3309760301",
+      "name": "Love Like Ghosts",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/5/0/9959ea0d95dc3d69ee21ec273412638d.mp3?hdnea=exp=1774860054~acl=/api/1/1/9/9/5/0/9959ea0d95dc3d69ee21ec273412638d.mp3*~data=user_id=0,application_id=42~hmac=89fff55106318b77c47efa8c44ee0cfb3c22737ae8a4bfe5fcd19b594e75185c",
+      "duration_ms": 224000,
+      "track_number": 6,
+      "album": {
+        "id": "737550051",
+        "name": "Strange Trails",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb1f906b81ee6bd532762a6a64d8bdc8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb1f906b81ee6bd532762a6a64d8bdc8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb1f906b81ee6bd532762a6a64d8bdc8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3309760301"
+      }
+    },
+    {
+      "id": "3454566001",
+      "name": "Life Is Strange",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/f/0/0ff502fce0eb390e425994f02a6a2c8d.mp3?hdnea=exp=1774860054~acl=/api/1/1/0/f/f/0/0ff502fce0eb390e425994f02a6a2c8d.mp3*~data=user_id=0,application_id=42~hmac=5c2848d0457db609c4ee1b1b1621200904ccd7d361c7a33968eac924d50a7022",
+      "duration_ms": 301000,
+      "track_number": 7,
+      "album": {
+        "id": "786282781",
+        "name": "The Cosmic Selector Vol. 1",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9bb2b31a8716a7c5e447f5ef5e8b9b7f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9bb2b31a8716a7c5e447f5ef5e8b9b7f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9bb2b31a8716a7c5e447f5ef5e8b9b7f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3454566001"
+      }
+    },
+    {
+      "id": "3189342441",
+      "name": "Who Laughs Last",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/c/0/e1c59d130b52b09d2e01be43a3a82ad8.mp3?hdnea=exp=1774860054~acl=/api/1/1/e/1/c/0/e1c59d130b52b09d2e01be43a3a82ad8.mp3*~data=user_id=0,application_id=42~hmac=4aafddf87fccc60f457202d440025ac47d54f801ce9fe1df0181685fe967b3e9",
+      "duration_ms": 283000,
+      "track_number": 8,
+      "album": {
+        "id": "698887561",
+        "name": "Who Laughs Last",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a7159e3b29828bdbf75b319470a5a74/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a7159e3b29828bdbf75b319470a5a74/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a7159e3b29828bdbf75b319470a5a74/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3189342441"
+      }
+    },
+    {
+      "id": "3454565971",
+      "name": "It All Comes Back",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/4/0/524e73c55b76141f116beb39140fdf71.mp3?hdnea=exp=1774860054~acl=/api/1/1/5/2/4/0/524e73c55b76141f116beb39140fdf71.mp3*~data=user_id=0,application_id=42~hmac=52cca6e0c5ec9f35221f70e4fd094e733a6f7ad053bfd251e2bcdfa2adee813b",
+      "duration_ms": 264000,
+      "track_number": 9,
+      "album": {
+        "id": "786282781",
+        "name": "The Cosmic Selector Vol. 1",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9bb2b31a8716a7c5e447f5ef5e8b9b7f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9bb2b31a8716a7c5e447f5ef5e8b9b7f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9bb2b31a8716a7c5e447f5ef5e8b9b7f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3454565971"
+      }
+    },
+    {
+      "id": "2895857411",
+      "name": "The Ghost on the Shore",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/f/0/bcffa6e9a09a181ddd2d87a5682c6175.mp3?hdnea=exp=1774860054~acl=/api/1/1/b/c/f/0/bcffa6e9a09a181ddd2d87a5682c6175.mp3*~data=user_id=0,application_id=42~hmac=0f67abdf8d3cdc2697db844f43891df98c4a423eafc3e00246bcb25a85bfe19c",
+      "duration_ms": 277000,
+      "track_number": 10,
+      "album": {
+        "id": "617296071",
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6a386933c84c579c5ceb7fe61c8e906/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6a386933c84c579c5ceb7fe61c8e906/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6a386933c84c579c5ceb7fe61c8e906/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "887565",
+          "name": "Lord Huron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2895857411"
+      }
+    }
+  ]
+}

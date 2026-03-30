@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "722078532",
+      "name": "Schism",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/f/0/8efee6d17ef7eb4417bc051907daa137.mp3?hdnea=exp=1774859987~acl=/api/1/1/8/e/f/0/8efee6d17ef7eb4417bc051907daa137.mp3*~data=user_id=0,application_id=42~hmac=a5db51447fa372e28c7a688222bffd87c998755796d14a4c3893ae1424c3ad6c",
+      "duration_ms": 403000,
+      "track_number": 1,
+      "album": {
+        "id": "105611632",
+        "name": "Lateralus",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/722078532"
+      }
+    },
+    {
+      "id": "722078342",
+      "name": "Vicarious",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/8/0/c48994ff4213623b87e37fa7f7c63a1e.mp3?hdnea=exp=1774859987~acl=/api/1/1/c/4/8/0/c48994ff4213623b87e37fa7f7c63a1e.mp3*~data=user_id=0,application_id=42~hmac=8833341a5ebe76497aad82a1814fb55d2cd7eb5d05f11c9d2c2eb5728fa0388a",
+      "duration_ms": 426000,
+      "track_number": 2,
+      "album": {
+        "id": "105611582",
+        "name": "10,000 Days",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7a6f1259a8f9df284168a28988b8ad7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7a6f1259a8f9df284168a28988b8ad7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7a6f1259a8f9df284168a28988b8ad7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/722078342"
+      }
+    },
+    {
+      "id": "722078552",
+      "name": "Parabola",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/4/0/7b4ba39117ac8ae475b6d0dfce093d28.mp3?hdnea=exp=1774859987~acl=/api/1/1/7/b/4/0/7b4ba39117ac8ae475b6d0dfce093d28.mp3*~data=user_id=0,application_id=42~hmac=3c1bd27099a8fffe568b397cef1fe339e6e90f186d72c945d7302e4374e0f5e9",
+      "duration_ms": 363000,
+      "track_number": 3,
+      "album": {
+        "id": "105611632",
+        "name": "Lateralus",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/722078552"
+      }
+    },
+    {
+      "id": "740969222",
+      "name": "Pneuma",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/3/0/3b38a84d4b89ea7847686485e5a7e662.mp3?hdnea=exp=1774859987~acl=/api/1/1/3/b/3/0/3b38a84d4b89ea7847686485e5a7e662.mp3*~data=user_id=0,application_id=42~hmac=d98b67fbc77e8fc73316cb1e453995d5653a1b24a8c145f52d6d9733cb8e8390",
+      "duration_ms": 713000,
+      "track_number": 4,
+      "album": {
+        "id": "108996972",
+        "name": "Fear Inoculum",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a039cbf6d0e98071d9fbd3fdfd73d82/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a039cbf6d0e98071d9fbd3fdfd73d82/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a039cbf6d0e98071d9fbd3fdfd73d82/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/740969222"
+      }
+    },
+    {
+      "id": "722093132",
+      "name": "Sober",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/9/0/399f8f21e2ebb99503791f25d98ca489.mp3?hdnea=exp=1774859987~acl=/api/1/1/3/9/9/0/399f8f21e2ebb99503791f25d98ca489.mp3*~data=user_id=0,application_id=42~hmac=c48397a2248579316f36eba124198c3318998ffbda9d89d9182477419669bef3",
+      "duration_ms": 306000,
+      "track_number": 5,
+      "album": {
+        "id": "105614472",
+        "name": "Undertow",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83540df6a4dc5286dc04e5fe67b73b8c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83540df6a4dc5286dc04e5fe67b73b8c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83540df6a4dc5286dc04e5fe67b73b8c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/722093132"
+      }
+    },
+    {
+      "id": "722078432",
+      "name": "Right In Two",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/7/0/0a7be0538dea439af505a201ce233115.mp3?hdnea=exp=1774859987~acl=/api/1/1/0/a/7/0/0a7be0538dea439af505a201ce233115.mp3*~data=user_id=0,application_id=42~hmac=45d2a9bda18f4e53a234b6f93637ea0dbcdd8f1541bfde7102eb5181d93153f0",
+      "duration_ms": 536000,
+      "track_number": 6,
+      "album": {
+        "id": "105611582",
+        "name": "10,000 Days",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7a6f1259a8f9df284168a28988b8ad7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7a6f1259a8f9df284168a28988b8ad7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7a6f1259a8f9df284168a28988b8ad7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/722078432"
+      }
+    },
+    {
+      "id": "722093262",
+      "name": "Forty Six & 2",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/d/0/e3d55da99d0dfc532d334f434b226aba.mp3?hdnea=exp=1774859987~acl=/api/1/1/e/3/d/0/e3d55da99d0dfc532d334f434b226aba.mp3*~data=user_id=0,application_id=42~hmac=2d5aba825f75672cabc661a86570e89c016ae7d48cb2b61288946902f3770714",
+      "duration_ms": 362000,
+      "track_number": 7,
+      "album": {
+        "id": "105614492",
+        "name": "Ænima",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b817fcf4d085f7fe0a3910da0061bfd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b817fcf4d085f7fe0a3910da0061bfd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b817fcf4d085f7fe0a3910da0061bfd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/722093262"
+      }
+    },
+    {
+      "id": "740969242",
+      "name": "Invincible",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/6/0/986c7b5ab1bf1d1c5ef675ab2ea5d544.mp3?hdnea=exp=1774859987~acl=/api/1/1/9/8/6/0/986c7b5ab1bf1d1c5ef675ab2ea5d544.mp3*~data=user_id=0,application_id=42~hmac=0ff52d0e0ed8be29ffc0817f86426984bfa0581a709ea5ad3f14d9aa8d20382f",
+      "duration_ms": 764000,
+      "track_number": 8,
+      "album": {
+        "id": "108996972",
+        "name": "Fear Inoculum",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a039cbf6d0e98071d9fbd3fdfd73d82/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a039cbf6d0e98071d9fbd3fdfd73d82/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a039cbf6d0e98071d9fbd3fdfd73d82/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/740969242"
+      }
+    },
+    {
+      "id": "722078572",
+      "name": "Lateralus",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/a/0/c6ace5e9440dc3aee15ccb1c6b6b0826.mp3?hdnea=exp=1774859987~acl=/api/1/1/c/6/a/0/c6ace5e9440dc3aee15ccb1c6b6b0826.mp3*~data=user_id=0,application_id=42~hmac=f0a45a0bc06513e8d7aafacedfc4d9609068302d563b9158b67f28c01f51285e",
+      "duration_ms": 564000,
+      "track_number": 9,
+      "album": {
+        "id": "105611632",
+        "name": "Lateralus",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1645f3b192206dc412353b06491290d4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/722078572"
+      }
+    },
+    {
+      "id": "722093222",
+      "name": "Stinkfist",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/f/0/f0fe229c92580832b68218d576618d85.mp3?hdnea=exp=1774859987~acl=/api/1/1/f/0/f/0/f0fe229c92580832b68218d576618d85.mp3*~data=user_id=0,application_id=42~hmac=0b40cdd444b79c8d62651b7bf95c021c40342cf2d66983181ebf987bb64123ec",
+      "duration_ms": 311000,
+      "track_number": 10,
+      "album": {
+        "id": "105614492",
+        "name": "Ænima",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b817fcf4d085f7fe0a3910da0061bfd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b817fcf4d085f7fe0a3910da0061bfd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b817fcf4d085f7fe0a3910da0061bfd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "689",
+          "name": "TOOL"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/722093222"
+      }
+    }
+  ]
+}

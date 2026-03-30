@@ -1,0 +1,32 @@
+{
+  "id": "7397124",
+  "name": "Brent Faiyaz",
+  "popularity": 31,
+  "followers": {
+    "total": 316305
+  },
+  "genres": [
+    "r&b"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/32aa8325aa1323a10f9e934ad7fd0bd1/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/32aa8325aa1323a10f9e934ad7fd0bd1/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/32aa8325aa1323a10f9e934ad7fd0bd1/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/7397124"
+  },
+  "uri": "deezer:artist:7397124"
+}

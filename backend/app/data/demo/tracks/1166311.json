@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3909037631",
+      "name": "TRANKAITO",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/f/0/f3fccacdc2fa489c45a3e80ac60820da.mp3?hdnea=exp=1774860020~acl=/api/1/1/f/3/f/0/f3fccacdc2fa489c45a3e80ac60820da.mp3*~data=user_id=0,application_id=42~hmac=b1826c345e399964fb297fe0503e0ec21d7aa35f97ea84fac64a931794d37622",
+      "duration_ms": 162000,
+      "track_number": 1,
+      "album": {
+        "id": "942707111",
+        "name": "EL GREEN PRINT: La Saga (Disc 1) — FEID VS FERXXO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f85e183081d11b78958501862131cb32/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f85e183081d11b78958501862131cb32/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f85e183081d11b78958501862131cb32/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3909037631"
+      }
+    },
+    {
+      "id": "3421452581",
+      "name": "Verano Rosa",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/f/0/7dff40dafcd200a3bec44573e4a5ded1.mp3?hdnea=exp=1774860020~acl=/api/1/1/7/d/f/0/7dff40dafcd200a3bec44573e4a5ded1.mp3*~data=user_id=0,application_id=42~hmac=aa001f509c60f5db68be22af1fda224141393c5e39708f6f01be6dd78de87aa3",
+      "duration_ms": 210000,
+      "track_number": 2,
+      "album": {
+        "id": "774864691",
+        "name": "Tropicoqueta",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfdc0e8f03e705b41e54b699485607f8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfdc0e8f03e705b41e54b699485607f8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfdc0e8f03e705b41e54b699485607f8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3421452581"
+      }
+    },
+    {
+      "id": "2496106541",
+      "name": "PERRO NEGRO",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/7/0/47705dde793f0f437f2b7481e69c7168.mp3?hdnea=exp=1774860020~acl=/api/1/1/4/7/7/0/47705dde793f0f437f2b7481e69c7168.mp3*~data=user_id=0,application_id=42~hmac=af87567b384c6b6f2c3cddba4dfea0f01bf5c7772be012649bc52e8496a0c960",
+      "duration_ms": 162000,
+      "track_number": 3,
+      "album": {
+        "id": "499463651",
+        "name": "nadie sabe lo que va a pasar mañana",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2496106541"
+      }
+    },
+    {
+      "id": "2565307142",
+      "name": "LUNA",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/5/0/3e5f29ce5438b8a3fa7db790484872ec.mp3?hdnea=exp=1774860020~acl=/api/1/1/3/e/5/0/3e5f29ce5438b8a3fa7db790484872ec.mp3*~data=user_id=0,application_id=42~hmac=5cee935b0e141670676ce580d71808616283704e03a58a0af4718af013a8a313",
+      "duration_ms": 196000,
+      "track_number": 4,
+      "album": {
+        "id": "518463332",
+        "name": "FERXXOCALIPSIS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fee4b7345f658a57a39747bf24b7466b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fee4b7345f658a57a39747bf24b7466b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fee4b7345f658a57a39747bf24b7466b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2565307142"
+      }
+    },
+    {
+      "id": "3773003372",
+      "name": "CAMBIARÉ",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/d/0/0ad11e03bec8c3dd78dcc33120f192d6.mp3?hdnea=exp=1774860020~acl=/api/1/1/0/a/d/0/0ad11e03bec8c3dd78dcc33120f192d6.mp3*~data=user_id=0,application_id=42~hmac=68e26360ae53a2469e41bdb10bcb72c54f19b5f79ff8dc83fcc7d9729cd322bf",
+      "duration_ms": 181000,
+      "track_number": 5,
+      "album": {
+        "id": "897014332",
+        "name": "CAMBIARÉ",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb6910ce5da403cafb14c3fd7d6f9223/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb6910ce5da403cafb14c3fd7d6f9223/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb6910ce5da403cafb14c3fd7d6f9223/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3773003372"
+      }
+    },
+    {
+      "id": "2831208582",
+      "name": "SORRY 4 THAT MUCH",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/2/0/0329b95b4a1669bc83404ee622223609.mp3?hdnea=exp=1774860020~acl=/api/1/1/0/3/2/0/0329b95b4a1669bc83404ee622223609.mp3*~data=user_id=0,application_id=42~hmac=809169428c53b4d785784a24748dd4d4fc6d6b9ead4c9fe41eecc5412d56e932",
+      "duration_ms": 207000,
+      "track_number": 6,
+      "album": {
+        "id": "596552112",
+        "name": "SORRY 4 THAT MUCH",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b7e915c28db8f29f3d5566dbcf862f4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b7e915c28db8f29f3d5566dbcf862f4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b7e915c28db8f29f3d5566dbcf862f4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2831208582"
+      }
+    },
+    {
+      "id": "2216510797",
+      "name": "CLASSY 101",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/d/0/c0d2a3fa5a05a1df02229824907067ed.mp3?hdnea=exp=1774860020~acl=/api/1/1/c/0/d/0/c0d2a3fa5a05a1df02229824907067ed.mp3*~data=user_id=0,application_id=42~hmac=e5b6e5a968d19670eda0f536d1275debde6a53c2c73580989918f9bdfe68cfce",
+      "duration_ms": 195000,
+      "track_number": 7,
+      "album": {
+        "id": "423858537",
+        "name": "CLASSY 101",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3210cc9224ba98d1733970571e44e9a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3210cc9224ba98d1733970571e44e9a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3210cc9224ba98d1733970571e44e9a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2216510797"
+      }
+    },
+    {
+      "id": "2074439067",
+      "name": "Yandel 150",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/8/0/e9810a7a51b8adba314e7af978f62236.mp3?hdnea=exp=1774860020~acl=/api/1/1/e/9/8/0/e9810a7a51b8adba314e7af978f62236.mp3*~data=user_id=0,application_id=42~hmac=a70c0c631d87f2431af684d3776a3e39e60f66404fec17a7aa95047e758db9ec",
+      "duration_ms": 216000,
+      "track_number": 8,
+      "album": {
+        "id": "387591767",
+        "name": "Yandel 150",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/27abf696d0605c653b11b809dacd7a3c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/27abf696d0605c653b11b809dacd7a3c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/27abf696d0605c653b11b809dacd7a3c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2074439067"
+      }
+    },
+    {
+      "id": "2044678137",
+      "name": "CHORRITO PA LAS ANIMAS",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/b/0/8eb035d70e51da5b836d02243326d7a9.mp3?hdnea=exp=1774860020~acl=/api/1/1/8/e/b/0/8eb035d70e51da5b836d02243326d7a9.mp3*~data=user_id=0,application_id=42~hmac=28d4eb188eea27665dc432739c8dca07626c597e53bf9c0dc07c3ae11532f36c",
+      "duration_ms": 168000,
+      "track_number": 9,
+      "album": {
+        "id": "382295007",
+        "name": "SIXDO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb3dcd85fc4f0e8a90ef35f26ae39bd1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb3dcd85fc4f0e8a90ef35f26ae39bd1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb3dcd85fc4f0e8a90ef35f26ae39bd1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2044678137"
+      }
+    },
+    {
+      "id": "2729119091",
+      "name": "offline",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/c/0/8dcb0a91994754b78136903a050668ac.mp3?hdnea=exp=1774860020~acl=/api/1/1/8/d/c/0/8dcb0a91994754b78136903a050668ac.mp3*~data=user_id=0,application_id=42~hmac=3fe6247283006248b56854ae3fff0413e407e3ea96800dc1f38d9e270c602f4d",
+      "duration_ms": 201000,
+      "track_number": 10,
+      "album": {
+        "id": "566656321",
+        "name": "att.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc0e77c72f8820c92e5acb086f4f200d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc0e77c72f8820c92e5acb086f4f200d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc0e77c72f8820c92e5acb086f4f200d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1166311",
+          "name": "Feid"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2729119091"
+      }
+    }
+  ]
+}

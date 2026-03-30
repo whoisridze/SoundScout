@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "70322130",
+      "name": "Do I Wanna Know?",
+      "popularity": 93,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/8/0/f380e7e1a00cd0149000196d2cef3f4c.mp3?hdnea=exp=1774859875~acl=/api/1/1/f/3/8/0/f380e7e1a00cd0149000196d2cef3f4c.mp3*~data=user_id=0,application_id=42~hmac=b9deeeb6b3b8fa18d4189ad87a1cb2f3f09fc83f22d70bf288ec5fb11c2312e0",
+      "duration_ms": 272000,
+      "track_number": 1,
+      "album": {
+        "id": "6899610",
+        "name": "AM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70322130"
+      }
+    },
+    {
+      "id": "4315389",
+      "name": "505",
+      "popularity": 95,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/9/0/329517eb3334d90587e141ae5ace1f40.mp3?hdnea=exp=1774859875~acl=/api/1/1/3/2/9/0/329517eb3334d90587e141ae5ace1f40.mp3*~data=user_id=0,application_id=42~hmac=70941ccda0a23b2d6e50d024cd77cd1d41b264b13e1eb55d06643caecfb06827",
+      "duration_ms": 253000,
+      "track_number": 2,
+      "album": {
+        "id": "401346",
+        "name": "Favourite Worst Nightmare",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4315389"
+      }
+    },
+    {
+      "id": "70322132",
+      "name": "R U Mine?",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a8027358ef346ce6fb6577d0ad62da.mp3?hdnea=exp=1774859875~acl=/api/1/1/4/8/a/0/48a8027358ef346ce6fb6577d0ad62da.mp3*~data=user_id=0,application_id=42~hmac=f0c07fd54787653916a4ec13369b436a4103dbd67b27ef5a4ead0a09bd8f77cd",
+      "duration_ms": 201000,
+      "track_number": 3,
+      "album": {
+        "id": "6899610",
+        "name": "AM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70322132"
+      }
+    },
+    {
+      "id": "70322139",
+      "name": "Why'd You Only Call Me When You're High?",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/9/0/1e959605ab4887b73f1a0f65107b8ec8.mp3?hdnea=exp=1774859875~acl=/api/1/1/1/e/9/0/1e959605ab4887b73f1a0f65107b8ec8.mp3*~data=user_id=0,application_id=42~hmac=75bdcdd8b9376e307654674d2ca1f04dc2154b72808d7b5d4c6c4719c2a2627d",
+      "duration_ms": 161000,
+      "track_number": 4,
+      "album": {
+        "id": "6899610",
+        "name": "AM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70322139"
+      }
+    },
+    {
+      "id": "3783510512",
+      "name": "Opening Night",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/f/0/3bf819b452194cd300c57cae7c251a82.mp3?hdnea=exp=1774859875~acl=/api/1/1/3/b/f/0/3bf819b452194cd300c57cae7c251a82.mp3*~data=user_id=0,application_id=42~hmac=46fb87e2cf27dd8b8865fa6ea5926a1143292e1dd2beed58848549003b9133f9",
+      "duration_ms": 259000,
+      "track_number": 5,
+      "album": {
+        "id": "900672512",
+        "name": "Opening Night",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee987bc5ae84a3e3d6143db84e91c0de/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee987bc5ae84a3e3d6143db84e91c0de/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee987bc5ae84a3e3d6143db84e91c0de/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3783510512"
+      }
+    },
+    {
+      "id": "4315378",
+      "name": "Brianstorm",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/5/0/e25582132cf097d9dc673e7b014404f6.mp3?hdnea=exp=1774859875~acl=/api/1/1/e/2/5/0/e25582132cf097d9dc673e7b014404f6.mp3*~data=user_id=0,application_id=42~hmac=cb8438fbb0c67a7d61e882b7f79d51cb9f1d8f000927e4e727e72cadf2f1275c",
+      "duration_ms": 172000,
+      "track_number": 6,
+      "album": {
+        "id": "401346",
+        "name": "Favourite Worst Nightmare",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4315378"
+      }
+    },
+    {
+      "id": "70322140",
+      "name": "Snap Out Of It",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/1/0/fd1035e2daf0a58b7a84d2db0b601109.mp3?hdnea=exp=1774859875~acl=/api/1/1/f/d/1/0/fd1035e2daf0a58b7a84d2db0b601109.mp3*~data=user_id=0,application_id=42~hmac=1cc3b07e92e363aac7162ce3c48e5fdcc9ff009b95e390017ada8d8044866b64",
+      "duration_ms": 193000,
+      "track_number": 7,
+      "album": {
+        "id": "6899610",
+        "name": "AM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70322140"
+      }
+    },
+    {
+      "id": "70322134",
+      "name": "Arabella",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/6/0/4f6b19c37dc35ec828f7181d97666315.mp3?hdnea=exp=1774859875~acl=/api/1/1/4/f/6/0/4f6b19c37dc35ec828f7181d97666315.mp3*~data=user_id=0,application_id=42~hmac=30bdbb50d63460170855ad7f555b3580d821616af7fcd04a41a0fb7de383324c",
+      "duration_ms": 207000,
+      "track_number": 8,
+      "album": {
+        "id": "6899610",
+        "name": "AM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e54e307bd5e2bdb27ffeb662fd910d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70322134"
+      }
+    },
+    {
+      "id": "4315382",
+      "name": "Fluorescent Adolescent",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/7/0/ef7220044ffe85c636aa2abbe0fafec3.mp3?hdnea=exp=1774859875~acl=/api/1/1/e/f/7/0/ef7220044ffe85c636aa2abbe0fafec3.mp3*~data=user_id=0,application_id=42~hmac=0086632b831090585af9f7ce60e0ca24473177e0c8e0e6095a27db410f00f547",
+      "duration_ms": 183000,
+      "track_number": 9,
+      "album": {
+        "id": "401346",
+        "name": "Favourite Worst Nightmare",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7a4f9f1af8736457de34f28d50ef496/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4315382"
+      }
+    },
+    {
+      "id": "4315310",
+      "name": "I Bet You Look Good On The Dancefloor",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/7/0/667973ef99272d4622145ddddd4f1201.mp3?hdnea=exp=1774859875~acl=/api/1/1/6/6/7/0/667973ef99272d4622145ddddd4f1201.mp3*~data=user_id=0,application_id=42~hmac=58fc3e2ddbeb486a81a2a1348cea745b479ec0faba1410ecbf147defc5f3bb5d",
+      "duration_ms": 173000,
+      "track_number": 10,
+      "album": {
+        "id": "401340",
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f7a0a1ca91431861989efe5a22aad557/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f7a0a1ca91431861989efe5a22aad557/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f7a0a1ca91431861989efe5a22aad557/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1182",
+          "name": "Arctic Monkeys"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4315310"
+      }
+    }
+  ]
+}

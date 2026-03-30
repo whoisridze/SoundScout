@@ -1,0 +1,32 @@
+{
+  "id": "7175",
+  "name": "Burt Bacharach",
+  "popularity": 1,
+  "followers": {
+    "total": 19981
+  },
+  "genres": [
+    "easy listening"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8e79217db763eea11171ea1b20149207/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8e79217db763eea11171ea1b20149207/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8e79217db763eea11171ea1b20149207/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/7175"
+  },
+  "uri": "deezer:artist:7175"
+}

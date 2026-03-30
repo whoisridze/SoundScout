@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1140658",
+      "name": "It's Probably Me",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/9/0/d197eb5b01f1243b65ad9db621bb7d9f.mp3?hdnea=exp=1774859962~acl=/api/1/1/d/1/9/0/d197eb5b01f1243b65ad9db621bb7d9f.mp3*~data=user_id=0,application_id=42~hmac=e9e9538aa823155c3b7aadd437ad2f346387ee4e5a41ca5adbc54274aff5e093",
+      "duration_ms": 301000,
+      "track_number": 1,
+      "album": {
+        "id": "122264",
+        "name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/43216748bbeee4aa12f3e2407599a4ea/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/43216748bbeee4aa12f3e2407599a4ea/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/43216748bbeee4aa12f3e2407599a4ea/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1140658"
+      }
+    },
+    {
+      "id": "1933842267",
+      "name": "Layla (Acoustic Live)",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/7/0/df74e3970f3a78322c2095a7640ccbc5.mp3?hdnea=exp=1774859962~acl=/api/1/1/d/f/7/0/df74e3970f3a78322c2095a7640ccbc5.mp3*~data=user_id=0,application_id=42~hmac=33da436521d86f611ef80059f6c0d77c8b10cebd8088ab29d860b87d24d592da",
+      "duration_ms": 289000,
+      "track_number": 2,
+      "album": {
+        "id": "360638237",
+        "name": "Unplugged (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9e15b1190ae6d8ca6a90beb8b5817e2f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9e15b1190ae6d8ca6a90beb8b5817e2f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9e15b1190ae6d8ca6a90beb8b5817e2f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1933842267"
+      }
+    },
+    {
+      "id": "4654895",
+      "name": "Tears in Heaven",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/8/0/dc89a87bbef42ed137db40fb2c26c356.mp3?hdnea=exp=1774859962~acl=/api/1/1/d/c/8/0/dc89a87bbef42ed137db40fb2c26c356.mp3*~data=user_id=0,application_id=42~hmac=e3dd7c7494ca789a203f572c6d3ca459cebe6320ccedf4de5a6d54a06a8756e4",
+      "duration_ms": 271000,
+      "track_number": 3,
+      "album": {
+        "id": "428364",
+        "name": "Rush (Music from the Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd6aed0c25c5f38220561d4d6cd04d8a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd6aed0c25c5f38220561d4d6cd04d8a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd6aed0c25c5f38220561d4d6cd04d8a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4654895"
+      }
+    },
+    {
+      "id": "1175620",
+      "name": "Cocaine",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/9/0/349c960ab8f0c0ed71e79ead4f26034b.mp3?hdnea=exp=1774859962~acl=/api/1/1/3/4/9/0/349c960ab8f0c0ed71e79ead4f26034b.mp3*~data=user_id=0,application_id=42~hmac=acdfd11d62fbac5860dcda761e99368eb470def09c66cfadff89ed96378d9bf1",
+      "duration_ms": 220000,
+      "track_number": 4,
+      "album": {
+        "id": "125707",
+        "name": "The Cream Of Clapton",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/196eaf4d3f7437f744a71d867a543dbb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/196eaf4d3f7437f744a71d867a543dbb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/196eaf4d3f7437f744a71d867a543dbb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1175620"
+      }
+    },
+    {
+      "id": "1175626",
+      "name": "Wonderful Tonight",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/2/0/e52393f6e85e13def3525d8e53be036e.mp3?hdnea=exp=1774859962~acl=/api/1/1/e/5/2/0/e52393f6e85e13def3525d8e53be036e.mp3*~data=user_id=0,application_id=42~hmac=ee2570f8fa878e253340997258907546a4a5ebc97b4e8b80d2e3992ce6c76e2e",
+      "duration_ms": 224000,
+      "track_number": 5,
+      "album": {
+        "id": "125707",
+        "name": "The Cream Of Clapton",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/196eaf4d3f7437f744a71d867a543dbb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/196eaf4d3f7437f744a71d867a543dbb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/196eaf4d3f7437f744a71d867a543dbb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1175626"
+      }
+    },
+    {
+      "id": "1933842237",
+      "name": "Tears in Heaven (Acoustic Live)",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/d/0/a5d5f5c1401d1fb525cef5473fa3d1d6.mp3?hdnea=exp=1774859962~acl=/api/1/1/a/5/d/0/a5d5f5c1401d1fb525cef5473fa3d1d6.mp3*~data=user_id=0,application_id=42~hmac=3979a8ab6d579f1d6dfd7610141b4be462a6c17de96d256014f10b7edc9cabca",
+      "duration_ms": 280000,
+      "track_number": 6,
+      "album": {
+        "id": "360638237",
+        "name": "Unplugged (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9e15b1190ae6d8ca6a90beb8b5817e2f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9e15b1190ae6d8ca6a90beb8b5817e2f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9e15b1190ae6d8ca6a90beb8b5817e2f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1933842237"
+      }
+    },
+    {
+      "id": "1543648512",
+      "name": "Layla (Live)",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/e/0/07e871b281ba28555cfcf583b1ceea5f.mp3?hdnea=exp=1774859962~acl=/api/1/1/0/7/e/0/07e871b281ba28555cfcf583b1ceea5f.mp3*~data=user_id=0,application_id=42~hmac=2af89607a6b932fed722e0c782c86d835f68dc14a2521d9df74030e3d4498da1",
+      "duration_ms": 329000,
+      "track_number": 7,
+      "album": {
+        "id": "270623562",
+        "name": "The Lady In The Balcony: Lockdown Sessions (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82cbffd7722c6a718205e304dc77d1bd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82cbffd7722c6a718205e304dc77d1bd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82cbffd7722c6a718205e304dc77d1bd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1543648512"
+      }
+    },
+    {
+      "id": "1940201287",
+      "name": "Layla (Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 1999 Remaster)",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/5/0/a7506bb1e20d381bd75db4d2ea770ed7.mp3?hdnea=exp=1774859962~acl=/api/1/1/a/7/5/0/a7506bb1e20d381bd75db4d2ea770ed7.mp3*~data=user_id=0,application_id=42~hmac=16edda649b55593e91e784a325c343d80648d2c76bf4188b30bab3964c9252f4",
+      "duration_ms": 260000,
+      "track_number": 8,
+      "album": {
+        "id": "361895437",
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ec784e20f09d844d4f297560c341049b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ec784e20f09d844d4f297560c341049b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ec784e20f09d844d4f297560c341049b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1940201287"
+      }
+    },
+    {
+      "id": "2178235",
+      "name": "Promises",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/1/0/5917d3e92839981dffa577a3707cfff1.mp3?hdnea=exp=1774859962~acl=/api/1/1/5/9/1/0/5917d3e92839981dffa577a3707cfff1.mp3*~data=user_id=0,application_id=42~hmac=222df6ea3179ee4f812bb42c070fbd1ef74ea637faf1d42c5a02410bf3b9ee75",
+      "duration_ms": 184000,
+      "track_number": 9,
+      "album": {
+        "id": "217881",
+        "name": "Backless",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5f6bc39dd3eabbb94a7937d8538ec222/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5f6bc39dd3eabbb94a7937d8538ec222/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5f6bc39dd3eabbb94a7937d8538ec222/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2178235"
+      }
+    },
+    {
+      "id": "1940201257",
+      "name": "Change the World",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/1/0/7b1fff01e33525bd5de47eba32fe3cfe.mp3?hdnea=exp=1774859962~acl=/api/1/1/7/b/1/0/7b1fff01e33525bd5de47eba32fe3cfe.mp3*~data=user_id=0,application_id=42~hmac=492c813d572dca7b755a3c1413b02121bc3838daab105264e156d6d126d0345b",
+      "duration_ms": 234000,
+      "track_number": 10,
+      "album": {
+        "id": "361895437",
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ec784e20f09d844d4f297560c341049b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ec784e20f09d844d4f297560c341049b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ec784e20f09d844d4f297560c341049b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "192",
+          "name": "Eric Clapton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1940201257"
+      }
+    }
+  ]
+}

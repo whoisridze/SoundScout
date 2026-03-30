@@ -1,0 +1,32 @@
+{
+  "id": "3048",
+  "name": "Slayer",
+  "popularity": 91,
+  "followers": {
+    "total": 915180
+  },
+  "genres": [
+    "metal"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/1417e7db6c37490103a23197228c2c4f/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/1417e7db6c37490103a23197228c2c4f/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/1417e7db6c37490103a23197228c2c4f/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/3048"
+  },
+  "uri": "deezer:artist:3048"
+}

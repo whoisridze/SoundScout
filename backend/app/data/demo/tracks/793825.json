@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "757244922",
+      "name": "Ho Hey",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/9/0/429a2b915cbb0e5935960fa27413ed98.mp3?hdnea=exp=1774860050~acl=/api/1/1/4/2/9/0/429a2b915cbb0e5935960fa27413ed98.mp3*~data=user_id=0,application_id=42~hmac=aec3d55168283323734253d444ee0d6da5f8535119459818e8ccc6b7a53d3795",
+      "duration_ms": 163000,
+      "track_number": 1,
+      "album": {
+        "id": "111543132",
+        "name": "The Lumineers",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5feedc5f17581c7553a777bbb220fe02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5feedc5f17581c7553a777bbb220fe02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5feedc5f17581c7553a777bbb220fe02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/757244922"
+      }
+    },
+    {
+      "id": "3088941901",
+      "name": "Asshole",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/b/0/84b65e86daeb665d94727b96053c62d4.mp3?hdnea=exp=1774860050~acl=/api/1/1/8/4/b/0/84b65e86daeb665d94727b96053c62d4.mp3*~data=user_id=0,application_id=42~hmac=f892f918021c312b5b75e4623fa6a4ebf102e1da5230fcb49d729a3631256760",
+      "duration_ms": 183000,
+      "track_number": 2,
+      "album": {
+        "id": "669380891",
+        "name": "Automatic",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ddd15342087f7c7f3413069e33ea2a2d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ddd15342087f7c7f3413069e33ea2a2d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ddd15342087f7c7f3413069e33ea2a2d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3088941901"
+      }
+    },
+    {
+      "id": "750099662",
+      "name": "Life In The City",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/a/0/7eaf1368a8c43ec996e94045a1f325d4.mp3?hdnea=exp=1774860050~acl=/api/1/1/7/e/a/0/7eaf1368a8c43ec996e94045a1f325d4.mp3*~data=user_id=0,application_id=42~hmac=56ed967f183ca848874c04b2df06a04ddd12482ed2742ca63cc3d36a1ffa8f06",
+      "duration_ms": 231000,
+      "track_number": 3,
+      "album": {
+        "id": "110382632",
+        "name": "III",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01322c000d348a661111101418d0742d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01322c000d348a661111101418d0742d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01322c000d348a661111101418d0742d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/750099662"
+      }
+    },
+    {
+      "id": "1548149552",
+      "name": "A.M. RADIO",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/f/0/b9f1ae7c7018823b9d8f52f196af2de5.mp3?hdnea=exp=1774860050~acl=/api/1/1/b/9/f/0/b9f1ae7c7018823b9d8f52f196af2de5.mp3*~data=user_id=0,application_id=42~hmac=502204774f1593fafd399c43c31a8ef0fae02c99242d61b78ccfb9d92076c2df",
+      "duration_ms": 237000,
+      "track_number": 4,
+      "album": {
+        "id": "271628422",
+        "name": "A.M. RADIO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ac45d6ca976aafb406cffb889dffded9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ac45d6ca976aafb406cffb889dffded9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ac45d6ca976aafb406cffb889dffded9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1548149552"
+      }
+    },
+    {
+      "id": "757235112",
+      "name": "Sleep On The Floor",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/0/0/a10628bd9dfb570caa58945db846e7f6.mp3?hdnea=exp=1774860050~acl=/api/1/1/a/1/0/0/a10628bd9dfb570caa58945db846e7f6.mp3*~data=user_id=0,application_id=42~hmac=66e5684389404416d908e5dbf31dfc39ff648345e2e889ad46e2e336740ba4f5",
+      "duration_ms": 211000,
+      "track_number": 5,
+      "album": {
+        "id": "111541412",
+        "name": "Cleopatra (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4babf4f25ccc8b29461b8f32cc2bc504/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4babf4f25ccc8b29461b8f32cc2bc504/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4babf4f25ccc8b29461b8f32cc2bc504/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/757235112"
+      }
+    },
+    {
+      "id": "757235122",
+      "name": "Ophelia",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/d/0/4fd01a465efb943e387a633b2c2fbed7.mp3?hdnea=exp=1774860050~acl=/api/1/1/4/f/d/0/4fd01a465efb943e387a633b2c2fbed7.mp3*~data=user_id=0,application_id=42~hmac=5016a679563eabea1491106f37e82e9cfb780521722c37194f0169bb74ec7941",
+      "duration_ms": 160000,
+      "track_number": 6,
+      "album": {
+        "id": "111541412",
+        "name": "Cleopatra (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4babf4f25ccc8b29461b8f32cc2bc504/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4babf4f25ccc8b29461b8f32cc2bc504/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4babf4f25ccc8b29461b8f32cc2bc504/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/757235122"
+      }
+    },
+    {
+      "id": "3442257471",
+      "name": "Shout (The Institute Theme Song)",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/4/0/8b41eef10407afc91a80d4a5ad121bd1.mp3?hdnea=exp=1774860050~acl=/api/1/1/8/b/4/0/8b41eef10407afc91a80d4a5ad121bd1.mp3*~data=user_id=0,application_id=42~hmac=a53f29c0666975b1e13d94510edb66fa320576ce3f762e30e36ebfdde9e8084d",
+      "duration_ms": 116000,
+      "track_number": 7,
+      "album": {
+        "id": "782007351",
+        "name": "Shout (The Institute Theme Song)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c75f15e5552d64e29896a2d966177bea/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c75f15e5552d64e29896a2d966177bea/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c75f15e5552d64e29896a2d966177bea/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3442257471"
+      }
+    },
+    {
+      "id": "757244952",
+      "name": "Stubborn Love",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/1/0/f41f3ead065e51ec29c772695cc93548.mp3?hdnea=exp=1774860050~acl=/api/1/1/f/4/1/0/f41f3ead065e51ec29c772695cc93548.mp3*~data=user_id=0,application_id=42~hmac=afb236e87ee70c1926aa38463e8c6905a422049bdd751b8154aa4f617f5af2fa",
+      "duration_ms": 279000,
+      "track_number": 8,
+      "album": {
+        "id": "111543132",
+        "name": "The Lumineers",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5feedc5f17581c7553a777bbb220fe02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5feedc5f17581c7553a777bbb220fe02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5feedc5f17581c7553a777bbb220fe02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/757244952"
+      }
+    },
+    {
+      "id": "678699972",
+      "name": "Donna",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/2/0/26220ef5ee4bb6b1a9249180985aebce.mp3?hdnea=exp=1774860050~acl=/api/1/1/2/6/2/0/26220ef5ee4bb6b1a9249180985aebce.mp3*~data=user_id=0,application_id=42~hmac=fff3df34e8f9bcdd2e26c52553acf73f45517b6f3c9088b17b980dc35d3b4f20",
+      "duration_ms": 185000,
+      "track_number": 9,
+      "album": {
+        "id": "96639022",
+        "name": "Gloria Sparks",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04d654df29c3e5f455e53643c58dce8e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04d654df29c3e5f455e53643c58dce8e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04d654df29c3e5f455e53643c58dce8e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/678699972"
+      }
+    },
+    {
+      "id": "757235152",
+      "name": "Angela",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/7/0/2371965117e1ac09f937109ac11488b5.mp3?hdnea=exp=1774860050~acl=/api/1/1/2/3/7/0/2371965117e1ac09f937109ac11488b5.mp3*~data=user_id=0,application_id=42~hmac=db244039c4afa57e44a1d68e69d3714327a8a921d8d0f97871af66fc52840412",
+      "duration_ms": 201000,
+      "track_number": 10,
+      "album": {
+        "id": "111541412",
+        "name": "Cleopatra (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4babf4f25ccc8b29461b8f32cc2bc504/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4babf4f25ccc8b29461b8f32cc2bc504/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4babf4f25ccc8b29461b8f32cc2bc504/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "793825",
+          "name": "The Lumineers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/757235152"
+      }
+    }
+  ]
+}

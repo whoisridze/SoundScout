@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3619889162",
+      "name": "Berghain",
+      "popularity": 84,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/e/0/2beaaca61dea2b1dff152fe63abcd8f5.mp3?hdnea=exp=1774794310~acl=/api/1/1/2/b/e/0/2beaaca61dea2b1dff152fe63abcd8f5.mp3*~data=user_id=0,application_id=42~hmac=dee36a97cc1d951a7cb9a42960ff64facc511d21ac8b1fc913210dfbc727ce65",
+      "duration_ms": 178000,
+      "track_number": 1,
+      "album": {
+        "id": "843966172",
+        "name": "Berghain",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3619889162"
+      }
+    },
+    {
+      "id": "3640140952",
+      "name": "La Perla",
+      "popularity": 96,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/0/0/f806ada1454bf1444cb1c663ba5dbc90.mp3?hdnea=exp=1774794310~acl=/api/1/1/f/8/0/0/f806ada1454bf1444cb1c663ba5dbc90.mp3*~data=user_id=0,application_id=42~hmac=835d03fe5014896523b74c5b5313a617202fd640b10d47fd9377d726231df6c4",
+      "duration_ms": 195000,
+      "track_number": 2,
+      "album": {
+        "id": "851013072",
+        "name": "LUX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3640140952"
+      }
+    },
+    {
+      "id": "3640140972",
+      "name": "De Madrugá",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/0/0/340f7467f1bcd3f3c55679d46df2d7c3.mp3?hdnea=exp=1774794310~acl=/api/1/1/3/4/0/0/340f7467f1bcd3f3c55679d46df2d7c3.mp3*~data=user_id=0,application_id=42~hmac=1c592b97fea5c6a863dc67bebdac83141ebdad0bc8c1dddca9a5b3b911a3dde1",
+      "duration_ms": 104000,
+      "track_number": 3,
+      "album": {
+        "id": "851013072",
+        "name": "LUX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3640140972"
+      }
+    },
+    {
+      "id": "3640140992",
+      "name": "La Yugular",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/a/0/43ad27065c72cbfb80176fd959a70e7d.mp3?hdnea=exp=1774794310~acl=/api/1/1/4/3/a/0/43ad27065c72cbfb80176fd959a70e7d.mp3*~data=user_id=0,application_id=42~hmac=64214b190ccb7a47a4bd5c2ee8b0351da444378d4b262c2c0468b3625d840df6",
+      "duration_ms": 258000,
+      "track_number": 4,
+      "album": {
+        "id": "851013072",
+        "name": "LUX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3640140992"
+      }
+    },
+    {
+      "id": "1841999507",
+      "name": "DESPECHÁ",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/3/0/b234d28fb77426a7e59c38f0ad7d7956.mp3?hdnea=exp=1774794310~acl=/api/1/1/b/2/3/0/b234d28fb77426a7e59c38f0ad7d7956.mp3*~data=user_id=0,application_id=42~hmac=490a9282fd513937bf1273f7817fd5e1cb4e23cbb744509d153a35b2637838df",
+      "duration_ms": 157000,
+      "track_number": 5,
+      "album": {
+        "id": "340053337",
+        "name": "DESPECHÁ",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b805ed7967bdc65386883cc3790459e7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b805ed7967bdc65386883cc3790459e7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b805ed7967bdc65386883cc3790459e7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1841999507"
+      }
+    },
+    {
+      "id": "3640140912",
+      "name": "Divinize",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/d/0/13d95b5177670170fe1c99c71dc49072.mp3?hdnea=exp=1774794310~acl=/api/1/1/1/3/d/0/13d95b5177670170fe1c99c71dc49072.mp3*~data=user_id=0,application_id=42~hmac=116a4bf4dc0ae0bf5df1d42cb8b4b4a8d3da87060b4620fec3e60fa080011c5f",
+      "duration_ms": 243000,
+      "track_number": 6,
+      "album": {
+        "id": "851013072",
+        "name": "LUX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3640140912"
+      }
+    },
+    {
+      "id": "2945954741",
+      "name": "New Woman (feat. ROSALÍA)",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/d/0/93dc52226f11c00a3a722b3f8a776261.mp3?hdnea=exp=1774794310~acl=/api/1/1/9/3/d/0/93dc52226f11c00a3a722b3f8a776261.mp3*~data=user_id=0,application_id=42~hmac=caa76a71c23be23f06f31ed08bec96069750bef2f07fadaa287f5e4bcd1eb554",
+      "duration_ms": 181000,
+      "track_number": 7,
+      "album": {
+        "id": "629024731",
+        "name": "New Woman (feat. ROSALÍA)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c012b62dab4df6a49ce8ba64871fe40d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c012b62dab4df6a49ce8ba64871fe40d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c012b62dab4df6a49ce8ba64871fe40d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2945954741"
+      }
+    },
+    {
+      "id": "3640140892",
+      "name": "Sexo, Violencia y Llantas",
+      "popularity": 93,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/9/0/259716de4055f981257860113485ba50.mp3?hdnea=exp=1774794310~acl=/api/1/1/2/5/9/0/259716de4055f981257860113485ba50.mp3*~data=user_id=0,application_id=42~hmac=69cab7a8ac951af226bfc159841ba80984ecb48bd9bea183a97e204ab40cf9c0",
+      "duration_ms": 140000,
+      "track_number": 8,
+      "album": {
+        "id": "851013072",
+        "name": "LUX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3640140892"
+      }
+    },
+    {
+      "id": "3640140902",
+      "name": "Reliquia",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/2/0/02284c8a891b207da41e2fcfa30ffb87.mp3?hdnea=exp=1774794310~acl=/api/1/1/0/2/2/0/02284c8a891b207da41e2fcfa30ffb87.mp3*~data=user_id=0,application_id=42~hmac=84449c02e5df6c67880998fe680226ee14e043a21929276dab46d281c915eb8b",
+      "duration_ms": 229000,
+      "track_number": 9,
+      "album": {
+        "id": "851013072",
+        "name": "LUX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3640140902"
+      }
+    },
+    {
+      "id": "3886325891",
+      "name": "Berghain",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/2/0/8e26f583a4e07458690b37378335dafe.mp3?hdnea=exp=1774794310~acl=/api/1/1/8/e/2/0/8e26f583a4e07458690b37378335dafe.mp3*~data=user_id=0,application_id=42~hmac=028a72681936f2cab9cd8f8c37ce56acb1dcd2db5b17dbf7ed93c8038298eeb4",
+      "duration_ms": 154000,
+      "track_number": 10,
+      "album": {
+        "id": "934393141",
+        "name": "Berghain (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b85c4d022cf733667890174c4a003301/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b85c4d022cf733667890174c4a003301/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b85c4d022cf733667890174c4a003301/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "554792",
+          "name": "ROSALÍA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3886325891"
+      }
+    }
+  ]
+}

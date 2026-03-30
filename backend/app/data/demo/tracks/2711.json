@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3613215",
+      "name": "Owner of a Lonely Heart",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/a/0/32a72db166b5035d2ab5d993099e82c1.mp3?hdnea=exp=1774859984~acl=/api/1/1/3/2/a/0/32a72db166b5035d2ab5d993099e82c1.mp3*~data=user_id=0,application_id=42~hmac=ebea21b7b270c9a1eb2ff2ea27511a3f2902fb79a203fbe77bb5969807d752d0",
+      "duration_ms": 268000,
+      "track_number": 1,
+      "album": {
+        "id": "340834",
+        "name": "90125 (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3613215"
+      }
+    },
+    {
+      "id": "2538084211",
+      "name": "Yours Is No Disgrace (2023 Remaster)",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/c/0/e3ce51fdc95d93ce69085ed87521514d.mp3?hdnea=exp=1774859984~acl=/api/1/1/e/3/c/0/e3ce51fdc95d93ce69085ed87521514d.mp3*~data=user_id=0,application_id=42~hmac=358eafea63412a14a5e63f36ae2ac2d3f525eea3e5a7466d2a4ecc55888fbfee",
+      "duration_ms": 581000,
+      "track_number": 2,
+      "album": {
+        "id": "511340471",
+        "name": "The Yes Album (Super Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4cd756a657d734c1af984be290465ab1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4cd756a657d734c1af984be290465ab1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4cd756a657d734c1af984be290465ab1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2538084211"
+      }
+    },
+    {
+      "id": "2868964622",
+      "name": "Roundabout (2024 Remaster)",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/3/0/103074f8fb856286d5b81f4c1c41cca3.mp3?hdnea=exp=1774859984~acl=/api/1/1/1/0/3/0/103074f8fb856286d5b81f4c1c41cca3.mp3*~data=user_id=0,application_id=42~hmac=088f081bbfec3bd376ae9d057b76a9c2ae4273f86adaef85b81edc307a0091b6",
+      "duration_ms": 516000,
+      "track_number": 3,
+      "album": {
+        "id": "608458282",
+        "name": "Fragile (Super Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a90e983b5d8e620b6e00fee2f0fb712/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a90e983b5d8e620b6e00fee2f0fb712/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a90e983b5d8e620b6e00fee2f0fb712/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2868964622"
+      }
+    },
+    {
+      "id": "3613218",
+      "name": "Changes",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/6/0/e8666262b6a2ef8b7b58bf0d9e39feeb.mp3?hdnea=exp=1774859984~acl=/api/1/1/e/8/6/0/e8666262b6a2ef8b7b58bf0d9e39feeb.mp3*~data=user_id=0,application_id=42~hmac=8dbbe519eebda5bac7ba2f096194646e0c16cdee9da056d1cc36946cfc3f8243",
+      "duration_ms": 380000,
+      "track_number": 4,
+      "album": {
+        "id": "340834",
+        "name": "90125 (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3613218"
+      }
+    },
+    {
+      "id": "3613223",
+      "name": "Hearts",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/5/0/ed5f2abe869d589cf5e99ad90c8c72d4.mp3?hdnea=exp=1774859984~acl=/api/1/1/e/d/5/0/ed5f2abe869d589cf5e99ad90c8c72d4.mp3*~data=user_id=0,application_id=42~hmac=e819670c1d4ea0690bb9009ac6200179612439a903330f003d3de219c2f1bfb6",
+      "duration_ms": 458000,
+      "track_number": 5,
+      "album": {
+        "id": "340834",
+        "name": "90125 (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3613223"
+      }
+    },
+    {
+      "id": "716193",
+      "name": "Starship Trooper: a. Life Seeker, b. Disillusion, c. Würm",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/4/0/9a45dc34215a6f7a934e03e07323812b.mp3?hdnea=exp=1774859984~acl=/api/1/1/9/a/4/0/9a45dc34215a6f7a934e03e07323812b.mp3*~data=user_id=0,application_id=42~hmac=293dd682b30306bac5cd0824e49e582d01944bd4769b83e6a1b462bdf55cee8c",
+      "duration_ms": 569000,
+      "track_number": 6,
+      "album": {
+        "id": "85597",
+        "name": "Ultimate Yes: 35th Anniversary Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a2280085919a80732cdebad5a9cf83b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a2280085919a80732cdebad5a9cf83b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a2280085919a80732cdebad5a9cf83b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/716193"
+      }
+    },
+    {
+      "id": "3613217",
+      "name": "It Can Happen",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/4/0/01478bebf1ad35d8556a30f7b6b411ab.mp3?hdnea=exp=1774859984~acl=/api/1/1/0/1/4/0/01478bebf1ad35d8556a30f7b6b411ab.mp3*~data=user_id=0,application_id=42~hmac=0b2a392a6d300961952c9fe5702fe14998b5ec892f452fb3c60bca685240c8e1",
+      "duration_ms": 329000,
+      "track_number": 7,
+      "album": {
+        "id": "340834",
+        "name": "90125 (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3613217"
+      }
+    },
+    {
+      "id": "4087230",
+      "name": "Shoot High, Aim Low",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/1/0/51164b8bbda06d0f733e4e0474732610.mp3?hdnea=exp=1774859984~acl=/api/1/1/5/1/1/0/51164b8bbda06d0f733e4e0474732610.mp3*~data=user_id=0,application_id=42~hmac=8989a8907acf38e58bd5c8035beb9d22f75791ac07f8fec3b9fcd2f5f823a165",
+      "duration_ms": 419000,
+      "track_number": 8,
+      "album": {
+        "id": "381174",
+        "name": "Big Generator",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aad1b0c7a1c50e20b2dee02a554891f2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aad1b0c7a1c50e20b2dee02a554891f2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aad1b0c7a1c50e20b2dee02a554891f2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4087230"
+      }
+    },
+    {
+      "id": "3613220",
+      "name": "Leave It",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/d/0/e0d41855684af750325600ab26e24899.mp3?hdnea=exp=1774859984~acl=/api/1/1/e/0/d/0/e0d41855684af750325600ab26e24899.mp3*~data=user_id=0,application_id=42~hmac=2c2af5502acdadcd8f672d1768090ef34ccb020b70ea4060ffc9f0b8cbec315b",
+      "duration_ms": 253000,
+      "track_number": 9,
+      "album": {
+        "id": "340834",
+        "name": "90125 (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfa52b10ccabc192ee2e21b1c06a765e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3613220"
+      }
+    },
+    {
+      "id": "5094107",
+      "name": "Soon",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/5/0/415f402c30c5e65da927708bb3731275.mp3?hdnea=exp=1774859984~acl=/api/1/1/4/1/5/0/415f402c30c5e65da927708bb3731275.mp3*~data=user_id=0,application_id=42~hmac=4b1748261de601d8e269bf25ecc717844a1408e32069d5e23a79bdde54f4338a",
+      "duration_ms": 247000,
+      "track_number": 10,
+      "album": {
+        "id": "467296",
+        "name": "Highlights - The Very Best of Yes",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a6678edd97d9694cea4ebbf7e94d6670/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a6678edd97d9694cea4ebbf7e94d6670/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a6678edd97d9694cea4ebbf7e94d6670/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2711",
+          "name": "Yes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5094107"
+      }
+    }
+  ]
+}

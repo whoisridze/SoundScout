@@ -1,0 +1,32 @@
+{
+  "id": "7081",
+  "name": "Buju Banton",
+  "popularity": 24,
+  "followers": {
+    "total": 249360
+  },
+  "genres": [
+    "dancehall"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0c00f0b85c93362c4e7f8f8d5daf6c5d/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0c00f0b85c93362c4e7f8f8d5daf6c5d/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0c00f0b85c93362c4e7f8f8d5daf6c5d/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/7081"
+  },
+  "uri": "deezer:artist:7081"
+}

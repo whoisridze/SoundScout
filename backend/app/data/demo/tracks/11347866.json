@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3528333971",
+      "name": "Catch Me Outside",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/0/0/9104edad8dea2a044606f775bc5577b2.mp3?hdnea=exp=1774859908~acl=/api/1/1/9/1/0/0/9104edad8dea2a044606f775bc5577b2.mp3*~data=user_id=0,application_id=42~hmac=32f8ac8a6ede00598b2af78ca135ebdcf77b5a6bf02c67a4109d1856a5101f25",
+      "duration_ms": 145000,
+      "track_number": 1,
+      "album": {
+        "id": "811682571",
+        "name": "You Will Regret (Reloaded)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42ea098bc5ef44aad771525dd9798c50/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42ea098bc5ef44aad771525dd9798c50/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42ea098bc5ef44aad771525dd9798c50/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3528333971"
+      }
+    },
+    {
+      "id": "2626620522",
+      "name": "Fly Away",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/a/0/93a29cfa476141e838c30ba8db8c125c.mp3?hdnea=exp=1774859908~acl=/api/1/1/9/3/a/0/93a29cfa476141e838c30ba8db8c125c.mp3*~data=user_id=0,application_id=42~hmac=c0e8c4fe3338e851eeef1f9747cc69ba1c442b40ba961aec3e993f71cde76010",
+      "duration_ms": 186000,
+      "track_number": 2,
+      "album": {
+        "id": "536805652",
+        "name": "All Is Yellow",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fece4f339005371dc0fb87eec1acecea/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fece4f339005371dc0fb87eec1acecea/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fece4f339005371dc0fb87eec1acecea/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2626620522"
+      }
+    },
+    {
+      "id": "2495350401",
+      "name": "COWBELL WARRIORS!",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/0/0/e30410bff976f43b4cfbca92fc3def91.mp3?hdnea=exp=1774859908~acl=/api/1/1/e/3/0/0/e30410bff976f43b4cfbca92fc3def91.mp3*~data=user_id=0,application_id=42~hmac=0bc175ee63caa05aec9ac88e4b9b6635fbf1f1943edee9e7c6d0d138ecc34190",
+      "duration_ms": 149000,
+      "track_number": 3,
+      "album": {
+        "id": "499240551",
+        "name": "COWBELL WARRIORS!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99c7fdb8106530a2307d7d82bc1e8df8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99c7fdb8106530a2307d7d82bc1e8df8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99c7fdb8106530a2307d7d82bc1e8df8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2495350401"
+      }
+    },
+    {
+      "id": "395398262",
+      "name": "Take A Step Back",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/e/0/8aee1262ff265b496cc14a8101931d27.mp3?hdnea=exp=1774859908~acl=/api/1/1/8/a/e/0/8aee1262ff265b496cc14a8101931d27.mp3*~data=user_id=0,application_id=42~hmac=e7a733a93082e4c0d522fbc5d90828f6e39e9e3c0e2fc789ac114b500a67346a",
+      "duration_ms": 210000,
+      "track_number": 4,
+      "album": {
+        "id": "46404862",
+        "name": "Underground Rap",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/47c1441f5bb711ca3b4689dda9db20f7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/47c1441f5bb711ca3b4689dda9db20f7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/47c1441f5bb711ca3b4689dda9db20f7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/395398262"
+      }
+    },
+    {
+      "id": "3527344471",
+      "name": "Unbothered",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/7/0/f4718ef539d7e61a56209d9721dc27ac.mp3?hdnea=exp=1774859908~acl=/api/1/1/f/4/7/0/f4718ef539d7e61a56209d9721dc27ac.mp3*~data=user_id=0,application_id=42~hmac=a5163dc714de739279404ecb8c2f22e97b2eaef020ffb9cb630051e9b1c6ff1e",
+      "duration_ms": 138000,
+      "track_number": 5,
+      "album": {
+        "id": "811410381",
+        "name": "STOKELEY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/124357a892c8fe5a57b93e62634e2298/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/124357a892c8fe5a57b93e62634e2298/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/124357a892c8fe5a57b93e62634e2298/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3527344471"
+      }
+    },
+    {
+      "id": "3530841791",
+      "name": "Burn The Hoods",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/1/0/f51372da7b7e5a4275b8acb6101beffd.mp3?hdnea=exp=1774859908~acl=/api/1/1/f/5/1/0/f51372da7b7e5a4275b8acb6101beffd.mp3*~data=user_id=0,application_id=42~hmac=8d2e49c602c055991c1d2630c6f35b9f3ef370d6ad3b92aa228c2baa945ee205",
+      "duration_ms": 102000,
+      "track_number": 6,
+      "album": {
+        "id": "812413511",
+        "name": "Burn The Hoods",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e01c399580293f8eed5bb8e16688c44/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e01c399580293f8eed5bb8e16688c44/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e01c399580293f8eed5bb8e16688c44/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3530841791"
+      }
+    },
+    {
+      "id": "3526975171",
+      "name": "DoIHaveTheSause?",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/e/0/32ed020d9d8458d06a6f4950dcf9ecea.mp3?hdnea=exp=1774859908~acl=/api/1/1/3/2/e/0/32ed020d9d8458d06a6f4950dcf9ecea.mp3*~data=user_id=0,application_id=42~hmac=9a1fc63957f575b8b186ae5e16685362fd91d6c212b45e73e004d9e0f8914a26",
+      "duration_ms": 178000,
+      "track_number": 7,
+      "album": {
+        "id": "811285751",
+        "name": "BEWARE THE BOOK OF ELI",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d80602768f707687a81f6e1797f04ffb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d80602768f707687a81f6e1797f04ffb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d80602768f707687a81f6e1797f04ffb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3526975171"
+      }
+    },
+    {
+      "id": "3526881981",
+      "name": "Shibuya",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/b/0/2abc3909d55ad6d9cdf238e013fb1548.mp3?hdnea=exp=1774859908~acl=/api/1/1/2/a/b/0/2abc3909d55ad6d9cdf238e013fb1548.mp3*~data=user_id=0,application_id=42~hmac=413cdc6601eb5db9875f35062e1e852f5663e89f84de4c3f0f35426f81660d82",
+      "duration_ms": 156000,
+      "track_number": 8,
+      "album": {
+        "id": "811250081",
+        "name": "11th Dimension",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf7b4c0cdb962ec85f5121720a3c9b1e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf7b4c0cdb962ec85f5121720a3c9b1e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf7b4c0cdb962ec85f5121720a3c9b1e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3526881981"
+      }
+    },
+    {
+      "id": "2887290162",
+      "name": "HIT THE FLOOR",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/f/0/3ef99052c22abd9235fca79b93322706.mp3?hdnea=exp=1774859908~acl=/api/1/1/3/e/f/0/3ef99052c22abd9235fca79b93322706.mp3*~data=user_id=0,application_id=42~hmac=57b185c87014ca2af741b8ec01b053fb4752387cc74921802d050b1ceb9e0169",
+      "duration_ms": 206000,
+      "track_number": 9,
+      "album": {
+        "id": "614353722",
+        "name": "King Of The Mischievous South Vol. 2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8935b308fc76ba555e12e6dce05989c4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8935b308fc76ba555e12e6dce05989c4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8935b308fc76ba555e12e6dce05989c4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2887290162"
+      }
+    },
+    {
+      "id": "583036102",
+      "name": "Durgaflowz",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/7/0/d47edcc6c33026b7ec18d456235cf2b0.mp3?hdnea=exp=1774859908~acl=/api/1/1/d/4/7/0/d47edcc6c33026b7ec18d456235cf2b0.mp3*~data=user_id=0,application_id=42~hmac=955a8eb19421df704884cdecd3814a11e5389387f67ed3f3d82c684306012b63",
+      "duration_ms": 96000,
+      "track_number": 10,
+      "album": {
+        "id": "78160022",
+        "name": "Durgaflowz",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf96c32dd3ef2aeaa6644727014b9cd2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf96c32dd3ef2aeaa6644727014b9cd2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf96c32dd3ef2aeaa6644727014b9cd2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11347866",
+          "name": "Ski Mask the Slump God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/583036102"
+      }
+    }
+  ]
+}

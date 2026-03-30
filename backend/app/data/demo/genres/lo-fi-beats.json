@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "1978",
+      "name": "Nujabes",
+      "popularity": 10,
+      "followers": {
+        "total": 100687
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/66061639b73edb7a01e8de7a1990eaa2/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/66061639b73edb7a01e8de7a1990eaa2/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/66061639b73edb7a01e8de7a1990eaa2/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1978"
+      },
+      "uri": "deezer:artist:1978"
+    },
+    {
+      "id": "4064",
+      "name": "J Dilla",
+      "popularity": 7,
+      "followers": {
+        "total": 78478
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a831d82f59a1ea05fe9b72109a62a228/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a831d82f59a1ea05fe9b72109a62a228/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a831d82f59a1ea05fe9b72109a62a228/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4064"
+      },
+      "uri": "deezer:artist:4064"
+    },
+    {
+      "id": "10161146",
+      "name": "Tomppabeats",
+      "popularity": 53,
+      "followers": {
+        "total": 5301
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c4df79b02e90246a7e317fb91323e0a5/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c4df79b02e90246a7e317fb91323e0a5/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c4df79b02e90246a7e317fb91323e0a5/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10161146"
+      },
+      "uri": "deezer:artist:10161146"
+    },
+    {
+      "id": "11424216",
+      "name": "Jinsang",
+      "popularity": 93,
+      "followers": {
+        "total": 9310
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b26e1ae3fc26033e9c0adfd35e8f4128/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b26e1ae3fc26033e9c0adfd35e8f4128/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b26e1ae3fc26033e9c0adfd35e8f4128/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/11424216"
+      },
+      "uri": "deezer:artist:11424216"
+    },
+    {
+      "id": "11594063",
+      "name": "bsd.u",
+      "popularity": 19,
+      "followers": {
+        "total": 1953
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8b825589bb080af1daa2c0c34b335f30/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8b825589bb080af1daa2c0c34b335f30/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8b825589bb080af1daa2c0c34b335f30/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/11594063"
+      },
+      "uri": "deezer:artist:11594063"
+    },
+    {
+      "id": "11900657",
+      "name": "Idealism",
+      "popularity": 68,
+      "followers": {
+        "total": 6898
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2e1b4df892dc2c92dc48b90035f68ccc/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2e1b4df892dc2c92dc48b90035f68ccc/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2e1b4df892dc2c92dc48b90035f68ccc/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/11900657"
+      },
+      "uri": "deezer:artist:11900657"
+    },
+    {
+      "id": "5941718",
+      "name": "Kupla",
+      "popularity": 62,
+      "followers": {
+        "total": 6212
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/918823ffb3705b957530188784fcc875/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/918823ffb3705b957530188784fcc875/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/918823ffb3705b957530188784fcc875/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5941718"
+      },
+      "uri": "deezer:artist:5941718"
+    },
+    {
+      "id": "7115213",
+      "name": "Philanthrope",
+      "popularity": 35,
+      "followers": {
+        "total": 3517
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/48a6a95e9fe53d70b0ace28dfe18835a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/48a6a95e9fe53d70b0ace28dfe18835a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/48a6a95e9fe53d70b0ace28dfe18835a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7115213"
+      },
+      "uri": "deezer:artist:7115213"
+    },
+    {
+      "id": "12516376",
+      "name": "Elijah Who",
+      "popularity": 48,
+      "followers": {
+        "total": 4823
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/da19167741cc1d49ba24579542ce7b66/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/da19167741cc1d49ba24579542ce7b66/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/da19167741cc1d49ba24579542ce7b66/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/12516376"
+      },
+      "uri": "deezer:artist:12516376"
+    },
+    {
+      "id": "5847028",
+      "name": "Aso",
+      "popularity": 19,
+      "followers": {
+        "total": 1968
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/94fbabd5c38b3d97c5d0cea8e014cd40/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/94fbabd5c38b3d97c5d0cea8e014cd40/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/94fbabd5c38b3d97c5d0cea8e014cd40/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5847028"
+      },
+      "uri": "deezer:artist:5847028"
+    },
+    {
+      "id": "5351322",
+      "name": "Saib",
+      "popularity": 52,
+      "followers": {
+        "total": 5216
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/42834b8c77870479b633fd544dca2e06/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/42834b8c77870479b633fd544dca2e06/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/42834b8c77870479b633fd544dca2e06/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5351322"
+      },
+      "uri": "deezer:artist:5351322"
+    },
+    {
+      "id": "11148408",
+      "name": "Nymano",
+      "popularity": 26,
+      "followers": {
+        "total": 2696
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e11ae50deef19d71aee378e7c5628e74/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e11ae50deef19d71aee378e7c5628e74/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e11ae50deef19d71aee378e7c5628e74/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/11148408"
+      },
+      "uri": "deezer:artist:11148408"
+    },
+    {
+      "id": "4860557",
+      "name": "Wun two",
+      "popularity": 37,
+      "followers": {
+        "total": 3738
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e620a98fa0da90bf4770ba1adea130e9/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e620a98fa0da90bf4770ba1adea130e9/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e620a98fa0da90bf4770ba1adea130e9/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4860557"
+      },
+      "uri": "deezer:artist:4860557"
+    },
+    {
+      "id": "13553109",
+      "name": "Psalm Trees",
+      "popularity": 11,
+      "followers": {
+        "total": 1171
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/781ac7db6900c2ca85d00f530a81c842/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/781ac7db6900c2ca85d00f530a81c842/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/781ac7db6900c2ca85d00f530a81c842/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/13553109"
+      },
+      "uri": "deezer:artist:13553109"
+    },
+    {
+      "id": "11859409",
+      "name": "mt. fujitive",
+      "popularity": 9,
+      "followers": {
+        "total": 912
+      },
+      "genres": [
+        "lo-fi beats"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4095e3652d77cd8387651ca2557f2343/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4095e3652d77cd8387651ca2557f2343/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4095e3652d77cd8387651ca2557f2343/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/11859409"
+      },
+      "uri": "deezer:artist:11859409"
+    }
+  ]
+}

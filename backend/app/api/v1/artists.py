@@ -1,7 +1,9 @@
 from typing import Optional
+from urllib.parse import quote
 
-from fastapi import APIRouter, Query
+from fastapi import APIRouter, Query, Request
 
+from app.core.config import settings
 from app.core.exceptions import NotFoundError, SpotifyAPIError
 from app.services import deezer, spotify
 
@@ -142,7 +144,7 @@ async def get_artists_by_genre(
 
 
 @router.get("/artist/{artist_id}/tracks")
-async def get_artist_tracks(artist_id: str):
+async def get_artist_tracks(artist_id: str, request: Request):
     """Get artist's top tracks."""
     try:
         tracks_data = await spotify.get_artist_top_tracks(artist_id)
@@ -174,7 +176,19 @@ async def get_artist_tracks(artist_id: str):
         for t in tracks
     ]
 
+    # In demo mode, cached Deezer URLs expire — fetch fresh ones
+    if settings.demo_mode:
+        for t in formatted:
+            t["preview_url"] = None
+
     # Fill missing preview URLs from Deezer
     formatted = await deezer.enrich_tracks(formatted)
+
+    # Proxy Deezer URLs through our backend to avoid CDN referrer blocks
+    if settings.demo_mode:
+        base = str(request.base_url).rstrip("/")
+        for t in formatted:
+            if t["preview_url"] and "dzcdn.net" in t["preview_url"]:
+                t["preview_url"] = f"{base}/api/v1/proxy/audio?url={quote(t['preview_url'])}"
 
     return {"artist_id": artist_id, "tracks": formatted, "total": len(formatted)}

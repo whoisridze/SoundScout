@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "5967069",
+      "name": "Chicken",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/b/0/7ebebf1b72b60c661dabe7c3792a97ba.mp3?hdnea=exp=1774859920~acl=/api/1/1/7/e/b/0/7ebebf1b72b60c661dabe7c3792a97ba.mp3*~data=user_id=0,application_id=42~hmac=9d6f9f8555ab2acd006b1e9967a79443e06ea6756f349655945e76d02928ac52",
+      "duration_ms": 352000,
+      "track_number": 1,
+      "album": {
+        "id": "543148",
+        "name": "Broadway Blues",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df89037f2ce29af954f715733133b62b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df89037f2ce29af954f715733133b62b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df89037f2ce29af954f715733133b62b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5967069"
+      }
+    },
+    {
+      "id": "61214193",
+      "name": "Blackbird",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/0/0/d80489a7377c32248523ec260c3ffe31.mp3?hdnea=exp=1774859920~acl=/api/1/1/d/8/0/0/d80489a7377c32248523ec260c3ffe31.mp3*~data=user_id=0,application_id=42~hmac=af079b1a92594d9f8622b153ff12e1027b81ff9d2701219fadf30c9fa1ee1678",
+      "duration_ms": 167000,
+      "track_number": 2,
+      "album": {
+        "id": "5996447",
+        "name": "Word Of Mouth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c15288872764266933131ac8c7860b5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c15288872764266933131ac8c7860b5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c15288872764266933131ac8c7860b5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/61214193"
+      }
+    },
+    {
+      "id": "15743023",
+      "name": "Portrait of Tracy",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/0/0/6d0cd34cc44ef3ee20eb9562341e6a56.mp3?hdnea=exp=1774859920~acl=/api/1/1/6/d/0/0/6d0cd34cc44ef3ee20eb9562341e6a56.mp3*~data=user_id=0,application_id=42~hmac=4c8b06b1ae8c2a9f7d6d07b281117c2e520acdf9da14aedb1b8df7d6bf33789b",
+      "duration_ms": 143000,
+      "track_number": 3,
+      "album": {
+        "id": "1454482",
+        "name": "Jaco Pastorius",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15743023"
+      }
+    },
+    {
+      "id": "113552252",
+      "name": "Straight Life",
+      "popularity": 5,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/a/0/98ac7f9916093377178b819f484a6b9e.mp3?hdnea=exp=1774859920~acl=/api/1/1/9/8/a/0/98ac7f9916093377178b819f484a6b9e.mp3*~data=user_id=0,application_id=42~hmac=deec5df49337e64a2e4454cfa37f8587afed095195da6ae2cb9a4f158bfc5b0e",
+      "duration_ms": 412000,
+      "track_number": 4,
+      "album": {
+        "id": "11763004",
+        "name": "Live in New York City, Vol. 2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0192b274ed7941b585a6a9debc89b6ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0192b274ed7941b585a6a9debc89b6ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0192b274ed7941b585a6a9debc89b6ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/113552252"
+      }
+    },
+    {
+      "id": "4396507",
+      "name": "I Shot the Sheriff",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/5/0/0f5a352e35b63e78b55ccff4b16caa75.mp3?hdnea=exp=1774859920~acl=/api/1/1/0/f/5/0/0f5a352e35b63e78b55ccff4b16caa75.mp3*~data=user_id=0,application_id=42~hmac=7c4855919e0ae03fcea5bfea771fed15034c4fa4aaf5e4a30ef8c0155f1a8df2",
+      "duration_ms": 631000,
+      "track_number": 5,
+      "album": {
+        "id": "408013",
+        "name": "Live in Italy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4b5eb9b3983436a12e851170e2d1ef45/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4b5eb9b3983436a12e851170e2d1ef45/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4b5eb9b3983436a12e851170e2d1ef45/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4396507"
+      }
+    },
+    {
+      "id": "15743020",
+      "name": "Come On, Come Over",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/c/0/1fc6c06ffb1e47931aba3b8666ae7801.mp3?hdnea=exp=1774859920~acl=/api/1/1/1/f/c/0/1fc6c06ffb1e47931aba3b8666ae7801.mp3*~data=user_id=0,application_id=42~hmac=affce80a9b20aff2dcd9a6c37803ef784a2e894460b4b074c0efb94c928f39a9",
+      "duration_ms": 234000,
+      "track_number": 6,
+      "album": {
+        "id": "1454482",
+        "name": "Jaco Pastorius",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15743020"
+      }
+    },
+    {
+      "id": "15743022",
+      "name": "Kuru/Speak Like A Child (Album Version)",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/3/0/103b1834feb1347e333e9cb29b9abe05.mp3?hdnea=exp=1774859920~acl=/api/1/1/1/0/3/0/103b1834feb1347e333e9cb29b9abe05.mp3*~data=user_id=0,application_id=42~hmac=c21d1d596d3c38af1f765a409fd45d6ff279487165d00a3f8d6275c5eeff9b47",
+      "duration_ms": 463000,
+      "track_number": 7,
+      "album": {
+        "id": "1454482",
+        "name": "Jaco Pastorius",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15743022"
+      }
+    },
+    {
+      "id": "683395",
+      "name": "Invitation",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/0/0/21005a2f6bbc97ac3514f67df16e5122.mp3?hdnea=exp=1774859920~acl=/api/1/1/2/1/0/0/21005a2f6bbc97ac3514f67df16e5122.mp3*~data=user_id=0,application_id=42~hmac=1e064729c5446487dfacee56059c3f0778a20b09ef85bcb406c6913f61afcc53",
+      "duration_ms": 417000,
+      "track_number": 8,
+      "album": {
+        "id": "82400",
+        "name": "Invitation [Live]",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f34251d269af6410d806e44f92325a75/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f34251d269af6410d806e44f92325a75/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f34251d269af6410d806e44f92325a75/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/683395"
+      }
+    },
+    {
+      "id": "3601054",
+      "name": "Elegant People (Live in Japan 1982)",
+      "popularity": 4,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/f/0/dff09ee0205c216329a460da16046674.mp3?hdnea=exp=1774859920~acl=/api/1/1/d/f/f/0/dff09ee0205c216329a460da16046674.mp3*~data=user_id=0,application_id=42~hmac=73d6dce49203992b0eef1f580a8ebefc8491dcf8cc269b001fb56a63443b455f",
+      "duration_ms": 764000,
+      "track_number": 9,
+      "album": {
+        "id": "339809",
+        "name": "Twins Live In Japan 1982",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab3c1a6b13c366c802e98ff721c8cfd9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab3c1a6b13c366c802e98ff721c8cfd9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab3c1a6b13c366c802e98ff721c8cfd9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3601054"
+      }
+    },
+    {
+      "id": "15743026",
+      "name": "(Used To Be A) Cha-Cha (Album Version)",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/b/0/d5b62d5c24039a1be12c054f09ffee8a.mp3?hdnea=exp=1774859920~acl=/api/1/1/d/5/b/0/d5b62d5c24039a1be12c054f09ffee8a.mp3*~data=user_id=0,application_id=42~hmac=e4632607b7ee9df5b90a4418130cac75d461193310f29450c50f137abffff0ae",
+      "duration_ms": 537000,
+      "track_number": 10,
+      "album": {
+        "id": "1454482",
+        "name": "Jaco Pastorius",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8001af37059c0f0fb567747aed4491cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10702",
+          "name": "Jaco Pastorius"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15743026"
+      }
+    }
+  ]
+}

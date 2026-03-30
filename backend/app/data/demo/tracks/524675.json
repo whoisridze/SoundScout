@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2320991595",
+      "name": "The Trip",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/f/0/adfc79a7056f26afb903ba6c17afc5e5.mp3?hdnea=exp=1774859894~acl=/api/1/1/a/d/f/0/adfc79a7056f26afb903ba6c17afc5e5.mp3*~data=user_id=0,application_id=42~hmac=020311edde2254ea994ba69ef0efbecaa1686c1bb218534141516dbc8edcec74",
+      "duration_ms": 374000,
+      "track_number": 1,
+      "album": {
+        "id": "451235965",
+        "name": "Strange Pleasures",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62ec083ba04da7e3074c720d167e1693/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62ec083ba04da7e3074c720d167e1693/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62ec083ba04da7e3074c720d167e1693/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2320991595"
+      }
+    },
+    {
+      "id": "2613573922",
+      "name": "The Dream",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12d39f00dfcdd286303db1d421099df.mp3?hdnea=exp=1774859894~acl=/api/1/1/a/1/2/0/a12d39f00dfcdd286303db1d421099df.mp3*~data=user_id=0,application_id=42~hmac=a3eff89f6129f86d0fe796a2daad61d8794c98935178cfa1dc19636326230168",
+      "duration_ms": 289000,
+      "track_number": 2,
+      "album": {
+        "id": "532744172",
+        "name": "Dream Talk",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/961381e1c3146ddba55939056d22b99a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/961381e1c3146ddba55939056d22b99a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/961381e1c3146ddba55939056d22b99a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2613573922"
+      }
+    },
+    {
+      "id": "516491712",
+      "name": "Black Lagoon",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/6/0/c26ee2fb8240dc0c543e389572d270ab.mp3?hdnea=exp=1774859894~acl=/api/1/1/c/2/6/0/c26ee2fb8240dc0c543e389572d270ab.mp3*~data=user_id=0,application_id=42~hmac=cad48aabbebd82fc8ae4820eef14ba3aaf817e90bb39f1ba13181333fdcaa443",
+      "duration_ms": 333000,
+      "track_number": 3,
+      "album": {
+        "id": "66333372",
+        "name": "Black Lagoon",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c5ee45580152168455fc4cd7ce9b9cf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c5ee45580152168455fc4cd7ce9b9cf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c5ee45580152168455fc4cd7ce9b9cf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/516491712"
+      }
+    },
+    {
+      "id": "1142764332",
+      "name": "White Sands",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/1/0/bb160d4ee489177a44891d2332929969.mp3?hdnea=exp=1774859894~acl=/api/1/1/b/b/1/0/bb160d4ee489177a44891d2332929969.mp3*~data=user_id=0,application_id=42~hmac=9766c116ac26f2cc3dac16c094da868b5df34ac74f1058c5fd0db2657577301a",
+      "duration_ms": 335000,
+      "track_number": 4,
+      "album": {
+        "id": "186392422",
+        "name": "White Sands",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fb809a96fd0161d4092257393f7285b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fb809a96fd0161d4092257393f7285b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fb809a96fd0161d4092257393f7285b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1142764332"
+      }
+    },
+    {
+      "id": "2182609917",
+      "name": "In the Middle of the Night",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/3/0/653c0051a3a9f4e962a1477449f7caa0.mp3?hdnea=exp=1774859894~acl=/api/1/1/6/5/3/0/653c0051a3a9f4e962a1477449f7caa0.mp3*~data=user_id=0,application_id=42~hmac=c9c1eaff192f25307313b46baa1a0b4f2d5d2fe087bad1a39d8d79b6f9368272",
+      "duration_ms": 219000,
+      "track_number": 5,
+      "album": {
+        "id": "415468917",
+        "name": "Slow Air",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99d23d6287370f11826a6790b267da72/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99d23d6287370f11826a6790b267da72/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99d23d6287370f11826a6790b267da72/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2182609917"
+      }
+    },
+    {
+      "id": "2182609927",
+      "name": "The Message",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/9/0/179d731629fb829483822fd33887e803.mp3?hdnea=exp=1774859894~acl=/api/1/1/1/7/9/0/179d731629fb829483822fd33887e803.mp3*~data=user_id=0,application_id=42~hmac=02f4ac860e2d20bb8892e235917ae810d4e7080df7ca5d01d904c4ac10a41384",
+      "duration_ms": 292000,
+      "track_number": 6,
+      "album": {
+        "id": "415468917",
+        "name": "Slow Air",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99d23d6287370f11826a6790b267da72/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99d23d6287370f11826a6790b267da72/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99d23d6287370f11826a6790b267da72/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2182609927"
+      }
+    },
+    {
+      "id": "2320991685",
+      "name": "Midnight Drive",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/0/0/5a0f62c3319c01ca655d54ea24f28e3c.mp3?hdnea=exp=1774859894~acl=/api/1/1/5/a/0/0/5a0f62c3319c01ca655d54ea24f28e3c.mp3*~data=user_id=0,application_id=42~hmac=a3cffa1b8c5359772a87deea3f9b7c38928e2a951e5583c30dab9a6ace018526",
+      "duration_ms": 264000,
+      "track_number": 7,
+      "album": {
+        "id": "451235965",
+        "name": "Strange Pleasures",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62ec083ba04da7e3074c720d167e1693/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62ec083ba04da7e3074c720d167e1693/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62ec083ba04da7e3074c720d167e1693/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2320991685"
+      }
+    },
+    {
+      "id": "2164748637",
+      "name": "Far Rider",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/4/0/5649fa46049308c4644921fe5a0ac92e.mp3?hdnea=exp=1774859894~acl=/api/1/1/5/6/4/0/5649fa46049308c4644921fe5a0ac92e.mp3*~data=user_id=0,application_id=42~hmac=085e8313c6646d49a9a59e0c4f5fe5395041a4b833a312f38312a6c0d9a7c18a",
+      "duration_ms": 425000,
+      "track_number": 8,
+      "album": {
+        "id": "411169297",
+        "name": "Far Rider",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc6d623ab8beac5ff244341b89f79fca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc6d623ab8beac5ff244341b89f79fca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc6d623ab8beac5ff244341b89f79fca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2164748637"
+      }
+    },
+    {
+      "id": "2680695002",
+      "name": "Today is the Day",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/0/0/820d8ee7251d7d8bdb2e7887581d517a.mp3?hdnea=exp=1774859894~acl=/api/1/1/8/2/0/0/820d8ee7251d7d8bdb2e7887581d517a.mp3*~data=user_id=0,application_id=42~hmac=470ae7c8f2993e5368e0051f974f364010395fb26c23f43b5a2e7d4263d2c39c",
+      "duration_ms": 263000,
+      "track_number": 9,
+      "album": {
+        "id": "553406332",
+        "name": "Today is the Day",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c903f834bbbfaed80e592820948b01a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c903f834bbbfaed80e592820948b01a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c903f834bbbfaed80e592820948b01a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2680695002"
+      }
+    },
+    {
+      "id": "3402855661",
+      "name": "Summer Nights",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/f/0/e3f0e83bcf4ab26a2afcee419223a0e5.mp3?hdnea=exp=1774859894~acl=/api/1/1/e/3/f/0/e3f0e83bcf4ab26a2afcee419223a0e5.mp3*~data=user_id=0,application_id=42~hmac=70f0e2d978a39c120b2fbeefffc93015743cf487aab60906cf39ffea516f7a92",
+      "duration_ms": 217000,
+      "track_number": 10,
+      "album": {
+        "id": "768604881",
+        "name": "Summer Nights",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/85191572add492abd3c31fdabf16398a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/85191572add492abd3c31fdabf16398a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/85191572add492abd3c31fdabf16398a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "524675",
+          "name": "Still Corners"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3402855661"
+      }
+    }
+  ]
+}

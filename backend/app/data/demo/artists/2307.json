@@ -1,0 +1,32 @@
+{
+  "id": "2307",
+  "name": "Josh Groban",
+  "popularity": 13,
+  "followers": {
+    "total": 133870
+  },
+  "genres": [
+    "easy listening"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/311696f7f21875f5076ae66f39bbb9f0/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/311696f7f21875f5076ae66f39bbb9f0/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/311696f7f21875f5076ae66f39bbb9f0/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2307"
+  },
+  "uri": "deezer:artist:2307"
+}

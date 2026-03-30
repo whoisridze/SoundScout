@@ -1,0 +1,32 @@
+{
+  "id": "569",
+  "name": "The Strokes",
+  "popularity": 99,
+  "followers": {
+    "total": 1705554
+  },
+  "genres": [
+    "indie rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/88e8ecd06aae5cd69d414af57a67f339/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/88e8ecd06aae5cd69d414af57a67f339/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/88e8ecd06aae5cd69d414af57a67f339/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/569"
+  },
+  "uri": "deezer:artist:569"
+}

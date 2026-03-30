@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2599906",
+      "name": "La Estiba",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/8/0/fa886daf5f161a89cfefb51df3866bb9.mp3?hdnea=exp=1774859921~acl=/api/1/1/f/a/8/0/fa886daf5f161a89cfefb51df3866bb9.mp3*~data=user_id=0,application_id=42~hmac=7d6563de607debc80cc4de184955062dd1b8684850bebf7674ae51223e7935ce",
+      "duration_ms": 350000,
+      "track_number": 1,
+      "album": {
+        "id": "253604",
+        "name": "Paco De Lucia, Al Di Meola, John McLaughlin",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/abb99dfaa3fd190d5e6b7a43d17f6576/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/abb99dfaa3fd190d5e6b7a43d17f6576/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/abb99dfaa3fd190d5e6b7a43d17f6576/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2599906"
+      }
+    },
+    {
+      "id": "2450107",
+      "name": "Vital Transformation",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/6/0/8a64bcd2228eb52f43eb010665851c78.mp3?hdnea=exp=1774859921~acl=/api/1/1/8/a/6/0/8a64bcd2228eb52f43eb010665851c78.mp3*~data=user_id=0,application_id=42~hmac=a51217cbcd443a2d38942163eb80f3b0a91a768dc5371cca219711e7634db5ca",
+      "duration_ms": 376000,
+      "track_number": 2,
+      "album": {
+        "id": "98995",
+        "name": "The Inner Mounting Flame",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2450107"
+      }
+    },
+    {
+      "id": "403653062",
+      "name": "Vuelta Abajo (Live)",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/d/0/cbdb27883e6c7f19dc44a6eb9d62a3d0.mp3?hdnea=exp=1774859921~acl=/api/1/1/c/b/d/0/cbdb27883e6c7f19dc44a6eb9d62a3d0.mp3*~data=user_id=0,application_id=42~hmac=c6616c3c543753d4306bff180d34ec14feb705f061eeb3976f50703d19a83b2e",
+      "duration_ms": 404000,
+      "track_number": 3,
+      "album": {
+        "id": "47621612",
+        "name": "Live At Montreux 2011: Invitation To Illumination",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6786710f42c2697a5eea13f84539d4a0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6786710f42c2697a5eea13f84539d4a0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6786710f42c2697a5eea13f84539d4a0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/403653062"
+      }
+    },
+    {
+      "id": "2450106",
+      "name": "The Noonward Race",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/3/0/553ba65370e62f112b2b5c59d6c51359.mp3?hdnea=exp=1774859921~acl=/api/1/1/5/5/3/0/553ba65370e62f112b2b5c59d6c51359.mp3*~data=user_id=0,application_id=42~hmac=6f00deae4b78f837f45e68708d245335bde64de643873e4cce4aa3080b87f405",
+      "duration_ms": 388000,
+      "track_number": 4,
+      "album": {
+        "id": "98995",
+        "name": "The Inner Mounting Flame",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2450106"
+      }
+    },
+    {
+      "id": "2450177",
+      "name": "Dawn",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/d/0/b1d86949038020b140b2ae50acc81600.mp3?hdnea=exp=1774859921~acl=/api/1/1/b/1/d/0/b1d86949038020b140b2ae50acc81600.mp3*~data=user_id=0,application_id=42~hmac=bc1c66142d82bccc3ede710883dfb034f511e6c81a371a7ddb011004c0d1e9c1",
+      "duration_ms": 310000,
+      "track_number": 5,
+      "album": {
+        "id": "98995",
+        "name": "The Inner Mounting Flame",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2450177"
+      }
+    },
+    {
+      "id": "2450128",
+      "name": "A Lotus On Irish Streams",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/2/0/1324042c48fcbfd2cd4eb63e2a3f1b10.mp3?hdnea=exp=1774859921~acl=/api/1/1/1/3/2/0/1324042c48fcbfd2cd4eb63e2a3f1b10.mp3*~data=user_id=0,application_id=42~hmac=1c0ce465cba33e5f031b49f5e6f1f2a549cbfbe37c625a94715ef724b671e80b",
+      "duration_ms": 339000,
+      "track_number": 6,
+      "album": {
+        "id": "98995",
+        "name": "The Inner Mounting Flame",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6186f701166b1727747cd6089f843c20/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2450128"
+      }
+    },
+    {
+      "id": "2599909",
+      "name": "Manhã De Carnaval",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/2/0/f52b4b27df56180d7a9fe2ffb806ebbc.mp3?hdnea=exp=1774859921~acl=/api/1/1/f/5/2/0/f52b4b27df56180d7a9fe2ffb806ebbc.mp3*~data=user_id=0,application_id=42~hmac=3735264015a98c8a33f2f1cd7cb3bbee968013ec433262e243ce6da8608d009b",
+      "duration_ms": 372000,
+      "track_number": 7,
+      "album": {
+        "id": "253604",
+        "name": "Paco De Lucia, Al Di Meola, John McLaughlin",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/abb99dfaa3fd190d5e6b7a43d17f6576/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/abb99dfaa3fd190d5e6b7a43d17f6576/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/abb99dfaa3fd190d5e6b7a43d17f6576/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2599909"
+      }
+    },
+    {
+      "id": "3318738991",
+      "name": "Mr. Dc (Live)",
+      "popularity": 7,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/1/0/9517b8baabfca77f253dedaf1d5ec4f6.mp3?hdnea=exp=1774859921~acl=/api/1/1/9/5/1/0/9517b8baabfca77f253dedaf1d5ec4f6.mp3*~data=user_id=0,application_id=42~hmac=11e6a33d3ae0fc04cad70ee1a762ed08320154d94d0e98682076d5503b9c6b49",
+      "duration_ms": 305000,
+      "track_number": 8,
+      "album": {
+        "id": "740621501",
+        "name": "Live at Montreux Jazz Festival 2022",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f123ea2ba36ff26bc3df2d668420531/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f123ea2ba36ff26bc3df2d668420531/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f123ea2ba36ff26bc3df2d668420531/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3318738991"
+      }
+    },
+    {
+      "id": "1031231",
+      "name": "Mediterranean Sundance / Rio Ancho (Live at Warfield Theatre, San Francisco, CA - December 5, 1980)",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/e/0/35eddae13fd0a2a2238654b6871a3d62.mp3?hdnea=exp=1774859921~acl=/api/1/1/3/5/e/0/35eddae13fd0a2a2238654b6871a3d62.mp3*~data=user_id=0,application_id=42~hmac=74a8f6f537a0be1ec396dd5ff0d3fb6addfbe4b169867f85d36f5ee151b6b694",
+      "duration_ms": 691000,
+      "track_number": 9,
+      "album": {
+        "id": "113027",
+        "name": "Friday Night in San Francisco",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/981e94a737f328854bd6b0894f1019a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/981e94a737f328854bd6b0894f1019a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/981e94a737f328854bd6b0894f1019a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1031231"
+      }
+    },
+    {
+      "id": "3318739021",
+      "name": "Here Comes the Jiis (Live)",
+      "popularity": 5,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/6/0/456557073d022e952940fbd33b0c1b87.mp3?hdnea=exp=1774859921~acl=/api/1/1/4/5/6/0/456557073d022e952940fbd33b0c1b87.mp3*~data=user_id=0,application_id=42~hmac=2eeefdd3e9ae2922b94a9b7793829aa340d43f26bd992780110ffb542ac1f499",
+      "duration_ms": 389000,
+      "track_number": 10,
+      "album": {
+        "id": "740621501",
+        "name": "Live at Montreux Jazz Festival 2022",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f123ea2ba36ff26bc3df2d668420531/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f123ea2ba36ff26bc3df2d668420531/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f123ea2ba36ff26bc3df2d668420531/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15326",
+          "name": "John McLaughlin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3318739021"
+      }
+    }
+  ]
+}

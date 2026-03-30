@@ -1,0 +1,32 @@
+{
+  "id": "74444",
+  "name": "Fleet Foxes",
+  "popularity": 16,
+  "followers": {
+    "total": 162082
+  },
+  "genres": [
+    "indie folk"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/1b4c457f1b2e33767dc0236c2226034e/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/1b4c457f1b2e33767dc0236c2226034e/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/1b4c457f1b2e33767dc0236c2226034e/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/74444"
+  },
+  "uri": "deezer:artist:74444"
+}

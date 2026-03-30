@@ -1,0 +1,32 @@
+{
+  "id": "827425",
+  "name": "Kane Brown",
+  "popularity": 24,
+  "followers": {
+    "total": 247766
+  },
+  "genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/031a975249b648d21f34c5b2bbd3c877/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/031a975249b648d21f34c5b2bbd3c877/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/031a975249b648d21f34c5b2bbd3c877/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/827425"
+  },
+  "uri": "deezer:artist:827425"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "15898",
+  "name": "Wisin",
+  "popularity": 99,
+  "followers": {
+    "total": 2108251
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2835d5ae661fb00c0d7a8558bba86c7c/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2835d5ae661fb00c0d7a8558bba86c7c/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2835d5ae661fb00c0d7a8558bba86c7c/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/15898"
+  },
+  "uri": "deezer:artist:15898"
+}

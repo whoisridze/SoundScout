@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1120345702",
+      "name": "A Town with an Ocean View",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/6/0/e463508aff702e2605a6a70a9774efcb.mp3?hdnea=exp=1774860070~acl=/api/1/1/e/4/6/0/e463508aff702e2605a6a70a9774efcb.mp3*~data=user_id=0,application_id=42~hmac=1ac674b5a867055adb2843ed28903037037c7d9deceed6184050a9aeadf3fdc1",
+      "duration_ms": 180000,
+      "track_number": 1,
+      "album": {
+        "id": "181916442",
+        "name": "Kiki's Delivery Service Soundtrack Music Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c896e300ceb3780afad5a81c4627bfc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c896e300ceb3780afad5a81c4627bfc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c896e300ceb3780afad5a81c4627bfc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1120345702"
+      }
+    },
+    {
+      "id": "2338649105",
+      "name": "Princess Mononoke (from 'Princess Mononoke')",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/4/0/934127f7b90d3adb69e50f03a313aaf2.mp3?hdnea=exp=1774860070~acl=/api/1/1/9/3/4/0/934127f7b90d3adb69e50f03a313aaf2.mp3*~data=user_id=0,application_id=42~hmac=00d158eadc2fc1a377e0935daa7fef67c84240c062d26545ffb429d7989b5fbf",
+      "duration_ms": 193000,
+      "track_number": 2,
+      "album": {
+        "id": "456578265",
+        "name": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fede65ff738a612c3761829dcf071d9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fede65ff738a612c3761829dcf071d9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fede65ff738a612c3761829dcf071d9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2338649105"
+      }
+    },
+    {
+      "id": "872359722",
+      "name": "Merry-Go-Round of Life (from 'Howl's Moving Castle')",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/a/0/0ca5ca0a101d4cdb9bc03dc0256d92b2.mp3?hdnea=exp=1774860070~acl=/api/1/1/0/c/a/0/0ca5ca0a101d4cdb9bc03dc0256d92b2.mp3*~data=user_id=0,application_id=42~hmac=f406cac82db97d56f1507579875a5a09eb3a7b6f307a7026aacb94444d167f54",
+      "duration_ms": 311000,
+      "track_number": 3,
+      "album": {
+        "id": "130879052",
+        "name": "Merry-Go-Round of Life (from 'Howl's Moving Castle')",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94368294da0e04877624f70516362d9c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94368294da0e04877624f70516362d9c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94368294da0e04877624f70516362d9c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/872359722"
+      }
+    },
+    {
+      "id": "1120335972",
+      "name": "One Summer Day",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/d/0/79d3b5d8d7ec48006a854b852cc12302.mp3?hdnea=exp=1774860070~acl=/api/1/1/7/9/d/0/79d3b5d8d7ec48006a854b852cc12302.mp3*~data=user_id=0,application_id=42~hmac=6f969dc2a902264bbbb962a07176acfaf97f4d281c30afe2e6f46194d4e65432",
+      "duration_ms": 189000,
+      "track_number": 4,
+      "album": {
+        "id": "181915142",
+        "name": "Spirited Away Soundtrack",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45bba02202fd0ac42b6099bf93ec1e4d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45bba02202fd0ac42b6099bf93ec1e4d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45bba02202fd0ac42b6099bf93ec1e4d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1120335972"
+      }
+    },
+    {
+      "id": "2338649005",
+      "name": "The Legend of the Wind (from 'Nausicaä of the Valley of the Wind')",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/0/0/7e090af488852f24172f154056248f43.mp3?hdnea=exp=1774860070~acl=/api/1/1/7/e/0/0/7e090af488852f24172f154056248f43.mp3*~data=user_id=0,application_id=42~hmac=189db93552b4eb24bb1c30306bebd069b5a1f4f1727836d7ceed0a3460c00514",
+      "duration_ms": 128000,
+      "track_number": 5,
+      "album": {
+        "id": "456578265",
+        "name": "A Symphonic Celebration - Music from the Studio Ghibli Films of Hayao Miyazaki",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fede65ff738a612c3761829dcf071d9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fede65ff738a612c3761829dcf071d9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fede65ff738a612c3761829dcf071d9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2338649005"
+      }
+    },
+    {
+      "id": "1120340852",
+      "name": "Opening Song - Merry-Go-Round of Life",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/c/0/ecc9e3162ca36c62a6a68d045f2a046d.mp3?hdnea=exp=1774860070~acl=/api/1/1/e/c/c/0/ecc9e3162ca36c62a6a68d045f2a046d.mp3*~data=user_id=0,application_id=42~hmac=73d11692c9295e59a4a0ca5bdf770ef306fb4578808e170cefbbd1ff22d10a50",
+      "duration_ms": 153000,
+      "track_number": 6,
+      "album": {
+        "id": "181915712",
+        "name": "Howl's Moving Castle Soundtrack",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bdfb77214cd6d776b8cbf30d36cb8ffe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bdfb77214cd6d776b8cbf30d36cb8ffe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bdfb77214cd6d776b8cbf30d36cb8ffe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1120340852"
+      }
+    },
+    {
+      "id": "1120333772",
+      "name": "Princess Mononoke Theme Song (Vocal)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/9/0/119bbfd965c2547839d6d86e9817a4e7.mp3?hdnea=exp=1774860070~acl=/api/1/1/1/1/9/0/119bbfd965c2547839d6d86e9817a4e7.mp3*~data=user_id=0,application_id=42~hmac=6affd3dfaaca00a4b74b307f45bfe32c1414c44dc2203fd868c8d8b4ef9a83f1",
+      "duration_ms": 212000,
+      "track_number": 7,
+      "album": {
+        "id": "181915022",
+        "name": "Princess Mononoke Soundtrack",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c094fde8b03eaf373d343fa271e9026e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c094fde8b03eaf373d343fa271e9026e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c094fde8b03eaf373d343fa271e9026e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1120333772"
+      }
+    },
+    {
+      "id": "1120336152",
+      "name": "Reprise",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/2/0/4a22e4c356a9393cd36b27fbb75d362a.mp3?hdnea=exp=1774860070~acl=/api/1/1/4/a/2/0/4a22e4c356a9393cd36b27fbb75d362a.mp3*~data=user_id=0,application_id=42~hmac=9f1a0055cc46aab10efebebcc766f7d87aec44cd275fef78ac3e362ea9406b40",
+      "duration_ms": 293000,
+      "track_number": 8,
+      "album": {
+        "id": "181915142",
+        "name": "Spirited Away Soundtrack",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45bba02202fd0ac42b6099bf93ec1e4d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45bba02202fd0ac42b6099bf93ec1e4d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45bba02202fd0ac42b6099bf93ec1e4d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1120336152"
+      }
+    },
+    {
+      "id": "1120339352",
+      "name": "Ponyo on the Cliff by the Sea",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/3/0/5c3fc96f45a20a1ed51621986d0d1939.mp3?hdnea=exp=1774860070~acl=/api/1/1/5/c/3/0/5c3fc96f45a20a1ed51621986d0d1939.mp3*~data=user_id=0,application_id=42~hmac=f9a47c581d23b3f75c104d5140b5e1461720209a6ae3016bb05f7aabcdc9d8b1",
+      "duration_ms": 166000,
+      "track_number": 9,
+      "album": {
+        "id": "181915622",
+        "name": "Ponyo on the Cliff by the Sea Image Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0b0e1fbed9c1d54af182426dde00e027/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0b0e1fbed9c1d54af182426dde00e027/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0b0e1fbed9c1d54af182426dde00e027/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1120339352"
+      }
+    },
+    {
+      "id": "879773572",
+      "name": "The Sixth Station",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/6/0/266bb81cd743f42a9cc0618160516732.mp3?hdnea=exp=1774860070~acl=/api/1/1/2/6/6/0/266bb81cd743f42a9cc0618160516732.mp3*~data=user_id=0,application_id=42~hmac=96dbadd02569555a3701de1b20c21e86b86adac1ae36d5d56aa27dfa87caba7e",
+      "duration_ms": 228000,
+      "track_number": 10,
+      "album": {
+        "id": "132007142",
+        "name": "ENCORE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46e0d5aaa07dc0a8c60a3577889b8cdd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46e0d5aaa07dc0a8c60a3577889b8cdd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46e0d5aaa07dc0a8c60a3577889b8cdd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "66582",
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/879773572"
+      }
+    }
+  ]
+}

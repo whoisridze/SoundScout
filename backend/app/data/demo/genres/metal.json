@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "119",
+      "name": "Metallica",
+      "popularity": 99,
+      "followers": {
+        "total": 8033215
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/056578a9c2007f69ce198c81875eca41/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/056578a9c2007f69ce198c81875eca41/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/056578a9c2007f69ce198c81875eca41/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/119"
+      },
+      "uri": "deezer:artist:119"
+    },
+    {
+      "id": "931",
+      "name": "Iron Maiden",
+      "popularity": 99,
+      "followers": {
+        "total": 3722034
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/497e5e47668e13a3fb1312a4754eaa65/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/497e5e47668e13a3fb1312a4754eaa65/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/497e5e47668e13a3fb1312a4754eaa65/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/931"
+      },
+      "uri": "deezer:artist:931"
+    },
+    {
+      "id": "3048",
+      "name": "Slayer",
+      "popularity": 91,
+      "followers": {
+        "total": 915180
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1417e7db6c37490103a23197228c2c4f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1417e7db6c37490103a23197228c2c4f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1417e7db6c37490103a23197228c2c4f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3048"
+      },
+      "uri": "deezer:artist:3048"
+    },
+    {
+      "id": "3487",
+      "name": "Megadeth",
+      "popularity": 99,
+      "followers": {
+        "total": 1767346
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/cff12b4ef973a62d886d69bf056941ec/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/cff12b4ef973a62d886d69bf056941ec/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/cff12b4ef973a62d886d69bf056941ec/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3487"
+      },
+      "uri": "deezer:artist:3487"
+    },
+    {
+      "id": "2969",
+      "name": "Pantera",
+      "popularity": 99,
+      "followers": {
+        "total": 1591009
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f4ee6ca8f9cd27a944de0476776fee50/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f4ee6ca8f9cd27a944de0476776fee50/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f4ee6ca8f9cd27a944de0476776fee50/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2969"
+      },
+      "uri": "deezer:artist:2969"
+    },
+    {
+      "id": "647",
+      "name": "Black Sabbath",
+      "popularity": 99,
+      "followers": {
+        "total": 2981128
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/91ab912207e1dc0b20ef53dc751e4aff/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/91ab912207e1dc0b20ef53dc751e4aff/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/91ab912207e1dc0b20ef53dc751e4aff/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/647"
+      },
+      "uri": "deezer:artist:647"
+    },
+    {
+      "id": "533",
+      "name": "Judas Priest",
+      "popularity": 99,
+      "followers": {
+        "total": 1229095
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3780a546a18503f1ca1e67358750847e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3780a546a18503f1ca1e67358750847e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3780a546a18503f1ca1e67358750847e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/533"
+      },
+      "uri": "deezer:artist:533"
+    },
+    {
+      "id": "2216",
+      "name": "Lamb of God",
+      "popularity": 48,
+      "followers": {
+        "total": 480532
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/061f81e80e8e59f7144873f5391ea5da/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/061f81e80e8e59f7144873f5391ea5da/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/061f81e80e8e59f7144873f5391ea5da/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2216"
+      },
+      "uri": "deezer:artist:2216"
+    },
+    {
+      "id": "2993",
+      "name": "Gojira",
+      "popularity": 49,
+      "followers": {
+        "total": 496779
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e144a10ac405b4a1173aa06ea41610b9/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e144a10ac405b4a1173aa06ea41610b9/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e144a10ac405b4a1173aa06ea41610b9/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2993"
+      },
+      "uri": "deezer:artist:2993"
+    },
+    {
+      "id": "9267",
+      "name": "Mastodon",
+      "popularity": 20,
+      "followers": {
+        "total": 203497
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/af45126915cbb781b16ecae51d2c8a46/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/af45126915cbb781b16ecae51d2c8a46/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/af45126915cbb781b16ecae51d2c8a46/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/9267"
+      },
+      "uri": "deezer:artist:9267"
+    },
+    {
+      "id": "1245",
+      "name": "Trivium",
+      "popularity": 37,
+      "followers": {
+        "total": 374686
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/02a9979e29b87c3f230bac28439021a7/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/02a9979e29b87c3f230bac28439021a7/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/02a9979e29b87c3f230bac28439021a7/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1245"
+      },
+      "uri": "deezer:artist:1245"
+    },
+    {
+      "id": "406",
+      "name": "Avenged Sevenfold",
+      "popularity": 99,
+      "followers": {
+        "total": 1896717
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6577dccc570c0c95fbcf09c7bf66cbbe/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6577dccc570c0c95fbcf09c7bf66cbbe/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6577dccc570c0c95fbcf09c7bf66cbbe/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/406"
+      },
+      "uri": "deezer:artist:406"
+    },
+    {
+      "id": "2124",
+      "name": "Killswitch Engage",
+      "popularity": 34,
+      "followers": {
+        "total": 344344
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8800181c3030f494ab13ae43a9699b5f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8800181c3030f494ab13ae43a9699b5f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8800181c3030f494ab13ae43a9699b5f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2124"
+      },
+      "uri": "deezer:artist:2124"
+    },
+    {
+      "id": "2127",
+      "name": "Disturbed",
+      "popularity": 99,
+      "followers": {
+        "total": 1481281
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a085c12d41604321611dac74bd770add/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a085c12d41604321611dac74bd770add/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a085c12d41604321611dac74bd770add/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2127"
+      },
+      "uri": "deezer:artist:2127"
+    },
+    {
+      "id": "458",
+      "name": "System of a Down",
+      "popularity": 99,
+      "followers": {
+        "total": 5719667
+      },
+      "genres": [
+        "metal"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/67460cdb0b52bfde1b807650958058d6/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/67460cdb0b52bfde1b807650958058d6/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/67460cdb0b52bfde1b807650958058d6/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/458"
+      },
+      "uri": "deezer:artist:458"
+    }
+  ]
+}

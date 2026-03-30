@@ -1,0 +1,33 @@
+{
+  "id": "2483",
+  "name": "The Black Keys",
+  "popularity": 99,
+  "followers": {
+    "total": 1081369
+  },
+  "genres": [
+    "indie rock",
+    "blues rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/3b27055c39125c3e3133a595990e86a1/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/3b27055c39125c3e3133a595990e86a1/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/3b27055c39125c3e3133a595990e86a1/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2483"
+  },
+  "uri": "deezer:artist:2483"
+}

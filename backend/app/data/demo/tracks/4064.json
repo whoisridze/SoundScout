@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "445960862",
+      "name": "Stop",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/f/0/17fa2b9c9d69d7aa521e24fc95340a6d.mp3?hdnea=exp=1774859971~acl=/api/1/1/1/7/f/0/17fa2b9c9d69d7aa521e24fc95340a6d.mp3*~data=user_id=0,application_id=42~hmac=e7daee06d55701485cd8c0a4b9fa57f018adba16f96b7a62a0cb3e9f4d6b6f64",
+      "duration_ms": 99000,
+      "track_number": 1,
+      "album": {
+        "id": "54294542",
+        "name": "Donuts",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/445960862"
+      }
+    },
+    {
+      "id": "3127083971",
+      "name": "The Shining Pt. 1 (Diamonds)",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/6/0/1064d85e03dda2e46ee8c40365afc02c.mp3?hdnea=exp=1774859971~acl=/api/1/1/1/0/6/0/1064d85e03dda2e46ee8c40365afc02c.mp3*~data=user_id=0,application_id=42~hmac=f52ebb75382aab9c3ebb7965322b643903722f827f7cce4d15e95114c28723e9",
+      "duration_ms": 174000,
+      "track_number": 2,
+      "album": {
+        "id": "679646961",
+        "name": "The Diary",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a38c57ff4cd41f855ded361edddcdcb4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a38c57ff4cd41f855ded361edddcdcb4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a38c57ff4cd41f855ded361edddcdcb4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3127083971"
+      }
+    },
+    {
+      "id": "594569572",
+      "name": "Feat. Phat Kat",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/e/0/0ae1bc646478f959617c997612cdbb7e.mp3?hdnea=exp=1774859971~acl=/api/1/1/0/a/e/0/0ae1bc646478f959617c997612cdbb7e.mp3*~data=user_id=0,application_id=42~hmac=e8cadc5bd03e17a16fe8d28a88bf877171be97c0a2c9a2a0fd2a4c9370413efe",
+      "duration_ms": 223000,
+      "track_number": 3,
+      "album": {
+        "id": "80043212",
+        "name": "Welcome 2 Detroit",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94483ffd7588dd429ff33b50c3ace637/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94483ffd7588dd429ff33b50c3ace637/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94483ffd7588dd429ff33b50c3ace637/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/594569572"
+      }
+    },
+    {
+      "id": "1915731997",
+      "name": "Dillatronic 01",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/0/0/f9065007d5c6ef307d710b13384c4a7a.mp3?hdnea=exp=1774859971~acl=/api/1/1/f/9/0/0/f9065007d5c6ef307d710b13384c4a7a.mp3*~data=user_id=0,application_id=42~hmac=c070175ce594b1b67e41d92b45062532cdfe0f5824d5f3a29bb4e35113c1cd1b",
+      "duration_ms": 186000,
+      "track_number": 4,
+      "album": {
+        "id": "357047737",
+        "name": "Dillatronic",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/edf0f56cb8380e4b9daa00b450c66ec0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/edf0f56cb8380e4b9daa00b450c66ec0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/edf0f56cb8380e4b9daa00b450c66ec0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1915731997"
+      }
+    },
+    {
+      "id": "594569672",
+      "name": "So Far to Go",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/1/0/2717a0535efd05666f05ec6f7d2c7197.mp3?hdnea=exp=1774859971~acl=/api/1/1/2/7/1/0/2717a0535efd05666f05ec6f7d2c7197.mp3*~data=user_id=0,application_id=42~hmac=f1fee912e1f9167aacf5eca19f6b9f54811f6ba4e4968e9138562953440fdc90",
+      "duration_ms": 336000,
+      "track_number": 5,
+      "album": {
+        "id": "80043232",
+        "name": "The Shining",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e7dec2489b1137e9280226ba029267cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e7dec2489b1137e9280226ba029267cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e7dec2489b1137e9280226ba029267cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/594569672"
+      }
+    },
+    {
+      "id": "445960902",
+      "name": "Time: The Donut of the Heart",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/d/0/81d1827b676b880b32eed6622a1fe56a.mp3?hdnea=exp=1774859971~acl=/api/1/1/8/1/d/0/81d1827b676b880b32eed6622a1fe56a.mp3*~data=user_id=0,application_id=42~hmac=d07026dae6382e6a95fa7d5e9a38f8cd837e09c20083f96db172fbea52f17195",
+      "duration_ms": 99000,
+      "track_number": 6,
+      "album": {
+        "id": "54294542",
+        "name": "Donuts",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/445960902"
+      }
+    },
+    {
+      "id": "3482722251",
+      "name": "LIGHTWORKS",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/9/0/bf9f4a2ac14444883e1252c58b5f5e0d.mp3?hdnea=exp=1774859971~acl=/api/1/1/b/f/9/0/bf9f4a2ac14444883e1252c58b5f5e0d.mp3*~data=user_id=0,application_id=42~hmac=3d1031ce281d1adae5ae2239c8146e8c9b00be30362b1d931e7fa374851b9db8",
+      "duration_ms": 112000,
+      "track_number": 7,
+      "album": {
+        "id": "796014581",
+        "name": "BORN LIKE THIS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/36091097a69baf81d9a598e789ac556d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/36091097a69baf81d9a598e789ac556d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/36091097a69baf81d9a598e789ac556d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3482722251"
+      }
+    },
+    {
+      "id": "734662162",
+      "name": "In The Night / While You Slept (I Crept)",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/5/0/99574c25e5c0c01af2571a4c1490c0b8.mp3?hdnea=exp=1774859971~acl=/api/1/1/9/9/5/0/99574c25e5c0c01af2571a4c1490c0b8.mp3*~data=user_id=0,application_id=42~hmac=486ae83f77e35f5f84b6984634e6c199e6161a5fc29e4ced8b2f4c578eeaa31b",
+      "duration_ms": 119000,
+      "track_number": 8,
+      "album": {
+        "id": "107913242",
+        "name": "Jay Stay Paid",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8036f38daddb7e5cf9e4a407973fba2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8036f38daddb7e5cf9e4a407973fba2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8036f38daddb7e5cf9e4a407973fba2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/734662162"
+      }
+    },
+    {
+      "id": "445960982",
+      "name": "Don't Cry",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/6/0/6f61209bbcf3be5bcc31b79e1140ec01.mp3?hdnea=exp=1774859971~acl=/api/1/1/6/f/6/0/6f61209bbcf3be5bcc31b79e1140ec01.mp3*~data=user_id=0,application_id=42~hmac=918693716163ae3d1b53b5126ea93ea0c21a2770e75b3c7d2f8403ceddd660d0",
+      "duration_ms": 119000,
+      "track_number": 9,
+      "album": {
+        "id": "54294542",
+        "name": "Donuts",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/445960982"
+      }
+    },
+    {
+      "id": "445960822",
+      "name": "Workinonit",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/d/0/14dbcdccb8b0e042d5b85de0c1f0e99c.mp3?hdnea=exp=1774859971~acl=/api/1/1/1/4/d/0/14dbcdccb8b0e042d5b85de0c1f0e99c.mp3*~data=user_id=0,application_id=42~hmac=838b899a01bc68fe0c3e7df043e63bb6e776df85f8b96daa8bfecef252339aa8",
+      "duration_ms": 177000,
+      "track_number": 10,
+      "album": {
+        "id": "54294542",
+        "name": "Donuts",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20dca341e5524df8e34036fa076bf42f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4064",
+          "name": "J Dilla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/445960822"
+      }
+    }
+  ]
+}

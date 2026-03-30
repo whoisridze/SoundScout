@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3025714601",
+      "name": "Rivers and Roads",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/e/0/83e599e2d3937bcf0659f5e5715b26d9.mp3?hdnea=exp=1774860056~acl=/api/1/1/8/3/e/0/83e599e2d3937bcf0659f5e5715b26d9.mp3*~data=user_id=0,application_id=42~hmac=aa520e508400a69a138214573e090c3551051ab4c32dba91e5aa676a6b11fd39",
+      "duration_ms": 284000,
+      "track_number": 1,
+      "album": {
+        "id": "650697671",
+        "name": "The Head And The Heart",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/546d573fab71608dda6e9dc80c92b800/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/546d573fab71608dda6e9dc80c92b800/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/546d573fab71608dda6e9dc80c92b800/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3025714601"
+      }
+    },
+    {
+      "id": "646626942",
+      "name": "Missed Connection",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05c9cf1e401b3ba6112989b4fa291bb0.mp3?hdnea=exp=1774860056~acl=/api/1/1/0/5/c/0/05c9cf1e401b3ba6112989b4fa291bb0.mp3*~data=user_id=0,application_id=42~hmac=39bacf6496570f47cd003c1986384d71aceb4e890514bdaae893b31b695d8e1c",
+      "duration_ms": 195000,
+      "track_number": 2,
+      "album": {
+        "id": "89990512",
+        "name": "Missed Connection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f2cb66acb59c7494bff3fe7b7dd051/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f2cb66acb59c7494bff3fe7b7dd051/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f2cb66acb59c7494bff3fe7b7dd051/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/646626942"
+      }
+    },
+    {
+      "id": "3025714621",
+      "name": "Lost In My Mind",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/e/0/1be32dcdf168897b8e7a7c889b5a5a05.mp3?hdnea=exp=1774860056~acl=/api/1/1/1/b/e/0/1be32dcdf168897b8e7a7c889b5a5a05.mp3*~data=user_id=0,application_id=42~hmac=2aec2a3f8bae541adc65365406ade7de246881ad3e823969951c3296288dbf66",
+      "duration_ms": 259000,
+      "track_number": 3,
+      "album": {
+        "id": "650697671",
+        "name": "The Head And The Heart",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/546d573fab71608dda6e9dc80c92b800/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/546d573fab71608dda6e9dc80c92b800/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/546d573fab71608dda6e9dc80c92b800/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3025714621"
+      }
+    },
+    {
+      "id": "679479792",
+      "name": "Honeybee",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/2/0/3b241f6e074e9e5b1ac552213e240490.mp3?hdnea=exp=1774860056~acl=/api/1/1/3/b/2/0/3b241f6e074e9e5b1ac552213e240490.mp3*~data=user_id=0,application_id=42~hmac=ce168eef0cba8a7dd6aa603d006c160587d2db47b75fb0ef552f4f96a426eea8",
+      "duration_ms": 196000,
+      "track_number": 4,
+      "album": {
+        "id": "96829582",
+        "name": "Living Mirage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f2cb66acb59c7494bff3fe7b7dd051/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f2cb66acb59c7494bff3fe7b7dd051/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f2cb66acb59c7494bff3fe7b7dd051/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/679479792"
+      }
+    },
+    {
+      "id": "1675620437",
+      "name": "Tiebreaker",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/1/0/bf14a6d5cf558262a496764220b74f66.mp3?hdnea=exp=1774860056~acl=/api/1/1/b/f/1/0/bf14a6d5cf558262a496764220b74f66.mp3*~data=user_id=0,application_id=42~hmac=2cf59df563e39b937ec9c3700fc6be650f7d07cc4b489b6fa5456027eead13d8",
+      "duration_ms": 239000,
+      "track_number": 5,
+      "album": {
+        "id": "300455017",
+        "name": "Tiebreaker",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e854a707a89a774a59c272de75902705/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e854a707a89a774a59c272de75902705/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e854a707a89a774a59c272de75902705/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1675620437"
+      }
+    },
+    {
+      "id": "125970801",
+      "name": "All We Ever Knew",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/2/0/4720f8f695cbf18b9b4d4cebd71e458e.mp3?hdnea=exp=1774860056~acl=/api/1/1/4/7/2/0/4720f8f695cbf18b9b4d4cebd71e458e.mp3*~data=user_id=0,application_id=42~hmac=d0b97a1f9bb0bac1a12a636833bfe04b41f95de2e061a2e6fa49ddf9afccd597",
+      "duration_ms": 225000,
+      "track_number": 6,
+      "album": {
+        "id": "13257233",
+        "name": "All We Ever Knew",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23ef21d96fcbc564ba36d9a6b001309c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23ef21d96fcbc564ba36d9a6b001309c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23ef21d96fcbc564ba36d9a6b001309c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/125970801"
+      }
+    },
+    {
+      "id": "3856055351",
+      "name": "Blue Embers (Ghost No. 5)",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/d/0/37dfbfb491b705f89f60de48da84475c.mp3?hdnea=exp=1774860056~acl=/api/1/1/3/7/d/0/37dfbfb491b705f89f60de48da84475c.mp3*~data=user_id=0,application_id=42~hmac=a1dbddbe0388e85e22763a62504bdc2a302fa55982ba4325f95068bcc458595c",
+      "duration_ms": 223000,
+      "track_number": 7,
+      "album": {
+        "id": "923172041",
+        "name": "Ghosts In The Machinery",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/545945aa6958b774a8b14b6ef1dac3d2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/545945aa6958b774a8b14b6ef1dac3d2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/545945aa6958b774a8b14b6ef1dac3d2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3856055351"
+      }
+    },
+    {
+      "id": "3856055331",
+      "name": "After The Setting Sun (Ghost No. 3)",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/c/0/d1c5a78156a73b210e7a24911ebbd5eb.mp3?hdnea=exp=1774860056~acl=/api/1/1/d/1/c/0/d1c5a78156a73b210e7a24911ebbd5eb.mp3*~data=user_id=0,application_id=42~hmac=71a1092b5376886b578745f00ee18fd7c464cbb00ccda246de67b550cce0eaac",
+      "duration_ms": 302000,
+      "track_number": 8,
+      "album": {
+        "id": "923172041",
+        "name": "Ghosts In The Machinery",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/545945aa6958b774a8b14b6ef1dac3d2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/545945aa6958b774a8b14b6ef1dac3d2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/545945aa6958b774a8b14b6ef1dac3d2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3856055331"
+      }
+    },
+    {
+      "id": "407008022",
+      "name": "Don't Dream It's Over",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/f/0/defc787519aabac4ccd1d0f0051f8bf6.mp3?hdnea=exp=1774860056~acl=/api/1/1/d/e/f/0/defc787519aabac4ccd1d0f0051f8bf6.mp3*~data=user_id=0,application_id=42~hmac=d7b20eb72d735aa92c78352690c165413fc937f1d0c1a560d83f29745a53815e",
+      "duration_ms": 219000,
+      "track_number": 9,
+      "album": {
+        "id": "48180072",
+        "name": "Don't Dream It's Over",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e5eaa1fa40b600f1c28e4581d4715e6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e5eaa1fa40b600f1c28e4581d4715e6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e5eaa1fa40b600f1c28e4581d4715e6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/407008022"
+      }
+    },
+    {
+      "id": "3025714591",
+      "name": "Down in the Valley",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/2/0/6427a4695a2117e789d858916ebd0908.mp3?hdnea=exp=1774860056~acl=/api/1/1/6/4/2/0/6427a4695a2117e789d858916ebd0908.mp3*~data=user_id=0,application_id=42~hmac=cb2cfbe9784da8f859bbf0ae159b009242f20856dfcaaf6068a57467686aea77",
+      "duration_ms": 303000,
+      "track_number": 10,
+      "album": {
+        "id": "650697671",
+        "name": "The Head And The Heart",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/546d573fab71608dda6e9dc80c92b800/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/546d573fab71608dda6e9dc80c92b800/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/546d573fab71608dda6e9dc80c92b800/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1065098",
+          "name": "The Head And The Heart"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3025714591"
+      }
+    }
+  ]
+}

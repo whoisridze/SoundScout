@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "472569772",
+      "name": "The Soundgraphy",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/7/0/da7dfa920d1cbb732865355999682a18.mp3?hdnea=exp=1774859918~acl=/api/1/1/d/a/7/0/da7dfa920d1cbb732865355999682a18.mp3*~data=user_id=0,application_id=42~hmac=1f27830021cc58137a28f90e4cdb2b3c90590da3e65ee0b93885e7095480be56",
+      "duration_ms": 227000,
+      "track_number": 1,
+      "album": {
+        "id": "58894762",
+        "name": "Asian Dreamer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe386dfa117e888d8cbae3dd76a8eb07/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe386dfa117e888d8cbae3dd76a8eb07/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe386dfa117e888d8cbae3dd76a8eb07/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/472569772"
+      }
+    },
+    {
+      "id": "1101407732",
+      "name": "Time Limit",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/5/0/6c5501ff7d1014d8e2b1283e4574acba.mp3?hdnea=exp=1774859918~acl=/api/1/1/6/c/5/0/6c5501ff7d1014d8e2b1283e4574acba.mp3*~data=user_id=0,application_id=42~hmac=b604a12fe0f6ec52e6d5552c98b0ffeb986eeb11eddeeb48830d1c34bbed84f1",
+      "duration_ms": 187000,
+      "track_number": 2,
+      "album": {
+        "id": "177977632",
+        "name": "CASIOPEA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1101407732"
+      }
+    },
+    {
+      "id": "1101407762",
+      "name": "Midnight Rendezvous",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/a/0/d6ab2462f7d6316a436d7df2c0adb1d8.mp3?hdnea=exp=1774859918~acl=/api/1/1/d/6/a/0/d6ab2462f7d6316a436d7df2c0adb1d8.mp3*~data=user_id=0,application_id=42~hmac=235e0e2ba225ae7bde9b4129c1ec3708c14964e80c4eb1615a80516717045954",
+      "duration_ms": 323000,
+      "track_number": 3,
+      "album": {
+        "id": "177977632",
+        "name": "CASIOPEA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1101407762"
+      }
+    },
+    {
+      "id": "1101407772",
+      "name": "Far Away",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/6/0/e96a170d9f411a8051bfe2348fc0d9be.mp3?hdnea=exp=1774859918~acl=/api/1/1/e/9/6/0/e96a170d9f411a8051bfe2348fc0d9be.mp3*~data=user_id=0,application_id=42~hmac=4add8cc599cc2a8e9801f1fab90f812a6726324647fd7fdd0bdbb27a1eb533e4",
+      "duration_ms": 236000,
+      "track_number": 4,
+      "album": {
+        "id": "177977632",
+        "name": "CASIOPEA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1101407772"
+      }
+    },
+    {
+      "id": "1101406772",
+      "name": "Galactic Funk",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/c/0/a7cca7fd7d0eb1b59724e989677b82df.mp3?hdnea=exp=1774859918~acl=/api/1/1/a/7/c/0/a7cca7fd7d0eb1b59724e989677b82df.mp3*~data=user_id=0,application_id=42~hmac=8d4e3df24d3595aec16c22e87198f787e852f347b8320b92517f7025caf1e941",
+      "duration_ms": 263000,
+      "track_number": 5,
+      "album": {
+        "id": "177977492",
+        "name": "CROSS POINT",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/839a8f5346fc04407fea541d2a4245a2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/839a8f5346fc04407fea541d2a4245a2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/839a8f5346fc04407fea541d2a4245a2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1101406772"
+      }
+    },
+    {
+      "id": "1101406762",
+      "name": "Domino Line",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/c/0/8ec17dfc907c8548df9266a4fd22691e.mp3?hdnea=exp=1774859918~acl=/api/1/1/8/e/c/0/8ec17dfc907c8548df9266a4fd22691e.mp3*~data=user_id=0,application_id=42~hmac=78b6988cfa02b23c6975e4cb089a448f9940994daa02454a7a0a97a2cd897f1d",
+      "duration_ms": 205000,
+      "track_number": 6,
+      "album": {
+        "id": "177977492",
+        "name": "CROSS POINT",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/839a8f5346fc04407fea541d2a4245a2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/839a8f5346fc04407fea541d2a4245a2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/839a8f5346fc04407fea541d2a4245a2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1101406762"
+      }
+    },
+    {
+      "id": "1101406982",
+      "name": "Asayake (Live at Chuo Kaikan Hall, Tokyo, Feb. 1982)",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/b/0/b2b997dd6c4a1986248c07dd11f6993b.mp3?hdnea=exp=1774859918~acl=/api/1/1/b/2/b/0/b2b997dd6c4a1986248c07dd11f6993b.mp3*~data=user_id=0,application_id=42~hmac=05f0cf2accf5b11be9ff62d674ed6dc3ebfb14de8b2d6e0b1507bb6886538899",
+      "duration_ms": 298000,
+      "track_number": 7,
+      "album": {
+        "id": "177977532",
+        "name": "MINT JAMS(Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a86d10503e8d96fad9602f1f8c3a1690/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a86d10503e8d96fad9602f1f8c3a1690/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a86d10503e8d96fad9602f1f8c3a1690/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1101406982"
+      }
+    },
+    {
+      "id": "1101407742",
+      "name": "Tears Of The Star",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/3/0/d732882b4e089c3e161e76bc64720a3b.mp3?hdnea=exp=1774859918~acl=/api/1/1/d/7/3/0/d732882b4e089c3e161e76bc64720a3b.mp3*~data=user_id=0,application_id=42~hmac=608d4b33943b76cb38de84e015c881fb4e2fc667f5d8b4476d1c3a60012fd3f6",
+      "duration_ms": 272000,
+      "track_number": 8,
+      "album": {
+        "id": "177977632",
+        "name": "CASIOPEA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1101407742"
+      }
+    },
+    {
+      "id": "1101407782",
+      "name": "Swallow",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/1/0/a81031292ee62690c1d02f2a4d0614d7.mp3?hdnea=exp=1774859918~acl=/api/1/1/a/8/1/0/a81031292ee62690c1d02f2a4d0614d7.mp3*~data=user_id=0,application_id=42~hmac=a48d86a41ae373aad5c36c8500f36b1faace437fad9880a33ba40f4e7bd020f7",
+      "duration_ms": 266000,
+      "track_number": 9,
+      "album": {
+        "id": "177977632",
+        "name": "CASIOPEA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4e9447b86d34616a1ca76449b89c77e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1101407782"
+      }
+    },
+    {
+      "id": "69114551",
+      "name": "A Place in the Sun",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/0/0/e30956980a0e57b942ba0146058a7850.mp3?hdnea=exp=1774859918~acl=/api/1/1/e/3/0/0/e30956980a0e57b942ba0146058a7850.mp3*~data=user_id=0,application_id=42~hmac=4ba400870c6ce258e9acc13ea9d3afc4e77a0552dd90f88345ea33daec9caec3",
+      "duration_ms": 285000,
+      "track_number": 10,
+      "album": {
+        "id": "6773306",
+        "name": "Jazz vs Bossa",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1958e87f8a5ef09b3c6743fc8e2b28a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1958e87f8a5ef09b3c6743fc8e2b28a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1958e87f8a5ef09b3c6743fc8e2b28a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1380184",
+          "name": "Casiopea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69114551"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1074021",
+  "name": "Jay Wheeler",
+  "popularity": 42,
+  "followers": {
+    "total": 426257
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/babff55d06540bd50e06a2d4a8002d8a/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/babff55d06540bd50e06a2d4a8002d8a/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/babff55d06540bd50e06a2d4a8002d8a/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1074021"
+  },
+  "uri": "deezer:artist:1074021"
+}

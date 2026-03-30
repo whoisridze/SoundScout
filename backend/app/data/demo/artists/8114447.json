@@ -1,0 +1,32 @@
+{
+  "id": "8114447",
+  "name": "H.E.R.",
+  "popularity": 98,
+  "followers": {
+    "total": 988341
+  },
+  "genres": [
+    "r&b"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5d62fd6afd427c956c82730175bab341/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5d62fd6afd427c956c82730175bab341/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5d62fd6afd427c956c82730175bab341/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/8114447"
+  },
+  "uri": "deezer:artist:8114447"
+}

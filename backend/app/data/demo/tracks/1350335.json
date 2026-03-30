@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "717273962",
+      "name": "Close To You",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/d/0/0cd350a7aea520c6e17dab3166404014.mp3?hdnea=exp=1774859997~acl=/api/1/1/0/c/d/0/0cd350a7aea520c6e17dab3166404014.mp3*~data=user_id=0,application_id=42~hmac=a6f0c4b5f962db2f2225bcb034c79eb216fcaf71a0cef2394af9247288d5c9ab",
+      "duration_ms": 85000,
+      "track_number": 1,
+      "album": {
+        "id": "104660202",
+        "name": "Blonde",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717273962"
+      }
+    },
+    {
+      "id": "97328562",
+      "name": "Thinkin Bout You",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/1/0/32182e6596482e49a9e57ff94173d43e.mp3?hdnea=exp=1774859997~acl=/api/1/1/3/2/1/0/32182e6596482e49a9e57ff94173d43e.mp3*~data=user_id=0,application_id=42~hmac=982994a8a68c638024674be85dec13ddba0bd081077790c52f9b9e7de458c18a",
+      "duration_ms": 200000,
+      "track_number": 2,
+      "album": {
+        "id": "9908666",
+        "name": "channel ORANGE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/97328562"
+      }
+    },
+    {
+      "id": "717273982",
+      "name": "Seigfried",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/1/0/291d2ee75efa153d7da64be88a5d33c2.mp3?hdnea=exp=1774859997~acl=/api/1/1/2/9/1/0/291d2ee75efa153d7da64be88a5d33c2.mp3*~data=user_id=0,application_id=42~hmac=2893e7faeb052fa8a30e020c18a59473ed3bb18cf08a03cd780aefacd56d0efd",
+      "duration_ms": 334000,
+      "track_number": 3,
+      "album": {
+        "id": "104660202",
+        "name": "Blonde",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717273982"
+      }
+    },
+    {
+      "id": "717273972",
+      "name": "White Ferrari",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/a/0/4aa1340e423b9495355f208f8343b3a5.mp3?hdnea=exp=1774859997~acl=/api/1/1/4/a/a/0/4aa1340e423b9495355f208f8343b3a5.mp3*~data=user_id=0,application_id=42~hmac=5789083454635bd3c31f1fe5118f8f75374f31388cdfb3c796052d303b547229",
+      "duration_ms": 248000,
+      "track_number": 4,
+      "album": {
+        "id": "104660202",
+        "name": "Blonde",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717273972"
+      }
+    },
+    {
+      "id": "717273922",
+      "name": "Nights",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/d/0/53d58b41cb6ec79a4f9a17ffa346ed37.mp3?hdnea=exp=1774859997~acl=/api/1/1/5/3/d/0/53d58b41cb6ec79a4f9a17ffa346ed37.mp3*~data=user_id=0,application_id=42~hmac=fc8a9fb5ed14a623e9a10a531a6fbc20a3c33a1e1c7b416f0e1d583c7de8d59e",
+      "duration_ms": 307000,
+      "track_number": 5,
+      "album": {
+        "id": "104660202",
+        "name": "Blonde",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717273922"
+      }
+    },
+    {
+      "id": "717273862",
+      "name": "Pink + White",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/9/0/539d5ac2b897f16027d0aaf22d844f15.mp3?hdnea=exp=1774859997~acl=/api/1/1/5/3/9/0/539d5ac2b897f16027d0aaf22d844f15.mp3*~data=user_id=0,application_id=42~hmac=957400fb4b58fccb95c006ac64dcdbc647f0222cfc87b4fa7b4f20ea79568188",
+      "duration_ms": 184000,
+      "track_number": 6,
+      "album": {
+        "id": "104660202",
+        "name": "Blonde",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717273862"
+      }
+    },
+    {
+      "id": "97328580",
+      "name": "Lost",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/4/0/ae49bd33fe1e7d943453d52d7f4df995.mp3?hdnea=exp=1774859997~acl=/api/1/1/a/e/4/0/ae49bd33fe1e7d943453d52d7f4df995.mp3*~data=user_id=0,application_id=42~hmac=d7541b9c61613303e6b105ba9689f85632f328b776f66f6078b2ca3e63205722",
+      "duration_ms": 234000,
+      "track_number": 7,
+      "album": {
+        "id": "9908666",
+        "name": "channel ORANGE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/97328580"
+      }
+    },
+    {
+      "id": "717273992",
+      "name": "Godspeed",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/e/0/78ec86451391d41e8068e4b05f6daa38.mp3?hdnea=exp=1774859997~acl=/api/1/1/7/8/e/0/78ec86451391d41e8068e4b05f6daa38.mp3*~data=user_id=0,application_id=42~hmac=dd8959626e60e735d192307cbab46f34bb74bbe8e3c24226ef506d4ab6c034d8",
+      "duration_ms": 177000,
+      "track_number": 8,
+      "album": {
+        "id": "104660202",
+        "name": "Blonde",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717273992"
+      }
+    },
+    {
+      "id": "97328578",
+      "name": "Pyramids",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/c/0/d3c5453aed213d67f38aeab7333d327a.mp3?hdnea=exp=1774859997~acl=/api/1/1/d/3/c/0/d3c5453aed213d67f38aeab7333d327a.mp3*~data=user_id=0,application_id=42~hmac=b7d1c5a124f5ee9e6483c8a1e242126fa9573516bfcb140ad65e00c1f7b293e0",
+      "duration_ms": 592000,
+      "track_number": 9,
+      "album": {
+        "id": "9908666",
+        "name": "channel ORANGE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/519400e29d268f449cf00af879e71af6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/97328578"
+      }
+    },
+    {
+      "id": "717273842",
+      "name": "Nikes",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/1/0/d21ea2d2dbe15d88a7d29f30f4e928ed.mp3?hdnea=exp=1774859997~acl=/api/1/1/d/2/1/0/d21ea2d2dbe15d88a7d29f30f4e928ed.mp3*~data=user_id=0,application_id=42~hmac=d2c33bacd3c9de972a5bba9e28f9719047898928220720f45baae55f2abe8844",
+      "duration_ms": 314000,
+      "track_number": 10,
+      "album": {
+        "id": "104660202",
+        "name": "Blonde",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f798a866107715dd6dc1049e498ce21f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1350335",
+          "name": "Frank Ocean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717273842"
+      }
+    }
+  ]
+}

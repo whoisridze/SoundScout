@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3319711651",
+      "name": "MRAYA",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/1/0/7e17ad35b95142375113ba26c54aa933.mp3?hdnea=exp=1774859979~acl=/api/1/1/7/e/1/0/7e17ad35b95142375113ba26c54aa933.mp3*~data=user_id=0,application_id=42~hmac=136e3b2eaf97ca89de8992e4c3cbe9275c7fca12d9502707f7403823aa5d1044",
+      "duration_ms": 212000,
+      "track_number": 1,
+      "album": {
+        "id": "740850531",
+        "name": "NAFIDA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee104655ba361d7893224a4a7dcd7f7b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee104655ba361d7893224a4a7dcd7f7b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee104655ba361d7893224a4a7dcd7f7b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3319711651"
+      }
+    },
+    {
+      "id": "3319711621",
+      "name": "NEBULA",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/c/0/4cc0581a01e92e5cfc81ee3850826220.mp3?hdnea=exp=1774859979~acl=/api/1/1/4/c/c/0/4cc0581a01e92e5cfc81ee3850826220.mp3*~data=user_id=0,application_id=42~hmac=4c4806539ff97c299fb8e82c7555f79c15072546c31378a51145debaa3420904",
+      "duration_ms": 156000,
+      "track_number": 2,
+      "album": {
+        "id": "740850531",
+        "name": "NAFIDA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee104655ba361d7893224a4a7dcd7f7b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee104655ba361d7893224a4a7dcd7f7b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee104655ba361d7893224a4a7dcd7f7b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3319711621"
+      }
+    },
+    {
+      "id": "699486222",
+      "name": "Sweet Love",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/f/0/f9fe47113757ed5e7fb3fabe1129530b.mp3?hdnea=exp=1774859979~acl=/api/1/1/f/9/f/0/f9fe47113757ed5e7fb3fabe1129530b.mp3*~data=user_id=0,application_id=42~hmac=9958fe15615e8cf434aee9ebab75fed38f4e645404f6fb27924028ff674752f3",
+      "duration_ms": 169000,
+      "track_number": 3,
+      "album": {
+        "id": "100986482",
+        "name": "Basement Grooves",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d2f9a6a5973e94d87cbf496cba632742/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d2f9a6a5973e94d87cbf496cba632742/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d2f9a6a5973e94d87cbf496cba632742/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/699486222"
+      }
+    },
+    {
+      "id": "699486232",
+      "name": "On Point",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/f/0/99f5dabe17ab3b4b67800634f8397930.mp3?hdnea=exp=1774859979~acl=/api/1/1/9/9/f/0/99f5dabe17ab3b4b67800634f8397930.mp3*~data=user_id=0,application_id=42~hmac=50a55cf44e30998f6006bd749197360abeef56cae5516d430b25a73c2dc7cba4",
+      "duration_ms": 275000,
+      "track_number": 4,
+      "album": {
+        "id": "100986482",
+        "name": "Basement Grooves",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d2f9a6a5973e94d87cbf496cba632742/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d2f9a6a5973e94d87cbf496cba632742/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d2f9a6a5973e94d87cbf496cba632742/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/699486232"
+      }
+    },
+    {
+      "id": "1928542467",
+      "name": "Summer Haze",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/0/0/e4058f32dcc9ca3ea40da7f9e5fc69cb.mp3?hdnea=exp=1774859979~acl=/api/1/1/e/4/0/0/e4058f32dcc9ca3ea40da7f9e5fc69cb.mp3*~data=user_id=0,application_id=42~hmac=90f66d14bdf749672e5a914b31bfbc8c2d86fdc5f65740975a1d2703038314fd",
+      "duration_ms": 128000,
+      "track_number": 5,
+      "album": {
+        "id": "359899997",
+        "name": "Summer Haze",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f9d402ee55285e25bf252d64150073f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f9d402ee55285e25bf252d64150073f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f9d402ee55285e25bf252d64150073f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1928542467"
+      }
+    },
+    {
+      "id": "1593868771",
+      "name": "Jordans",
+      "popularity": 7,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/5/0/9e5d3a873836b4779473f1f221bfdcab.mp3?hdnea=exp=1774859979~acl=/api/1/1/9/e/5/0/9e5d3a873836b4779473f1f221bfdcab.mp3*~data=user_id=0,application_id=42~hmac=6c655990e4748b5cacaba4189d4690ae54d09b4be12b109afcbf2633853736ca",
+      "duration_ms": 178000,
+      "track_number": 6,
+      "album": {
+        "id": "281060731",
+        "name": "Jordans",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc6ed86bc625ae2922394c43143a062/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc6ed86bc625ae2922394c43143a062/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc6ed86bc625ae2922394c43143a062/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1593868771"
+      }
+    },
+    {
+      "id": "3319711661",
+      "name": "SHINE",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/8/0/9f829ba245894c00e3336ed1a09cc96b.mp3?hdnea=exp=1774859979~acl=/api/1/1/9/f/8/0/9f829ba245894c00e3336ed1a09cc96b.mp3*~data=user_id=0,application_id=42~hmac=f01a56d17c9ca648ab2756c8a5d0bc1a90e91e215c4b0220a28446642125f876",
+      "duration_ms": 218000,
+      "track_number": 7,
+      "album": {
+        "id": "740850531",
+        "name": "NAFIDA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee104655ba361d7893224a4a7dcd7f7b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee104655ba361d7893224a4a7dcd7f7b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee104655ba361d7893224a4a7dcd7f7b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3319711661"
+      }
+    },
+    {
+      "id": "920314602",
+      "name": "Japanese Delight",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/2/0/19239fefcf3ec193df4bbb301a159781.mp3?hdnea=exp=1774859979~acl=/api/1/1/1/9/2/0/19239fefcf3ec193df4bbb301a159781.mp3*~data=user_id=0,application_id=42~hmac=c96424bf1c5a1123bf8d0feca07a9e75f6c4d38c514c6419d90fa4d413d460c6",
+      "duration_ms": 121000,
+      "track_number": 8,
+      "album": {
+        "id": "139751382",
+        "name": "Lost and Found",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d25e38808aec822cfe2e747ea5b37cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d25e38808aec822cfe2e747ea5b37cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d25e38808aec822cfe2e747ea5b37cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/920314602"
+      }
+    },
+    {
+      "id": "1103271262",
+      "name": "City Lounge",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/a/0/cbaf3aef31e6f1faa85553de02b0baf2.mp3?hdnea=exp=1774859979~acl=/api/1/1/c/b/a/0/cbaf3aef31e6f1faa85553de02b0baf2.mp3*~data=user_id=0,application_id=42~hmac=0d97ca510523357536414b0df66364ae57fb3a47ae122a5525feccc291774d00",
+      "duration_ms": 158000,
+      "track_number": 9,
+      "album": {
+        "id": "178349312",
+        "name": "City Lounge",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bbdd8647bf04976253e6550f416a7b5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bbdd8647bf04976253e6550f416a7b5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bbdd8647bf04976253e6550f416a7b5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1103271262"
+      }
+    },
+    {
+      "id": "699486172",
+      "name": "Agua",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/d/0/bad190d287e2a29a2e86b3e76819f59a.mp3?hdnea=exp=1774859979~acl=/api/1/1/b/a/d/0/bad190d287e2a29a2e86b3e76819f59a.mp3*~data=user_id=0,application_id=42~hmac=66b0796d6b745812b405756c78ed38cc7a239e7dfe9ffc3b5c86344515505085",
+      "duration_ms": 181000,
+      "track_number": 10,
+      "album": {
+        "id": "100986482",
+        "name": "Basement Grooves",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d2f9a6a5973e94d87cbf496cba632742/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d2f9a6a5973e94d87cbf496cba632742/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d2f9a6a5973e94d87cbf496cba632742/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5351322",
+          "name": "Saib"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/699486172"
+      }
+    }
+  ]
+}

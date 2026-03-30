@@ -1,0 +1,32 @@
+{
+  "id": "897",
+  "name": "The Killers",
+  "popularity": 99,
+  "followers": {
+    "total": 2209036
+  },
+  "genres": [
+    "indie rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/979d671d4b391bc07747bd1569e51997/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/979d671d4b391bc07747bd1569e51997/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/979d671d4b391bc07747bd1569e51997/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/897"
+  },
+  "uri": "deezer:artist:897"
+}

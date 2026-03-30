@@ -1,0 +1,32 @@
+{
+  "id": "4860557",
+  "name": "Wun two",
+  "popularity": 37,
+  "followers": {
+    "total": 3738
+  },
+  "genres": [
+    "lo-fi beats"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e620a98fa0da90bf4770ba1adea130e9/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e620a98fa0da90bf4770ba1adea130e9/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e620a98fa0da90bf4770ba1adea130e9/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/4860557"
+  },
+  "uri": "deezer:artist:4860557"
+}

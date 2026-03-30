@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3171003131",
+      "name": "DtMF",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/5/0/605d346aea540cd83f25a4459f12d9f0.mp3?hdnea=exp=1774859934~acl=/api/1/1/6/0/5/0/605d346aea540cd83f25a4459f12d9f0.mp3*~data=user_id=0,application_id=42~hmac=492e790471360c669cfaae1b8d24f446068e3886d755389ee65ad749da6ee5dd",
+      "duration_ms": 237000,
+      "track_number": 1,
+      "album": {
+        "id": "693008911",
+        "name": "DeBÍ TiRAR MáS FOToS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3171003131"
+      }
+    },
+    {
+      "id": "3171002981",
+      "name": "NUEVAYoL",
+      "popularity": 97,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1774859934~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=910e7068c81091a477a210d5cba8960188a879097ca81345d77a9da4a7628a36",
+      "duration_ms": 183000,
+      "track_number": 2,
+      "album": {
+        "id": "693008911",
+        "name": "DeBÍ TiRAR MáS FOToS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3171002981"
+      }
+    },
+    {
+      "id": "3171003121",
+      "name": "EoO",
+      "popularity": 97,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/4/0/534f74248f8b341408469f33b3d52830.mp3?hdnea=exp=1774859934~acl=/api/1/1/5/3/4/0/534f74248f8b341408469f33b3d52830.mp3*~data=user_id=0,application_id=42~hmac=eecdbf3037a648b67da488acf8532d88e7a6db8afee9884a46f5f750593954c3",
+      "duration_ms": 204000,
+      "track_number": 3,
+      "album": {
+        "id": "693008911",
+        "name": "DeBÍ TiRAR MáS FOToS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3171003121"
+      }
+    },
+    {
+      "id": "1741494317",
+      "name": "Tití Me Preguntó",
+      "popularity": 97,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/d/0/c4d8eeec871548b83abe5458fff10fc3.mp3?hdnea=exp=1774859934~acl=/api/1/1/c/4/d/0/c4d8eeec871548b83abe5458fff10fc3.mp3*~data=user_id=0,application_id=42~hmac=1919b3c427c309a4e2fe64b2f6b3a0e7305a784bc18929b57f94bc2b3d85eff1",
+      "duration_ms": 243000,
+      "track_number": 4,
+      "album": {
+        "id": "316164367",
+        "name": "Un Verano Sin Ti",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b29d1070377b784384c2456093f96a66/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1741494317"
+      }
+    },
+    {
+      "id": "3171003001",
+      "name": "BAILE INoLVIDABLE",
+      "popularity": 97,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/5/0/23585201254a725a2f1f42a1b9a25686.mp3?hdnea=exp=1774859934~acl=/api/1/1/2/3/5/0/23585201254a725a2f1f42a1b9a25686.mp3*~data=user_id=0,application_id=42~hmac=e719685de706f2f2f378d7e178688dcb5a639c14c79e1a177b7696dbe8dcaa6f",
+      "duration_ms": 367000,
+      "track_number": 5,
+      "album": {
+        "id": "693008911",
+        "name": "DeBÍ TiRAR MáS FOToS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3171003001"
+      }
+    },
+    {
+      "id": "482986842",
+      "name": "I Like It",
+      "popularity": 87,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/e/0/0def0dfb110c6e00efc2386d0711768f.mp3?hdnea=exp=1774859934~acl=/api/1/1/0/d/e/0/0def0dfb110c6e00efc2386d0711768f.mp3*~data=user_id=0,application_id=42~hmac=67e8d539160aee2161ef688b43a233c3d72c422fe440d0ddaedd5fea2f02a7d0",
+      "duration_ms": 253000,
+      "track_number": 6,
+      "album": {
+        "id": "60711332",
+        "name": "Invasion of Privacy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9617334140532d2a13584042f38e67fa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9617334140532d2a13584042f38e67fa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9617334140532d2a13584042f38e67fa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482986842"
+      }
+    },
+    {
+      "id": "2496106371",
+      "name": "MONACO",
+      "popularity": 95,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/2/0/c92ce490d3fd16ae863e1c8af00991d3.mp3?hdnea=exp=1774859934~acl=/api/1/1/c/9/2/0/c92ce490d3fd16ae863e1c8af00991d3.mp3*~data=user_id=0,application_id=42~hmac=9b186f6a67875351a8630f0bf2bc92d39673ab324e3bc99263aef76b7d133a36",
+      "duration_ms": 267000,
+      "track_number": 7,
+      "album": {
+        "id": "499463651",
+        "name": "nadie sabe lo que va a pasar mañana",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2496106371"
+      }
+    },
+    {
+      "id": "3171003081",
+      "name": "TURiSTA",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/a/0/43a8958963cf4d29920b10ef31f153d3.mp3?hdnea=exp=1774859934~acl=/api/1/1/4/3/a/0/43a8958963cf4d29920b10ef31f153d3.mp3*~data=user_id=0,application_id=42~hmac=8bbb6ca4d172967bee4fb625f0065e704e534257cba1fbca497dc0362142a93a",
+      "duration_ms": 190000,
+      "track_number": 8,
+      "album": {
+        "id": "693008911",
+        "name": "DeBÍ TiRAR MáS FOToS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3171003081"
+      }
+    },
+    {
+      "id": "1122450992",
+      "name": "DÁKITI",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/5/0/ca53d105c0f8963a28ce1f04879e86be.mp3?hdnea=exp=1774859934~acl=/api/1/1/c/a/5/0/ca53d105c0f8963a28ce1f04879e86be.mp3*~data=user_id=0,application_id=42~hmac=289d4798130baefdd6d3cf450782fd4e3a2c5139b031feefc79b273eacdf4274",
+      "duration_ms": 205000,
+      "track_number": 9,
+      "album": {
+        "id": "182383222",
+        "name": "DÁKITI",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa6aa7ac356ad9d6c578cccd1a62c394/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa6aa7ac356ad9d6c578cccd1a62c394/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa6aa7ac356ad9d6c578cccd1a62c394/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1122450992"
+      }
+    },
+    {
+      "id": "3171003091",
+      "name": "CAFé CON RON",
+      "popularity": 99,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/8/0/a685c0e77b1edce3267b2225dab14da7.mp3?hdnea=exp=1774859934~acl=/api/1/1/a/6/8/0/a685c0e77b1edce3267b2225dab14da7.mp3*~data=user_id=0,application_id=42~hmac=04c846ca5890df6baed1f1ffa681cf4ea18a8b2ebcff8eaade41b09d16382158",
+      "duration_ms": 228000,
+      "track_number": 10,
+      "album": {
+        "id": "693008911",
+        "name": "DeBÍ TiRAR MáS FOToS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10583405",
+          "name": "Bad Bunny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3171003091"
+      }
+    }
+  ]
+}

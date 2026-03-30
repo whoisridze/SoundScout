@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1190506",
+      "name": "Love Me Like a Man (2008 Remaster)",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/3/0/ed34279a81c20b0a4a4f9f01bd9509f6.mp3?hdnea=exp=1774860078~acl=/api/1/1/e/d/3/0/ed34279a81c20b0a4a4f9f01bd9509f6.mp3*~data=user_id=0,application_id=42~hmac=5d98514ef370f703b575375e37eb6f52ca8772a98e450c6334ba2f859bafea41",
+      "duration_ms": 192000,
+      "track_number": 1,
+      "album": {
+        "id": "127009",
+        "name": "Give It Up (2008 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b046f23ae8eea5c240960c0c9cbb94ac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b046f23ae8eea5c240960c0c9cbb94ac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b046f23ae8eea5c240960c0c9cbb94ac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1190506"
+      }
+    },
+    {
+      "id": "1190514",
+      "name": "Thank You (2008 Remaster)",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/6/0/906a4887015d98679e3f677a85196f13.mp3?hdnea=exp=1774860078~acl=/api/1/1/9/0/6/0/906a4887015d98679e3f677a85196f13.mp3*~data=user_id=0,application_id=42~hmac=a646f11c31f9d74b52ad76ea1f959a630b9cd1f0433f6b00044fdfab3bf0b813",
+      "duration_ms": 170000,
+      "track_number": 2,
+      "album": {
+        "id": "127010",
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8640d1f215d62913535fe8499f60805/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8640d1f215d62913535fe8499f60805/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8640d1f215d62913535fe8499f60805/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1190514"
+      }
+    },
+    {
+      "id": "1190484",
+      "name": "Angel from Montgomery (2008 Remaster)",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/7/0/8474dbb5c25ba63dc90380950a64ebdc.mp3?hdnea=exp=1774860078~acl=/api/1/1/8/4/7/0/8474dbb5c25ba63dc90380950a64ebdc.mp3*~data=user_id=0,application_id=42~hmac=57a2b2f2ec6c98eddc970d358478af0ca05a9cdb03c2d2431cd38840607e1a79",
+      "duration_ms": 239000,
+      "track_number": 3,
+      "album": {
+        "id": "127007",
+        "name": "Streetlights",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/06c975f2c34485f91855efa606cac8dd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/06c975f2c34485f91855efa606cac8dd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/06c975f2c34485f91855efa606cac8dd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1190484"
+      }
+    },
+    {
+      "id": "3402688",
+      "name": "Nick Of Time",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/a/0/a3a6f71e35c1938d42d91cadf51e1016.mp3?hdnea=exp=1774860078~acl=/api/1/1/a/3/a/0/a3a6f71e35c1938d42d91cadf51e1016.mp3*~data=user_id=0,application_id=42~hmac=7ab1041de908f3b94e9dbbce1d1fb31a10bc49f5b4e8833099d18888d41e7f0e",
+      "duration_ms": 244000,
+      "track_number": 4,
+      "album": {
+        "id": "323302",
+        "name": "Nick Of Time",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bcba215d486ece045ef5e16583cdc97/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bcba215d486ece045ef5e16583cdc97/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bcba215d486ece045ef5e16583cdc97/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3402688"
+      }
+    },
+    {
+      "id": "1190521",
+      "name": "I Ain't Blue (2008 Remaster)",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/f/0/ebf1c27d5c1da2902de4b203236db46c.mp3?hdnea=exp=1774860078~acl=/api/1/1/e/b/f/0/ebf1c27d5c1da2902de4b203236db46c.mp3*~data=user_id=0,application_id=42~hmac=ee4c1342ae13500393fcb0ad4483b181ffb5a765d04c1def0e3a35f32a19e01f",
+      "duration_ms": 216000,
+      "track_number": 5,
+      "album": {
+        "id": "127010",
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8640d1f215d62913535fe8499f60805/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8640d1f215d62913535fe8499f60805/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8640d1f215d62913535fe8499f60805/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1190521"
+      }
+    },
+    {
+      "id": "3151938",
+      "name": "Love Me Like A Man (Live)",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/5/0/3550e5692755437529a6975d1262e389.mp3?hdnea=exp=1774860078~acl=/api/1/1/3/5/5/0/3550e5692755437529a6975d1262e389.mp3*~data=user_id=0,application_id=42~hmac=0f65416f55fdc4eb085d82d6a6333befbad0a9219c5bfc3b4073315a9e025728",
+      "duration_ms": 288000,
+      "track_number": 6,
+      "album": {
+        "id": "303066",
+        "name": "The Best Of Bonnie Raitt On Capitol 1989-2003",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1e22ae993d25577bed2ea342c404d18/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1e22ae993d25577bed2ea342c404d18/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1e22ae993d25577bed2ea342c404d18/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3151938"
+      }
+    },
+    {
+      "id": "558390",
+      "name": "Crepuscular Solidão",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/9/0/429b8ace31f2444898d7c2e6ba97345e.mp3?hdnea=exp=1774860078~acl=/api/1/1/4/2/9/0/429b8ace31f2444898d7c2e6ba97345e.mp3*~data=user_id=0,application_id=42~hmac=9b48ad9e6e8025ecdd8b4e2a0c368b51c69aa0c94eed3b53129ad230bd37a455",
+      "duration_ms": 330000,
+      "track_number": 7,
+      "album": {
+        "id": "73026",
+        "name": "Best Of",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0eb25006b1ee65770adaf0c55f558f36/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0eb25006b1ee65770adaf0c55f558f36/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0eb25006b1ee65770adaf0c55f558f36/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/558390"
+      }
+    },
+    {
+      "id": "82406212",
+      "name": "Six Strings Down (Album Version)",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/1/0/ce169c6622d7dbb5c0cd05eed7861805.mp3?hdnea=exp=1774860078~acl=/api/1/1/c/e/1/0/ce169c6622d7dbb5c0cd05eed7861805.mp3*~data=user_id=0,application_id=42~hmac=d4518a3bc8ab669d88077226d9e38762719eb7038a4e60d6873316acb15fbf96",
+      "duration_ms": 513000,
+      "track_number": 8,
+      "album": {
+        "id": "8269844",
+        "name": "The Essential Jimmie Vaughan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d38606ecfa6b1c39abcfcfb737ed70db/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d38606ecfa6b1c39abcfcfb737ed70db/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d38606ecfa6b1c39abcfcfb737ed70db/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/82406212"
+      }
+    },
+    {
+      "id": "1364644052",
+      "name": "I Can't Make You Love Me",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/3/0/27381a75bded5846dd1bc7895a8098eb.mp3?hdnea=exp=1774860078~acl=/api/1/1/2/7/3/0/27381a75bded5846dd1bc7895a8098eb.mp3*~data=user_id=0,application_id=42~hmac=27bfcc1c30b3d0d7bc57cd2d72864b00e36de2dfa491f734112f25188a23c3cf",
+      "duration_ms": 332000,
+      "track_number": 9,
+      "album": {
+        "id": "228144032",
+        "name": "A broken heart is all that's left",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/834082b296b069a2b67fda7191c083f8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/834082b296b069a2b67fda7191c083f8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/834082b296b069a2b67fda7191c083f8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1364644052"
+      }
+    },
+    {
+      "id": "1651292392",
+      "name": "Made Up Mind",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/3/0/c23d1a0be75141277377f48665fc4f50.mp3?hdnea=exp=1774860078~acl=/api/1/1/c/2/3/0/c23d1a0be75141277377f48665fc4f50.mp3*~data=user_id=0,application_id=42~hmac=91359cd42e27b37fd1f074bd81631c12106bd956e13d0802b5ae4b94d9ad35c6",
+      "duration_ms": 220000,
+      "track_number": 10,
+      "album": {
+        "id": "294578102",
+        "name": "Just Like That...",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c10de9874978879e594f2540208370ee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c10de9874978879e594f2540208370ee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c10de9874978879e594f2540208370ee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199",
+          "name": "Bonnie Raitt"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1651292392"
+      }
+    }
+  ]
+}

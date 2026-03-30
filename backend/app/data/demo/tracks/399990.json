@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3890319641",
+      "name": "Dry Spell",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/3/0/7a36dd51a35e6e31ee386f8b02640a9e.mp3?hdnea=exp=1774860044~acl=/api/1/1/7/a/3/0/7a36dd51a35e6e31ee386f8b02640a9e.mp3*~data=user_id=0,application_id=42~hmac=8296f2b30911f39a19b5148550eaeb4d7c825c02af1d89de7bd50c47c2417552",
+      "duration_ms": 197000,
+      "track_number": 1,
+      "album": {
+        "id": "936027301",
+        "name": "Dry Spell",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97eafa46695c2708becd77df73766e7c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97eafa46695c2708becd77df73766e7c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97eafa46695c2708becd77df73766e7c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3890319641"
+      }
+    },
+    {
+      "id": "1172418672",
+      "name": "Easy",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/3/0/27336e9f7adf35ba5d67e4602996e253.mp3?hdnea=exp=1774860044~acl=/api/1/1/2/7/3/0/27336e9f7adf35ba5d67e4602996e253.mp3*~data=user_id=0,application_id=42~hmac=9610c6ffa278c49af17dd5b927d2dd40f1977dd206ce3ed56d7b61465bc5780d",
+      "duration_ms": 213000,
+      "track_number": 2,
+      "album": {
+        "id": "192275232",
+        "name": "Easy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9ed5ff4f56e514d47eff123972e1fae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9ed5ff4f56e514d47eff123972e1fae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9ed5ff4f56e514d47eff123972e1fae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1172418672"
+      }
+    },
+    {
+      "id": "482643412",
+      "name": "Oh, What A World",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/a/0/dfa811b3edb062a766642b78a92f1ed2.mp3?hdnea=exp=1774860044~acl=/api/1/1/d/f/a/0/dfa811b3edb062a766642b78a92f1ed2.mp3*~data=user_id=0,application_id=42~hmac=c95ca8c6a10eb1740238914e2e5ad57cb4c2a31bc23ee7bc6dd9c7e8cd08e132",
+      "duration_ms": 241000,
+      "track_number": 3,
+      "album": {
+        "id": "60649622",
+        "name": "Golden Hour",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffa31861f745057dfd75ea7abbfc15ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffa31861f745057dfd75ea7abbfc15ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffa31861f745057dfd75ea7abbfc15ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482643412"
+      }
+    },
+    {
+      "id": "482643492",
+      "name": "Golden Hour",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/6/0/b066e7274dcdafcb0da54fd1ff10a338.mp3?hdnea=exp=1774860044~acl=/api/1/1/b/0/6/0/b066e7274dcdafcb0da54fd1ff10a338.mp3*~data=user_id=0,application_id=42~hmac=6261d869a95f169d1bd600c9f6dcc6bbfe9f1563c4ea75a55ccd0420e5b36a29",
+      "duration_ms": 197000,
+      "track_number": 4,
+      "album": {
+        "id": "60649622",
+        "name": "Golden Hour",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffa31861f745057dfd75ea7abbfc15ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffa31861f745057dfd75ea7abbfc15ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffa31861f745057dfd75ea7abbfc15ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482643492"
+      }
+    },
+    {
+      "id": "1133161112",
+      "name": "Okie From Muskogee (Live)",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/2/0/602bdec54b8c0d0cc94a90c1e0453a55.mp3?hdnea=exp=1774860044~acl=/api/1/1/6/0/2/0/602bdec54b8c0d0cc94a90c1e0453a55.mp3*~data=user_id=0,application_id=42~hmac=5da79a15ccf86fcf2bebeea5886614465f74c5767b649250429c50cbe4b252ec",
+      "duration_ms": 95000,
+      "track_number": 5,
+      "album": {
+        "id": "184430502",
+        "name": "Okie From Muskogee (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8713c476a2e7da9cdc26e028e29cfd1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8713c476a2e7da9cdc26e028e29cfd1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8713c476a2e7da9cdc26e028e29cfd1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1133161112"
+      }
+    },
+    {
+      "id": "2699350962",
+      "name": "The Architect",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/a/0/9aabd0c8b0a9c0ef5b0f672b7b257238.mp3?hdnea=exp=1774860044~acl=/api/1/1/9/a/a/0/9aabd0c8b0a9c0ef5b0f672b7b257238.mp3*~data=user_id=0,application_id=42~hmac=34b21c6542aa77cc42ab9c0b79049f1cb7557df200e68e37c507d49f58e94327",
+      "duration_ms": 177000,
+      "track_number": 6,
+      "album": {
+        "id": "559003122",
+        "name": "Deeper Well",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d20e03624c784951abe555cae7a31a6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d20e03624c784951abe555cae7a31a6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d20e03624c784951abe555cae7a31a6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2699350962"
+      }
+    },
+    {
+      "id": "65280350",
+      "name": "Silver Lining",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/d/0/98d8c7ddafcbdeeb9d1b37a61fd8545f.mp3?hdnea=exp=1774860044~acl=/api/1/1/9/8/d/0/98d8c7ddafcbdeeb9d1b37a61fd8545f.mp3*~data=user_id=0,application_id=42~hmac=0924e2287e15abe945b0e92b8f5a72eccd41b9257bf37d9dce045d98fd2aec1c",
+      "duration_ms": 230000,
+      "track_number": 7,
+      "album": {
+        "id": "6398248",
+        "name": "Same Trailer Different Park",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0597795cd40eaff3b1b39b6e77f44aab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0597795cd40eaff3b1b39b6e77f44aab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0597795cd40eaff3b1b39b6e77f44aab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65280350"
+      }
+    },
+    {
+      "id": "482643382",
+      "name": "Slow Burn",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/7/0/79724f8e3e866abf5e1bb91a3e353900.mp3?hdnea=exp=1774860044~acl=/api/1/1/7/9/7/0/79724f8e3e866abf5e1bb91a3e353900.mp3*~data=user_id=0,application_id=42~hmac=f9738212576d28c5aa87add6850b2edfff95e181c2b5bbf795bbd7ba5aa92f64",
+      "duration_ms": 247000,
+      "track_number": 8,
+      "album": {
+        "id": "60649622",
+        "name": "Golden Hour",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffa31861f745057dfd75ea7abbfc15ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffa31861f745057dfd75ea7abbfc15ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffa31861f745057dfd75ea7abbfc15ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482643382"
+      }
+    },
+    {
+      "id": "65280353",
+      "name": "My House",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/7/0/0c7556497b6c4a1a00b82a0ff55ecc9a.mp3?hdnea=exp=1774860044~acl=/api/1/1/0/c/7/0/0c7556497b6c4a1a00b82a0ff55ecc9a.mp3*~data=user_id=0,application_id=42~hmac=2fe1b77c6ca39dd466d4ec8895f64a6b0f4aaccf33ee56ff51b0ad781706423e",
+      "duration_ms": 161000,
+      "track_number": 9,
+      "album": {
+        "id": "6398248",
+        "name": "Same Trailer Different Park",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0597795cd40eaff3b1b39b6e77f44aab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0597795cd40eaff3b1b39b6e77f44aab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0597795cd40eaff3b1b39b6e77f44aab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65280353"
+      }
+    },
+    {
+      "id": "2699350882",
+      "name": "Deeper Well",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/7/0/7f70ebbe9a3ae20c30bd598d415322f4.mp3?hdnea=exp=1774860044~acl=/api/1/1/7/f/7/0/7f70ebbe9a3ae20c30bd598d415322f4.mp3*~data=user_id=0,application_id=42~hmac=d28d1628f7206eae25369610a16b9b7d54abad2fc14db1ab60ae66273b4ae6df",
+      "duration_ms": 232000,
+      "track_number": 10,
+      "album": {
+        "id": "559003122",
+        "name": "Deeper Well",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d20e03624c784951abe555cae7a31a6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d20e03624c784951abe555cae7a31a6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d20e03624c784951abe555cae7a31a6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "399990",
+          "name": "Kacey Musgraves"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2699350882"
+      }
+    }
+  ]
+}

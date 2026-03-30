@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2041840047",
+      "name": "Solitude",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/a/0/5daf6bdf7ae07891606d898f9fdad39a.mp3?hdnea=exp=1774860007~acl=/api/1/1/5/d/a/0/5daf6bdf7ae07891606d898f9fdad39a.mp3*~data=user_id=0,application_id=42~hmac=50271de8749c6a799ba623b465b77fc3c7c4939a754d0f0a27daa58386d402ba",
+      "duration_ms": 174000,
+      "track_number": 1,
+      "album": {
+        "id": "381588107",
+        "name": "Solitude",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58b92a40e320cdfb38bf3ac8efae0615/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58b92a40e320cdfb38bf3ac8efae0615/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58b92a40e320cdfb38bf3ac8efae0615/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2041840047"
+      }
+    },
+    {
+      "id": "1498927982",
+      "name": "Over",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/1/0/a31d8002a39623df35028a2c0dc00235.mp3?hdnea=exp=1774860007~acl=/api/1/1/a/3/1/0/a31d8002a39623df35028a2c0dc00235.mp3*~data=user_id=0,application_id=42~hmac=de2c48920520b25b94283e07c91c86e24315f6e7f787e579d21e86992fce0635",
+      "duration_ms": 205000,
+      "track_number": 2,
+      "album": {
+        "id": "260072722",
+        "name": "Over",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e66715b17e490fea982b66506d3a33b8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e66715b17e490fea982b66506d3a33b8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e66715b17e490fea982b66506d3a33b8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1498927982"
+      }
+    },
+    {
+      "id": "1113383962",
+      "name": "Feed The Fire",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/8/0/248cc75673ecce0ad2273fe10750ba9a.mp3?hdnea=exp=1774860007~acl=/api/1/1/2/4/8/0/248cc75673ecce0ad2273fe10750ba9a.mp3*~data=user_id=0,application_id=42~hmac=f811841865d7ebd2bfba3ffa9abf9440a4cb5ff24a33d189cc00c09bf62a3799",
+      "duration_ms": 245000,
+      "track_number": 3,
+      "album": {
+        "id": "180565312",
+        "name": "Feed The Fire",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb92f6067c6d00f82fce34c3f6bfaff9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb92f6067c6d00f82fce34c3f6bfaff9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb92f6067c6d00f82fce34c3f6bfaff9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1113383962"
+      }
+    },
+    {
+      "id": "2861816672",
+      "name": "Paralyzed (feat. RAYE)",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/a/0/e2a4d1fa455f0868a0d75f5b58b3ed0e.mp3?hdnea=exp=1774860007~acl=/api/1/1/e/2/a/0/e2a4d1fa455f0868a0d75f5b58b3ed0e.mp3*~data=user_id=0,application_id=42~hmac=4519b3f92c4a6432e5b7a24c44b4033d0856d1e62f8c6e8edcf980987d89dedf",
+      "duration_ms": 278000,
+      "track_number": 4,
+      "album": {
+        "id": "606224152",
+        "name": "Algorithm",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f230c5bd3a8218b01bc4c4232b65f9ab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f230c5bd3a8218b01bc4c4232b65f9ab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f230c5bd3a8218b01bc4c4232b65f9ab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2861816672"
+      }
+    },
+    {
+      "id": "1673448907",
+      "name": "Guess",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/5/0/1b5540641b6fd93d181b0f9c045c0566.mp3?hdnea=exp=1774860007~acl=/api/1/1/1/b/5/0/1b5540641b6fd93d181b0f9c045c0566.mp3*~data=user_id=0,application_id=42~hmac=f0f9ad4e16911aa4ac92a0c64e82436a6721e081faa21251ba5692ec1746ef83",
+      "duration_ms": 193000,
+      "track_number": 5,
+      "album": {
+        "id": "299912957",
+        "name": "Candydrip",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7055bf2165f78de8d806989d47c778fe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7055bf2165f78de8d806989d47c778fe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7055bf2165f78de8d806989d47c778fe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1673448907"
+      }
+    },
+    {
+      "id": "1558993452",
+      "name": "Retrograde (feat. 6lack & Lucky Daye)",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/c/0/a8c183b5e791a13b807c2a7bf3f793e9.mp3?hdnea=exp=1774860007~acl=/api/1/1/a/8/c/0/a8c183b5e791a13b807c2a7bf3f793e9.mp3*~data=user_id=0,application_id=42~hmac=2ae9d943a18e3d056e3b40d211f74e1fbe73af133ac22efc7f3d5ac3d9e176b1",
+      "duration_ms": 220000,
+      "track_number": 6,
+      "album": {
+        "id": "273780002",
+        "name": "Scenic Drive (The Tape)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/736751b068707475afccef526dc202bc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/736751b068707475afccef526dc202bc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/736751b068707475afccef526dc202bc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1558993452"
+      }
+    },
+    {
+      "id": "1739196997",
+      "name": "Too Much (feat. Lucky Daye)",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/4/0/b1437b3af5955189819c14a5442fbc67.mp3?hdnea=exp=1774860007~acl=/api/1/1/b/1/4/0/b1437b3af5955189819c14a5442fbc67.mp3*~data=user_id=0,application_id=42~hmac=f7a5d4a61b40a90c841a0bcfa02dc25d6cb95bb54648d33b734941154c045344",
+      "duration_ms": 215000,
+      "track_number": 7,
+      "album": {
+        "id": "315619917",
+        "name": "Too Much (feat. Lucky Daye)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d17c911e247b2251505e08ffecfc972/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d17c911e247b2251505e08ffecfc972/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d17c911e247b2251505e08ffecfc972/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1739196997"
+      }
+    },
+    {
+      "id": "2129730317",
+      "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/d/0/d5d4fda3e058cce483c6bbcada9c1832.mp3?hdnea=exp=1774860007~acl=/api/1/1/d/5/d/0/d5d4fda3e058cce483c6bbcada9c1832.mp3*~data=user_id=0,application_id=42~hmac=76c829d01c038110682ff764d6aa5fbc439b9b8ede7f69aa3b2ea2742b26d884",
+      "duration_ms": 192000,
+      "track_number": 8,
+      "album": {
+        "id": "402067287",
+        "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bfc018165e29b7a66c39c6a9f950cfdf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bfc018165e29b7a66c39c6a9f950cfdf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bfc018165e29b7a66c39c6a9f950cfdf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2129730317"
+      }
+    },
+    {
+      "id": "1905839687",
+      "name": "Vibe Like This",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/5/0/325d0e4afc171ccd9c146722b384cca0.mp3?hdnea=exp=1774860007~acl=/api/1/1/3/2/5/0/325d0e4afc171ccd9c146722b384cca0.mp3*~data=user_id=0,application_id=42~hmac=4050eae8f2373c0ff3b4a8a29cce2936a52979fb74017382debccfb5e08cf7d4",
+      "duration_ms": 226000,
+      "track_number": 9,
+      "album": {
+        "id": "354866457",
+        "name": "Vibe Like This",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65490cbd9ea96ef2857f15c68e5673e4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65490cbd9ea96ef2857f15c68e5673e4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65490cbd9ea96ef2857f15c68e5673e4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1905839687"
+      }
+    },
+    {
+      "id": "1580582982",
+      "name": "Come For Me (Unlocked) (feat. Khalid & Lucky Daye)",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/f/0/caf86b3d750ec2c20a810bdcd064fbb4.mp3?hdnea=exp=1774860007~acl=/api/1/1/c/a/f/0/caf86b3d750ec2c20a810bdcd064fbb4.mp3*~data=user_id=0,application_id=42~hmac=46388bcab47f52ea86d44e4b44edd1db60eb659dd6d26ee2f4ecdedd69ac5d61",
+      "duration_ms": 209000,
+      "track_number": 10,
+      "album": {
+        "id": "278407792",
+        "name": "KEYS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f688f9e5c7d96cec6b1747cd992733b1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f688f9e5c7d96cec6b1747cd992733b1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f688f9e5c7d96cec6b1747cd992733b1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10318770",
+          "name": "Lucky Daye"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1580582982"
+      }
+    }
+  ]
+}

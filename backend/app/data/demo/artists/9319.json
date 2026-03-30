@@ -1,0 +1,32 @@
+{
+  "id": "9319",
+  "name": "Gov't Mule",
+  "popularity": 2,
+  "followers": {
+    "total": 29595
+  },
+  "genres": [
+    "blues rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e18b8e18114eb65ecdb84861fc92a58e/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e18b8e18114eb65ecdb84861fc92a58e/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e18b8e18114eb65ecdb84861fc92a58e/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/9319"
+  },
+  "uri": "deezer:artist:9319"
+}

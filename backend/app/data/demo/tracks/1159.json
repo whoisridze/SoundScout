@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "417358252",
+      "name": "My Own Blues",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/f/0/e4f1207c04e7dc4992d39b9d27d8ab80.mp3?hdnea=exp=1774860072~acl=/api/1/1/e/4/f/0/e4f1207c04e7dc4992d39b9d27d8ab80.mp3*~data=user_id=0,application_id=42~hmac=d03ce88d17fe40c6e0f80be2b5c4e85017f88b29fa084cb9f632c837a1a80281",
+      "duration_ms": 150000,
+      "track_number": 1,
+      "album": {
+        "id": "49843282",
+        "name": "Urban Blues (Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c60606c369a3ee584ad4c6f57058627b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c60606c369a3ee584ad4c6f57058627b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c60606c369a3ee584ad4c6f57058627b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/417358252"
+      }
+    },
+    {
+      "id": "111780302",
+      "name": "It Serve You Right To Suffer (The Avener Rework)",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/d/0/55d40447d251606ad8e554c469977163.mp3?hdnea=exp=1774860072~acl=/api/1/1/5/5/d/0/55d40447d251606ad8e554c469977163.mp3*~data=user_id=0,application_id=42~hmac=bde346bddf1b2f29b7e8261bdb5327dfeb037b998c690d0f423f1c42a0f5b59e",
+      "duration_ms": 206000,
+      "track_number": 2,
+      "album": {
+        "id": "11603594",
+        "name": "The Wanderings Of The Avener",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c88e65a2de07dfd8f9df5359b264ae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c88e65a2de07dfd8f9df5359b264ae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c88e65a2de07dfd8f9df5359b264ae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/111780302"
+      }
+    },
+    {
+      "id": "3785418182",
+      "name": "Chill Out (Things Gonna Change) (Remastered 2007)",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/9/0/e29f828ab944252c1385c9f97b4811d1.mp3?hdnea=exp=1774860072~acl=/api/1/1/e/2/9/0/e29f828ab944252c1385c9f97b4811d1.mp3*~data=user_id=0,application_id=42~hmac=8eee646f4c35bb0cb422bb3ae190e65a2b6b65e03135cff251ba47217d2c7901",
+      "duration_ms": 286000,
+      "track_number": 3,
+      "album": {
+        "id": "901259752",
+        "name": "Chill Out (Remastered 2007)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c08c72291d86763108c9d1af4131551d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c08c72291d86763108c9d1af4131551d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c08c72291d86763108c9d1af4131551d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3785418182"
+      }
+    },
+    {
+      "id": "12291998",
+      "name": "Boom Boom",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/0/0/920f26aaef7ee4f3e1624072752bdace.mp3?hdnea=exp=1774860072~acl=/api/1/1/9/2/0/0/920f26aaef7ee4f3e1624072752bdace.mp3*~data=user_id=0,application_id=42~hmac=a9951de515e3089b2c715548d27d00f25374226ffa387baf8a997f0b64aa250f",
+      "duration_ms": 159000,
+      "track_number": 4,
+      "album": {
+        "id": "1129638",
+        "name": "Blues Greats: John Lee Hooker",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c06611649674254da26a4675c37c3fa1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c06611649674254da26a4675c37c3fa1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c06611649674254da26a4675c37c3fa1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/12291998"
+      }
+    },
+    {
+      "id": "95375704",
+      "name": "The Wanderings of The Avener (Continuous Mix)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/9/0/349ee6aeb741e99b4625a774b62b7e7b.mp3?hdnea=exp=1774860072~acl=/api/1/1/3/4/9/0/349ee6aeb741e99b4625a774b62b7e7b.mp3*~data=user_id=0,application_id=42~hmac=c715a4b45151155eb22ba65edac614bbeb387943d1fb92dda60422407558efb1",
+      "duration_ms": 3250000,
+      "track_number": 5,
+      "album": {
+        "id": "9703822",
+        "name": "The Wanderings Of The Avener",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/72a02f7727eaaa38c6faa2ed3eec9d4f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/72a02f7727eaaa38c6faa2ed3eec9d4f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/72a02f7727eaaa38c6faa2ed3eec9d4f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/95375704"
+      }
+    },
+    {
+      "id": "1097512",
+      "name": "It Serve You Right To Suffer",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/9/0/c89fef4b8db0625220662c3ab5525a41.mp3?hdnea=exp=1774860072~acl=/api/1/1/c/8/9/0/c89fef4b8db0625220662c3ab5525a41.mp3*~data=user_id=0,application_id=42~hmac=63387398521b53088e94905941f5aa567ce167ceb3e83865baa1d74d963d1128",
+      "duration_ms": 309000,
+      "track_number": 6,
+      "album": {
+        "id": "118415",
+        "name": "Classic John Lee Hooker - The Universal Masters Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dc9d9f7cc402b375660c8b952a4bdb8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dc9d9f7cc402b375660c8b952a4bdb8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dc9d9f7cc402b375660c8b952a4bdb8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1097512"
+      }
+    },
+    {
+      "id": "417358262",
+      "name": "I Can't Stand To Leave You",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/f/0/c0fed3d68c17bd20b71cc86ff89b6a8e.mp3?hdnea=exp=1774860072~acl=/api/1/1/c/0/f/0/c0fed3d68c17bd20b71cc86ff89b6a8e.mp3*~data=user_id=0,application_id=42~hmac=29c8fcc9810e2e77f119d5f236424aa4b401a02f62c326f3b272f7029d6cacd6",
+      "duration_ms": 148000,
+      "track_number": 7,
+      "album": {
+        "id": "49843282",
+        "name": "Urban Blues (Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c60606c369a3ee584ad4c6f57058627b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c60606c369a3ee584ad4c6f57058627b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c60606c369a3ee584ad4c6f57058627b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/417358262"
+      }
+    },
+    {
+      "id": "768658042",
+      "name": "The Healer",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/6/0/626134bb4b9d38e62159f27870dd0329.mp3?hdnea=exp=1774860072~acl=/api/1/1/6/2/6/0/626134bb4b9d38e62159f27870dd0329.mp3*~data=user_id=0,application_id=42~hmac=b295c495f872a7de511e4aa294d67911337ab08d3bba48d289a1eb723e61f701",
+      "duration_ms": 337000,
+      "track_number": 8,
+      "album": {
+        "id": "113596852",
+        "name": "The Healer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe8e04d54ff80c0901457292ac6700c4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe8e04d54ff80c0901457292ac6700c4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe8e04d54ff80c0901457292ac6700c4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/768658042"
+      }
+    },
+    {
+      "id": "3785418302",
+      "name": "Down So Low",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/a/0/afa56313b3edd44e7659b3fd447fe227.mp3?hdnea=exp=1774860072~acl=/api/1/1/a/f/a/0/afa56313b3edd44e7659b3fd447fe227.mp3*~data=user_id=0,application_id=42~hmac=a383c1513327f9a090a3df539d6362045b633d2effae34f7c974d89ec7c4176e",
+      "duration_ms": 220000,
+      "track_number": 9,
+      "album": {
+        "id": "901259752",
+        "name": "Chill Out (Remastered 2007)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c08c72291d86763108c9d1af4131551d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c08c72291d86763108c9d1af4131551d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c08c72291d86763108c9d1af4131551d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3785418302"
+      }
+    },
+    {
+      "id": "2181220",
+      "name": "You Shook Me",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/d/0/6cd6eba5520699da0b2c20e0730969be.mp3?hdnea=exp=1774860072~acl=/api/1/1/6/c/d/0/6cd6eba5520699da0b2c20e0730969be.mp3*~data=user_id=0,application_id=42~hmac=49969d4b33b01cd0d4c3d816f02f9816e71d375fc591b83961c85fd8067e95e4",
+      "duration_ms": 298000,
+      "track_number": 10,
+      "album": {
+        "id": "218091",
+        "name": "Blues Summit",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6023f4f87629cbc824bdfe8a998d0195/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6023f4f87629cbc824bdfe8a998d0195/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6023f4f87629cbc824bdfe8a998d0195/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1159",
+          "name": "John Lee Hooker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2181220"
+      }
+    }
+  ]
+}

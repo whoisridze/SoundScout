@@ -1,0 +1,32 @@
+{
+  "id": "471526",
+  "name": "Snarky Puppy",
+  "popularity": 8,
+  "followers": {
+    "total": 80301
+  },
+  "genres": [
+    "jazz fusion"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/7e2d615395e8d77226a834a1dbc17c97/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/7e2d615395e8d77226a834a1dbc17c97/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/7e2d615395e8d77226a834a1dbc17c97/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/471526"
+  },
+  "uri": "deezer:artist:471526"
+}

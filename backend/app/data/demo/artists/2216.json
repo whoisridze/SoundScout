@@ -1,0 +1,32 @@
+{
+  "id": "2216",
+  "name": "Lamb of God",
+  "popularity": 48,
+  "followers": {
+    "total": 480532
+  },
+  "genres": [
+    "metal"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/061f81e80e8e59f7144873f5391ea5da/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/061f81e80e8e59f7144873f5391ea5da/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/061f81e80e8e59f7144873f5391ea5da/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2216"
+  },
+  "uri": "deezer:artist:2216"
+}

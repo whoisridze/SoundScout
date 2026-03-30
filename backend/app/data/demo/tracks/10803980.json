@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3866248761",
+      "name": "GO",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/2/0/ab2ab6dc90c205571d77301997362b52.mp3?hdnea=exp=1774859946~acl=/api/1/1/a/b/2/0/ab2ab6dc90c205571d77301997362b52.mp3*~data=user_id=0,application_id=42~hmac=423776621a680d813572e588a2446f340da78dae48df5126c03671d591d98b34",
+      "duration_ms": 195000,
+      "track_number": 1,
+      "album": {
+        "id": "926950431",
+        "name": "DEADLINE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3866248761"
+      }
+    },
+    {
+      "id": "3454677991",
+      "name": "JUMP",
+      "popularity": 95,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/0/0/350c61c441cc0889fe5ef3e326fe335a.mp3?hdnea=exp=1774859946~acl=/api/1/1/3/5/0/0/350c61c441cc0889fe5ef3e326fe335a.mp3*~data=user_id=0,application_id=42~hmac=6b32996b0325e06d61fb68061826e907d814c915e829afb38164f98c83b49190",
+      "duration_ms": 164000,
+      "track_number": 2,
+      "album": {
+        "id": "786324441",
+        "name": "JUMP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6ef57c5bebc2c8ff9710cf3eca0addb0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6ef57c5bebc2c8ff9710cf3eca0addb0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6ef57c5bebc2c8ff9710cf3eca0addb0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3454677991"
+      }
+    },
+    {
+      "id": "1097366392",
+      "name": "How You Like That",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/7/0/ac729d5f8c948fa438f035a4a70667b5.mp3?hdnea=exp=1774859946~acl=/api/1/1/a/c/7/0/ac729d5f8c948fa438f035a4a70667b5.mp3*~data=user_id=0,application_id=42~hmac=09b815e9871c1733f8e25a5ef074eeee3d07f4ef47a3533ef20a899b1389fed4",
+      "duration_ms": 181000,
+      "track_number": 3,
+      "album": {
+        "id": "177111982",
+        "name": "THE ALBUM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08b26a84be2b1030aef7c13a1720cf50/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08b26a84be2b1030aef7c13a1720cf50/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08b26a84be2b1030aef7c13a1720cf50/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1097366392"
+      }
+    },
+    {
+      "id": "3866248771",
+      "name": "Me and my",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/4/0/4042b7d11931fddb4e2d1a212832da43.mp3?hdnea=exp=1774859946~acl=/api/1/1/4/0/4/0/4042b7d11931fddb4e2d1a212832da43.mp3*~data=user_id=0,application_id=42~hmac=af2fa2bf801a64a784ff9abb1a77f06302b765d5613b19859e2d2b60c6da31d9",
+      "duration_ms": 172000,
+      "track_number": 4,
+      "album": {
+        "id": "926950431",
+        "name": "DEADLINE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3866248771"
+      }
+    },
+    {
+      "id": "3866248781",
+      "name": "Champion",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/8/0/ab8216d6d7b85597ebdf9a420776de6c.mp3?hdnea=exp=1774859946~acl=/api/1/1/a/b/8/0/ab8216d6d7b85597ebdf9a420776de6c.mp3*~data=user_id=0,application_id=42~hmac=f560f11e01939ff7ab374288a6a94cca9bccf6b66c5e7caef7d33123c7b11a3d",
+      "duration_ms": 172000,
+      "track_number": 5,
+      "album": {
+        "id": "926950431",
+        "name": "DEADLINE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c2012eb608224b71d6b35f9092714ac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3866248781"
+      }
+    },
+    {
+      "id": "2516649591",
+      "name": "BOOMBAYAH",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/0/0/dc0cc6a9202ea49b02a122ffa2a8000b.mp3?hdnea=exp=1774859946~acl=/api/1/1/d/c/0/0/dc0cc6a9202ea49b02a122ffa2a8000b.mp3*~data=user_id=0,application_id=42~hmac=31596f608429feefeca893e3eaafd81202fcbfb8ed80d789cf8047090d9533f5",
+      "duration_ms": 240000,
+      "track_number": 6,
+      "album": {
+        "id": "505383041",
+        "name": "BLACKPINK IN YOUR AREA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee196ca055678707b6ed90475c2162a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee196ca055678707b6ed90475c2162a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee196ca055678707b6ed90475c2162a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2516649591"
+      }
+    },
+    {
+      "id": "623470302",
+      "name": "Forever Young",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/0/0/680507ca5cd16436add81e908bfcce79.mp3?hdnea=exp=1774859946~acl=/api/1/1/6/8/0/0/680507ca5cd16436add81e908bfcce79.mp3*~data=user_id=0,application_id=42~hmac=ddb3404c3b375c78f652d5f1b5cb4d6b52e667b3385c5787211cf9a53e113b65",
+      "duration_ms": 236000,
+      "track_number": 7,
+      "album": {
+        "id": "85545032",
+        "name": "SQUARE UP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/023a060134d8e8896a3d9dd298e1e07c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/023a060134d8e8896a3d9dd298e1e07c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/023a060134d8e8896a3d9dd298e1e07c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/623470302"
+      }
+    },
+    {
+      "id": "1873466547",
+      "name": "Pink Venom",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/e/0/7cedee72f10decc4dc9edb840a1e10bc.mp3?hdnea=exp=1774859946~acl=/api/1/1/7/c/e/0/7cedee72f10decc4dc9edb840a1e10bc.mp3*~data=user_id=0,application_id=42~hmac=04fed6331cdf5687b893721cd88bfec477f30c9a9c63de085bd9525d4edee78c",
+      "duration_ms": 187000,
+      "track_number": 8,
+      "album": {
+        "id": "348005347",
+        "name": "Pink Venom",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab284fba32a84e93210bff24b9236d5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab284fba32a84e93210bff24b9236d5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab284fba32a84e93210bff24b9236d5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1873466547"
+      }
+    },
+    {
+      "id": "1097366402",
+      "name": "Ice Cream",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/c/0/a3c04b7188f54e526ba8bda6dfc4c939.mp3?hdnea=exp=1774859946~acl=/api/1/1/a/3/c/0/a3c04b7188f54e526ba8bda6dfc4c939.mp3*~data=user_id=0,application_id=42~hmac=3c414142330a70b066e383dc938f4a096e6f2917f5485505489c501d582e1d05",
+      "duration_ms": 176000,
+      "track_number": 9,
+      "album": {
+        "id": "177111982",
+        "name": "THE ALBUM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08b26a84be2b1030aef7c13a1720cf50/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08b26a84be2b1030aef7c13a1720cf50/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08b26a84be2b1030aef7c13a1720cf50/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1097366402"
+      }
+    },
+    {
+      "id": "1097366452",
+      "name": "Love To Hate Me",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/6/0/1b6686a230efc778eef31ec60a9cc425.mp3?hdnea=exp=1774859946~acl=/api/1/1/1/b/6/0/1b6686a230efc778eef31ec60a9cc425.mp3*~data=user_id=0,application_id=42~hmac=a679152e013b3e65a72777bd75fcbd2193dc0bab9ffa4aba3417252381827755",
+      "duration_ms": 170000,
+      "track_number": 10,
+      "album": {
+        "id": "177111982",
+        "name": "THE ALBUM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08b26a84be2b1030aef7c13a1720cf50/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08b26a84be2b1030aef7c13a1720cf50/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08b26a84be2b1030aef7c13a1720cf50/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10803980",
+          "name": "BLACKPINK"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1097366452"
+      }
+    }
+  ]
+}

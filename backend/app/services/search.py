@@ -3,7 +3,7 @@ from typing import Any, Dict, List, Optional
 
 from motor.motor_asyncio import AsyncIOMotorDatabase
 
-from app.services.spotify import spotify
+from app.services import spotify
 
 
 async def search_users(

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3222974651",
+      "name": "Shake It To The Max (FLY) [Remix]",
+      "popularity": 91,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/9/0/5391d51fb0d776fb8a734b91b857e4d6.mp3?hdnea=exp=1774860118~acl=/api/1/1/5/3/9/0/5391d51fb0d776fb8a734b91b857e4d6.mp3*~data=user_id=0,application_id=42~hmac=1f0722b3a42846802d7bcb7b73df5e83c572c1817ed1a713c1ef1eb72514ecfe",
+      "duration_ms": 178000,
+      "track_number": 1,
+      "album": {
+        "id": "709590921",
+        "name": "Shake It To The Max (FLY) [Remix]",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/055a323dcf0943c86f4c1b4ac619b0e3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/055a323dcf0943c86f4c1b4ac619b0e3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/055a323dcf0943c86f4c1b4ac619b0e3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3222974651"
+      }
+    },
+    {
+      "id": "3890561131",
+      "name": "Talk To Me Nuh",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/f/0/79fd777842da5d4a96f1568359f1d089.mp3?hdnea=exp=1774860118~acl=/api/1/1/7/9/f/0/79fd777842da5d4a96f1568359f1d089.mp3*~data=user_id=0,application_id=42~hmac=9b9dea29314773de3d1d9366f7b4949f91e099dafe22256c9cf87d4c05119a9c",
+      "duration_ms": 126000,
+      "track_number": 2,
+      "album": {
+        "id": "936105721",
+        "name": "Talk To Me Nuh",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b959d3e20945c7200eb19a3ebdc12710/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b959d3e20945c7200eb19a3ebdc12710/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b959d3e20945c7200eb19a3ebdc12710/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3890561131"
+      }
+    },
+    {
+      "id": "3612266192",
+      "name": "BOSS UP",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/4/0/c347a9a859c0047239c85052bb2008c8.mp3?hdnea=exp=1774860118~acl=/api/1/1/c/3/4/0/c347a9a859c0047239c85052bb2008c8.mp3*~data=user_id=0,application_id=42~hmac=5a94d581df2f9bb4eaeef7246997654815bf612c4e548452338e685429c05503",
+      "duration_ms": 151000,
+      "track_number": 3,
+      "album": {
+        "id": "841449612",
+        "name": "BOSS UP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6038922d834bc68d6ddedc81e61ab1e0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6038922d834bc68d6ddedc81e61ab1e0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6038922d834bc68d6ddedc81e61ab1e0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3612266192"
+      }
+    },
+    {
+      "id": "2751202791",
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/7/0/c7769e5198477ff60f22fb77c739b652.mp3?hdnea=exp=1774860118~acl=/api/1/1/c/7/7/0/c7769e5198477ff60f22fb77c739b652.mp3*~data=user_id=0,application_id=42~hmac=18b72799ce8ade7683de20d6b209e21ad9c5cf70df816363e464805ec19ddb3a",
+      "duration_ms": 227000,
+      "track_number": 4,
+      "album": {
+        "id": "573529021",
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11957e5abdfc3581dce88564acb41610/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11957e5abdfc3581dce88564acb41610/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11957e5abdfc3581dce88564acb41610/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2751202791"
+      }
+    },
+    {
+      "id": "3005570831",
+      "name": "Dating Szn",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/6/0/186d86811b6ca3113121341b18aece09.mp3?hdnea=exp=1774860118~acl=/api/1/1/1/8/6/0/186d86811b6ca3113121341b18aece09.mp3*~data=user_id=0,application_id=42~hmac=b6a93ceb824d66753fb904f72e10f9a9672a8a9c96e602cf9c00676c8f999130",
+      "duration_ms": 175000,
+      "track_number": 5,
+      "album": {
+        "id": "646020851",
+        "name": "Dating Szn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/445b7446ac550bf7a0590c4f60f7309a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/445b7446ac550bf7a0590c4f60f7309a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/445b7446ac550bf7a0590c4f60f7309a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3005570831"
+      }
+    },
+    {
+      "id": "2807124292",
+      "name": "Hit & Run",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/5/0/d351e51bb7bfe9f123538ae9e54bcaa1.mp3?hdnea=exp=1774860118~acl=/api/1/1/d/3/5/0/d351e51bb7bfe9f123538ae9e54bcaa1.mp3*~data=user_id=0,application_id=42~hmac=5cf50c4ac37d30f0fdfffa0ae9a52cbf51b760561523989e69e27360a81555cd",
+      "duration_ms": 169000,
+      "track_number": 6,
+      "album": {
+        "id": "588213482",
+        "name": "Never Gets Late Here",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b57f5c66223ecac8a03b90f8996c38ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b57f5c66223ecac8a03b90f8996c38ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b57f5c66223ecac8a03b90f8996c38ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2807124292"
+      }
+    },
+    {
+      "id": "3852440051",
+      "name": "Goddess",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/3/0/c13eceb1bb9dd36d00e68fb143777fdc.mp3?hdnea=exp=1774860118~acl=/api/1/1/c/1/3/0/c13eceb1bb9dd36d00e68fb143777fdc.mp3*~data=user_id=0,application_id=42~hmac=45f676eb0f3266af9ba6e3439c4e444b6dd0c7375c486d851dd66535eb7ec4ae",
+      "duration_ms": 206000,
+      "track_number": 7,
+      "album": {
+        "id": "922094221",
+        "name": "Goddess",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6cfd8aea5ed2b711bc43a54db77b72c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6cfd8aea5ed2b711bc43a54db77b72c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6cfd8aea5ed2b711bc43a54db77b72c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3852440051"
+      }
+    },
+    {
+      "id": "2807124342",
+      "name": "Dolla",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/d/0/e5d3e3e93d96e92d191523db9af413e9.mp3?hdnea=exp=1774860118~acl=/api/1/1/e/5/d/0/e5d3e3e93d96e92d191523db9af413e9.mp3*~data=user_id=0,application_id=42~hmac=0280e230a8bbf1dc9e1d3d2b18d84e6fbb52dc14f5e4e958a83221343ea03354",
+      "duration_ms": 159000,
+      "track_number": 8,
+      "album": {
+        "id": "588213482",
+        "name": "Never Gets Late Here",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b57f5c66223ecac8a03b90f8996c38ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b57f5c66223ecac8a03b90f8996c38ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b57f5c66223ecac8a03b90f8996c38ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2807124342"
+      }
+    },
+    {
+      "id": "3834294641",
+      "name": "Panic",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/4/0/0347b05e959926641d042e4fc8d483b0.mp3?hdnea=exp=1774860118~acl=/api/1/1/0/3/4/0/0347b05e959926641d042e4fc8d483b0.mp3*~data=user_id=0,application_id=42~hmac=9647d32dba3880c888fbe9f3e79311324de30fbe7ff2b9e7a518807f0a8fe45c",
+      "duration_ms": 126000,
+      "track_number": 9,
+      "album": {
+        "id": "915582371",
+        "name": "Panic",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3dd7936282131012b52516743419bcaa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3dd7936282131012b52516743419bcaa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3dd7936282131012b52516743419bcaa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3834294641"
+      }
+    },
+    {
+      "id": "1428806272",
+      "name": "Run Run",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/9/0/9b90ade3bb1a71b01a4f0a70cbe84e3d.mp3?hdnea=exp=1774860118~acl=/api/1/1/9/b/9/0/9b90ade3bb1a71b01a4f0a70cbe84e3d.mp3*~data=user_id=0,application_id=42~hmac=d9484ef7132dc48d31e9a53dec82c8619af0c622767e6b0eefe820fd9a9dac5b",
+      "duration_ms": 186000,
+      "track_number": 10,
+      "album": {
+        "id": "243165932",
+        "name": "Run Run",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dd2ff2861237a6079f54662987e03341/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dd2ff2861237a6079f54662987e03341/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dd2ff2861237a6079f54662987e03341/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10668885",
+          "name": "Shenseea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1428806272"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "891453332",
+      "name": "Lotus (intro)",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/7/0/b570b785deb2ff8000e8b7c8182437ec.mp3?hdnea=exp=1774860002~acl=/api/1/1/b/5/7/0/b570b785deb2ff8000e8b7c8182437ec.mp3*~data=user_id=0,application_id=42~hmac=f705ea2d66b33fa6d03b2255bc52d0653f9f0ff0e395d6cf203558076ebf4e17",
+      "duration_ms": 72000,
+      "track_number": 1,
+      "album": {
+        "id": "134243032",
+        "name": "Chilombo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42be55fbd7ccef64f1b7239b7d3a2531/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42be55fbd7ccef64f1b7239b7d3a2531/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42be55fbd7ccef64f1b7239b7d3a2531/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/891453332"
+      }
+    },
+    {
+      "id": "72089440",
+      "name": "3:16AM",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/b/0/60bec7934ce7f14d768f3a114ca4427b.mp3?hdnea=exp=1774860002~acl=/api/1/1/6/0/b/0/60bec7934ce7f14d768f3a114ca4427b.mp3*~data=user_id=0,application_id=42~hmac=cb8eac0f38c3ac9ed4a78f998988bd241194dccaaa14c3a78d6aba0b1a7fc0aa",
+      "duration_ms": 196000,
+      "track_number": 2,
+      "album": {
+        "id": "7082464",
+        "name": "Sail Out",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/72089440"
+      }
+    },
+    {
+      "id": "1023739552",
+      "name": "Summer 2020",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/e/0/d2e0798a37678c23af1960d9dade625a.mp3?hdnea=exp=1774860002~acl=/api/1/1/d/2/e/0/d2e0798a37678c23af1960d9dade625a.mp3*~data=user_id=0,application_id=42~hmac=3dc1ee328a6fa8f0c34e9bda3cb77dc1200f32768c92b6fe45b9f652e045da80",
+      "duration_ms": 196000,
+      "track_number": 3,
+      "album": {
+        "id": "161225902",
+        "name": "Chilombo (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/352eabb44b66df4eaccea04533e1d6ee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/352eabb44b66df4eaccea04533e1d6ee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/352eabb44b66df4eaccea04533e1d6ee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1023739552"
+      }
+    },
+    {
+      "id": "1278429102",
+      "name": "my mine",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/8/0/65800cb6ff963e30735d95115872d62d.mp3?hdnea=exp=1774860002~acl=/api/1/1/6/5/8/0/65800cb6ff963e30735d95115872d62d.mp3*~data=user_id=0,application_id=42~hmac=5bcb51c87dad2cebcac87f06574047efa9f76188f23a50bc6a3f53daa273e71b",
+      "duration_ms": 242000,
+      "track_number": 4,
+      "album": {
+        "id": "215503782",
+        "name": "Sailing Soul(s)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bd23cd253e6e915078d2e0ace904b830/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bd23cd253e6e915078d2e0ace904b830/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bd23cd253e6e915078d2e0ace904b830/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1278429102"
+      }
+    },
+    {
+      "id": "72089437",
+      "name": "Stay Ready (What A Life)",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/3/0/40321ed738520e7bbe4352920749079d.mp3?hdnea=exp=1774860002~acl=/api/1/1/4/0/3/0/40321ed738520e7bbe4352920749079d.mp3*~data=user_id=0,application_id=42~hmac=70e7b68c201afd363e281df89b89f13b92696b3bf162a0ee394f50aad00f0bbe",
+      "duration_ms": 382000,
+      "track_number": 5,
+      "album": {
+        "id": "7082464",
+        "name": "Sail Out",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fadfc2c27fd4b35d83b8bf8d666c085e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/72089437"
+      }
+    },
+    {
+      "id": "3274307551",
+      "name": "Can't Hide It (feat. Jhené Aiko)",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/d/0/3cd9f20f14418a3e582a54330c6d7b3c.mp3?hdnea=exp=1774860002~acl=/api/1/1/3/c/d/0/3cd9f20f14418a3e582a54330c6d7b3c.mp3*~data=user_id=0,application_id=42~hmac=d86465790d8396f39775691725af2f54bf7596df6b3be83dc45cc88923a2424f",
+      "duration_ms": 162000,
+      "track_number": 6,
+      "album": {
+        "id": "725991761",
+        "name": "Can't Hide It (feat. Jhené Aiko)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93af3e3e85c0952d8888e1059a539efb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93af3e3e85c0952d8888e1059a539efb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93af3e3e85c0952d8888e1059a539efb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3274307551"
+      }
+    },
+    {
+      "id": "84097689",
+      "name": "The Pressure",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/8/0/9f8948c46842b63cd17e3a2442d10cea.mp3?hdnea=exp=1774860002~acl=/api/1/1/9/f/8/0/9f8948c46842b63cd17e3a2442d10cea.mp3*~data=user_id=0,application_id=42~hmac=ac38a4cd37dc9cef1ebadc43a23f838ac804d9f2a01c9da06504d5ce4b34c416",
+      "duration_ms": 238000,
+      "track_number": 7,
+      "album": {
+        "id": "8467967",
+        "name": "Souled Out (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9cea464d329ee6e3c5d17ee1c1fbcf3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9cea464d329ee6e3c5d17ee1c1fbcf3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9cea464d329ee6e3c5d17ee1c1fbcf3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84097689"
+      }
+    },
+    {
+      "id": "112893968",
+      "name": "Waiting For My Moment",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/c/0/8dc9c9908f6a7661536008ed4c67731f.mp3?hdnea=exp=1774860002~acl=/api/1/1/8/d/c/0/8dc9c9908f6a7661536008ed4c67731f.mp3*~data=user_id=0,application_id=42~hmac=78eb4ecb3cbb78da37c21af2e839b4febbdafa4021dd042d9ec416e5ef6bce80",
+      "duration_ms": 251000,
+      "track_number": 8,
+      "album": {
+        "id": "11698056",
+        "name": "CREED: Original Motion Picture Soundtrack",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1994be52fff746662999ea2a06ec0e7d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1994be52fff746662999ea2a06ec0e7d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1994be52fff746662999ea2a06ec0e7d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/112893968"
+      }
+    },
+    {
+      "id": "1483154832",
+      "name": "In the Dark",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/7/0/dd76ee48c0427db390dcc2b87d721c1f.mp3?hdnea=exp=1774860002~acl=/api/1/1/d/d/7/0/dd76ee48c0427db390dcc2b87d721c1f.mp3*~data=user_id=0,application_id=42~hmac=e3977a4b17ed1aa447c7e7f53608361d519b539e7a6c330bde32ac44582399e1",
+      "duration_ms": 161000,
+      "track_number": 9,
+      "album": {
+        "id": "256096232",
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/50e3f4ee6744351845c720db3e766453/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/50e3f4ee6744351845c720db3e766453/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/50e3f4ee6744351845c720db3e766453/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1483154832"
+      }
+    },
+    {
+      "id": "408766352",
+      "name": "While We're Young",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/5/0/1157b4abfbfe315bb025b70a683df442.mp3?hdnea=exp=1774860002~acl=/api/1/1/1/1/5/0/1157b4abfbfe315bb025b70a683df442.mp3*~data=user_id=0,application_id=42~hmac=7407b49459495538ced8e52ade0eacd13af9435830b08da7faae64643fbec42f",
+      "duration_ms": 239000,
+      "track_number": 10,
+      "album": {
+        "id": "48524982",
+        "name": "Trip",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ad84a421d7190381989ea7a04f897381/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ad84a421d7190381989ea7a04f897381/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ad84a421d7190381989ea7a04f897381/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3841221",
+          "name": "Jhené Aiko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/408766352"
+      }
+    }
+  ]
+}

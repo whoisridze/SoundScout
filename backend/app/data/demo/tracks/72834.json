@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2531920",
+      "name": "The Shadow Of Lo",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/c/0/7dc63b77f6c7895f7fc72bfe963abea0.mp3?hdnea=exp=1774859913~acl=/api/1/1/7/d/c/0/7dc63b77f6c7895f7fc72bfe963abea0.mp3*~data=user_id=0,application_id=42~hmac=d7ae7a37b69a1e30b6be2395fa61b5b0b68e535124abd897db64332c2f3a8e77",
+      "duration_ms": 450000,
+      "track_number": 1,
+      "album": {
+        "id": "248142",
+        "name": "Where Have I Known You Before",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1cfe5e20920dbf6835303cd2419cccaf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1cfe5e20920dbf6835303cd2419cccaf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1cfe5e20920dbf6835303cd2419cccaf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2531920"
+      }
+    },
+    {
+      "id": "2542300",
+      "name": "Spain",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/9/0/ef919bc028429fb0a3a071bf615bafca.mp3?hdnea=exp=1774859913~acl=/api/1/1/e/f/9/0/ef919bc028429fb0a3a071bf615bafca.mp3*~data=user_id=0,application_id=42~hmac=ea8cc03b968a4f166b9650a777fcc8df7c90fc1b7f251d0acfdf0edffab0a0f3",
+      "duration_ms": 590000,
+      "track_number": 2,
+      "album": {
+        "id": "249112",
+        "name": "Verve Jazz Masters 3: Chick Corea",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2542300"
+      }
+    },
+    {
+      "id": "482964792",
+      "name": "Shadow of Low / Sorceress (Live)",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/d/0/84d346c652e9f300b4201451cc0adecf.mp3?hdnea=exp=1774859913~acl=/api/1/1/8/4/d/0/84d346c652e9f300b4201451cc0adecf.mp3*~data=user_id=0,application_id=42~hmac=e85876bbc0420478a84455a8d44c37be0387ab875b6f89d274a876eee61cdb0e",
+      "duration_ms": 965000,
+      "track_number": 3,
+      "album": {
+        "id": "60706252",
+        "name": "The Mothership Returns",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482964792"
+      }
+    },
+    {
+      "id": "482964782",
+      "name": "Señor Mouse (Live)",
+      "popularity": 5,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/c/0/d1cd1e45d63a01573ee8220dc45a2fc6.mp3?hdnea=exp=1774859913~acl=/api/1/1/d/1/c/0/d1cd1e45d63a01573ee8220dc45a2fc6.mp3*~data=user_id=0,application_id=42~hmac=fd9d123781e4c25624aaa4cd4dde50ca12f67cf19e804653ebdbb39f1d32ee67",
+      "duration_ms": 730000,
+      "track_number": 4,
+      "album": {
+        "id": "60706252",
+        "name": "The Mothership Returns",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482964782"
+      }
+    },
+    {
+      "id": "482964802",
+      "name": "Renaissance (Live)",
+      "popularity": 7,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/2/0/dd2b04e080bc17a0f2088ac6a821de0c.mp3?hdnea=exp=1774859913~acl=/api/1/1/d/d/2/0/dd2b04e080bc17a0f2088ac6a821de0c.mp3*~data=user_id=0,application_id=42~hmac=ba34bf8dccc9bec6d0c2ecc6391d19e0cb830f85132233d96240b3ca1fca9c8c",
+      "duration_ms": 1180000,
+      "track_number": 5,
+      "album": {
+        "id": "60706252",
+        "name": "The Mothership Returns",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482964802"
+      }
+    },
+    {
+      "id": "482964772",
+      "name": "Medieval Overture (Live)",
+      "popularity": 4,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/2/0/19221b4fd484466ef667d25ee138cb03.mp3?hdnea=exp=1774859913~acl=/api/1/1/1/9/2/0/19221b4fd484466ef667d25ee138cb03.mp3*~data=user_id=0,application_id=42~hmac=10b7ac7343a06c6b14e74632fe08472fd928f34c832373f2fdb337f88f143ccf",
+      "duration_ms": 363000,
+      "track_number": 6,
+      "album": {
+        "id": "60706252",
+        "name": "The Mothership Returns",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482964772"
+      }
+    },
+    {
+      "id": "482964812",
+      "name": "After the Cosmic Rain (Live)",
+      "popularity": 2,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/2/0/ab2f0cd03caeb60447c2bcdd2e7fe7a1.mp3?hdnea=exp=1774859913~acl=/api/1/1/a/b/2/0/ab2f0cd03caeb60447c2bcdd2e7fe7a1.mp3*~data=user_id=0,application_id=42~hmac=16f1b7e089252b090d342e23198f4c310c85dc1e75c83ce59bbfda28f0004fc5",
+      "duration_ms": 1012000,
+      "track_number": 7,
+      "album": {
+        "id": "60706252",
+        "name": "The Mothership Returns",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1caf06a0e5c572639efd3c343c71935c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482964812"
+      }
+    },
+    {
+      "id": "2542294",
+      "name": "You're Everything",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/3/0/493061adef4d60a6fd4fc32a57a65030.mp3?hdnea=exp=1774859913~acl=/api/1/1/4/9/3/0/493061adef4d60a6fd4fc32a57a65030.mp3*~data=user_id=0,application_id=42~hmac=a45ac741d05a1cadc354ddf09a83cef28f73cb8f8f16d6f73e3549d9a4b65e20",
+      "duration_ms": 310000,
+      "track_number": 8,
+      "album": {
+        "id": "249112",
+        "name": "Verve Jazz Masters 3: Chick Corea",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2542294"
+      }
+    },
+    {
+      "id": "2531918",
+      "name": "Vulcan Worlds",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/e/0/d7e4287f1adba889edf8a25e772bb9fc.mp3?hdnea=exp=1774859913~acl=/api/1/1/d/7/e/0/d7e4287f1adba889edf8a25e772bb9fc.mp3*~data=user_id=0,application_id=42~hmac=0ec46a006d773c4e5ab06ee4ae737663824d8997714df73c4069f6b3f2d01277",
+      "duration_ms": 472000,
+      "track_number": 9,
+      "album": {
+        "id": "248142",
+        "name": "Where Have I Known You Before",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1cfe5e20920dbf6835303cd2419cccaf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1cfe5e20920dbf6835303cd2419cccaf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1cfe5e20920dbf6835303cd2419cccaf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2531918"
+      }
+    },
+    {
+      "id": "2542301",
+      "name": "Interplay",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/a/0/38a2eca7c98facfbaaac8d2df832feb5.mp3?hdnea=exp=1774859913~acl=/api/1/1/3/8/a/0/38a2eca7c98facfbaaac8d2df832feb5.mp3*~data=user_id=0,application_id=42~hmac=522edaa1bd0f1b6cd6d757d1fbd43423b361eeebed2f2dd76fc1be04d616f397",
+      "duration_ms": 135000,
+      "track_number": 10,
+      "album": {
+        "id": "249112",
+        "name": "Verve Jazz Masters 3: Chick Corea",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "72834",
+          "name": "Return to Forever"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2542301"
+      }
+    }
+  ]
+}

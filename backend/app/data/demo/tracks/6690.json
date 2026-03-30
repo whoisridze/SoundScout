@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1384119192",
+      "name": "November",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0c4e5102727e8735f5a8983c2212355.mp3?hdnea=exp=1774860060~acl=/api/1/1/f/0/c/0/f0c4e5102727e8735f5a8983c2212355.mp3*~data=user_id=0,application_id=42~hmac=eeea852e61d358e9d673bae2f593eb3e54c9f1fda0af6353b2e854db62d6d289",
+      "duration_ms": 382000,
+      "track_number": 1,
+      "album": {
+        "id": "232940232",
+        "name": "Memoryhouse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4487a076ebde6c0af57334476d6cebbf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4487a076ebde6c0af57334476d6cebbf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4487a076ebde6c0af57334476d6cebbf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1384119192"
+      }
+    },
+    {
+      "id": "497150752",
+      "name": "Richter: Written on the Sky",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/2/0/1f2e579bfef35aff27f0df865b83aa15.mp3?hdnea=exp=1774860060~acl=/api/1/1/1/f/2/0/1f2e579bfef35aff27f0df865b83aa15.mp3*~data=user_id=0,application_id=42~hmac=6fa8d6c36d80bdb23bc83364bd6d5d553db57f57bd664bd74478b1b875725f59",
+      "duration_ms": 99000,
+      "track_number": 2,
+      "album": {
+        "id": "63095522",
+        "name": "The Blue Notebooks (15 Years)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed07053951a44ce34a5ca9c61a2d680f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed07053951a44ce34a5ca9c61a2d680f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed07053951a44ce34a5ca9c61a2d680f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/497150752"
+      }
+    },
+    {
+      "id": "77019579",
+      "name": "Richter: Winter 1 (2012)",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/d/0/dcde0f59c2767c52ea981fecba0bb030.mp3?hdnea=exp=1774860060~acl=/api/1/1/d/c/d/0/dcde0f59c2767c52ea981fecba0bb030.mp3*~data=user_id=0,application_id=42~hmac=f41e0b5e018fdeeaec6d60bb7075de6021f147a01849d3326fe353dc8c80ba84",
+      "duration_ms": 181000,
+      "track_number": 3,
+      "album": {
+        "id": "7645718",
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/15a084b3d5bd2e026ed6f09bd0ffb6e6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/15a084b3d5bd2e026ed6f09bd0ffb6e6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/15a084b3d5bd2e026ed6f09bd0ffb6e6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/77019579"
+      }
+    },
+    {
+      "id": "647609922",
+      "name": "The End of All Our Exploring",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/1/0/641391798ebe81c82e954540ca897e40.mp3?hdnea=exp=1774860060~acl=/api/1/1/6/4/1/0/641391798ebe81c82e954540ca897e40.mp3*~data=user_id=0,application_id=42~hmac=734d5539716eed878186bf8e1e29bce8d939e7ebd22a51bd693ad6ac1f896fb1",
+      "duration_ms": 215000,
+      "track_number": 4,
+      "album": {
+        "id": "90157502",
+        "name": "The Leftovers: Season 3 (Music from the HBO Series)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/172059a20c3789150359158fd33cc6d7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/172059a20c3789150359158fd33cc6d7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/172059a20c3789150359158fd33cc6d7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/647609922"
+      }
+    },
+    {
+      "id": "497150702",
+      "name": "Richter: Vladimir's Blues",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/8/0/8181b32b75e92f1abba936e77d6d0546.mp3?hdnea=exp=1774860060~acl=/api/1/1/8/1/8/0/8181b32b75e92f1abba936e77d6d0546.mp3*~data=user_id=0,application_id=42~hmac=ac70b7b84646ad7dd5b5c6318c0e48851b51106a38b3484b8c876a2864580c1a",
+      "duration_ms": 81000,
+      "track_number": 5,
+      "album": {
+        "id": "63095522",
+        "name": "The Blue Notebooks (15 Years)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed07053951a44ce34a5ca9c61a2d680f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed07053951a44ce34a5ca9c61a2d680f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed07053951a44ce34a5ca9c61a2d680f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/497150702"
+      }
+    },
+    {
+      "id": "3655270462",
+      "name": "Of Agnes",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/9/0/a79ebdf5662ac02ba512ee3a44f72dba.mp3?hdnea=exp=1774860060~acl=/api/1/1/a/7/9/0/a79ebdf5662ac02ba512ee3a44f72dba.mp3*~data=user_id=0,application_id=42~hmac=d2039ccef60323e2143e52b16da4eb406d17ff292bd3855d274d629977001788",
+      "duration_ms": 136000,
+      "track_number": 6,
+      "album": {
+        "id": "856200392",
+        "name": "Hamnet (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/797f99885a284791bfc53763e6cdff87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/797f99885a284791bfc53763e6cdff87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/797f99885a284791bfc53763e6cdff87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3655270462"
+      }
+    },
+    {
+      "id": "889744552",
+      "name": "Conversation",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/5/0/f351c312c2b73e80c428f7d940158146.mp3?hdnea=exp=1774860060~acl=/api/1/1/f/3/5/0/f351c312c2b73e80c428f7d940158146.mp3*~data=user_id=0,application_id=42~hmac=98bebbb6f70f9e10e81ae21a860da6179bd4a44e59b02d9950446528e52398ad",
+      "duration_ms": 210000,
+      "track_number": 7,
+      "album": {
+        "id": "133915122",
+        "name": "Wadjda (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5a3f5aa7f092715b0820ec8ef5103f9f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5a3f5aa7f092715b0820ec8ef5103f9f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5a3f5aa7f092715b0820ec8ef5103f9f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/889744552"
+      }
+    },
+    {
+      "id": "3630372962",
+      "name": "See things that others don’t (From The Original Motion Picture \"Hamnet\")",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/c/0/6cc89ce4d9f7af4489b525a2f50d2ae4.mp3?hdnea=exp=1774860060~acl=/api/1/1/6/c/c/0/6cc89ce4d9f7af4489b525a2f50d2ae4.mp3*~data=user_id=0,application_id=42~hmac=31d390c9ddb6f0dbaa62edbd47e56b4fdf21ca0b8bc48b27db1502fcee006843",
+      "duration_ms": 106000,
+      "track_number": 8,
+      "album": {
+        "id": "847569592",
+        "name": "See things that others don’t (From The Original Motion Picture \"Hamnet\")",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/797f99885a284791bfc53763e6cdff87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/797f99885a284791bfc53763e6cdff87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/797f99885a284791bfc53763e6cdff87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3630372962"
+      }
+    },
+    {
+      "id": "105707784",
+      "name": "Path 5 (delta)",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/c/0/8ac68bee467a023fd45651ebc56d6e2e.mp3?hdnea=exp=1774860060~acl=/api/1/1/8/a/c/0/8ac68bee467a023fd45651ebc56d6e2e.mp3*~data=user_id=0,application_id=42~hmac=28191c37c3b8eb78a2f529b882867986f84875907056653028e42f266e218ecd",
+      "duration_ms": 673000,
+      "track_number": 9,
+      "album": {
+        "id": "11015386",
+        "name": "From Sleep",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5516f937a7942f61ebc65bfe1b76365a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5516f937a7942f61ebc65bfe1b76365a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5516f937a7942f61ebc65bfe1b76365a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/105707784"
+      }
+    },
+    {
+      "id": "3069014731",
+      "name": "Richter: On the Nature of Daylight (Piano Version)",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/5/0/5a5e2c5eba0f5fd7fbdecd32035999ea.mp3?hdnea=exp=1774860060~acl=/api/1/1/5/a/5/0/5a5e2c5eba0f5fd7fbdecd32035999ea.mp3*~data=user_id=0,application_id=42~hmac=368bf5f7ede4f2ef7e335dd567ad475523d8f9fee8187bc574f932977c1483cd",
+      "duration_ms": 357000,
+      "track_number": 10,
+      "album": {
+        "id": "664113931",
+        "name": "On the Nature of Daylight (Piano Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cdc505a593d4755c8388e6f4b0197574/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cdc505a593d4755c8388e6f4b0197574/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cdc505a593d4755c8388e6f4b0197574/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6690",
+          "name": "Max Richter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3069014731"
+      }
+    }
+  ]
+}

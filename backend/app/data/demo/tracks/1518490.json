@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2309928755",
+      "name": "Am I Dreaming",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/d/0/05db80dcf7981505a9c43d2dc349a8c3.mp3?hdnea=exp=1774859906~acl=/api/1/1/0/5/d/0/05db80dcf7981505a9c43d2dc349a8c3.mp3*~data=user_id=0,application_id=42~hmac=370e1c29888084d9a1aab045269bf865c8c49ab4ae2548bfb821a4ba5ff2d6b6",
+      "duration_ms": 256000,
+      "track_number": 1,
+      "album": {
+        "id": "448581475",
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bec6e38cb8986f3e5b3b7bd70e154d4f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bec6e38cb8986f3e5b3b7bd70e154d4f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bec6e38cb8986f3e5b3b7bd70e154d4f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2309928755"
+      }
+    },
+    {
+      "id": "3777479732",
+      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/6/0/4b62fa16e44f23cb4a0157381989be46.mp3?hdnea=exp=1774859906~acl=/api/1/1/4/b/6/0/4b62fa16e44f23cb4a0157381989be46.mp3*~data=user_id=0,application_id=42~hmac=79fe78a5939e03bac50aa99c7f0d370bf4ca51595f81341089133b76b8bbaff0",
+      "duration_ms": 346000,
+      "track_number": 2,
+      "album": {
+        "id": "898573792",
+        "name": "Don't Be Dumb",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3777479732"
+      }
+    },
+    {
+      "id": "503169162",
+      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/b/0/5cb6638812fe8dd799a9678481a9a181.mp3?hdnea=exp=1774859906~acl=/api/1/1/5/c/b/0/5cb6638812fe8dd799a9678481a9a181.mp3*~data=user_id=0,application_id=42~hmac=ba2ca4d161e650a4911c84e209bc48c7683625b86b155aecc21483e84559f0d1",
+      "duration_ms": 206000,
+      "track_number": 3,
+      "album": {
+        "id": "64182182",
+        "name": "TESTING",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f3b412a4f69c59dfb46583a93995f565/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f3b412a4f69c59dfb46583a93995f565/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f3b412a4f69c59dfb46583a93995f565/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/503169162"
+      }
+    },
+    {
+      "id": "100835996",
+      "name": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/2/0/1a24b1a41bd94b9a3b7b4d8eb8a521df.mp3?hdnea=exp=1774859906~acl=/api/1/1/1/a/2/0/1a24b1a41bd94b9a3b7b4d8eb8a521df.mp3*~data=user_id=0,application_id=42~hmac=253b307334fec0b1e05c1cd64e30fb7bcaf567614ac98a1ed1262193ec32ca21",
+      "duration_ms": 261000,
+      "track_number": 4,
+      "album": {
+        "id": "10463910",
+        "name": "AT.LONG.LAST.A$AP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3766d448b81635824bfb85622ba679b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3766d448b81635824bfb85622ba679b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3766d448b81635824bfb85622ba679b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/100835996"
+      }
+    },
+    {
+      "id": "3777479722",
+      "name": "STOLE YA FLOW",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/f/0/7df86f8cae835e0f14b689b27a79aa6b.mp3?hdnea=exp=1774859906~acl=/api/1/1/7/d/f/0/7df86f8cae835e0f14b689b27a79aa6b.mp3*~data=user_id=0,application_id=42~hmac=9a0b43540ad24c4fb893eb2fda5e7b7a994aa5e11ec3771d293db3bd010f9a69",
+      "duration_ms": 199000,
+      "track_number": 5,
+      "album": {
+        "id": "898573792",
+        "name": "Don't Be Dumb",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3777479722"
+      }
+    },
+    {
+      "id": "2959223841",
+      "name": "Tailor Swif",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/1/0/fc12a27d896252b654ebfc01f23aa1c8.mp3?hdnea=exp=1774859906~acl=/api/1/1/f/c/1/0/fc12a27d896252b654ebfc01f23aa1c8.mp3*~data=user_id=0,application_id=42~hmac=32ed96ca3a78be5b38363c373d4e66310f69e564406a4c6e9641228ab4489fef",
+      "duration_ms": 155000,
+      "track_number": 6,
+      "album": {
+        "id": "633034111",
+        "name": "Tailor Swif",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/66c8f8a7f70a52d2a396483d2eb792f5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/66c8f8a7f70a52d2a396483d2eb792f5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/66c8f8a7f70a52d2a396483d2eb792f5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2959223841"
+      }
+    },
+    {
+      "id": "3757418922",
+      "name": "PUNK ROCKY",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/b/0/bbb5bca83e4ef8e138c68a30d649c8b5.mp3?hdnea=exp=1774859906~acl=/api/1/1/b/b/b/0/bbb5bca83e4ef8e138c68a30d649c8b5.mp3*~data=user_id=0,application_id=42~hmac=7819246adac887121a7e47a19dc33acddf303a785f6933edb05b7c43e1c85f74",
+      "duration_ms": 235000,
+      "track_number": 7,
+      "album": {
+        "id": "891421492",
+        "name": "PUNK ROCKY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89829ddb1eca2e48258faf5174ca85e4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89829ddb1eca2e48258faf5174ca85e4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89829ddb1eca2e48258faf5174ca85e4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3757418922"
+      }
+    },
+    {
+      "id": "2414409755",
+      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/5/0/cc50489e0ad217c8e5256b29b3c2bfd8.mp3?hdnea=exp=1774859906~acl=/api/1/1/c/c/5/0/cc50489e0ad217c8e5256b29b3c2bfd8.mp3*~data=user_id=0,application_id=42~hmac=16e478cc295d5b5c3b95c91122dcb5c30807dc85b596178f5b6369f31209f10f",
+      "duration_ms": 190000,
+      "track_number": 8,
+      "album": {
+        "id": "477159905",
+        "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/751bb2a3d4857d5233fbdf71e00a9980/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/751bb2a3d4857d5233fbdf71e00a9980/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/751bb2a3d4857d5233fbdf71e00a9980/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2414409755"
+      }
+    },
+    {
+      "id": "3777479812",
+      "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/3/0/943e137b3a213d61a9d31d07f4f24b02.mp3?hdnea=exp=1774859906~acl=/api/1/1/9/4/3/0/943e137b3a213d61a9d31d07f4f24b02.mp3*~data=user_id=0,application_id=42~hmac=d7870b12f388d4cbb31bc600863c2634f9fe9b8735773d558f730b9595bc83ec",
+      "duration_ms": 246000,
+      "track_number": 9,
+      "album": {
+        "id": "898573792",
+        "name": "Don't Be Dumb",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3777479812"
+      }
+    },
+    {
+      "id": "2747874961",
+      "name": "Show of Hands",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/c/0/1bce134c0c93f622af72b59d1cd54781.mp3?hdnea=exp=1774859906~acl=/api/1/1/1/b/c/0/1bce134c0c93f622af72b59d1cd54781.mp3*~data=user_id=0,application_id=42~hmac=66707c0e974a3da72aa8a77d292f0ff094001fe321640743269e7cab1d06fcf1",
+      "duration_ms": 214000,
+      "track_number": 10,
+      "album": {
+        "id": "572346801",
+        "name": "WE STILL DON'T TRUST YOU",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1518490",
+          "name": "A$AP Rocky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2747874961"
+      }
+    }
+  ]
+}

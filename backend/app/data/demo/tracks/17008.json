@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1344922912",
+      "name": "Go Down Deh (feat. Sean Paul & Shaggy)",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/b/0/74b3f0bd8c3c7b5e188214bc0883cfd9.mp3?hdnea=exp=1774860118~acl=/api/1/1/7/4/b/0/74b3f0bd8c3c7b5e188214bc0883cfd9.mp3*~data=user_id=0,application_id=42~hmac=c5218b5be10045b6ccb91e60e0039c1b949b77e3562b4778f4d0c26162363a95",
+      "duration_ms": 154000,
+      "track_number": 1,
+      "album": {
+        "id": "223165302",
+        "name": "Go Down Deh (feat. Sean Paul & Shaggy)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69f2965bb739246303ad835019b6bd73/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69f2965bb739246303ad835019b6bd73/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69f2965bb739246303ad835019b6bd73/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1344922912"
+      }
+    },
+    {
+      "id": "91018985",
+      "name": "So Mi Like It",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/d/0/67d4c3a10c486efa16db5e32fecaf778.mp3?hdnea=exp=1774860118~acl=/api/1/1/6/7/d/0/67d4c3a10c486efa16db5e32fecaf778.mp3*~data=user_id=0,application_id=42~hmac=09dee8ee0e5d0103230b2ffdf4c4187fe54fefa61e9716bdc8737a39221bb7d6",
+      "duration_ms": 153000,
+      "track_number": 2,
+      "album": {
+        "id": "9230751",
+        "name": "So Mi Like It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/84767da3a9989098a2e80f4e51ccce38/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/84767da3a9989098a2e80f4e51ccce38/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/84767da3a9989098a2e80f4e51ccce38/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/91018985"
+      }
+    },
+    {
+      "id": "1821632957",
+      "name": "Sexercise",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/6/0/6b631ad05b71695063c8a09aa17d6817.mp3?hdnea=exp=1774860118~acl=/api/1/1/6/b/6/0/6b631ad05b71695063c8a09aa17d6817.mp3*~data=user_id=0,application_id=42~hmac=7436999b04d3ce85fb479ff762831f987559b99353bacda4263670ea28809db2",
+      "duration_ms": 146000,
+      "track_number": 3,
+      "album": {
+        "id": "334895067",
+        "name": "Sexercise",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e91e49e124888153f1a1c873dc9165b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e91e49e124888153f1a1c873dc9165b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e91e49e124888153f1a1c873dc9165b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1821632957"
+      }
+    },
+    {
+      "id": "3552790551",
+      "name": "Match My Mood",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/0/0/7d021a1b4c76f466305954e1ad5ebeae.mp3?hdnea=exp=1774860118~acl=/api/1/1/7/d/0/0/7d021a1b4c76f466305954e1ad5ebeae.mp3*~data=user_id=0,application_id=42~hmac=7403100fca18586a0e939b9eb9779889ec6b638405dd6bbccdaa8afc4c1b076e",
+      "duration_ms": 172000,
+      "track_number": 4,
+      "album": {
+        "id": "820179981",
+        "name": "Same Day Cleaning",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4135b099e22cca6cd36019ce0885c5fa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4135b099e22cca6cd36019ce0885c5fa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4135b099e22cca6cd36019ce0885c5fa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3552790551"
+      }
+    },
+    {
+      "id": "3703860142",
+      "name": "Pon The Tip",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/e/0/83ec20d1970bc2ef3e3798662e0e221c.mp3?hdnea=exp=1774860118~acl=/api/1/1/8/3/e/0/83ec20d1970bc2ef3e3798662e0e221c.mp3*~data=user_id=0,application_id=42~hmac=88652f5caeabd6d98f497416913056e56e5dad0a24bed6bc928f0d41e56c0bc7",
+      "duration_ms": 100000,
+      "track_number": 5,
+      "album": {
+        "id": "873239582",
+        "name": "Pon The Tip",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afb78c4c6526b25ca07d47017283f707/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afb78c4c6526b25ca07d47017283f707/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afb78c4c6526b25ca07d47017283f707/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3703860142"
+      }
+    },
+    {
+      "id": "2883166522",
+      "name": "G.O.A.T",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/9/0/5592dc58e626a3f95ab3966b9550362d.mp3?hdnea=exp=1774860118~acl=/api/1/1/5/5/9/0/5592dc58e626a3f95ab3966b9550362d.mp3*~data=user_id=0,application_id=42~hmac=34e8d79f159fe9bc5b878f202f0a9f72f3768f95fcf0acd11e1e7e3ee9532777",
+      "duration_ms": 178000,
+      "track_number": 6,
+      "album": {
+        "id": "613241032",
+        "name": "Mirror 25",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fea11601bf1a7dfbb9eee32ea6e010f0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fea11601bf1a7dfbb9eee32ea6e010f0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fea11601bf1a7dfbb9eee32ea6e010f0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2883166522"
+      }
+    },
+    {
+      "id": "3898424741",
+      "name": "Mi Nuh Like Dat",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/e/0/cde30e46858ae0a15edf63d66bf2fabc.mp3?hdnea=exp=1774860118~acl=/api/1/1/c/d/e/0/cde30e46858ae0a15edf63d66bf2fabc.mp3*~data=user_id=0,application_id=42~hmac=7cc21c4fb1332edc9e44580a33e67247adf3950c8f85c18cb9108502bed306ef",
+      "duration_ms": 197000,
+      "track_number": 7,
+      "album": {
+        "id": "938915181",
+        "name": "Mi Nuh Like Dat",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c67464c4c7eb4a3db2b55f8b4fa97086/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c67464c4c7eb4a3db2b55f8b4fa97086/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c67464c4c7eb4a3db2b55f8b4fa97086/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3898424741"
+      }
+    },
+    {
+      "id": "1824496587",
+      "name": "Clap Clap",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/5/0/e4532007926d0219f0b52c5d2f111edc.mp3?hdnea=exp=1774860118~acl=/api/1/1/e/4/5/0/e4532007926d0219f0b52c5d2f111edc.mp3*~data=user_id=0,application_id=42~hmac=9eb068e524fe68e361c2b91ef1b04db0d613f6bc53536dce281cd54c87adb7cd",
+      "duration_ms": 195000,
+      "track_number": 8,
+      "album": {
+        "id": "335651637",
+        "name": "Clap Clap",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4c58794703d836b7bce9d1a409059d61/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4c58794703d836b7bce9d1a409059d61/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4c58794703d836b7bce9d1a409059d61/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1824496587"
+      }
+    },
+    {
+      "id": "1896917887",
+      "name": "Gum",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/d/0/b9dd54fa76480d0fd315083aaff23ba7.mp3?hdnea=exp=1774860118~acl=/api/1/1/b/9/d/0/b9dd54fa76480d0fd315083aaff23ba7.mp3*~data=user_id=0,application_id=42~hmac=e079d7a076f247fc87212893e12d4fc97db7eb7927be486ca55c9fb5e56670b7",
+      "duration_ms": 127000,
+      "track_number": 9,
+      "album": {
+        "id": "352757937",
+        "name": "Gum",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/72e44691dc4a932c18cfbc1856832051/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/72e44691dc4a932c18cfbc1856832051/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/72e44691dc4a932c18cfbc1856832051/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1896917887"
+      }
+    },
+    {
+      "id": "3611480092",
+      "name": "Bruck It",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/9/0/ec95e1e39e5e90dbd792fe93e4ef84d1.mp3?hdnea=exp=1774860118~acl=/api/1/1/e/c/9/0/ec95e1e39e5e90dbd792fe93e4ef84d1.mp3*~data=user_id=0,application_id=42~hmac=a8de97961d05f0794cd7e66ea200520630553bfb2b54009e3f17ec7718a10c98",
+      "duration_ms": 160000,
+      "track_number": 10,
+      "album": {
+        "id": "841262472",
+        "name": "Jugglerz Radio",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0d9b3b97a046194a27bda9f737688d2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0d9b3b97a046194a27bda9f737688d2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0d9b3b97a046194a27bda9f737688d2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "17008",
+          "name": "Spice"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3611480092"
+      }
+    }
+  ]
+}

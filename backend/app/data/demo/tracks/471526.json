@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1751384157",
+      "name": "Bet",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/a/0/81a105b666d76d42727b0d8cb69325f8.mp3?hdnea=exp=1774859909~acl=/api/1/1/8/1/a/0/81a105b666d76d42727b0d8cb69325f8.mp3*~data=user_id=0,application_id=42~hmac=de8d979e6c92495ee7e2c6a8b40fe529c3cbc33569e889e282599a1af78f357b",
+      "duration_ms": 333000,
+      "track_number": 1,
+      "album": {
+        "id": "318660677",
+        "name": "Empire Central",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1751384157"
+      }
+    },
+    {
+      "id": "1751384247",
+      "name": "Belmont",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/1/0/5813deae3e9474193023dd6288e55137.mp3?hdnea=exp=1774859909~acl=/api/1/1/5/8/1/0/5813deae3e9474193023dd6288e55137.mp3*~data=user_id=0,application_id=42~hmac=dab1dc1f2608bc2a8bfddf9748ad901f43eb87e4c2d39192eb9d50c2c8f5518e",
+      "duration_ms": 389000,
+      "track_number": 2,
+      "album": {
+        "id": "318660677",
+        "name": "Empire Central",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1751384247"
+      }
+    },
+    {
+      "id": "860421602",
+      "name": "Semente",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/2/0/2823f5c56dd078b8e1a658e78d49c9e4.mp3?hdnea=exp=1774859909~acl=/api/1/1/2/8/2/0/2823f5c56dd078b8e1a658e78d49c9e4.mp3*~data=user_id=0,application_id=42~hmac=5ec2fcf72333bc5c4b4d5a4992db5fc432f05101e2cddd04f502cbe4291dd42b",
+      "duration_ms": 431000,
+      "track_number": 3,
+      "album": {
+        "id": "128504202",
+        "name": "Culcha Vulcha",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8681785b667ea8fce7d867d65ffdb1f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8681785b667ea8fce7d867d65ffdb1f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8681785b667ea8fce7d867d65ffdb1f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/860421602"
+      }
+    },
+    {
+      "id": "610847472",
+      "name": "Coven",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/d/0/4cd51a33b6ab5e5d6b8a15e2af6985fc.mp3?hdnea=exp=1774859909~acl=/api/1/1/4/c/d/0/4cd51a33b6ab5e5d6b8a15e2af6985fc.mp3*~data=user_id=0,application_id=42~hmac=58b06cbea352423c5d9b4f82805eab171052425b8ad0c1b2efa9a07a4e2c2bb2",
+      "duration_ms": 398000,
+      "track_number": 4,
+      "album": {
+        "id": "83062542",
+        "name": "Immigrance",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b897cf7712e1ba006b66e5375e6b971a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b897cf7712e1ba006b66e5375e6b971a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b897cf7712e1ba006b66e5375e6b971a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/610847472"
+      }
+    },
+    {
+      "id": "860421612",
+      "name": "Gemini",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/c/0/6fc2807b19a765f4924e5eaeccdd7c91.mp3?hdnea=exp=1774859909~acl=/api/1/1/6/f/c/0/6fc2807b19a765f4924e5eaeccdd7c91.mp3*~data=user_id=0,application_id=42~hmac=99980ceb4d4da95b6d088162e84ce62f8994d1951658a07e7d77636e04c9ea6f",
+      "duration_ms": 315000,
+      "track_number": 5,
+      "album": {
+        "id": "128504202",
+        "name": "Culcha Vulcha",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8681785b667ea8fce7d867d65ffdb1f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8681785b667ea8fce7d867d65ffdb1f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8681785b667ea8fce7d867d65ffdb1f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/860421612"
+      }
+    },
+    {
+      "id": "438434842",
+      "name": "Shofukan",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/c/0/13c34f0dc050043aecb45a1d31c4b624.mp3?hdnea=exp=1774859909~acl=/api/1/1/1/3/c/0/13c34f0dc050043aecb45a1d31c4b624.mp3*~data=user_id=0,application_id=42~hmac=4b0fc82326da66af67ed9f91e45858369f39931b0263073e559c2980455a22e1",
+      "duration_ms": 393000,
+      "track_number": 6,
+      "album": {
+        "id": "53065192",
+        "name": "We Like It Here",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9af68824a8b6be09f7ffae17d11b87b5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9af68824a8b6be09f7ffae17d11b87b5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9af68824a8b6be09f7ffae17d11b87b5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/438434842"
+      }
+    },
+    {
+      "id": "1751384257",
+      "name": "Pineapple",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/a/0/c8ac96dd2a19ac0ff6f1fc79c887086b.mp3?hdnea=exp=1774859909~acl=/api/1/1/c/8/a/0/c8ac96dd2a19ac0ff6f1fc79c887086b.mp3*~data=user_id=0,application_id=42~hmac=56fd4a5b2436a5d956401bcbb6f70f32b23b4ff223a492272157611c66ed9168",
+      "duration_ms": 296000,
+      "track_number": 7,
+      "album": {
+        "id": "318660677",
+        "name": "Empire Central",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1751384257"
+      }
+    },
+    {
+      "id": "1751384187",
+      "name": "Portal",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/0/0/ef0f977269bbe104f1848ae1f83561ba.mp3?hdnea=exp=1774859909~acl=/api/1/1/e/f/0/0/ef0f977269bbe104f1848ae1f83561ba.mp3*~data=user_id=0,application_id=42~hmac=c43123c74608b479fa6299930dd499624ca62820cac22c166b46d87e226890dc",
+      "duration_ms": 312000,
+      "track_number": 8,
+      "album": {
+        "id": "318660677",
+        "name": "Empire Central",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1dcdd14734e7f97a1064efc24135bc4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1751384187"
+      }
+    },
+    {
+      "id": "860421622",
+      "name": "Grown Folks",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/4/0/de4230269b5dd870b0a89783dfe837eb.mp3?hdnea=exp=1774859909~acl=/api/1/1/d/e/4/0/de4230269b5dd870b0a89783dfe837eb.mp3*~data=user_id=0,application_id=42~hmac=fb6aa6137d9b0b943cb5150fc7def2ae9019b8efc383dfcf475172e4827153e3",
+      "duration_ms": 477000,
+      "track_number": 9,
+      "album": {
+        "id": "128504202",
+        "name": "Culcha Vulcha",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8681785b667ea8fce7d867d65ffdb1f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8681785b667ea8fce7d867d65ffdb1f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8681785b667ea8fce7d867d65ffdb1f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/860421622"
+      }
+    },
+    {
+      "id": "3495550361",
+      "name": "Only Here and Nowhere Else",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/7/0/7e7878b35dedcb74b63085e906dbe197.mp3?hdnea=exp=1774859909~acl=/api/1/1/7/e/7/0/7e7878b35dedcb74b63085e906dbe197.mp3*~data=user_id=0,application_id=42~hmac=9450b9b4c3cfa5a25202087bcfb863e659842991dcfd217bd991281884b19f3c",
+      "duration_ms": 404000,
+      "track_number": 10,
+      "album": {
+        "id": "800636121",
+        "name": "Somni",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0eace3debc5caec40442ef60b67b8f30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0eace3debc5caec40442ef60b67b8f30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0eace3debc5caec40442ef60b67b8f30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "471526",
+          "name": "Snarky Puppy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3495550361"
+      }
+    }
+  ]
+}

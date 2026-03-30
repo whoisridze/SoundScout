@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3315004411",
+      "name": "Hola Señorita",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/8/0/2987eed2a3f04377cb6808c60f45cfcc.mp3?hdnea=exp=1774859936~acl=/api/1/1/2/9/8/0/2987eed2a3f04377cb6808c60f45cfcc.mp3*~data=user_id=0,application_id=42~hmac=83750029a3bc1c619ceb230d40c462ff19f7fe87fd3d00dce3c64abd2cf1166c",
+      "duration_ms": 206000,
+      "track_number": 1,
+      "album": {
+        "id": "739403601",
+        "name": "Ceinture noire (Décennie)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7176e39c2bf781142131e28ac8988ad2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7176e39c2bf781142131e28ac8988ad2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7176e39c2bf781142131e28ac8988ad2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3315004411"
+      }
+    },
+    {
+      "id": "1032957942",
+      "name": "Hawái",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/2/0/4a279db1b065129bace7c95941dbcacc.mp3?hdnea=exp=1774859936~acl=/api/1/1/4/a/2/0/4a279db1b065129bace7c95941dbcacc.mp3*~data=user_id=0,application_id=42~hmac=43ffbdcaf8062d7c433a155f4d2167022f778b761fb35549ceee0a028f11bf68",
+      "duration_ms": 200000,
+      "track_number": 2,
+      "album": {
+        "id": "163017682",
+        "name": "Hawái",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0714b3776b2bc051fb55d161b79296e9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0714b3776b2bc051fb55d161b79296e9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0714b3776b2bc051fb55d161b79296e9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1032957942"
+      }
+    },
+    {
+      "id": "133459588",
+      "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/2/0/aa2a255783a5b6e64062848afa6ffa4a.mp3?hdnea=exp=1774859936~acl=/api/1/1/a/a/2/0/aa2a255783a5b6e64062848afa6ffa4a.mp3*~data=user_id=0,application_id=42~hmac=683a14ca9f0dd70008625b1e0b4b7dc8ce7bb7991ee26ea58124afba46815612",
+      "duration_ms": 278000,
+      "track_number": 3,
+      "album": {
+        "id": "14215674",
+        "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f26a7c379c142a9a9c1bafb4c7a64162/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f26a7c379c142a9a9c1bafb4c7a64162/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f26a7c379c142a9a9c1bafb4c7a64162/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/133459588"
+      }
+    },
+    {
+      "id": "493108512",
+      "name": "Corazón (feat. Nego do Borel)",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/7/0/dd769b1759f7a525ee416a03972cf332.mp3?hdnea=exp=1774859936~acl=/api/1/1/d/d/7/0/dd769b1759f7a525ee416a03972cf332.mp3*~data=user_id=0,application_id=42~hmac=eff0cce9cdcb822689fff8c5e7a06fe177a6b3e84cf56d6ff3e564e5d5d3b4bb",
+      "duration_ms": 184000,
+      "track_number": 4,
+      "album": {
+        "id": "62438782",
+        "name": "F.A.M.E.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f7f531b2bcebeffef064d973dedb24a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f7f531b2bcebeffef064d973dedb24a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f7f531b2bcebeffef064d973dedb24a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/493108512"
+      }
+    },
+    {
+      "id": "493108632",
+      "name": "Felices los 4",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/9/0/d998bebd057894d717953b9199997c7d.mp3?hdnea=exp=1774859936~acl=/api/1/1/d/9/9/0/d998bebd057894d717953b9199997c7d.mp3*~data=user_id=0,application_id=42~hmac=041b1fadd668d83d527c5585c2292fbb090e716158fd71fe21bdfbb003b13538",
+      "duration_ms": 230000,
+      "track_number": 5,
+      "album": {
+        "id": "62438782",
+        "name": "F.A.M.E.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f7f531b2bcebeffef064d973dedb24a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f7f531b2bcebeffef064d973dedb24a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f7f531b2bcebeffef064d973dedb24a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/493108632"
+      }
+    },
+    {
+      "id": "508790222",
+      "name": "Clandestino",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/4/0/ad435c65edbca719af6f47f5a5268bc7.mp3?hdnea=exp=1774859936~acl=/api/1/1/a/d/4/0/ad435c65edbca719af6f47f5a5268bc7.mp3*~data=user_id=0,application_id=42~hmac=24618912a8e71358f3b8e942f2d90a5bd3929679bc8328e21144488b7d56f640",
+      "duration_ms": 231000,
+      "track_number": 6,
+      "album": {
+        "id": "65107062",
+        "name": "Clandestino",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/52988194e1c50e6b2d5cbf44b8128a71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/52988194e1c50e6b2d5cbf44b8128a71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/52988194e1c50e6b2d5cbf44b8128a71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/508790222"
+      }
+    },
+    {
+      "id": "2506251781",
+      "name": "Maldad",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/a/0/86a75e29482c3ed535b3b1bfd6f476cc.mp3?hdnea=exp=1774859936~acl=/api/1/1/8/6/a/0/86a75e29482c3ed535b3b1bfd6f476cc.mp3*~data=user_id=0,application_id=42~hmac=6aca8c67c258ff6f42ab6c230d2440c783559e8f4efdda731aa113d72641dcfb",
+      "duration_ms": 168000,
+      "track_number": 7,
+      "album": {
+        "id": "502390411",
+        "name": "Neon Future IV",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b33a169793074e342e83b42771a440cf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b33a169793074e342e83b42771a440cf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b33a169793074e342e83b42771a440cf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2506251781"
+      }
+    },
+    {
+      "id": "1088078672",
+      "name": "Pa Ti",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/e/0/13e8428f06c2dc00b6366e4f7af56d10.mp3?hdnea=exp=1774859936~acl=/api/1/1/1/3/e/0/13e8428f06c2dc00b6366e4f7af56d10.mp3*~data=user_id=0,application_id=42~hmac=7bc4cb8f0406b498a58fb69c053d99404d75a7437f2145248c1d351beaf4a2dc",
+      "duration_ms": 230000,
+      "track_number": 8,
+      "album": {
+        "id": "175007632",
+        "name": "Pa Ti + Lonely",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/064c26e6677e3272ce46752a0794cfa9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/064c26e6677e3272ce46752a0794cfa9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/064c26e6677e3272ce46752a0794cfa9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1088078672"
+      }
+    },
+    {
+      "id": "485800532",
+      "name": "Colors",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/d/0/0cd995e8bcc853023948b2f489fb099d.mp3?hdnea=exp=1774859936~acl=/api/1/1/0/c/d/0/0cd995e8bcc853023948b2f489fb099d.mp3*~data=user_id=0,application_id=42~hmac=4a98dbbb220f5948629ba70b5eda5c8a917aec11101772615ed735ff7e581eac",
+      "duration_ms": 199000,
+      "track_number": 9,
+      "album": {
+        "id": "61198292",
+        "name": "Colors",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dcfbd01818899d35960eadaab1b3c4c9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dcfbd01818899d35960eadaab1b3c4c9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dcfbd01818899d35960eadaab1b3c4c9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/485800532"
+      }
+    },
+    {
+      "id": "1254213512",
+      "name": "Aloha",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/f/0/fcfcfb77b707d534482c75c4e7a98916.mp3?hdnea=exp=1774859936~acl=/api/1/1/f/c/f/0/fcfcfb77b707d534482c75c4e7a98916.mp3*~data=user_id=0,application_id=42~hmac=f7ebb90f6a2f00fe27fe0b97fd4eed034dad29b0d88cbd72b208095877b6f7ba",
+      "duration_ms": 241000,
+      "track_number": 10,
+      "album": {
+        "id": "209942492",
+        "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/14b0aec64a459543ddb3aa80bbc8e724/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/14b0aec64a459543ddb3aa80bbc8e724/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/14b0aec64a459543ddb3aa80bbc8e724/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1424602",
+          "name": "Maluma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1254213512"
+      }
+    }
+  ]
+}

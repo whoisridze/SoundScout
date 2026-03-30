@@ -1,0 +1,32 @@
+{
+  "id": "72834",
+  "name": "Return to Forever",
+  "popularity": 1,
+  "followers": {
+    "total": 18928
+  },
+  "genres": [
+    "jazz fusion"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/97163ab15f1bde790cb16f2ba693e97d/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/97163ab15f1bde790cb16f2ba693e97d/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/97163ab15f1bde790cb16f2ba693e97d/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/72834"
+  },
+  "uri": "deezer:artist:72834"
+}

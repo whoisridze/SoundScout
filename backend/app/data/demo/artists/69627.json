@@ -1,0 +1,32 @@
+{
+  "id": "69627",
+  "name": "MGMT",
+  "popularity": 99,
+  "followers": {
+    "total": 1185926
+  },
+  "genres": [
+    "indie rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0260c3e6e76812d73f50719292985f01/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0260c3e6e76812d73f50719292985f01/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0260c3e6e76812d73f50719292985f01/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/69627"
+  },
+  "uri": "deezer:artist:69627"
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "23712561",
+      "name": "Einaudi: Una Mattina",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/4/0/80415d8e5867a9f7d5f6d0cbe373633d.mp3?hdnea=exp=1774860058~acl=/api/1/1/8/0/4/0/80415d8e5867a9f7d5f6d0cbe373633d.mp3*~data=user_id=0,application_id=42~hmac=10f0472600cb140cc19b36d66339f250ceef9ac0e3f20e8b0455a7777273904c",
+      "duration_ms": 203000,
+      "track_number": 1,
+      "album": {
+        "id": "2267671",
+        "name": "Una Mattina",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1454f47d39378102179d8470474e6c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1454f47d39378102179d8470474e6c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1454f47d39378102179d8470474e6c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/23712561"
+      }
+    },
+    {
+      "id": "69261838",
+      "name": "Primavera",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/6/0/18654b9a408e3e0ad7321e8d3c98f55b.mp3?hdnea=exp=1774860058~acl=/api/1/1/1/8/6/0/18654b9a408e3e0ad7321e8d3c98f55b.mp3*~data=user_id=0,application_id=42~hmac=f5f1c01b5c2149d960c94c86ceff286f50ef8d7c2cadef56f92a690e245e3f8e",
+      "duration_ms": 442000,
+      "track_number": 2,
+      "album": {
+        "id": "6788962",
+        "name": "Islands - Essential Einaudi",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2975f628cc56a60861dcbeff33442040/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2975f628cc56a60861dcbeff33442040/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2975f628cc56a60861dcbeff33442040/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69261838"
+      }
+    },
+    {
+      "id": "72059729",
+      "name": "Einaudi: Experience",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/2/0/4a2a8c9e2395c4b3b96188c0f8be85f3.mp3?hdnea=exp=1774860058~acl=/api/1/1/4/a/2/0/4a2a8c9e2395c4b3b96188c0f8be85f3.mp3*~data=user_id=0,application_id=42~hmac=6ad28c423000962b779e697b86ed30e4aaee292903a9a9dd9c94fb6b2ca49855",
+      "duration_ms": 315000,
+      "track_number": 3,
+      "album": {
+        "id": "7079242",
+        "name": "In A Time Lapse (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8846b3f1a8c23bcb2dc23aa31493186b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8846b3f1a8c23bcb2dc23aa31493186b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8846b3f1a8c23bcb2dc23aa31493186b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/72059729"
+      }
+    },
+    {
+      "id": "69261831",
+      "name": "Divenire",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/4/0/ba4ba54ed30ad9157ea73d5a91b6daa7.mp3?hdnea=exp=1774860058~acl=/api/1/1/b/a/4/0/ba4ba54ed30ad9157ea73d5a91b6daa7.mp3*~data=user_id=0,application_id=42~hmac=653a99be39fef6e85cabbdca408aa625619895a7077afc686164daed9fedc956",
+      "duration_ms": 402000,
+      "track_number": 4,
+      "album": {
+        "id": "6788962",
+        "name": "Islands - Essential Einaudi",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2975f628cc56a60861dcbeff33442040/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2975f628cc56a60861dcbeff33442040/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2975f628cc56a60861dcbeff33442040/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69261831"
+      }
+    },
+    {
+      "id": "1386411742",
+      "name": "Fly",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/b/0/99bbf737fe104ca15a895944e7b8fa01.mp3?hdnea=exp=1774860058~acl=/api/1/1/9/9/b/0/99bbf737fe104ca15a895944e7b8fa01.mp3*~data=user_id=0,application_id=42~hmac=99c3d5704e8179f7ed2be86adec576b263d90e60171acc118a76603fca9d33b6",
+      "duration_ms": 278000,
+      "track_number": 5,
+      "album": {
+        "id": "233433772",
+        "name": "Cinema",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5a87ba5a470682fc0add7dfae644122b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5a87ba5a470682fc0add7dfae644122b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5a87ba5a470682fc0add7dfae644122b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1386411742"
+      }
+    },
+    {
+      "id": "1200403362",
+      "name": "Life",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/4/0/8f44fedd5d0d47c9944c955c24f862c0.mp3?hdnea=exp=1774860058~acl=/api/1/1/8/f/4/0/8f44fedd5d0d47c9944c955c24f862c0.mp3*~data=user_id=0,application_id=42~hmac=4b35d75f79905bf6b2d40978ea0fb73bfaeb4967d58e396539ff8a0dee6cc532",
+      "duration_ms": 263000,
+      "track_number": 6,
+      "album": {
+        "id": "198285772",
+        "name": "Winds of Change",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11390a63a540323dd29684dc6bf03265/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11390a63a540323dd29684dc6bf03265/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11390a63a540323dd29684dc6bf03265/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1200403362"
+      }
+    },
+    {
+      "id": "3856158821",
+      "name": "Jay",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/a/0/69a1bab3f0950878dd00fd2456dc670b.mp3?hdnea=exp=1774860058~acl=/api/1/1/6/9/a/0/69a1bab3f0950878dd00fd2456dc670b.mp3*~data=user_id=0,application_id=42~hmac=b581ef98904e5d925dd9666ee27037af5bd6c78e55c3c81490b3e8c058b320ad",
+      "duration_ms": 190000,
+      "track_number": 7,
+      "album": {
+        "id": "923210861",
+        "name": "Solo Piano",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c3d4cebda1a8c46da8c366893ba8bfa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c3d4cebda1a8c46da8c366893ba8bfa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c3d4cebda1a8c46da8c366893ba8bfa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3856158821"
+      }
+    },
+    {
+      "id": "2626620062",
+      "name": "The Braid",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/f/0/8cf0e347442665eadadfae215531916a.mp3?hdnea=exp=1774860058~acl=/api/1/1/8/c/f/0/8cf0e347442665eadadfae215531916a.mp3*~data=user_id=0,application_id=42~hmac=1f1253ef756b6c5dd5e764db162612fb2c3dd0f7afba0a835ebb9b16e31ebc56",
+      "duration_ms": 365000,
+      "track_number": 8,
+      "album": {
+        "id": "536805502",
+        "name": "La Tresse (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f15025e2e6e82754b054e2ae953341/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f15025e2e6e82754b054e2ae953341/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f15025e2e6e82754b054e2ae953341/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2626620062"
+      }
+    },
+    {
+      "id": "1006940382",
+      "name": "L'insieme delle cose",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/6/0/056129336aec74b33108d5ccf943ba1a.mp3?hdnea=exp=1774860058~acl=/api/1/1/0/5/6/0/056129336aec74b33108d5ccf943ba1a.mp3*~data=user_id=0,application_id=42~hmac=979dba1b32956cc5568c596705e5a731c69cdfd3563d78db675a5a0a6048eee5",
+      "duration_ms": 110000,
+      "track_number": 9,
+      "album": {
+        "id": "157817462",
+        "name": "Giorni dispari (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f5347efc089a10ed783bd8f1613e8f8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f5347efc089a10ed783bd8f1613e8f8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f5347efc089a10ed783bd8f1613e8f8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1006940382"
+      }
+    },
+    {
+      "id": "3751347562",
+      "name": "Memory One",
+      "popularity": 81,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/0/0/720e096e5d7e2cd864fd058d942df19a.mp3?hdnea=exp=1774860058~acl=/api/1/1/7/2/0/0/720e096e5d7e2cd864fd058d942df19a.mp3*~data=user_id=0,application_id=42~hmac=eabcde2ca168489c11b4feb8e2a85303bd09e06d7cbcadc5709db3dbfac602d8",
+      "duration_ms": 263000,
+      "track_number": 10,
+      "album": {
+        "id": "889201072",
+        "name": "Memory One",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c3d4cebda1a8c46da8c366893ba8bfa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c3d4cebda1a8c46da8c366893ba8bfa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c3d4cebda1a8c46da8c366893ba8bfa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4331",
+          "name": "Ludovico Einaudi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3751347562"
+      }
+    }
+  ]
+}

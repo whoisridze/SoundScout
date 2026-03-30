@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "143534972",
+      "name": "Mykonos",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/2/0/bf29a279d813116acf3fbe1769195055.mp3?hdnea=exp=1774860048~acl=/api/1/1/b/f/2/0/bf29a279d813116acf3fbe1769195055.mp3*~data=user_id=0,application_id=42~hmac=ea3bb8fc2c98dd8f790a44eb8704cdebc9e70b4f8031daa298dc96e331cf79d0",
+      "duration_ms": 275000,
+      "track_number": 1,
+      "album": {
+        "id": "15548330",
+        "name": "Sun Giant",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f49d8deebe5c0a17ea7fccf730b80a0e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f49d8deebe5c0a17ea7fccf730b80a0e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f49d8deebe5c0a17ea7fccf730b80a0e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/143534972"
+      }
+    },
+    {
+      "id": "369693771",
+      "name": "If You Need To, Keep Time on Me",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/3/0/ce3f155343acbcf2bfb4b8b6ef3128b9.mp3?hdnea=exp=1774860048~acl=/api/1/1/c/e/3/0/ce3f155343acbcf2bfb4b8b6ef3128b9.mp3*~data=user_id=0,application_id=42~hmac=8bc01f06bce4901ddc1db5502921ce70a346593bea3c3f44d6da06efe33c11a9",
+      "duration_ms": 210000,
+      "track_number": 2,
+      "album": {
+        "id": "42624881",
+        "name": "Crack-Up",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74f4d7c06d07f70ecbefe1f04b8173c1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74f4d7c06d07f70ecbefe1f04b8173c1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74f4d7c06d07f70ecbefe1f04b8173c1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/369693771"
+      }
+    },
+    {
+      "id": "1075897122",
+      "name": "Sunblind",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/5/0/ca554e008889481f5a65d35ce3f5e37e.mp3?hdnea=exp=1774860048~acl=/api/1/1/c/a/5/0/ca554e008889481f5a65d35ce3f5e37e.mp3*~data=user_id=0,application_id=42~hmac=668242e5c0686eeee1e133bd4b005699ee15f4b5c6b070acc9a35101ff70b057",
+      "duration_ms": 253000,
+      "track_number": 3,
+      "album": {
+        "id": "172368352",
+        "name": "Shore",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee816daf51d15c6617e175802c20ef3b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee816daf51d15c6617e175802c20ef3b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee816daf51d15c6617e175802c20ef3b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1075897122"
+      }
+    },
+    {
+      "id": "1075897132",
+      "name": "Can I Believe You",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/7/0/4d7cfb81124d0e3372a436e2fe96eff5.mp3?hdnea=exp=1774860048~acl=/api/1/1/4/d/7/0/4d7cfb81124d0e3372a436e2fe96eff5.mp3*~data=user_id=0,application_id=42~hmac=2914c5cb82192bb386df97ab2649348d2491ba2e152fc3605ebdac36fe7bada3",
+      "duration_ms": 244000,
+      "track_number": 4,
+      "album": {
+        "id": "172368352",
+        "name": "Shore",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee816daf51d15c6617e175802c20ef3b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee816daf51d15c6617e175802c20ef3b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee816daf51d15c6617e175802c20ef3b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1075897132"
+      }
+    },
+    {
+      "id": "3448561301",
+      "name": "Don't Put It All On Me",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/4/0/3f48b30404c2175663850de8e78dd10d.mp3?hdnea=exp=1774860048~acl=/api/1/1/3/f/4/0/3f48b30404c2175663850de8e78dd10d.mp3*~data=user_id=0,application_id=42~hmac=6c012e9e39054b833b832f57c9a6cdc661e6c7e9707dac99c479a04e7c2a4284",
+      "duration_ms": 247000,
+      "track_number": 5,
+      "album": {
+        "id": "784193431",
+        "name": "I WANT MY LOVED ONES TO GO WITH ME",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/02f0ba2e1561436682a97b261b013e4b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/02f0ba2e1561436682a97b261b013e4b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/02f0ba2e1561436682a97b261b013e4b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3448561301"
+      }
+    },
+    {
+      "id": "369693801",
+      "name": "Fool's Errand",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/3/0/77366e8daf61698ee329c2a1d5693a6d.mp3?hdnea=exp=1774860048~acl=/api/1/1/7/7/3/0/77366e8daf61698ee329c2a1d5693a6d.mp3*~data=user_id=0,application_id=42~hmac=156ba9d68bfb4a3853c9e0a0f53590707d17a7200b8a9bef89de9b06d034b23e",
+      "duration_ms": 288000,
+      "track_number": 6,
+      "album": {
+        "id": "42624881",
+        "name": "Crack-Up",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74f4d7c06d07f70ecbefe1f04b8173c1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74f4d7c06d07f70ecbefe1f04b8173c1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74f4d7c06d07f70ecbefe1f04b8173c1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/369693801"
+      }
+    },
+    {
+      "id": "69001877",
+      "name": "White Winter Hymnal",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/a/0/86a769e50fad5b763fdb7bb99096fa39.mp3?hdnea=exp=1774860048~acl=/api/1/1/8/6/a/0/86a769e50fad5b763fdb7bb99096fa39.mp3*~data=user_id=0,application_id=42~hmac=fa6e46b63b9901ee63730eea3d88b79b97503809957532c9054155cc5e3ee9f6",
+      "duration_ms": 146000,
+      "track_number": 7,
+      "album": {
+        "id": "6761037",
+        "name": "Rough Trade: Counter Culture 2008",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/af996dbd57ab8328b2f7921dde1ec226/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/af996dbd57ab8328b2f7921dde1ec226/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/af996dbd57ab8328b2f7921dde1ec226/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69001877"
+      }
+    },
+    {
+      "id": "143462334",
+      "name": "Tiger Mountain Peasant Song",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/c/0/b6cda4ad2b0b03cd82debf2fa2b728f5.mp3?hdnea=exp=1774860048~acl=/api/1/1/b/6/c/0/b6cda4ad2b0b03cd82debf2fa2b728f5.mp3*~data=user_id=0,application_id=42~hmac=fc5f8293814ad58f14ba65c423c9e50791a599768f123455c93e615e24080452",
+      "duration_ms": 208000,
+      "track_number": 8,
+      "album": {
+        "id": "15541872",
+        "name": "Fleet Foxes",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0fe57e221df539a2964ca5290787003/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0fe57e221df539a2964ca5290787003/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0fe57e221df539a2964ca5290787003/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/143462334"
+      }
+    },
+    {
+      "id": "3635001702",
+      "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/d/0/08de547dc08e4819bb96dce34e32ca04.mp3?hdnea=exp=1774860048~acl=/api/1/1/0/8/d/0/08de547dc08e4819bb96dce34e32ca04.mp3*~data=user_id=0,application_id=42~hmac=7091c34fa4ef48283a6121a7ceb787a14e5c68a3e009bb76086a131bdf16b161",
+      "duration_ms": 164000,
+      "track_number": 9,
+      "album": {
+        "id": "849247432",
+        "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f321788abc29356b3a8495c914b1d3c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f321788abc29356b3a8495c914b1d3c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f321788abc29356b3a8495c914b1d3c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3635001702"
+      }
+    },
+    {
+      "id": "1262416572",
+      "name": "Wading In Waist-High Water",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/8/0/9c86ecd8c4045a64e27e9734e2b14d91.mp3?hdnea=exp=1774860048~acl=/api/1/1/9/c/8/0/9c86ecd8c4045a64e27e9734e2b14d91.mp3*~data=user_id=0,application_id=42~hmac=7f0293da010ce1073d0ce464f0f1273de2b18fff71cab0a070662a615b87fef4",
+      "duration_ms": 135000,
+      "track_number": 10,
+      "album": {
+        "id": "211806222",
+        "name": "Shore",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee816daf51d15c6617e175802c20ef3b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee816daf51d15c6617e175802c20ef3b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee816daf51d15c6617e175802c20ef3b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74444",
+          "name": "Fleet Foxes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1262416572"
+      }
+    }
+  ]
+}

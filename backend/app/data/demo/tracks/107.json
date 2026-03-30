@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "4007285",
+      "name": "I Believe In You (Je Crois En Toi English French Version)",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/4/0/a54c8ab25f29b4de2c5bcab878e1346d.mp3?hdnea=exp=1774860090~acl=/api/1/1/a/5/4/0/a54c8ab25f29b4de2c5bcab878e1346d.mp3*~data=user_id=0,application_id=42~hmac=4843d98d490341a6a317c7ec606f70a915b67037797f5fd5775e0c60b1cf194e",
+      "duration_ms": 240000,
+      "track_number": 1,
+      "album": {
+        "id": "72217",
+        "name": "I Believe In You (Je Crois En Toi)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/172d41f89cde69937a657ca75ee70fbb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/172d41f89cde69937a657ca75ee70fbb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/172d41f89cde69937a657ca75ee70fbb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4007285"
+      }
+    },
+    {
+      "id": "835115",
+      "name": "Ti Amero",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/4/0/7c4ca9634070f0f25eb5a93595cbe643.mp3?hdnea=exp=1774860090~acl=/api/1/1/7/c/4/0/7c4ca9634070f0f25eb5a93595cbe643.mp3*~data=user_id=0,application_id=42~hmac=72055ad988217cbbbe6f787b703e55c3ce444b9759f6876c6279f8244a3156f3",
+      "duration_ms": 240000,
+      "track_number": 2,
+      "album": {
+        "id": "96374",
+        "name": "Il Divo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/126c1ced77703a1a481ad9f9a4f1bb04/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/126c1ced77703a1a481ad9f9a4f1bb04/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/126c1ced77703a1a481ad9f9a4f1bb04/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/835115"
+      }
+    },
+    {
+      "id": "89823727",
+      "name": "Belle (with Florent Pagny)",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/f/0/b7f6f4013555f8ef603e7c3d37de9971.mp3?hdnea=exp=1774860090~acl=/api/1/1/b/7/f/0/b7f6f4013555f8ef603e7c3d37de9971.mp3*~data=user_id=0,application_id=42~hmac=693112d1230c24e303991dbae4fbd41fef50b9296816ed182b8d703880e5ea82",
+      "duration_ms": 282000,
+      "track_number": 3,
+      "album": {
+        "id": "9097049",
+        "name": "A Musical Affair (French Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b05bb328543bcde2595f98e712880f86/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b05bb328543bcde2595f98e712880f86/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b05bb328543bcde2595f98e712880f86/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/89823727"
+      }
+    },
+    {
+      "id": "2516188741",
+      "name": "Despacito",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/1/0/351cd3f92556cf11410e707cf055bc3b.mp3?hdnea=exp=1774860090~acl=/api/1/1/3/5/1/0/351cd3f92556cf11410e707cf055bc3b.mp3*~data=user_id=0,application_id=42~hmac=014be45f099a57609c490ecf8e7e87271abadff2a8865b94b140b7ec60c87c06",
+      "duration_ms": 251000,
+      "track_number": 4,
+      "album": {
+        "id": "505243001",
+        "name": "XX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63cb6166aab4ba904b93893797033921/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63cb6166aab4ba904b93893797033921/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63cb6166aab4ba904b93893797033921/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2516188741"
+      }
+    },
+    {
+      "id": "575808",
+      "name": "Isabel",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/e/0/3beefe8f649c312bb7d296d182c629a9.mp3?hdnea=exp=1774860090~acl=/api/1/1/3/b/e/0/3beefe8f649c312bb7d296d182c629a9.mp3*~data=user_id=0,application_id=42~hmac=37165c6964017fef5d221edf9693c7e8044bfdc5074e49c9f78aedd5036b63ee",
+      "duration_ms": 254000,
+      "track_number": 5,
+      "album": {
+        "id": "74416",
+        "name": "Ancora",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34f00ea5ec8adb610916bdaab3857e68/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34f00ea5ec8adb610916bdaab3857e68/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34f00ea5ec8adb610916bdaab3857e68/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/575808"
+      }
+    },
+    {
+      "id": "111847566",
+      "name": "Abrázame",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/a/0/b6a15c687c1c953b92defc3819a6a6f2.mp3?hdnea=exp=1774860090~acl=/api/1/1/b/6/a/0/b6a15c687c1c953b92defc3819a6a6f2.mp3*~data=user_id=0,application_id=42~hmac=8ba9693e3d14dbf27ac02534072aa0b0db6cb938b6685c88ae54d089d92b7156",
+      "duration_ms": 209000,
+      "track_number": 6,
+      "album": {
+        "id": "11608456",
+        "name": "Amor & Pasion",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ecc1ed250f6c7e612e04b0c37da60f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ecc1ed250f6c7e612e04b0c37da60f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ecc1ed250f6c7e612e04b0c37da60f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/111847566"
+      }
+    },
+    {
+      "id": "13144712",
+      "name": "Aleluya",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/9/0/b89aacf3685e1ef595477ecd8d0d9a15.mp3?hdnea=exp=1774860090~acl=/api/1/1/b/8/9/0/b89aacf3685e1ef595477ecd8d0d9a15.mp3*~data=user_id=0,application_id=42~hmac=40e5e1a768765bbe5232089df0e42d69af3e9c9fd2d1e0ba5600f853e1dd12d1",
+      "duration_ms": 201000,
+      "track_number": 7,
+      "album": {
+        "id": "1206149",
+        "name": "The Promise",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6801dd270f9f83c88eec93cbd4826c5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6801dd270f9f83c88eec93cbd4826c5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6801dd270f9f83c88eec93cbd4826c5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13144712"
+      }
+    },
+    {
+      "id": "89823731",
+      "name": "Memory (with Hélène Ségara)",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/4/0/ae4f42e7ae6d23afc817c1d31cff8423.mp3?hdnea=exp=1774860090~acl=/api/1/1/a/e/4/0/ae4f42e7ae6d23afc817c1d31cff8423.mp3*~data=user_id=0,application_id=42~hmac=4f4763f1c59a4c55ad5de9a31645074194e4391ae0395b9018e57ced11eeb521",
+      "duration_ms": 266000,
+      "track_number": 8,
+      "album": {
+        "id": "9097049",
+        "name": "A Musical Affair (French Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b05bb328543bcde2595f98e712880f86/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b05bb328543bcde2595f98e712880f86/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b05bb328543bcde2595f98e712880f86/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/89823731"
+      }
+    },
+    {
+      "id": "61793675",
+      "name": "Caruso",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/4/0/8f4ec0cb31c78f646c8bdd8381b9da04.mp3?hdnea=exp=1774860090~acl=/api/1/1/8/f/4/0/8f4ec0cb31c78f646c8bdd8381b9da04.mp3*~data=user_id=0,application_id=42~hmac=8499a4161416db456f0164374399d3b0989c67fe09263249e70fbf19978afcdb",
+      "duration_ms": 235000,
+      "track_number": 9,
+      "album": {
+        "id": "6058365",
+        "name": "The Greatest Hits (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbb541c13295a223763f37c0a46211d2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbb541c13295a223763f37c0a46211d2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbb541c13295a223763f37c0a46211d2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/61793675"
+      }
+    },
+    {
+      "id": "2516188721",
+      "name": "Hoy Tengo Ganas De Ti",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/4/0/cc4d52391ee2161a985639ac618c5fe0.mp3?hdnea=exp=1774860090~acl=/api/1/1/c/c/4/0/cc4d52391ee2161a985639ac618c5fe0.mp3*~data=user_id=0,application_id=42~hmac=1af44e8549e953504433ba126aff30057de9eff074f56b878ea6c22b212b8e92",
+      "duration_ms": 288000,
+      "track_number": 10,
+      "album": {
+        "id": "505243001",
+        "name": "XX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63cb6166aab4ba904b93893797033921/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63cb6166aab4ba904b93893797033921/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63cb6166aab4ba904b93893797033921/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "107",
+          "name": "Il Divo"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2516188721"
+      }
+    }
+  ]
+}

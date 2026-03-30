@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "714210042",
+      "name": "China",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/4/0/c042c8d32a0252bb683d8964bd5a19fc.mp3?hdnea=exp=1774860013~acl=/api/1/1/c/0/4/0/c042c8d32a0252bb683d8964bd5a19fc.mp3*~data=user_id=0,application_id=42~hmac=49ca166b1c2143ac5953d6471760d1456da00a033dd06ca6421e0de947994bbb",
+      "duration_ms": 301000,
+      "track_number": 1,
+      "album": {
+        "id": "104037352",
+        "name": "China",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9792592cb08a52adafe49e0d93c5c177/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9792592cb08a52adafe49e0d93c5c177/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9792592cb08a52adafe49e0d93c5c177/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/714210042"
+      }
+    },
+    {
+      "id": "850907702",
+      "name": "Me Gusta",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/5/0/1d5110e095a70323d566bb8fbaae68b7.mp3?hdnea=exp=1774860013~acl=/api/1/1/1/d/5/0/1d5110e095a70323d566bb8fbaae68b7.mp3*~data=user_id=0,application_id=42~hmac=de7d0535d123188619e009ff7874c037ed32d8d1ee5719d6e2b57a5fc0314e5c",
+      "duration_ms": 190000,
+      "track_number": 2,
+      "album": {
+        "id": "126369252",
+        "name": "Me Gusta",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23f08d8f63e888c3563cf932c2824789/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23f08d8f63e888c3563cf932c2824789/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23f08d8f63e888c3563cf932c2824789/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/850907702"
+      }
+    },
+    {
+      "id": "3703400922",
+      "name": "Cuando No Era Cantante RMX (Remix)",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/1/0/c6193ae506664a376b92bf69e26e83af.mp3?hdnea=exp=1774860013~acl=/api/1/1/c/6/1/0/c6193ae506664a376b92bf69e26e83af.mp3*~data=user_id=0,application_id=42~hmac=daf4d78c3f3ab2faeca1b86de209ad7c4719363a3e6d3cc9a881b3712dabb4e0",
+      "duration_ms": 327000,
+      "track_number": 3,
+      "album": {
+        "id": "873052852",
+        "name": "Cuando No Era Cantante (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e62f70e7b366e618da1cbf0eed47de8c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e62f70e7b366e618da1cbf0eed47de8c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e62f70e7b366e618da1cbf0eed47de8c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3703400922"
+      }
+    },
+    {
+      "id": "1871605777",
+      "name": "Delincuente",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/7/0/0d7def42a6fc179b87145a5561fc02d2.mp3?hdnea=exp=1774860013~acl=/api/1/1/0/d/7/0/0d7def42a6fc179b87145a5561fc02d2.mp3*~data=user_id=0,application_id=42~hmac=9112df9879ccdc19ffe13c7a8b70069d7641c18a363841f5195d4e4064051010",
+      "duration_ms": 226000,
+      "track_number": 4,
+      "album": {
+        "id": "347567357",
+        "name": "Delincuente",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0b291beb2bc3fea0323ff95d5157ecc1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0b291beb2bc3fea0323ff95d5157ecc1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0b291beb2bc3fea0323ff95d5157ecc1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1871605777"
+      }
+    },
+    {
+      "id": "1476910952",
+      "name": "Ley Seca",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/5/0/5c5ff668385093335ead18869711b73a.mp3?hdnea=exp=1774860013~acl=/api/1/1/5/c/5/0/5c5ff668385093335ead18869711b73a.mp3*~data=user_id=0,application_id=42~hmac=b6843b43b467bed423191e8bcfaea0ce04e25cf1d9fda8728660eb888ab417e6",
+      "duration_ms": 263000,
+      "track_number": 5,
+      "album": {
+        "id": "254653892",
+        "name": "Timelezz",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dbd0ba06aca0d382f670164c43f03da/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dbd0ba06aca0d382f670164c43f03da/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dbd0ba06aca0d382f670164c43f03da/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1476910952"
+      }
+    },
+    {
+      "id": "2445849225",
+      "name": "Corazón Roto pt. 3",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/4/0/c045991d63adca07d1425461d8b1160b.mp3?hdnea=exp=1774860013~acl=/api/1/1/c/0/4/0/c045991d63adca07d1425461d8b1160b.mp3*~data=user_id=0,application_id=42~hmac=7618bed010585e72df8fc3df1a78c26249d2e9179b8b4599c8d5dddb91d2817f",
+      "duration_ms": 349000,
+      "track_number": 6,
+      "album": {
+        "id": "485728665",
+        "name": "Corazón Roto pt. 3",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/80572c2e379843458f3ef8a06412b3de/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/80572c2e379843458f3ef8a06412b3de/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/80572c2e379843458f3ef8a06412b3de/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2445849225"
+      }
+    },
+    {
+      "id": "972627942",
+      "name": "Fútbol & Rumba (feat. Enrique Iglesias)",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/b/0/1fbdc6747372f79136a92aad03886c16.mp3?hdnea=exp=1774860013~acl=/api/1/1/1/f/b/0/1fbdc6747372f79136a92aad03886c16.mp3*~data=user_id=0,application_id=42~hmac=cab2a382f3b8cbb2848b79a896358e0ce788a50f9d029e2d3c3ca6a38980cc5d",
+      "duration_ms": 221000,
+      "track_number": 7,
+      "album": {
+        "id": "150946482",
+        "name": "Emmanuel",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/40e6c0f26a5a45b81584d58e9929adfd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/40e6c0f26a5a45b81584d58e9929adfd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/40e6c0f26a5a45b81584d58e9929adfd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/972627942"
+      }
+    },
+    {
+      "id": "1557779722",
+      "name": "1942",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/d/0/a1d1e73be674f8ba55d32badabeb5f86.mp3?hdnea=exp=1774860013~acl=/api/1/1/a/1/d/0/a1d1e73be674f8ba55d32badabeb5f86.mp3*~data=user_id=0,application_id=42~hmac=14483912992984650e6eb372e860607eb3ef5c388dd8cdf3deec54ca4d72e938",
+      "duration_ms": 178000,
+      "track_number": 8,
+      "album": {
+        "id": "273548632",
+        "name": "Las Leyendas Nunca Mueren",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d340a311bc24d0ce0cd9634a73bdeba/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d340a311bc24d0ce0cd9634a73bdeba/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d340a311bc24d0ce0cd9634a73bdeba/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1557779722"
+      }
+    },
+    {
+      "id": "616539122",
+      "name": "Secreto",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/9/0/1791d65c622d90c5bde11e9b3a8fc00f.mp3?hdnea=exp=1774860013~acl=/api/1/1/1/7/9/0/1791d65c622d90c5bde11e9b3a8fc00f.mp3*~data=user_id=0,application_id=42~hmac=60cf7d4983d664ed6f07ed7cf2596a0a1a03c7c85c4069c21800bea827427c1a",
+      "duration_ms": 258000,
+      "track_number": 9,
+      "album": {
+        "id": "84128182",
+        "name": "Secreto",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d342cd63280b8b7bfc969982dd78f957/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d342cd63280b8b7bfc969982dd78f957/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d342cd63280b8b7bfc969982dd78f957/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/616539122"
+      }
+    },
+    {
+      "id": "1972796567",
+      "name": "EL NENE",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/c/0/e3c6126d7d48b8e0c402872a3b9d062f.mp3?hdnea=exp=1774860013~acl=/api/1/1/e/3/c/0/e3c6126d7d48b8e0c402872a3b9d062f.mp3*~data=user_id=0,application_id=42~hmac=3db3fefe9a4536dccd94bcb7581343bd4c91e9384db2eb8d5d04fdde8dd14698",
+      "duration_ms": 179000,
+      "track_number": 10,
+      "album": {
+        "id": "367504217",
+        "name": "EL NENE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5dc4c42cd77f29d66accb05ccc33cca3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5dc4c42cd77f29d66accb05ccc33cca3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5dc4c42cd77f29d66accb05ccc33cca3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7961888",
+          "name": "Anuel AA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1972796567"
+      }
+    }
+  ]
+}

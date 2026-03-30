@@ -1,0 +1,32 @@
+{
+  "id": "1679",
+  "name": "Gentle Giant",
+  "popularity": 3,
+  "followers": {
+    "total": 31009
+  },
+  "genres": [
+    "progressive rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/af1ac3c55689251678a151f545b1569e/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/af1ac3c55689251678a151f545b1569e/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/af1ac3c55689251678a151f545b1569e/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1679"
+  },
+  "uri": "deezer:artist:1679"
+}

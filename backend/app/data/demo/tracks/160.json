@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3589389951",
+      "name": "Zoo (From \"Zootropolis 2\")",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/a/0/00a183c13076ea2bf3a724a23fb8d958.mp3?hdnea=exp=1774859933~acl=/api/1/1/0/0/a/0/00a183c13076ea2bf3a724a23fb8d958.mp3*~data=user_id=0,application_id=42~hmac=b1a9784dcd52e24952c7816a664e8b52983346d45ef84bd29be01506b1caf1dc",
+      "duration_ms": 191000,
+      "track_number": 1,
+      "album": {
+        "id": "833470021",
+        "name": "Zoo (From \"Zootropolis 2\")",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9151f179bfdc23a9656f909f85855026/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9151f179bfdc23a9656f909f85855026/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9151f179bfdc23a9656f909f85855026/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3589389951"
+      }
+    },
+    {
+      "id": "364957401",
+      "name": "Chantaje (feat. Maluma)",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/2/0/512b41d3e0539a12aaf8c8d60ad806f9.mp3?hdnea=exp=1774859933~acl=/api/1/1/5/1/2/0/512b41d3e0539a12aaf8c8d60ad806f9.mp3*~data=user_id=0,application_id=42~hmac=97547a216f986986068cb8c434d8a3045912f8f21be6d20a6ba64c1959e6908d",
+      "duration_ms": 195000,
+      "track_number": 2,
+      "album": {
+        "id": "42014431",
+        "name": "El Dorado",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c27b4d011105cd0b3c4aeb286671cbc4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c27b4d011105cd0b3c4aeb286671cbc4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c27b4d011105cd0b3c4aeb286671cbc4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/364957401"
+      }
+    },
+    {
+      "id": "990604232",
+      "name": "GIRL LIKE ME",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/2/0/0f260d5796ba723d6c25f7369c9a8f6a.mp3?hdnea=exp=1774859933~acl=/api/1/1/0/f/2/0/0f260d5796ba723d6c25f7369c9a8f6a.mp3*~data=user_id=0,application_id=42~hmac=c3a55939a3f88156e7363d1ff6fdb9370c652c7c9b9b9a8ff4ce3c42eb886776",
+      "duration_ms": 221000,
+      "track_number": 3,
+      "album": {
+        "id": "154364412",
+        "name": "TRANSLATION",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5f69e64c44314ff6b1422829afe08503/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5f69e64c44314ff6b1422829afe08503/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5f69e64c44314ff6b1422829afe08503/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/990604232"
+      }
+    },
+    {
+      "id": "15211178",
+      "name": "Whenever, Wherever",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/a/0/89aafd76a99c7f4ae707c999968ae8d5.mp3?hdnea=exp=1774859933~acl=/api/1/1/8/9/a/0/89aafd76a99c7f4ae707c999968ae8d5.mp3*~data=user_id=0,application_id=42~hmac=cbdf9e4688652c7ecadd71c1eb000cb502c8e39d9687b5d38878ae82d2f02134",
+      "duration_ms": 196000,
+      "track_number": 4,
+      "album": {
+        "id": "1401302",
+        "name": "Laundry Service",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c50690401eed099df05e72f5080af1b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c50690401eed099df05e72f5080af1b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c50690401eed099df05e72f5080af1b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15211178"
+      }
+    },
+    {
+      "id": "68473089",
+      "name": "Waka Waka (This Time for Africa) (feat. Freshlyground)",
+      "popularity": 92,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/0/0/4107a09dd93ef52169edd819029f3ac7.mp3?hdnea=exp=1774859933~acl=/api/1/1/4/1/0/0/4107a09dd93ef52169edd819029f3ac7.mp3*~data=user_id=0,application_id=42~hmac=94b6cbf4ba3915e719de040f00910aa7f0844159f3aefbe863ba091f57ced383",
+      "duration_ms": 203000,
+      "track_number": 5,
+      "album": {
+        "id": "6706046",
+        "name": "Party Hits: Summer Edition",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f32ed89fa129b1da7e2b5bb6cdec6980/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f32ed89fa129b1da7e2b5bb6cdec6980/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f32ed89fa129b1da7e2b5bb6cdec6980/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/68473089"
+      }
+    },
+    {
+      "id": "88897841",
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "popularity": 91,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/b/0/b0bcacf5d52d910e8b60abe75db42222.mp3?hdnea=exp=1774859933~acl=/api/1/1/b/0/b/0/b0bcacf5d52d910e8b60abe75db42222.mp3*~data=user_id=0,application_id=42~hmac=823c77b55b833d904f83911db11ce95659eb0b1784c0a8cd94370e65bfdcfe06",
+      "duration_ms": 221000,
+      "track_number": 6,
+      "album": {
+        "id": "8985885",
+        "name": "Filtr presents R&B Party",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e4b8c4332328521ec4ed16b4b9e26b1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e4b8c4332328521ec4ed16b4b9e26b1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e4b8c4332328521ec4ed16b4b9e26b1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/88897841"
+      }
+    },
+    {
+      "id": "3663852612",
+      "name": "Hips Don't Lie",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/a/0/b0a417d511b2eb577e53cae9f8657b23.mp3?hdnea=exp=1774859933~acl=/api/1/1/b/0/a/0/b0a417d511b2eb577e53cae9f8657b23.mp3*~data=user_id=0,application_id=42~hmac=6f0f416d5d5e3fd82fab7ce07c1b64cc6b1013079ea1ed7ec325140ca8e30d71",
+      "duration_ms": 208000,
+      "track_number": 7,
+      "album": {
+        "id": "859209172",
+        "name": "Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b570890728621ec68d5c5558164c3945/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b570890728621ec68d5c5558164c3945/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b570890728621ec68d5c5558164c3945/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3663852612"
+      }
+    },
+    {
+      "id": "586860862",
+      "name": "Try Everything",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/7/0/4372a409b883cc5bca0ee0b73be413b6.mp3?hdnea=exp=1774859933~acl=/api/1/1/4/3/7/0/4372a409b883cc5bca0ee0b73be413b6.mp3*~data=user_id=0,application_id=42~hmac=304afd075cbee3ed8fabdb838dfe34b7c2ba09ba352776db3ad633a7690c31dd",
+      "duration_ms": 196000,
+      "track_number": 8,
+      "album": {
+        "id": "78857542",
+        "name": "Zootopia (Original Motion Picture Soundtrack / Japanese version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6df9a9eaf07ea8a09578f3bba257dcd9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6df9a9eaf07ea8a09578f3bba257dcd9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6df9a9eaf07ea8a09578f3bba257dcd9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/586860862"
+      }
+    },
+    {
+      "id": "3018798101",
+      "name": "She Wolf",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/e/0/37e3bf04299db83f70c45dc9cabf4e9b.mp3?hdnea=exp=1774859933~acl=/api/1/1/3/7/e/0/37e3bf04299db83f70c45dc9cabf4e9b.mp3*~data=user_id=0,application_id=42~hmac=b2dbcff7e958b0f1d55ea16f7453ea79072928aa96af2afed772e5d444698c46",
+      "duration_ms": 188000,
+      "track_number": 9,
+      "album": {
+        "id": "648801441",
+        "name": "She Wolf (Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2ae86792415f9bd01ecfcaceb58c68dc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2ae86792415f9bd01ecfcaceb58c68dc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2ae86792415f9bd01ecfcaceb58c68dc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3018798101"
+      }
+    },
+    {
+      "id": "79589178",
+      "name": "Loca (feat. El Cata)",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/d/0/4ad7b204c6b66a134a698f875f018836.mp3?hdnea=exp=1774859933~acl=/api/1/1/4/a/d/0/4ad7b204c6b66a134a698f875f018836.mp3*~data=user_id=0,application_id=42~hmac=fbc7f1fafa73b780ed849510597a3a77f07f3b28fe42b678167dd8a15d9cdab2",
+      "duration_ms": 183000,
+      "track_number": 10,
+      "album": {
+        "id": "7927764",
+        "name": "Sale el Sol",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5f3faf34a31ae0a4552e7f86c819170/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5f3faf34a31ae0a4552e7f86c819170/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5f3faf34a31ae0a4552e7f86c819170/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "160",
+          "name": "Shakira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/79589178"
+      }
+    }
+  ]
+}

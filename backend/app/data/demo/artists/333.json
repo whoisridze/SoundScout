@@ -1,0 +1,32 @@
+{
+  "id": "333",
+  "name": "Tim McGraw",
+  "popularity": 37,
+  "followers": {
+    "total": 374022
+  },
+  "genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b7f0976c40ef956aa1202926ba80c11b/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b7f0976c40ef956aa1202926ba80c11b/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b7f0976c40ef956aa1202926ba80c11b/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/333"
+  },
+  "uri": "deezer:artist:333"
+}

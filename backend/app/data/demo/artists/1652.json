@@ -1,0 +1,32 @@
+{
+  "id": "1652",
+  "name": "Interpol",
+  "popularity": 47,
+  "followers": {
+    "total": 471012
+  },
+  "genres": [
+    "indie rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/ca11e5724bfd7be68c0db67ee474bc9f/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/ca11e5724bfd7be68c0db67ee474bc9f/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/ca11e5724bfd7be68c0db67ee474bc9f/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1652"
+  },
+  "uri": "deezer:artist:1652"
+}

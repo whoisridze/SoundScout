@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "6982223",
+      "name": "BTS",
+      "popularity": 99,
+      "followers": {
+        "total": 3759529
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b5c64fa8216ca158e52b4d88bd9388ff/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b5c64fa8216ca158e52b4d88bd9388ff/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b5c64fa8216ca158e52b4d88bd9388ff/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/6982223"
+      },
+      "uri": "deezer:artist:6982223"
+    },
+    {
+      "id": "10803980",
+      "name": "BLACKPINK",
+      "popularity": 99,
+      "followers": {
+        "total": 2577554
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/89675729453893a91be35bde691050ff/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/89675729453893a91be35bde691050ff/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/89675729453893a91be35bde691050ff/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10803980"
+      },
+      "uri": "deezer:artist:10803980"
+    },
+    {
+      "id": "13923487",
+      "name": "Stray Kids",
+      "popularity": 99,
+      "followers": {
+        "total": 1208494
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/004d3950684af2157081072af2df192b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/004d3950684af2157081072af2df192b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/004d3950684af2157081072af2df192b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/13923487"
+      },
+      "uri": "deezer:artist:13923487"
+    },
+    {
+      "id": "161553",
+      "name": "TWICE",
+      "popularity": 99,
+      "followers": {
+        "total": 1316803
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1f4acadade675899b7f775ae4ac67faa/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1f4acadade675899b7f775ae4ac67faa/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1f4acadade675899b7f775ae4ac67faa/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/161553"
+      },
+      "uri": "deezer:artist:161553"
+    },
+    {
+      "id": "113547672",
+      "name": "aespa",
+      "popularity": 42,
+      "followers": {
+        "total": 429677
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e16c3049f89ed842cabd0662012c2d33/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e16c3049f89ed842cabd0662012c2d33/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e16c3049f89ed842cabd0662012c2d33/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/113547672"
+      },
+      "uri": "deezer:artist:113547672"
+    },
+    {
+      "id": "178008437",
+      "name": "NewJeans",
+      "popularity": 32,
+      "followers": {
+        "total": 322472
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0866c2c1d7d00879f5db46ddc1250db8/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0866c2c1d7d00879f5db46ddc1250db8/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0866c2c1d7d00879f5db46ddc1250db8/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/178008437"
+      },
+      "uri": "deezer:artist:178008437"
+    },
+    {
+      "id": "88684",
+      "name": "EXO",
+      "popularity": 42,
+      "followers": {
+        "total": 429951
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f2fa89ff99805404c7443bed2bcc3c71/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f2fa89ff99805404c7443bed2bcc3c71/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f2fa89ff99805404c7443bed2bcc3c71/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/88684"
+      },
+      "uri": "deezer:artist:88684"
+    },
+    {
+      "id": "338654",
+      "name": "Red Velvet",
+      "popularity": 78,
+      "followers": {
+        "total": 785184
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0ce3988847484f293a81a0597e775f11/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0ce3988847484f293a81a0597e775f11/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0ce3988847484f293a81a0597e775f11/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/338654"
+      },
+      "uri": "deezer:artist:338654"
+    },
+    {
+      "id": "240582",
+      "name": "SEVENTEEN",
+      "popularity": 62,
+      "followers": {
+        "total": 627622
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f24702900c1454ea23c573a3eed5b149/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f24702900c1454ea23c573a3eed5b149/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f24702900c1454ea23c573a3eed5b149/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/240582"
+      },
+      "uri": "deezer:artist:240582"
+    },
+    {
+      "id": "50306442",
+      "name": "NCT 127",
+      "popularity": 49,
+      "followers": {
+        "total": 495612
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2fcb30a7f210c70641ea3ef8d83017ef/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2fcb30a7f210c70641ea3ef8d83017ef/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2fcb30a7f210c70641ea3ef8d83017ef/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/50306442"
+      },
+      "uri": "deezer:artist:50306442"
+    },
+    {
+      "id": "3649631",
+      "name": "ITZY",
+      "popularity": 88,
+      "followers": {
+        "total": 884793
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/38460f309900778cc9972a997b8c4b00/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/38460f309900778cc9972a997b8c4b00/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/38460f309900778cc9972a997b8c4b00/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3649631"
+      },
+      "uri": "deezer:artist:3649631"
+    },
+    {
+      "id": "153042292",
+      "name": "IVE",
+      "popularity": 24,
+      "followers": {
+        "total": 248374
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6b485876ae2f3513f77eee2ebd8d4994/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6b485876ae2f3513f77eee2ebd8d4994/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6b485876ae2f3513f77eee2ebd8d4994/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/153042292"
+      },
+      "uri": "deezer:artist:153042292"
+    },
+    {
+      "id": "168158797",
+      "name": "LE SSERAFIM",
+      "popularity": 28,
+      "followers": {
+        "total": 284331
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e789ab2d16cad9a738cd83722940512b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e789ab2d16cad9a738cd83722940512b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e789ab2d16cad9a738cd83722940512b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/168158797"
+      },
+      "uri": "deezer:artist:168158797"
+    },
+    {
+      "id": "5126518",
+      "name": "TXT",
+      "popularity": 1,
+      "followers": {
+        "total": 10714
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/71683f191fbc7f6f2808e5241f40919f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/71683f191fbc7f6f2808e5241f40919f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/71683f191fbc7f6f2808e5241f40919f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5126518"
+      },
+      "uri": "deezer:artist:5126518"
+    },
+    {
+      "id": "49280302",
+      "name": "ATEEZ",
+      "popularity": 64,
+      "followers": {
+        "total": 640245
+      },
+      "genres": [
+        "k-pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/86bb7445e1dbb82abb7c60cf094cb4fb/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/86bb7445e1dbb82abb7c60cf094cb4fb/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/86bb7445e1dbb82abb7c60cf094cb4fb/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/49280302"
+      },
+      "uri": "deezer:artist:49280302"
+    }
+  ]
+}

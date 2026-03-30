@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "9626504",
+      "name": "Luke Combs",
+      "popularity": 34,
+      "followers": {
+        "total": 344279
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c2a8e5d0d293a06bf887bb2724a780bc/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c2a8e5d0d293a06bf887bb2724a780bc/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c2a8e5d0d293a06bf887bb2724a780bc/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/9626504"
+      },
+      "uri": "deezer:artist:9626504"
+    },
+    {
+      "id": "7188840",
+      "name": "Morgan Wallen",
+      "popularity": 27,
+      "followers": {
+        "total": 278490
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f5450fe707a7a32f2fc8ed3cb80afa6c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f5450fe707a7a32f2fc8ed3cb80afa6c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f5450fe707a7a32f2fc8ed3cb80afa6c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7188840"
+      },
+      "uri": "deezer:artist:7188840"
+    },
+    {
+      "id": "343290",
+      "name": "Chris Stapleton",
+      "popularity": 31,
+      "followers": {
+        "total": 313622
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b6996bc45e793d05f9fffce17b97ad2c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b6996bc45e793d05f9fffce17b97ad2c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b6996bc45e793d05f9fffce17b97ad2c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/343290"
+      },
+      "uri": "deezer:artist:343290"
+    },
+    {
+      "id": "71855892",
+      "name": "Zach Bryan",
+      "popularity": 11,
+      "followers": {
+        "total": 110472
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/552d448a0c2cb72f40c3de3a384949bd/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/552d448a0c2cb72f40c3de3a384949bd/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/552d448a0c2cb72f40c3de3a384949bd/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/71855892"
+      },
+      "uri": "deezer:artist:71855892"
+    },
+    {
+      "id": "242132",
+      "name": "Luke Bryan",
+      "popularity": 61,
+      "followers": {
+        "total": 613877
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5a712a221cd7ba25425e3c9060f29ded/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5a712a221cd7ba25425e3c9060f29ded/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5a712a221cd7ba25425e3c9060f29ded/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/242132"
+      },
+      "uri": "deezer:artist:242132"
+    },
+    {
+      "id": "4388",
+      "name": "Carrie Underwood",
+      "popularity": 51,
+      "followers": {
+        "total": 512084
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5d7c70c8d9d47e2c928b93ac0ff8d4fe/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5d7c70c8d9d47e2c928b93ac0ff8d4fe/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5d7c70c8d9d47e2c928b93ac0ff8d4fe/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4388"
+      },
+      "uri": "deezer:artist:4388"
+    },
+    {
+      "id": "8638",
+      "name": "Blake Shelton",
+      "popularity": 73,
+      "followers": {
+        "total": 730123
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8ffc79d14461956fac3ee529f645a5ae/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8ffc79d14461956fac3ee529f645a5ae/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8ffc79d14461956fac3ee529f645a5ae/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8638"
+      },
+      "uri": "deezer:artist:8638"
+    },
+    {
+      "id": "827425",
+      "name": "Kane Brown",
+      "popularity": 24,
+      "followers": {
+        "total": 247766
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/031a975249b648d21f34c5b2bbd3c877/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/031a975249b648d21f34c5b2bbd3c877/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/031a975249b648d21f34c5b2bbd3c877/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/827425"
+      },
+      "uri": "deezer:artist:827425"
+    },
+    {
+      "id": "7830",
+      "name": "Jason Aldean",
+      "popularity": 39,
+      "followers": {
+        "total": 394370
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/05a1236333b44fd40d402c1897dd787e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/05a1236333b44fd40d402c1897dd787e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/05a1236333b44fd40d402c1897dd787e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7830"
+      },
+      "uri": "deezer:artist:7830"
+    },
+    {
+      "id": "2021921",
+      "name": "Thomas Rhett",
+      "popularity": 17,
+      "followers": {
+        "total": 176777
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1439e2c0b31a7ccd933d39cff6b7f201/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1439e2c0b31a7ccd933d39cff6b7f201/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1439e2c0b31a7ccd933d39cff6b7f201/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2021921"
+      },
+      "uri": "deezer:artist:2021921"
+    },
+    {
+      "id": "393541",
+      "name": "Maren Morris",
+      "popularity": 8,
+      "followers": {
+        "total": 80889
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bf7ea8528075987ec917ad785c36d3cb/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bf7ea8528075987ec917ad785c36d3cb/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bf7ea8528075987ec917ad785c36d3cb/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/393541"
+      },
+      "uri": "deezer:artist:393541"
+    },
+    {
+      "id": "399990",
+      "name": "Kacey Musgraves",
+      "popularity": 7,
+      "followers": {
+        "total": 72242
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/229fe42ffc5b16b51112ffee967453e1/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/229fe42ffc5b16b51112ffee967453e1/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/229fe42ffc5b16b51112ffee967453e1/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/399990"
+      },
+      "uri": "deezer:artist:399990"
+    },
+    {
+      "id": "333",
+      "name": "Tim McGraw",
+      "popularity": 37,
+      "followers": {
+        "total": 374022
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b7f0976c40ef956aa1202926ba80c11b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b7f0976c40ef956aa1202926ba80c11b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b7f0976c40ef956aa1202926ba80c11b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/333"
+      },
+      "uri": "deezer:artist:333"
+    },
+    {
+      "id": "3249",
+      "name": "Keith Urban",
+      "popularity": 39,
+      "followers": {
+        "total": 396287
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8b0262e628aa7b13e65018358c9327b2/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8b0262e628aa7b13e65018358c9327b2/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8b0262e628aa7b13e65018358c9327b2/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3249"
+      },
+      "uri": "deezer:artist:3249"
+    },
+    {
+      "id": "8741",
+      "name": "Dolly Parton",
+      "popularity": 43,
+      "followers": {
+        "total": 435581
+      },
+      "genres": [
+        "country"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e0e4946c2e4149aa1421ec181e1e1fc6/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e0e4946c2e4149aa1421ec181e1e1fc6/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e0e4946c2e4149aa1421ec181e1e1fc6/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8741"
+      },
+      "uri": "deezer:artist:8741"
+    }
+  ]
+}

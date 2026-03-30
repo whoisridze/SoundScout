@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "355699101",
+      "name": "No Moon At All",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/7/0/4f7c39e1a893bdd3a0ae0032def5c910.mp3?hdnea=exp=1774860081~acl=/api/1/1/4/f/7/0/4f7c39e1a893bdd3a0ae0032def5c910.mp3*~data=user_id=0,application_id=42~hmac=e4369e99b994e9c5dabf67d9f012a1f83febae745271d99ea793b4646d7fb860",
+      "duration_ms": 246000,
+      "track_number": 1,
+      "album": {
+        "id": "40798221",
+        "name": "Turn Up The Quiet",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5c3b0a6bf8c4eb5ee2351f034c59531/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5c3b0a6bf8c4eb5ee2351f034c59531/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5c3b0a6bf8c4eb5ee2351f034c59531/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355699101"
+      }
+    },
+    {
+      "id": "540501172",
+      "name": "Nice Work If You Can Get It",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/f/0/fffdae55fbb7b1fcd571bfc8460af346.mp3?hdnea=exp=1774860081~acl=/api/1/1/f/f/f/0/fffdae55fbb7b1fcd571bfc8460af346.mp3*~data=user_id=0,application_id=42~hmac=8536c9bb67bbee4d9cf89439eba0d3622c50bc1b542cba47e0ae95702ae4dd73",
+      "duration_ms": 165000,
+      "track_number": 2,
+      "album": {
+        "id": "70550692",
+        "name": "Nice Work If You Can Get It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3760e4784bba3e83efa54e2696a75503/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3760e4784bba3e83efa54e2696a75503/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3760e4784bba3e83efa54e2696a75503/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/540501172"
+      }
+    },
+    {
+      "id": "1090608",
+      "name": "Besame Mucho",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/3/0/1a31e7549665446ea7c4607a0fac025d.mp3?hdnea=exp=1774860081~acl=/api/1/1/1/a/3/0/1a31e7549665446ea7c4607a0fac025d.mp3*~data=user_id=0,application_id=42~hmac=7da2abf2300f49cbd78cbb43819a84b0f94020f2be08bd5914e7850476b4790d",
+      "duration_ms": 400000,
+      "track_number": 3,
+      "album": {
+        "id": "117807",
+        "name": "The Look Of Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1a5a0d05ac6978179dc7c5bc2738190/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1a5a0d05ac6978179dc7c5bc2738190/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1a5a0d05ac6978179dc7c5bc2738190/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1090608"
+      }
+    },
+    {
+      "id": "1178521",
+      "name": "Let's Fall In Love",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/7/0/5678f4cac43f174851c1837873fd3677.mp3?hdnea=exp=1774860081~acl=/api/1/1/5/6/7/0/5678f4cac43f174851c1837873fd3677.mp3*~data=user_id=0,application_id=42~hmac=6110d1b6c159bb88fc9c786fc936f7b24db35e7eecb809a482b3e4b4415011a4",
+      "duration_ms": 259000,
+      "track_number": 4,
+      "album": {
+        "id": "125938",
+        "name": "The Very Best Of Diana Krall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1178521"
+      }
+    },
+    {
+      "id": "131337398",
+      "name": "Temptation",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/1/0/d21525ae8e2659db5a54eee4dd95f10c.mp3?hdnea=exp=1774860081~acl=/api/1/1/d/2/1/0/d21525ae8e2659db5a54eee4dd95f10c.mp3*~data=user_id=0,application_id=42~hmac=228e8734f8e9435d738fbe744d61f58a3f5b1f788933af4a3d593e2d8819473e",
+      "duration_ms": 268000,
+      "track_number": 5,
+      "album": {
+        "id": "13947406",
+        "name": "The Girl In The Other Room",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e0853560efc688649cb5783082542f0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e0853560efc688649cb5783082542f0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e0853560efc688649cb5783082542f0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/131337398"
+      }
+    },
+    {
+      "id": "1084242152",
+      "name": "I Wished On The Moon",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/f/0/b0fab518b6f8452f17ffb7262cb60c3f.mp3?hdnea=exp=1774860081~acl=/api/1/1/b/0/f/0/b0fab518b6f8452f17ffb7262cb60c3f.mp3*~data=user_id=0,application_id=42~hmac=5ae37c887e92b79c24df957e8fede6a04b7919f0b72a9116c7e65049b29c7727",
+      "duration_ms": 158000,
+      "track_number": 6,
+      "album": {
+        "id": "174181332",
+        "name": "This Dream Of You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a04fcbcaab5751053513c9e83d43adf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a04fcbcaab5751053513c9e83d43adf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a04fcbcaab5751053513c9e83d43adf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1084242152"
+      }
+    },
+    {
+      "id": "1178523",
+      "name": "East Of The Sun (West Of The Moon) (Live)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/e/0/18e4aeb5e922fa1da40a4b9db92458ef.mp3?hdnea=exp=1774860081~acl=/api/1/1/1/8/e/0/18e4aeb5e922fa1da40a4b9db92458ef.mp3*~data=user_id=0,application_id=42~hmac=78f1bd357947aba3ee14b0150860211ff5f5996a8ba6fe6046f4150b87090778",
+      "duration_ms": 345000,
+      "track_number": 7,
+      "album": {
+        "id": "125938",
+        "name": "The Very Best Of Diana Krall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1178523"
+      }
+    },
+    {
+      "id": "1178524",
+      "name": "I've Got You Under My Skin",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/e/0/a9ea873d3288c15328958b8ebc1105ee.mp3?hdnea=exp=1774860081~acl=/api/1/1/a/9/e/0/a9ea873d3288c15328958b8ebc1105ee.mp3*~data=user_id=0,application_id=42~hmac=7e1b5884140c12864d178a9bed5162f3faa486674672a3780467afea40fc2621",
+      "duration_ms": 367000,
+      "track_number": 8,
+      "album": {
+        "id": "125938",
+        "name": "The Very Best Of Diana Krall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1178524"
+      }
+    },
+    {
+      "id": "1178517",
+      "name": "Peel Me A Grape",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/8/0/968ea6f85757bb963bc356153762bcd6.mp3?hdnea=exp=1774860081~acl=/api/1/1/9/6/8/0/968ea6f85757bb963bc356153762bcd6.mp3*~data=user_id=0,application_id=42~hmac=36ef89c58e1c83122a047edda1806695213f990b79c6749ed7d1c630767f9522",
+      "duration_ms": 352000,
+      "track_number": 9,
+      "album": {
+        "id": "125938",
+        "name": "The Very Best Of Diana Krall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1178517"
+      }
+    },
+    {
+      "id": "1178530",
+      "name": "Fly Me To The Moon (Live)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/3/0/29332ffa83be3daddc85a359d6d08d46.mp3?hdnea=exp=1774860081~acl=/api/1/1/2/9/3/0/29332ffa83be3daddc85a359d6d08d46.mp3*~data=user_id=0,application_id=42~hmac=bf9ff35bdbffc947f5450488ec7906a9802024c3cbd98df20cd2c09a5b85d90b",
+      "duration_ms": 343000,
+      "track_number": 10,
+      "album": {
+        "id": "125938",
+        "name": "The Very Best Of Diana Krall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ce07a8d5633922f63107e285389af8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3281",
+          "name": "Diana Krall"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1178530"
+      }
+    }
+  ]
+}

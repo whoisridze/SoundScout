@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3255365",
+      "name": "Mujer Latina",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/3/0/6f3988fcc336ae4701452d6c6a0ac609.mp3?hdnea=exp=1774859944~acl=/api/1/1/6/f/3/0/6f3988fcc336ae4701452d6c6a0ac609.mp3*~data=user_id=0,application_id=42~hmac=df52f2f848d14185d476b37952587c9d4f77c30ae40833c815b431270f9ee87a",
+      "duration_ms": 216000,
+      "track_number": 1,
+      "album": {
+        "id": "310515",
+        "name": "Greatest Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f8a35e1808baa54b957c4e716d01c74/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f8a35e1808baa54b957c4e716d01c74/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f8a35e1808baa54b957c4e716d01c74/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3255365"
+      }
+    },
+    {
+      "id": "569883622",
+      "name": "No Me Acuerdo",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/8/0/b38bd1ab674016df879ad57e3d4740bb.mp3?hdnea=exp=1774859944~acl=/api/1/1/b/3/8/0/b38bd1ab674016df879ad57e3d4740bb.mp3*~data=user_id=0,application_id=42~hmac=615c25ee6763f50cec3bae1382ebbd0fc603185b52abc702723b77b32e986043",
+      "duration_ms": 227000,
+      "track_number": 2,
+      "album": {
+        "id": "75933112",
+        "name": "Valiente",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1c8e31ac9d9a1bfadd1b3c1da84b3855/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1c8e31ac9d9a1bfadd1b3c1da84b3855/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1c8e31ac9d9a1bfadd1b3c1da84b3855/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/569883622"
+      }
+    },
+    {
+      "id": "3255631",
+      "name": "Amar Sin Ser Amada",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/7/0/d87a543030505de323770bbb40ba124e.mp3?hdnea=exp=1774859944~acl=/api/1/1/d/8/7/0/d87a543030505de323770bbb40ba124e.mp3*~data=user_id=0,application_id=42~hmac=877c8a825bb31cecc6b0d0bf406e9108507623fa4b12e66c65a048c7410991a0",
+      "duration_ms": 212000,
+      "track_number": 3,
+      "album": {
+        "id": "310543",
+        "name": "El Sexto Sentido",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b99fd81b2cd6b7bff3580fa79435caae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b99fd81b2cd6b7bff3580fa79435caae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b99fd81b2cd6b7bff3580fa79435caae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3255631"
+      }
+    },
+    {
+      "id": "3255149",
+      "name": "A Quien Le Importa",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/e/0/4aecfc4919b8d494e615839af3889b08.mp3?hdnea=exp=1774859944~acl=/api/1/1/4/a/e/0/4aecfc4919b8d494e615839af3889b08.mp3*~data=user_id=0,application_id=42~hmac=ff4c3e4bd9ce891671f324a9d6cce682d3b2b447c11ca76edbfa3d44f26b0655",
+      "duration_ms": 224000,
+      "track_number": 4,
+      "album": {
+        "id": "310499",
+        "name": "Thalia",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/514095650b6c1fcab3be36dfbb3091eb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/514095650b6c1fcab3be36dfbb3091eb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/514095650b6c1fcab3be36dfbb3091eb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3255149"
+      }
+    },
+    {
+      "id": "3255362",
+      "name": "Piel Morena",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/2/0/5926ca2018489384e79e66307c91434e.mp3?hdnea=exp=1774859944~acl=/api/1/1/5/9/2/0/5926ca2018489384e79e66307c91434e.mp3*~data=user_id=0,application_id=42~hmac=175774eacf9c5ab66a251aad30ea0ad6531bbe9e63af06f1f778237be45db66c",
+      "duration_ms": 282000,
+      "track_number": 5,
+      "album": {
+        "id": "310515",
+        "name": "Greatest Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f8a35e1808baa54b957c4e716d01c74/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f8a35e1808baa54b957c4e716d01c74/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f8a35e1808baa54b957c4e716d01c74/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3255362"
+      }
+    },
+    {
+      "id": "3255364",
+      "name": "Amor A La Mexicana",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/1/0/dc11c57f6ff6ce3570b433171c591e95.mp3?hdnea=exp=1774859944~acl=/api/1/1/d/c/1/0/dc11c57f6ff6ce3570b433171c591e95.mp3*~data=user_id=0,application_id=42~hmac=ba307d2d8c0a9e314c31954abbd4ee3ae48747b0b623572c680db7c94a8a8721",
+      "duration_ms": 263000,
+      "track_number": 6,
+      "album": {
+        "id": "310515",
+        "name": "Greatest Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f8a35e1808baa54b957c4e716d01c74/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f8a35e1808baa54b957c4e716d01c74/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f8a35e1808baa54b957c4e716d01c74/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3255364"
+      }
+    },
+    {
+      "id": "3257593111",
+      "name": "Quién Será",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/5/0/d958b290dc169d659218e9920244348f.mp3?hdnea=exp=1774859944~acl=/api/1/1/d/9/5/0/d958b290dc169d659218e9920244348f.mp3*~data=user_id=0,application_id=42~hmac=3f2199fb19e24693de1076492051f5565394080e34574c1c33c1e39b934c7372",
+      "duration_ms": 221000,
+      "track_number": 7,
+      "album": {
+        "id": "720670361",
+        "name": "México & Amigos",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29e81f1c27d0c3048d5afa82f2f83561/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29e81f1c27d0c3048d5afa82f2f83561/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29e81f1c27d0c3048d5afa82f2f83561/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3257593111"
+      }
+    },
+    {
+      "id": "3562147631",
+      "name": "Ojitos Mexicanos",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/c/0/16ce3b296702a5c2a1a8fee4ef82cd83.mp3?hdnea=exp=1774859944~acl=/api/1/1/1/6/c/0/16ce3b296702a5c2a1a8fee4ef82cd83.mp3*~data=user_id=0,application_id=42~hmac=9caf4073419834a8f90504469927a4352881903b44d607e168f3f16282110993",
+      "duration_ms": 182000,
+      "track_number": 8,
+      "album": {
+        "id": "823641041",
+        "name": "Ojitos Mexicanos",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b2b909c9cd91d4736cd126ebc5e2904/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b2b909c9cd91d4736cd126ebc5e2904/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b2b909c9cd91d4736cd126ebc5e2904/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3562147631"
+      }
+    },
+    {
+      "id": "3255052",
+      "name": "Arrasando",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/0/0/a707e50a101f8f83181b7233f3fdf46a.mp3?hdnea=exp=1774859944~acl=/api/1/1/a/7/0/0/a707e50a101f8f83181b7233f3fdf46a.mp3*~data=user_id=0,application_id=42~hmac=770f9378cd1f9eef43b4f78a518efa86b898cae9d8c0eeaf4043bece3d34793c",
+      "duration_ms": 243000,
+      "track_number": 9,
+      "album": {
+        "id": "310492",
+        "name": "Arrasando",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f42069c772f707d680d32ff1cb45cf0b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f42069c772f707d680d32ff1cb45cf0b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f42069c772f707d680d32ff1cb45cf0b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3255052"
+      }
+    },
+    {
+      "id": "15274186",
+      "name": "El Ultimo Adiós",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/9/0/6c99e3a53bf197d627d50dd4d474dd6a.mp3?hdnea=exp=1774859944~acl=/api/1/1/6/c/9/0/6c99e3a53bf197d627d50dd4d474dd6a.mp3*~data=user_id=0,application_id=42~hmac=53a1cb8a215935aa296d48cea583e586bbf033ea665df623222df131d5822cf4",
+      "duration_ms": 238000,
+      "track_number": 10,
+      "album": {
+        "id": "1408216",
+        "name": "El Ultimo Adiós",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a79317de043b08292a4f7aee06e63a9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a79317de043b08292a4f7aee06e63a9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a79317de043b08292a4f7aee06e63a9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "710",
+          "name": "Thalia"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15274186"
+      }
+    }
+  ]
+}

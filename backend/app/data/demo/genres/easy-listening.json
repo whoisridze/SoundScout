@@ -1,0 +1,485 @@
+{
+  "items": [
+    {
+      "id": "810",
+      "name": "Norah Jones",
+      "popularity": 99,
+      "followers": {
+        "total": 2374563
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6b1cf17dca8178a7e25e00149080dd7b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6b1cf17dca8178a7e25e00149080dd7b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6b1cf17dca8178a7e25e00149080dd7b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/810"
+      },
+      "uri": "deezer:artist:810"
+    },
+    {
+      "id": "1478",
+      "name": "Michael Bublé",
+      "popularity": 99,
+      "followers": {
+        "total": 1578860
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5594686fd31f0eb84a11dcbc2daa851a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5594686fd31f0eb84a11dcbc2daa851a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5594686fd31f0eb84a11dcbc2daa851a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1478"
+      },
+      "uri": "deezer:artist:1478"
+    },
+    {
+      "id": "3281",
+      "name": "Diana Krall",
+      "popularity": 82,
+      "followers": {
+        "total": 828056
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6871cd20bf8b1302da39e86a71974171/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6871cd20bf8b1302da39e86a71974171/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6871cd20bf8b1302da39e86a71974171/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3281"
+      },
+      "uri": "deezer:artist:3281"
+    },
+    {
+      "id": "896",
+      "name": "Jack Johnson",
+      "popularity": 99,
+      "followers": {
+        "total": 1159142
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5ab2307c596f9814abcd223467c54fb2/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5ab2307c596f9814abcd223467c54fb2/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5ab2307c596f9814abcd223467c54fb2/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/896"
+      },
+      "uri": "deezer:artist:896"
+    },
+    {
+      "id": "202",
+      "name": "Sade",
+      "popularity": 99,
+      "followers": {
+        "total": 1409354
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/61ef9f8e27a31325d45f8623fe3000c6/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/61ef9f8e27a31325d45f8623fe3000c6/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/61ef9f8e27a31325d45f8623fe3000c6/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/202"
+      },
+      "uri": "deezer:artist:202"
+    },
+    {
+      "id": "487",
+      "name": "Enya",
+      "popularity": 45,
+      "followers": {
+        "total": 451271
+      },
+      "genres": [
+        "easy listening",
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/476edfb1b2db19ffd3efa77f653ad620/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/476edfb1b2db19ffd3efa77f653ad620/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/476edfb1b2db19ffd3efa77f653ad620/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/487"
+      },
+      "uri": "deezer:artist:487"
+    },
+    {
+      "id": "75798",
+      "name": "Adele",
+      "popularity": 99,
+      "followers": {
+        "total": 15357655
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e5fc443d2abc03b487234ba4de65a001/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e5fc443d2abc03b487234ba4de65a001/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e5fc443d2abc03b487234ba4de65a001/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/75798"
+      },
+      "uri": "deezer:artist:75798"
+    },
+    {
+      "id": "9052",
+      "name": "Amy Winehouse",
+      "popularity": 99,
+      "followers": {
+        "total": 3827437
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0cacb43a576b031eb169cca27171c1f5/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0cacb43a576b031eb169cca27171c1f5/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0cacb43a576b031eb169cca27171c1f5/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/9052"
+      },
+      "uri": "deezer:artist:9052"
+    },
+    {
+      "id": "7140",
+      "name": "Nana Mouskouri",
+      "popularity": 6,
+      "followers": {
+        "total": 69953
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1b696ea311ccbd6081d1c7bb25eae3b8/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1b696ea311ccbd6081d1c7bb25eae3b8/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1b696ea311ccbd6081d1c7bb25eae3b8/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7140"
+      },
+      "uri": "deezer:artist:7140"
+    },
+    {
+      "id": "3201",
+      "name": "Andrea Bocelli",
+      "popularity": 99,
+      "followers": {
+        "total": 1223184
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5cf85899fe97765586903022dcce83f9/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5cf85899fe97765586903022dcce83f9/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5cf85899fe97765586903022dcce83f9/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3201"
+      },
+      "uri": "deezer:artist:3201"
+    },
+    {
+      "id": "2307",
+      "name": "Josh Groban",
+      "popularity": 13,
+      "followers": {
+        "total": 133870
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/311696f7f21875f5076ae66f39bbb9f0/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/311696f7f21875f5076ae66f39bbb9f0/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/311696f7f21875f5076ae66f39bbb9f0/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2307"
+      },
+      "uri": "deezer:artist:2307"
+    },
+    {
+      "id": "107",
+      "name": "Il Divo",
+      "popularity": 23,
+      "followers": {
+        "total": 237421
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8a443ea2a93bb39350a508645233cdd1/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8a443ea2a93bb39350a508645233cdd1/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8a443ea2a93bb39350a508645233cdd1/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/107"
+      },
+      "uri": "deezer:artist:107"
+    },
+    {
+      "id": "7187",
+      "name": "Celtic Woman",
+      "popularity": 4,
+      "followers": {
+        "total": 46385
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/dab634969310a7409e3eab5723423e2a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/dab634969310a7409e3eab5723423e2a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/dab634969310a7409e3eab5723423e2a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7187"
+      },
+      "uri": "deezer:artist:7187"
+    },
+    {
+      "id": "7175",
+      "name": "Burt Bacharach",
+      "popularity": 1,
+      "followers": {
+        "total": 19981
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8e79217db763eea11171ea1b20149207/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8e79217db763eea11171ea1b20149207/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8e79217db763eea11171ea1b20149207/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7175"
+      },
+      "uri": "deezer:artist:7175"
+    },
+    {
+      "id": "2682",
+      "name": "Henry Mancini",
+      "popularity": 6,
+      "followers": {
+        "total": 61213
+      },
+      "genres": [
+        "easy listening"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c9c2cc0fdeed99d92ddc4d162bf1bca9/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c9c2cc0fdeed99d92ddc4d162bf1bca9/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c9c2cc0fdeed99d92ddc4d162bf1bca9/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2682"
+      },
+      "uri": "deezer:artist:2682"
+    }
+  ]
+}

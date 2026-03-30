@@ -1,0 +1,486 @@
+{
+  "items": [
+    {
+      "id": "3839",
+      "name": "Daddy Yankee",
+      "popularity": 99,
+      "followers": {
+        "total": 7115389
+      },
+      "genres": [
+        "latin pop",
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a4f77d40d68cf544e74883b2bd904fce/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a4f77d40d68cf544e74883b2bd904fce/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a4f77d40d68cf544e74883b2bd904fce/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3839"
+      },
+      "uri": "deezer:artist:3839"
+    },
+    {
+      "id": "725",
+      "name": "Don Omar",
+      "popularity": 99,
+      "followers": {
+        "total": 4007389
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3edb52cebe741e547363a093e26d4655/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3edb52cebe741e547363a093e26d4655/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3edb52cebe741e547363a093e26d4655/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/725"
+      },
+      "uri": "deezer:artist:725"
+    },
+    {
+      "id": "15898",
+      "name": "Wisin",
+      "popularity": 99,
+      "followers": {
+        "total": 2108251
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2835d5ae661fb00c0d7a8558bba86c7c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2835d5ae661fb00c0d7a8558bba86c7c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2835d5ae661fb00c0d7a8558bba86c7c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/15898"
+      },
+      "uri": "deezer:artist:15898"
+    },
+    {
+      "id": "517429",
+      "name": "Yandel",
+      "popularity": 99,
+      "followers": {
+        "total": 1797688
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1d6fdd7f4dfd5ca9fdf057f86bd9ef08/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1d6fdd7f4dfd5ca9fdf057f86bd9ef08/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1d6fdd7f4dfd5ca9fdf057f86bd9ef08/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/517429"
+      },
+      "uri": "deezer:artist:517429"
+    },
+    {
+      "id": "15691",
+      "name": "Nicky Jam",
+      "popularity": 99,
+      "followers": {
+        "total": 6401606
+      },
+      "genres": [
+        "latin pop",
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1fb6dc2c446495917b88a1c63b4a0e3/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1fb6dc2c446495917b88a1c63b4a0e3/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1fb6dc2c446495917b88a1c63b4a0e3/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/15691"
+      },
+      "uri": "deezer:artist:15691"
+    },
+    {
+      "id": "614223",
+      "name": "Farruko",
+      "popularity": 99,
+      "followers": {
+        "total": 3290083
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c93e2234f65ba85d2bce80f82f3ffdc6/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c93e2234f65ba85d2bce80f82f3ffdc6/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c93e2234f65ba85d2bce80f82f3ffdc6/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/614223"
+      },
+      "uri": "deezer:artist:614223"
+    },
+    {
+      "id": "7961888",
+      "name": "Anuel AA",
+      "popularity": 99,
+      "followers": {
+        "total": 2441992
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d128822eb60817b362b9d6e8c696e933/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d128822eb60817b362b9d6e8c696e933/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d128822eb60817b362b9d6e8c696e933/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7961888"
+      },
+      "uri": "deezer:artist:7961888"
+    },
+    {
+      "id": "11289472",
+      "name": "Rauw Alejandro",
+      "popularity": 99,
+      "followers": {
+        "total": 2099694
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0e7b2b93b91789a054bc3f08bb3df3a8/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0e7b2b93b91789a054bc3f08bb3df3a8/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0e7b2b93b91789a054bc3f08bb3df3a8/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/11289472"
+      },
+      "uri": "deezer:artist:11289472"
+    },
+    {
+      "id": "5412407",
+      "name": "Sech",
+      "popularity": 99,
+      "followers": {
+        "total": 1566241
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/df603ce80d18e234c1cfc66a14c1713e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/df603ce80d18e234c1cfc66a14c1713e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/df603ce80d18e234c1cfc66a14c1713e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5412407"
+      },
+      "uri": "deezer:artist:5412407"
+    },
+    {
+      "id": "12029862",
+      "name": "Myke Towers",
+      "popularity": 99,
+      "followers": {
+        "total": 1671887
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d3a7418b4e44bf8ee3ae268067a86f09/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d3a7418b4e44bf8ee3ae268067a86f09/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d3a7418b4e44bf8ee3ae268067a86f09/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/12029862"
+      },
+      "uri": "deezer:artist:12029862"
+    },
+    {
+      "id": "13098657",
+      "name": "Jhay Cortez",
+      "popularity": 67,
+      "followers": {
+        "total": 674102
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0bd2c09d7d3e8b56a86cc815242b964d/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0bd2c09d7d3e8b56a86cc815242b964d/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0bd2c09d7d3e8b56a86cc815242b964d/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/13098657"
+      },
+      "uri": "deezer:artist:13098657"
+    },
+    {
+      "id": "7029627",
+      "name": "Lunay",
+      "popularity": 88,
+      "followers": {
+        "total": 886951
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/64a8c64dffc35edcbd11ebaebc39d54d/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/64a8c64dffc35edcbd11ebaebc39d54d/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/64a8c64dffc35edcbd11ebaebc39d54d/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7029627"
+      },
+      "uri": "deezer:artist:7029627"
+    },
+    {
+      "id": "3922661",
+      "name": "Mora",
+      "popularity": 23,
+      "followers": {
+        "total": 230509
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f44bb8e98463bc41d195c63c43768701/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f44bb8e98463bc41d195c63c43768701/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f44bb8e98463bc41d195c63c43768701/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3922661"
+      },
+      "uri": "deezer:artist:3922661"
+    },
+    {
+      "id": "1074021",
+      "name": "Jay Wheeler",
+      "popularity": 42,
+      "followers": {
+        "total": 426257
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/babff55d06540bd50e06a2d4a8002d8a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/babff55d06540bd50e06a2d4a8002d8a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/babff55d06540bd50e06a2d4a8002d8a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1074021"
+      },
+      "uri": "deezer:artist:1074021"
+    },
+    {
+      "id": "1166311",
+      "name": "Feid",
+      "popularity": 87,
+      "followers": {
+        "total": 876596
+      },
+      "genres": [
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a37d75aa98b04da700412398a988c31a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a37d75aa98b04da700412398a988c31a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a37d75aa98b04da700412398a988c31a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1166311"
+      },
+      "uri": "deezer:artist:1166311"
+    }
+  ]
+}

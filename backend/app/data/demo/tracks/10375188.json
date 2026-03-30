@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3778827852",
+      "name": "Lose That Light",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/6/0/1a6ddde1d9b8b032c5a63d836a5bc886.mp3?hdnea=exp=1774860005~acl=/api/1/1/1/a/6/0/1a6ddde1d9b8b032c5a63d836a5bc886.mp3*~data=user_id=0,application_id=42~hmac=a82a392368f2c8d1954e743545b86f85c8313c6b8ebb8d00508bce2213afc225",
+      "duration_ms": 174000,
+      "track_number": 1,
+      "album": {
+        "id": "898978142",
+        "name": "WILDFIRE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/323d7d542ab58b6a25a6f0b4d3e7a97f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/323d7d542ab58b6a25a6f0b4d3e7a97f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/323d7d542ab58b6a25a6f0b4d3e7a97f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3778827852"
+      }
+    },
+    {
+      "id": "3898198881",
+      "name": "Bird Flu",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/7/0/dc71cb875901c8c4472623256f218e05.mp3?hdnea=exp=1774860005~acl=/api/1/1/d/c/7/0/dc71cb875901c8c4472623256f218e05.mp3*~data=user_id=0,application_id=42~hmac=f6f4d31d24008ce833064f63dc33c4b0424922e8efa56aa03a8d4a5d61a6a015",
+      "duration_ms": 179000,
+      "track_number": 2,
+      "album": {
+        "id": "938823691",
+        "name": "Bird Flu",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/18680213c404e4e96b5f284e9a23f718/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/18680213c404e4e96b5f284e9a23f718/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/18680213c404e4e96b5f284e9a23f718/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3898198881"
+      }
+    },
+    {
+      "id": "428309092",
+      "name": "One Way (Bonus)",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/9/0/a996c69343c58cbec5cea9974782b417.mp3?hdnea=exp=1774860005~acl=/api/1/1/a/9/9/0/a996c69343c58cbec5cea9974782b417.mp3*~data=user_id=0,application_id=42~hmac=43863997832bcea36c331f21e6ad59db69e1f0a7b252f23fccc5b37c958bc7ca",
+      "duration_ms": 286000,
+      "track_number": 3,
+      "album": {
+        "id": "51568522",
+        "name": "FREE 6LACK (Bonus Track Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d75f6c710fb365125b6f97bf40b853d3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d75f6c710fb365125b6f97bf40b853d3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d75f6c710fb365125b6f97bf40b853d3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/428309092"
+      }
+    },
+    {
+      "id": "428308972",
+      "name": "Rules",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/d/0/ebd1d442975d4892a4c5e7811e6022ee.mp3?hdnea=exp=1774860005~acl=/api/1/1/e/b/d/0/ebd1d442975d4892a4c5e7811e6022ee.mp3*~data=user_id=0,application_id=42~hmac=ac20caca5d507440f500483df76ae039a0c78672fc52a4b673d8c48f1c0d4dfd",
+      "duration_ms": 211000,
+      "track_number": 4,
+      "album": {
+        "id": "51568522",
+        "name": "FREE 6LACK (Bonus Track Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d75f6c710fb365125b6f97bf40b853d3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d75f6c710fb365125b6f97bf40b853d3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d75f6c710fb365125b6f97bf40b853d3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/428308972"
+      }
+    },
+    {
+      "id": "552821572",
+      "name": "Let Her Go",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/c/0/5bce38f432f7bc3da60a1d65ace88715.mp3?hdnea=exp=1774860005~acl=/api/1/1/5/b/c/0/5bce38f432f7bc3da60a1d65ace88715.mp3*~data=user_id=0,application_id=42~hmac=73a7a8b1f35ee9b5fd207daf25115387218a681b1c6eeb3a0b0f2965eb8a7c3a",
+      "duration_ms": 177000,
+      "track_number": 5,
+      "album": {
+        "id": "72771952",
+        "name": "East Atlanta Love Letter",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1e4440075a9942f7f7a5bfaf83f902e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1e4440075a9942f7f7a5bfaf83f902e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f1e4440075a9942f7f7a5bfaf83f902e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/552821572"
+      }
+    },
+    {
+      "id": "552825892",
+      "name": "Pretty Little Fears",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/a/0/67a2fbdb5aafa2f9ca48d6b9a10309a7.mp3?hdnea=exp=1774860005~acl=/api/1/1/6/7/a/0/67a2fbdb5aafa2f9ca48d6b9a10309a7.mp3*~data=user_id=0,application_id=42~hmac=0a099f6740e6d03552c992c1faee9d05eee8b6427b7620788ad457b701bb47bc",
+      "duration_ms": 240000,
+      "track_number": 6,
+      "album": {
+        "id": "72773182",
+        "name": "East Atlanta Love Letter",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/552825892"
+      }
+    },
+    {
+      "id": "552825952",
+      "name": "Nonchalant",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/d/0/e2ddf361dece2e131a494226eaacabf8.mp3?hdnea=exp=1774860005~acl=/api/1/1/e/2/d/0/e2ddf361dece2e131a494226eaacabf8.mp3*~data=user_id=0,application_id=42~hmac=6f5b39cff96b04c3ea6f0c0d0075501ea3ed99d5ab0a23eab8dcddabc85e92c2",
+      "duration_ms": 183000,
+      "track_number": 7,
+      "album": {
+        "id": "72773182",
+        "name": "East Atlanta Love Letter",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/552825952"
+      }
+    },
+    {
+      "id": "428308982",
+      "name": "PRBLMS",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/4/0/2c4fb19358d6df6970e7e4544521fa29.mp3?hdnea=exp=1774860005~acl=/api/1/1/2/c/4/0/2c4fb19358d6df6970e7e4544521fa29.mp3*~data=user_id=0,application_id=42~hmac=9894ecab3092696f00137333d49970a31e5e155b7a1d072624343551d8dd4f29",
+      "duration_ms": 244000,
+      "track_number": 8,
+      "album": {
+        "id": "51568522",
+        "name": "FREE 6LACK (Bonus Track Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d75f6c710fb365125b6f97bf40b853d3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d75f6c710fb365125b6f97bf40b853d3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d75f6c710fb365125b6f97bf40b853d3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/428308982"
+      }
+    },
+    {
+      "id": "552825912",
+      "name": "Switch",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/f/0/48fa97687aebacc01a93959a3a4c361d.mp3?hdnea=exp=1774860005~acl=/api/1/1/4/8/f/0/48fa97687aebacc01a93959a3a4c361d.mp3*~data=user_id=0,application_id=42~hmac=11fd080d34326c5c16e607faab0a18f87f42f257eac29c4c04121f5d1d53ecf9",
+      "duration_ms": 204000,
+      "track_number": 9,
+      "album": {
+        "id": "72773182",
+        "name": "East Atlanta Love Letter",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/552825912"
+      }
+    },
+    {
+      "id": "552825852",
+      "name": "Loaded Gun",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/e/0/a6e4291dac6140525b4e85b77da0b6d6.mp3?hdnea=exp=1774860005~acl=/api/1/1/a/6/e/0/a6e4291dac6140525b4e85b77da0b6d6.mp3*~data=user_id=0,application_id=42~hmac=424717a79859d133849ae234ab44e22fcb84bf0b0c9cf382272b9f43e763ccc9",
+      "duration_ms": 198000,
+      "track_number": 10,
+      "album": {
+        "id": "72773182",
+        "name": "East Atlanta Love Letter",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16388279eb839ab223cb6a92396293cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10375188",
+          "name": "6lack"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/552825852"
+      }
+    }
+  ]
+}

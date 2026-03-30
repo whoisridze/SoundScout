@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3033987511",
+      "name": "Whiplash",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/c/0/2ac71616eee0eccd9ffcd969dd8b16de.mp3?hdnea=exp=1774859949~acl=/api/1/1/2/a/c/0/2ac71616eee0eccd9ffcd969dd8b16de.mp3*~data=user_id=0,application_id=42~hmac=f0dfafddcfac7ecc0f47239bcd3696cc9c1abf3f80c2a0088b81dba7d06ba953",
+      "duration_ms": 183000,
+      "track_number": 1,
+      "album": {
+        "id": "653274021",
+        "name": "Whiplash - The 5th Mini Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b62a48fd60d20e78af31bc1677c16114/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b62a48fd60d20e78af31bc1677c16114/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b62a48fd60d20e78af31bc1677c16114/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3033987511"
+      }
+    },
+    {
+      "id": "3400905991",
+      "name": "Dirty Work",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/e/0/b1e03682435d2c018ba80a70e42f10a9.mp3?hdnea=exp=1774859949~acl=/api/1/1/b/1/e/0/b1e03682435d2c018ba80a70e42f10a9.mp3*~data=user_id=0,application_id=42~hmac=c236c3a2ca285f3581e2d2a0be6c00dfe7330039577371f70f5def7b30c4babc",
+      "duration_ms": 180000,
+      "track_number": 2,
+      "album": {
+        "id": "767937081",
+        "name": "Dirty Work",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97dc86277bd27b9ae63c7726e64fa1cf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97dc86277bd27b9ae63c7726e64fa1cf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97dc86277bd27b9ae63c7726e64fa1cf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3400905991"
+      }
+    },
+    {
+      "id": "3528439201",
+      "name": "Rich Man",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/4/0/2a4185ef791ebe5216c5735b6fae2ee0.mp3?hdnea=exp=1774859949~acl=/api/1/1/2/a/4/0/2a4185ef791ebe5216c5735b6fae2ee0.mp3*~data=user_id=0,application_id=42~hmac=6ad7b86b93378affb2b25a7b92d01fe9945fbd943f2e50e8c53580da76e4cffd",
+      "duration_ms": 197000,
+      "track_number": 3,
+      "album": {
+        "id": "811716141",
+        "name": "Rich Man - The 6th Mini Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8b6ad97c94c5acb22add1b58a8d1c83/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8b6ad97c94c5acb22add1b58a8d1c83/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8b6ad97c94c5acb22add1b58a8d1c83/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3528439201"
+      }
+    },
+    {
+      "id": "3863311491",
+      "name": "ATTITUDE",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/e/0/99ec1d3f3b9ab1bba246cfc8de65a8f6.mp3?hdnea=exp=1774859949~acl=/api/1/1/9/9/e/0/99ec1d3f3b9ab1bba246cfc8de65a8f6.mp3*~data=user_id=0,application_id=42~hmac=4a914f768f55e7b6f4e36854528c7b6135f15d039c0b963d3911e78ef50b73a9",
+      "duration_ms": 185000,
+      "track_number": 4,
+      "album": {
+        "id": "925902221",
+        "name": "ATTITUDE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/349fca727e718a99f2788339e433543d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/349fca727e718a99f2788339e433543d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/349fca727e718a99f2788339e433543d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3863311491"
+      }
+    },
+    {
+      "id": "3635111042",
+      "name": "GOOD STUFF (KARINA Solo)",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/8/0/398c4633e2397634039dd11ad974af03.mp3?hdnea=exp=1774859949~acl=/api/1/1/3/9/8/0/398c4633e2397634039dd11ad974af03.mp3*~data=user_id=0,application_id=42~hmac=47859e470bd2b134b61633713884f8f8b40407699a70f3f59b010f47c6873562",
+      "duration_ms": 175000,
+      "track_number": 5,
+      "album": {
+        "id": "849293412",
+        "name": "SYNK : aeXIS LINE - 2025 Special Digital Single",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/814bd91aec22ab0555b2a714baac6479/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/814bd91aec22ab0555b2a714baac6479/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/814bd91aec22ab0555b2a714baac6479/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3635111042"
+      }
+    },
+    {
+      "id": "1371226732",
+      "name": "Next Level",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/4/0/0e472b88d7cc6cfc05ef4c2b1e0243b7.mp3?hdnea=exp=1774859949~acl=/api/1/1/0/e/4/0/0e472b88d7cc6cfc05ef4c2b1e0243b7.mp3*~data=user_id=0,application_id=42~hmac=cb5be3f4725a2d8fd8496a2c36b58607eeefda236946d4c11049a76b4329debe",
+      "duration_ms": 221000,
+      "track_number": 6,
+      "album": {
+        "id": "229878202",
+        "name": "Next Level",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ba621bc50f7bfe671411a41979b7f89/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ba621bc50f7bfe671411a41979b7f89/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ba621bc50f7bfe671411a41979b7f89/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1371226732"
+      }
+    },
+    {
+      "id": "2789110362",
+      "name": "Supernova",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/8/0/05829c1eb07bcdb5b180913048d36809.mp3?hdnea=exp=1774859949~acl=/api/1/1/0/5/8/0/05829c1eb07bcdb5b180913048d36809.mp3*~data=user_id=0,application_id=42~hmac=a6890092cef83dfe625889382d28e658439931737e8723f4de27956e56a2e75e",
+      "duration_ms": 178000,
+      "track_number": 7,
+      "album": {
+        "id": "583697402",
+        "name": "Supernova",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e4cda8e043eb119662a4e3fef19c587/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e4cda8e043eb119662a4e3fef19c587/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e4cda8e043eb119662a4e3fef19c587/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2789110362"
+      }
+    },
+    {
+      "id": "3030605441",
+      "name": "Dopamine (GISELLE Solo)",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/4/0/c24d7dcacb3a8cee02e069c5fd47a5b7.mp3?hdnea=exp=1774859949~acl=/api/1/1/c/2/4/0/c24d7dcacb3a8cee02e069c5fd47a5b7.mp3*~data=user_id=0,application_id=42~hmac=6f4f9197db1f53af0e846b0aa52595b0ebd41499f6c4895511533ee2ccd8823b",
+      "duration_ms": 194000,
+      "track_number": 8,
+      "album": {
+        "id": "652015921",
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0bd5bcc9edeb119fc70bada8576bf572/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0bd5bcc9edeb119fc70bada8576bf572/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0bd5bcc9edeb119fc70bada8576bf572/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3030605441"
+      }
+    },
+    {
+      "id": "2526016461",
+      "name": "Drama",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/3/0/403021404134cd1bda1c11c10f84aedd.mp3?hdnea=exp=1774859949~acl=/api/1/1/4/0/3/0/403021404134cd1bda1c11c10f84aedd.mp3*~data=user_id=0,application_id=42~hmac=6704d3a680879ab3f0c912e19c56e8828e4e7d3bc3da917fd447a153d4f86e00",
+      "duration_ms": 214000,
+      "track_number": 9,
+      "album": {
+        "id": "508147221",
+        "name": "Drama - The 4th Mini Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ff8cfd7342e9ec437e9e19de561a155b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ff8cfd7342e9ec437e9e19de561a155b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ff8cfd7342e9ec437e9e19de561a155b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2526016461"
+      }
+    },
+    {
+      "id": "2790947462",
+      "name": "Armageddon",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/0/0/390186d8ef2eea5e17a9714ac57a29ea.mp3?hdnea=exp=1774859949~acl=/api/1/1/3/9/0/0/390186d8ef2eea5e17a9714ac57a29ea.mp3*~data=user_id=0,application_id=42~hmac=fca28d5b298d2a78bc4198db5c11c6a30860cbad93e96822c44e52d3d10498bc",
+      "duration_ms": 196000,
+      "track_number": 10,
+      "album": {
+        "id": "584127512",
+        "name": "Armageddon - The 1st Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/185323bb418693348a930cc4ea80e61d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/185323bb418693348a930cc4ea80e61d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/185323bb418693348a930cc4ea80e61d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "113547672",
+          "name": "aespa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2790947462"
+      }
+    }
+  ]
+}

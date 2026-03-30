@@ -1,0 +1,32 @@
+{
+  "id": "153042292",
+  "name": "IVE",
+  "popularity": 24,
+  "followers": {
+    "total": 248374
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6b485876ae2f3513f77eee2ebd8d4994/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6b485876ae2f3513f77eee2ebd8d4994/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6b485876ae2f3513f77eee2ebd8d4994/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/153042292"
+  },
+  "uri": "deezer:artist:153042292"
+}

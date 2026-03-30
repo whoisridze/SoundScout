@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "70078209",
+      "name": "Hail to the King",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/0/0/020abb3d7dd3162983aa0909e10eb522.mp3?hdnea=exp=1774860031~acl=/api/1/1/0/2/0/0/020abb3d7dd3162983aa0909e10eb522.mp3*~data=user_id=0,application_id=42~hmac=9349bb1fe6fc56c0656b6ae496109feaeb62d5490aa723917b7b27a12c48349b",
+      "duration_ms": 305000,
+      "track_number": 1,
+      "album": {
+        "id": "6872781",
+        "name": "Hail to the King",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70078209"
+      }
+    },
+    {
+      "id": "6715839",
+      "name": "Nightmare",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/3/0/4d3173df3fe9c3822b44c28619511327.mp3?hdnea=exp=1774860031~acl=/api/1/1/4/d/3/0/4d3173df3fe9c3822b44c28619511327.mp3*~data=user_id=0,application_id=42~hmac=2d20ec253d43c278c3aed3f051991f37362cd6324962adef2ed92047e6bab6d5",
+      "duration_ms": 374000,
+      "track_number": 2,
+      "album": {
+        "id": "620594",
+        "name": "Nightmare",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4888c24a2a49758698399ddc2a18f0e9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4888c24a2a49758698399ddc2a18f0e9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4888c24a2a49758698399ddc2a18f0e9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/6715839"
+      }
+    },
+    {
+      "id": "6278220",
+      "name": "Afterlife",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/5/0/9357120213d18ff0912fb061cb258d08.mp3?hdnea=exp=1774860031~acl=/api/1/1/9/3/5/0/9357120213d18ff0912fb061cb258d08.mp3*~data=user_id=0,application_id=42~hmac=7f33886359729110989dc34186e2f32d6a5c30bf442ddff3dd1678954e35dcb1",
+      "duration_ms": 352000,
+      "track_number": 3,
+      "album": {
+        "id": "574718",
+        "name": "Avenged Sevenfold",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1d19308255ab3129a65ea2f3a222a89/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1d19308255ab3129a65ea2f3a222a89/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1d19308255ab3129a65ea2f3a222a89/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/6278220"
+      }
+    },
+    {
+      "id": "6715844",
+      "name": "So Far Away",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/2/0/b52ea395ceb35530b34bb8c286e72b0b.mp3?hdnea=exp=1774860031~acl=/api/1/1/b/5/2/0/b52ea395ceb35530b34bb8c286e72b0b.mp3*~data=user_id=0,application_id=42~hmac=822421c81834d33bfff3aa037cccd23d4718f7b80bbac6088d0062e6ca120213",
+      "duration_ms": 326000,
+      "track_number": 4,
+      "album": {
+        "id": "620594",
+        "name": "Nightmare",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4888c24a2a49758698399ddc2a18f0e9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4888c24a2a49758698399ddc2a18f0e9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4888c24a2a49758698399ddc2a18f0e9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/6715844"
+      }
+    },
+    {
+      "id": "6278218",
+      "name": "Almost Easy",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/e/0/8ced2717578ebf23034d3bf2900a7883.mp3?hdnea=exp=1774860031~acl=/api/1/1/8/c/e/0/8ced2717578ebf23034d3bf2900a7883.mp3*~data=user_id=0,application_id=42~hmac=858121ba8e84f6a0073c3a9307744ce55a22f4c9b56a16d2b5400482538c6fcd",
+      "duration_ms": 234000,
+      "track_number": 5,
+      "album": {
+        "id": "574718",
+        "name": "Avenged Sevenfold",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1d19308255ab3129a65ea2f3a222a89/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1d19308255ab3129a65ea2f3a222a89/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1d19308255ab3129a65ea2f3a222a89/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/6278218"
+      }
+    },
+    {
+      "id": "3664340",
+      "name": "Bat Country",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/2/0/1b2708f8fc189c86bc9e2ab6efa6256d.mp3?hdnea=exp=1774860031~acl=/api/1/1/1/b/2/0/1b2708f8fc189c86bc9e2ab6efa6256d.mp3*~data=user_id=0,application_id=42~hmac=15d3ad5fcf9caf2ae460ef36160690a3c67000394b381622c82b93b6b4f056e4",
+      "duration_ms": 311000,
+      "track_number": 6,
+      "album": {
+        "id": "345029",
+        "name": "City of Evil",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/597bec65c513da909f92ac1b5cef44d6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/597bec65c513da909f92ac1b5cef44d6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/597bec65c513da909f92ac1b5cef44d6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3664340"
+      }
+    },
+    {
+      "id": "70078211",
+      "name": "This Means War",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/1/0/6e11060ee3d97dca12b73f456a9b06be.mp3?hdnea=exp=1774860031~acl=/api/1/1/6/e/1/0/6e11060ee3d97dca12b73f456a9b06be.mp3*~data=user_id=0,application_id=42~hmac=9257ab9c8b6f86208a0beefe66679db98df5ea00d265470acd2d707947cf2f8d",
+      "duration_ms": 369000,
+      "track_number": 7,
+      "album": {
+        "id": "6872781",
+        "name": "Hail to the King",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70078211"
+      }
+    },
+    {
+      "id": "6258340",
+      "name": "Unholy Confessions",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/b/0/c8b2f52c2446127ff055267e12d9410c.mp3?hdnea=exp=1774860031~acl=/api/1/1/c/8/b/0/c8b2f52c2446127ff055267e12d9410c.mp3*~data=user_id=0,application_id=42~hmac=f965f205608a073139ae71a5c746394883a383065fd53e6574e920f40ae99385",
+      "duration_ms": 283000,
+      "track_number": 8,
+      "album": {
+        "id": "572787",
+        "name": "Waking The Fallen",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab5a993fdec6fe99e71d426d9b7dde1b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab5a993fdec6fe99e71d426d9b7dde1b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab5a993fdec6fe99e71d426d9b7dde1b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/6258340"
+      }
+    },
+    {
+      "id": "785845",
+      "name": "Blinded in Chains",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/f/0/d4f9c02b968d525994707f183a3a8468.mp3?hdnea=exp=1774860031~acl=/api/1/1/d/4/f/0/d4f9c02b968d525994707f183a3a8468.mp3*~data=user_id=0,application_id=42~hmac=c51a4ac8e276cf86014c6751da5ab7134e0ae5b32ab5df9725f7197a24001e34",
+      "duration_ms": 394000,
+      "track_number": 9,
+      "album": {
+        "id": "91973",
+        "name": "City of Evil",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f1ff8462a78db5ac0774ff2c337acf4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f1ff8462a78db5ac0774ff2c337acf4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f1ff8462a78db5ac0774ff2c337acf4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/785845"
+      }
+    },
+    {
+      "id": "70078208",
+      "name": "Shepherd of Fire",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/0/0/e70689d415a967d411967e91cc58aafb.mp3?hdnea=exp=1774860031~acl=/api/1/1/e/7/0/0/e70689d415a967d411967e91cc58aafb.mp3*~data=user_id=0,application_id=42~hmac=aaf6709b77bdb1e9124057ddcdd3ce0f06ac0f16da8d75cd302ffbcff1b71116",
+      "duration_ms": 323000,
+      "track_number": 10,
+      "album": {
+        "id": "6872781",
+        "name": "Hail to the King",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c87dc0f243749f7a7c6cd37c9f429be7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "406",
+          "name": "Avenged Sevenfold"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70078208"
+      }
+    }
+  ]
+}

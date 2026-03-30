@@ -1,0 +1,32 @@
+{
+  "id": "1999",
+  "name": "Sufjan Stevens",
+  "popularity": 25,
+  "followers": {
+    "total": 256802
+  },
+  "genres": [
+    "indie folk"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c4bcf58198910e8b135ae283ec8ffa76/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c4bcf58198910e8b135ae283ec8ffa76/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c4bcf58198910e8b135ae283ec8ffa76/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1999"
+  },
+  "uri": "deezer:artist:1999"
+}

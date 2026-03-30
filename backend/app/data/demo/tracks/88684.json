@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "727835802",
+      "name": "Love Shot",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/7/0/38772dfd365db8f88a4f59115b24190c.mp3?hdnea=exp=1774859951~acl=/api/1/1/3/8/7/0/38772dfd365db8f88a4f59115b24190c.mp3*~data=user_id=0,application_id=42~hmac=1ffc0497704e24c6ce20006fa6b2004b93f0bb42c42a79e53e50027f8a72aa43",
+      "duration_ms": 200000,
+      "track_number": 1,
+      "album": {
+        "id": "106678312",
+        "name": "LOVE SHOT – The 5th Album Repackage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/727835802"
+      }
+    },
+    {
+      "id": "728262532",
+      "name": "전야 前夜 The Eve",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/d/0/d4da3a1a260ec6482ab597118a079176.mp3?hdnea=exp=1774859951~acl=/api/1/1/d/4/d/0/d4da3a1a260ec6482ab597118a079176.mp3*~data=user_id=0,application_id=42~hmac=13704b79b4497c62bf1a6c386c05c3c33610b77682d382094c4183bef37ba959",
+      "duration_ms": 176000,
+      "track_number": 2,
+      "album": {
+        "id": "106772522",
+        "name": "THE WAR - The 4th Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a59bcedebb7d42296de3073a54b9803/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a59bcedebb7d42296de3073a54b9803/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a59bcedebb7d42296de3073a54b9803/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728262532"
+      }
+    },
+    {
+      "id": "728203702",
+      "name": "으르렁 Growl",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/4/0/f9405212a589edfe9574a0094efec789.mp3?hdnea=exp=1774859951~acl=/api/1/1/f/9/4/0/f9405212a589edfe9574a0094efec789.mp3*~data=user_id=0,application_id=42~hmac=5aa40203d67e6dccd4e9fd953959c000d8e40213feaa00f41b09e2a94f2c518e",
+      "duration_ms": 207000,
+      "track_number": 3,
+      "album": {
+        "id": "106760742",
+        "name": "The 1st Album 'XOXO (Kiss&Hug)' Repackage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d9e3d62b391f65476ab4866e912ce34/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d9e3d62b391f65476ab4866e912ce34/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d9e3d62b391f65476ab4866e912ce34/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728203702"
+      }
+    },
+    {
+      "id": "728235292",
+      "name": "첫 눈 The First Snow",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/f/0/41f3060e4b5cf48b26f5f649984bac3a.mp3?hdnea=exp=1774859951~acl=/api/1/1/4/1/f/0/41f3060e4b5cf48b26f5f649984bac3a.mp3*~data=user_id=0,application_id=42~hmac=6f11d0abe0c87a4844395def9cd03341124740349486c3e78e0236f64c6f44e8",
+      "duration_ms": 207000,
+      "track_number": 4,
+      "album": {
+        "id": "106767532",
+        "name": "12월의 기적 Miracles in December",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91a6f35560a0745d3b74c4b8fef36284/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91a6f35560a0745d3b74c4b8fef36284/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91a6f35560a0745d3b74c4b8fef36284/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728235292"
+      }
+    },
+    {
+      "id": "728203712",
+      "name": "늑대와 미녀 Wolf",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/7/0/38747e3e6cf647bb291372c90eeeb62f.mp3?hdnea=exp=1774859951~acl=/api/1/1/3/8/7/0/38747e3e6cf647bb291372c90eeeb62f.mp3*~data=user_id=0,application_id=42~hmac=cae45e500b08952e494e825ccbad924e8f6f2a6597bf05b9b9561d6261d1fb3d",
+      "duration_ms": 230000,
+      "track_number": 5,
+      "album": {
+        "id": "106760742",
+        "name": "The 1st Album 'XOXO (Kiss&Hug)' Repackage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d9e3d62b391f65476ab4866e912ce34/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d9e3d62b391f65476ab4866e912ce34/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d9e3d62b391f65476ab4866e912ce34/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728203712"
+      }
+    },
+    {
+      "id": "728553252",
+      "name": "시선 둘 시선 하나 What If..",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/c/0/74c815731b534fc8c20688766784a4dd.mp3?hdnea=exp=1774859951~acl=/api/1/1/7/4/c/0/74c815731b534fc8c20688766784a4dd.mp3*~data=user_id=0,application_id=42~hmac=9167892b31c6f5580de0058c8644282825076d1486a63380397ec5516c5458d0",
+      "duration_ms": 258000,
+      "track_number": 6,
+      "album": {
+        "id": "106840482",
+        "name": "The 2nd Album ‘EXODUS’",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1df43fe10ddfe773f927385de15ad90/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1df43fe10ddfe773f927385de15ad90/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1df43fe10ddfe773f927385de15ad90/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728553252"
+      }
+    },
+    {
+      "id": "727835812",
+      "name": "Tempo",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/d/0/3dda1f087caa73817c08e84f7f015346.mp3?hdnea=exp=1774859951~acl=/api/1/1/3/d/d/0/3dda1f087caa73817c08e84f7f015346.mp3*~data=user_id=0,application_id=42~hmac=287c7ed13c94823d257f24b95e21e3aba9c84d19ce3faf476711b936e93d3e71",
+      "duration_ms": 224000,
+      "track_number": 7,
+      "album": {
+        "id": "106678312",
+        "name": "LOVE SHOT – The 5th Album Repackage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/727835812"
+      }
+    },
+    {
+      "id": "728265172",
+      "name": "My Lady",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/1/0/7a147b8d5c5259e91a505a7f0b5b069a.mp3?hdnea=exp=1774859951~acl=/api/1/1/7/a/1/0/7a147b8d5c5259e91a505a7f0b5b069a.mp3*~data=user_id=0,application_id=42~hmac=1e71e528d17e4d995f72315af81e3502a7d6088057f5f74a6ac6c257cf56e6e1",
+      "duration_ms": 211000,
+      "track_number": 8,
+      "album": {
+        "id": "106773122",
+        "name": "The 1st Album 'XOXO (KISS&HUG)'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a5556a0214313dd16d36d11de9f522f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a5556a0214313dd16d36d11de9f522f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a5556a0214313dd16d36d11de9f522f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728265172"
+      }
+    },
+    {
+      "id": "728262542",
+      "name": "Ko Ko Bop",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/6/0/2e608ac064f216d6d0fed7430d1f1fdf.mp3?hdnea=exp=1774859951~acl=/api/1/1/2/e/6/0/2e608ac064f216d6d0fed7430d1f1fdf.mp3*~data=user_id=0,application_id=42~hmac=0cf04363d94b6485b4b822017276fbfeb0820a3da6dad309fac205390e38c79c",
+      "duration_ms": 190000,
+      "track_number": 9,
+      "album": {
+        "id": "106772522",
+        "name": "THE WAR - The 4th Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a59bcedebb7d42296de3073a54b9803/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a59bcedebb7d42296de3073a54b9803/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a59bcedebb7d42296de3073a54b9803/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728262542"
+      }
+    },
+    {
+      "id": "727835852",
+      "name": "닿은 순간 (Ooh La La La)",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/c/0/f2cc500ab873a5cbc975f2f9267b4ecc.mp3?hdnea=exp=1774859951~acl=/api/1/1/f/2/c/0/f2cc500ab873a5cbc975f2f9267b4ecc.mp3*~data=user_id=0,application_id=42~hmac=154e67a228f3f38a50dd4199906e944f46ac672e39d596ff4689af91fb1214a5",
+      "duration_ms": 187000,
+      "track_number": 10,
+      "album": {
+        "id": "106678312",
+        "name": "LOVE SHOT – The 5th Album Repackage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/095f70a9c8de36773497e8b25c79956b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "88684",
+          "name": "EXO"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/727835852"
+      }
+    }
+  ]
+}

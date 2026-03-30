@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2967699621",
+      "name": "CRAZY",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/c/0/d4c1dd24d279179a0fd6fe27c5208e32.mp3?hdnea=exp=1774859956~acl=/api/1/1/d/4/c/0/d4c1dd24d279179a0fd6fe27c5208e32.mp3*~data=user_id=0,application_id=42~hmac=a65a0be322afbff4e599a98335492bfe3bce7e1a4fcf8ab0c3569b76125c6f33",
+      "duration_ms": 164000,
+      "track_number": 1,
+      "album": {
+        "id": "635247501",
+        "name": "CRAZY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e3bf16fd0d1e9f63c87ddd6571531f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e3bf16fd0d1e9f63c87ddd6571531f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e3bf16fd0d1e9f63c87ddd6571531f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2967699621"
+      }
+    },
+    {
+      "id": "3614444782",
+      "name": "SPAGHETTI",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/0/0/5200336e604282702351e170a283cc20.mp3?hdnea=exp=1774859956~acl=/api/1/1/5/2/0/0/5200336e604282702351e170a283cc20.mp3*~data=user_id=0,application_id=42~hmac=a4924e60cafce1a3269366ab74c7d44995ef6ab48a5c768aefe0018da1f01686",
+      "duration_ms": 172000,
+      "track_number": 2,
+      "album": {
+        "id": "842178162",
+        "name": "SPAGHETTI",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3cdf87dacd1187c642269f2073a63680/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3cdf87dacd1187c642269f2073a63680/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3cdf87dacd1187c642269f2073a63680/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3614444782"
+      }
+    },
+    {
+      "id": "2967699641",
+      "name": "1-800-hot-n-fun",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/5/0/e156f80727b16ccf20758a0384fb2f97.mp3?hdnea=exp=1774859956~acl=/api/1/1/e/1/5/0/e156f80727b16ccf20758a0384fb2f97.mp3*~data=user_id=0,application_id=42~hmac=cf804953a41209a1741045c4752a6f1f6e6f26cf7791b76ed51c74d28d71c0b4",
+      "duration_ms": 173000,
+      "track_number": 3,
+      "album": {
+        "id": "635247501",
+        "name": "CRAZY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e3bf16fd0d1e9f63c87ddd6571531f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e3bf16fd0d1e9f63c87ddd6571531f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e3bf16fd0d1e9f63c87ddd6571531f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2967699641"
+      }
+    },
+    {
+      "id": "3256605631",
+      "name": "HOT",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/e/0/f9ee9553b4dd661eb01d975b5ed491ad.mp3?hdnea=exp=1774859956~acl=/api/1/1/f/9/e/0/f9ee9553b4dd661eb01d975b5ed491ad.mp3*~data=user_id=0,application_id=42~hmac=444de848ff54cea274222014a5c661da73e49f8c406f9344364e45f0c18f3dd7",
+      "duration_ms": 143000,
+      "track_number": 4,
+      "album": {
+        "id": "720385871",
+        "name": "HOT",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6346d6a98563b82875d63cb09ac4727/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6346d6a98563b82875d63cb09ac4727/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6346d6a98563b82875d63cb09ac4727/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3256605631"
+      }
+    },
+    {
+      "id": "3256605641",
+      "name": "Come Over",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/6/0/3d641cb959737ae969fbc6feba4c1d3d.mp3?hdnea=exp=1774859956~acl=/api/1/1/3/d/6/0/3d641cb959737ae969fbc6feba4c1d3d.mp3*~data=user_id=0,application_id=42~hmac=b217e76baf96f69bf92468dec8c64bc05cdc77b2dd597158857706178de2d603",
+      "duration_ms": 137000,
+      "track_number": 5,
+      "album": {
+        "id": "720385871",
+        "name": "HOT",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6346d6a98563b82875d63cb09ac4727/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6346d6a98563b82875d63cb09ac4727/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6346d6a98563b82875d63cb09ac4727/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3256605641"
+      }
+    },
+    {
+      "id": "2663894712",
+      "name": "Smart",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/a/0/5aa400183e044d75266a3c820867695b.mp3?hdnea=exp=1774859956~acl=/api/1/1/5/a/a/0/5aa400183e044d75266a3c820867695b.mp3*~data=user_id=0,application_id=42~hmac=ee72f3579ef24c71092fdd25b1ec430576da2f6dfc151b408ea0bbc374ea8dfe",
+      "duration_ms": 166000,
+      "track_number": 6,
+      "album": {
+        "id": "548237662",
+        "name": "EASY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a50a7d9797a87ad70e955e3a87b693c7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a50a7d9797a87ad70e955e3a87b693c7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a50a7d9797a87ad70e955e3a87b693c7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2663894712"
+      }
+    },
+    {
+      "id": "3256605651",
+      "name": "Ash",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/c/0/92c73d561d739803e774c817a93f7e42.mp3?hdnea=exp=1774859956~acl=/api/1/1/9/2/c/0/92c73d561d739803e774c817a93f7e42.mp3*~data=user_id=0,application_id=42~hmac=be7926306fbef1decf2198786ed1df55189a183dd88ff8cd4041fb7a882b07a2",
+      "duration_ms": 197000,
+      "track_number": 7,
+      "album": {
+        "id": "720385871",
+        "name": "HOT",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6346d6a98563b82875d63cb09ac4727/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6346d6a98563b82875d63cb09ac4727/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6346d6a98563b82875d63cb09ac4727/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3256605651"
+      }
+    },
+    {
+      "id": "2513475541",
+      "name": "Perfect Night",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/2/0/3e2a53384dbf9c19dd22a8e7eaa0115b.mp3?hdnea=exp=1774859956~acl=/api/1/1/3/e/2/0/3e2a53384dbf9c19dd22a8e7eaa0115b.mp3*~data=user_id=0,application_id=42~hmac=af925f546c73d5b446cb911a75e69eae85f4aed3bfbd0569c792dea9496714ea",
+      "duration_ms": 159000,
+      "track_number": 8,
+      "album": {
+        "id": "504476751",
+        "name": "Perfect Night",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19965ca3dc610543faef2d3b269f8a0c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19965ca3dc610543faef2d3b269f8a0c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19965ca3dc610543faef2d3b269f8a0c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2513475541"
+      }
+    },
+    {
+      "id": "2258042667",
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/d/0/95d1546d54f94a45476f0196b18d3085.mp3?hdnea=exp=1774859956~acl=/api/1/1/9/5/d/0/95d1546d54f94a45476f0196b18d3085.mp3*~data=user_id=0,application_id=42~hmac=8ea8eed24a166f7c18fcffd0fd3414ad56b4a7826f2342945f7b8836ea7187ad",
+      "duration_ms": 182000,
+      "track_number": 9,
+      "album": {
+        "id": "434848357",
+        "name": "UNFORGIVEN",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9786419a59c645b9f128631e391de8b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9786419a59c645b9f128631e391de8b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9786419a59c645b9f128631e391de8b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2258042667"
+      }
+    },
+    {
+      "id": "3431476011",
+      "name": "butterflies (feat. TAEHYUN & Kim Chaewon of LE SSERAFIM)",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/b/0/0cb5ef13ce838fac609ec577ce9bdd04.mp3?hdnea=exp=1774859956~acl=/api/1/1/0/c/b/0/0cb5ef13ce838fac609ec577ce9bdd04.mp3*~data=user_id=0,application_id=42~hmac=ee9e92655932b3fbb3ddfd1082aa3324aecbb25c2842be7d5c86f383c1b5fead",
+      "duration_ms": 164000,
+      "track_number": 10,
+      "album": {
+        "id": "778376321",
+        "name": "butterflies (feat. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f3629674b8a53c5c27fa6c06291bd725/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f3629674b8a53c5c27fa6c06291bd725/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f3629674b8a53c5c27fa6c06291bd725/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "168158797",
+          "name": "LE SSERAFIM"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3431476011"
+      }
+    }
+  ]
+}

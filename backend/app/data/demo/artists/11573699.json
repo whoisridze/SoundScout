@@ -1,0 +1,32 @@
+{
+  "id": "11573699",
+  "name": "Clairo",
+  "popularity": 46,
+  "followers": {
+    "total": 466607
+  },
+  "genres": [
+    "dream pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/933a9fcd1f1b4eae73e3f75bdf5fd3a0/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/933a9fcd1f1b4eae73e3f75bdf5fd3a0/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/933a9fcd1f1b4eae73e3f75bdf5fd3a0/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/11573699"
+  },
+  "uri": "deezer:artist:11573699"
+}

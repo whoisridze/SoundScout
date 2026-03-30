@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "4368116",
+      "name": "Feeling Good",
+      "popularity": 81,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/0/0/f901a7cc6db4dc397ca80c0073706137.mp3?hdnea=exp=1774860081~acl=/api/1/1/f/9/0/0/f901a7cc6db4dc397ca80c0073706137.mp3*~data=user_id=0,application_id=42~hmac=d57cc6608cbcdce08c85b6635754b65c34df0fdab300a61fa45f939480074964",
+      "duration_ms": 237000,
+      "track_number": 1,
+      "album": {
+        "id": "405444",
+        "name": "It's Time",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82adbd44bbe338520d8dfd815524dfaa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82adbd44bbe338520d8dfd815524dfaa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82adbd44bbe338520d8dfd815524dfaa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4368116"
+      }
+    },
+    {
+      "id": "782937",
+      "name": "Sway",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/9/0/c19e5069bb5cd81dc79de29470424b20.mp3?hdnea=exp=1774860081~acl=/api/1/1/c/1/9/0/c19e5069bb5cd81dc79de29470424b20.mp3*~data=user_id=0,application_id=42~hmac=e8700580ddec8ce543704290a06f1ee4d1c00fad8846f03432e492c5e4d30711",
+      "duration_ms": 188000,
+      "track_number": 2,
+      "album": {
+        "id": "91697",
+        "name": "Michael Bublé",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a5dd92ae1b53ad19f39e3036dd510541/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a5dd92ae1b53ad19f39e3036dd510541/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a5dd92ae1b53ad19f39e3036dd510541/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/782937"
+      }
+    },
+    {
+      "id": "680648",
+      "name": "Me and Mrs. Jones",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/c/0/23cbf18a60518d7662d9aded74d0869e.mp3?hdnea=exp=1774860081~acl=/api/1/1/2/3/c/0/23cbf18a60518d7662d9aded74d0869e.mp3*~data=user_id=0,application_id=42~hmac=3432bd04442084b96c1491bcc866f767a2c9f213f77f62afe771d7b94acf2884",
+      "duration_ms": 271000,
+      "track_number": 3,
+      "album": {
+        "id": "82117",
+        "name": "Call Me Irresponsible",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1bb7630219206f20050fb7e7f46b23c1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1bb7630219206f20050fb7e7f46b23c1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1bb7630219206f20050fb7e7f46b23c1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/680648"
+      }
+    },
+    {
+      "id": "585621132",
+      "name": "When You're Smiling",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/2/0/a026d063e9dcca4b2d7234d078b5dff1.mp3?hdnea=exp=1774860081~acl=/api/1/1/a/0/2/0/a026d063e9dcca4b2d7234d078b5dff1.mp3*~data=user_id=0,application_id=42~hmac=097f598563fefadc7976fd28a58ec9f5465d9c9785162e9f12b807546e630224",
+      "duration_ms": 170000,
+      "track_number": 4,
+      "album": {
+        "id": "78632382",
+        "name": "love (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/199883c9a11f6d42994d84bb3764f6ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/199883c9a11f6d42994d84bb3764f6ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/199883c9a11f6d42994d84bb3764f6ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585621132"
+      }
+    },
+    {
+      "id": "3456211531",
+      "name": "A Song for You (feat. Chris Botti)",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/f/0/9df59eaf43f3e3b300fb411343da61e9.mp3?hdnea=exp=1774860081~acl=/api/1/1/9/d/f/0/9df59eaf43f3e3b300fb411343da61e9.mp3*~data=user_id=0,application_id=42~hmac=bf3a8fe9b1dd734898153b8315d9b9ceee668c576fa498083c3d9dbbad25ea92",
+      "duration_ms": 282000,
+      "track_number": 5,
+      "album": {
+        "id": "786786171",
+        "name": "It's Time (20th Anniversary Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ff22b2d22d88b13c2b03384debf7ab92/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ff22b2d22d88b13c2b03384debf7ab92/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ff22b2d22d88b13c2b03384debf7ab92/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3456211531"
+      }
+    },
+    {
+      "id": "3822474",
+      "name": "Sway (Junkie XL Mix)",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/6/0/9b663589f748e9ba651321fd5f948305.mp3?hdnea=exp=1774860081~acl=/api/1/1/9/b/6/0/9b663589f748e9ba651321fd5f948305.mp3*~data=user_id=0,application_id=42~hmac=abd49530f49b4d579cd4e3a6a152b66ebb189649ff1f6f519239079b5541fba0",
+      "duration_ms": 189000,
+      "track_number": 6,
+      "album": {
+        "id": "356349",
+        "name": "Spider-Man Theme / Sway Remixes",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91d0bb16a307720779fcf2cc98ee7f59/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91d0bb16a307720779fcf2cc98ee7f59/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91d0bb16a307720779fcf2cc98ee7f59/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3822474"
+      }
+    },
+    {
+      "id": "680644",
+      "name": "The Best Is yet to Come",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/6/0/7b6b86773b767e9ddc5b992117a30efb.mp3?hdnea=exp=1774860081~acl=/api/1/1/7/b/6/0/7b6b86773b767e9ddc5b992117a30efb.mp3*~data=user_id=0,application_id=42~hmac=a659e565c73c88fff1f9a6ec1cc9d40167c65611e84eca2b6e5190b36f8c1c56",
+      "duration_ms": 185000,
+      "track_number": 7,
+      "album": {
+        "id": "82117",
+        "name": "Call Me Irresponsible",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1bb7630219206f20050fb7e7f46b23c1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1bb7630219206f20050fb7e7f46b23c1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1bb7630219206f20050fb7e7f46b23c1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/680644"
+      }
+    },
+    {
+      "id": "4311279",
+      "name": "Stardust (with Naturally 7)",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/4/0/f44e20991242b01ecaca35f7e57c5ccc.mp3?hdnea=exp=1774860081~acl=/api/1/1/f/4/4/0/f44e20991242b01ecaca35f7e57c5ccc.mp3*~data=user_id=0,application_id=42~hmac=9e74974a4335e73af759bdaacb4ae89bbef5fa097da9fffcd6031151aca25f8c",
+      "duration_ms": 193000,
+      "track_number": 8,
+      "album": {
+        "id": "401010",
+        "name": "Crazy Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4311279"
+      }
+    },
+    {
+      "id": "811275582",
+      "name": "L O V E",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/b/0/1cbf0dcec56294728330fa9e2ee028d5.mp3?hdnea=exp=1774860081~acl=/api/1/1/1/c/b/0/1cbf0dcec56294728330fa9e2ee028d5.mp3*~data=user_id=0,application_id=42~hmac=d20d4decdc028f6e8fbdbedd6d16bd34594325c43a1faa6dbee8ca9963f82130",
+      "duration_ms": 170000,
+      "track_number": 9,
+      "album": {
+        "id": "119542892",
+        "name": "Call Me Irresponsible (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ba6281c2ddc2b1fbeae3de1d3c7c7c7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ba6281c2ddc2b1fbeae3de1d3c7c7c7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ba6281c2ddc2b1fbeae3de1d3c7c7c7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/811275582"
+      }
+    },
+    {
+      "id": "4311270",
+      "name": "Georgia on My Mind",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/9/0/d19ae0bc407fcaf528ecc6cf02da59e0.mp3?hdnea=exp=1774860081~acl=/api/1/1/d/1/9/0/d19ae0bc407fcaf528ecc6cf02da59e0.mp3*~data=user_id=0,application_id=42~hmac=8117d453385e948a800de30fcb6ea5f7685f965223a1c197c090fd539d273f65",
+      "duration_ms": 188000,
+      "track_number": 10,
+      "album": {
+        "id": "401010",
+        "name": "Crazy Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1edee2e3ba556c6771a354fd397c6381/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1478",
+          "name": "Michael Bublé"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4311270"
+      }
+    }
+  ]
+}

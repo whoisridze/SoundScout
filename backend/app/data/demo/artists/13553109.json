@@ -1,0 +1,32 @@
+{
+  "id": "13553109",
+  "name": "Psalm Trees",
+  "popularity": 11,
+  "followers": {
+    "total": 1171
+  },
+  "genres": [
+    "lo-fi beats"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/781ac7db6900c2ca85d00f530a81c842/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/781ac7db6900c2ca85d00f530a81c842/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/781ac7db6900c2ca85d00f530a81c842/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/13553109"
+  },
+  "uri": "deezer:artist:13553109"
+}

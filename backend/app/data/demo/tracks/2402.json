@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "4621947",
+      "name": "Sadeness (Pt. 1 / Radio Edit)",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/5/0/ed526c1d402b1e3de14f3f55a5f746c4.mp3?hdnea=exp=1774860096~acl=/api/1/1/e/d/5/0/ed526c1d402b1e3de14f3f55a5f746c4.mp3*~data=user_id=0,application_id=42~hmac=62498cc0762a4496b71acb37484525e96b94d133f0c360b5c2da0d9d2fea04a6",
+      "duration_ms": 257000,
+      "track_number": 1,
+      "album": {
+        "id": "425191",
+        "name": "The Platinum Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93e1de0038aad19f040cb6cc0d94b347/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93e1de0038aad19f040cb6cc0d94b347/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93e1de0038aad19f040cb6cc0d94b347/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4621947"
+      }
+    },
+    {
+      "id": "3132752",
+      "name": "Return To Innocence",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/6/0/ca66143f1766d61a087ef1906ada1b4e.mp3?hdnea=exp=1774860096~acl=/api/1/1/c/a/6/0/ca66143f1766d61a087ef1906ada1b4e.mp3*~data=user_id=0,application_id=42~hmac=3eaa56b9108547fecc9339c9cc6eabac49065352675e878431c85f3e2b0dd113",
+      "duration_ms": 255000,
+      "track_number": 2,
+      "album": {
+        "id": "301927",
+        "name": "The Cross Of Changes",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00eac2b394a1e76d5b42824ac11a57c0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00eac2b394a1e76d5b42824ac11a57c0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00eac2b394a1e76d5b42824ac11a57c0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3132752"
+      }
+    },
+    {
+      "id": "3088583",
+      "name": "Callas Went Away",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/6/0/146f749b0a043285d0cde952e03efb6a.mp3?hdnea=exp=1774860096~acl=/api/1/1/1/4/6/0/146f749b0a043285d0cde952e03efb6a.mp3*~data=user_id=0,application_id=42~hmac=bbcb33bf7375c0427e13fbc8e920662ee8e59bda76f3bab1048837c98783eefa",
+      "duration_ms": 268000,
+      "track_number": 3,
+      "album": {
+        "id": "299148",
+        "name": "MCMXC a.D.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3088583"
+      }
+    },
+    {
+      "id": "3088582",
+      "name": "Principles Of Lust: Sadeness / Find Love / Sadeness (Reprise)",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/d/0/a2d8bd9d59f9c6deb33cc65fef6d247e.mp3?hdnea=exp=1774860096~acl=/api/1/1/a/2/d/0/a2d8bd9d59f9c6deb33cc65fef6d247e.mp3*~data=user_id=0,application_id=42~hmac=ea473aa665c49361dd72f0d27f41908c5412685dd1a3720a62d8d484da71d3e7",
+      "duration_ms": 703000,
+      "track_number": 4,
+      "album": {
+        "id": "299148",
+        "name": "MCMXC a.D.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3088582"
+      }
+    },
+    {
+      "id": "3454036",
+      "name": "Why!...",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/c/0/c5c17fc8fba328e904c5764355941939.mp3?hdnea=exp=1774860096~acl=/api/1/1/c/5/c/0/c5c17fc8fba328e904c5764355941939.mp3*~data=user_id=0,application_id=42~hmac=cb66a6fe521951fc039e8a7c55d8981e0cf573b76f6d590ca16d1ade61acf3e3",
+      "duration_ms": 299000,
+      "track_number": 5,
+      "album": {
+        "id": "327661",
+        "name": "Le Roi Est Mort, Vive Le Roi!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73d824b638ad0a0484e2fe77a5ecd6d1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73d824b638ad0a0484e2fe77a5ecd6d1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73d824b638ad0a0484e2fe77a5ecd6d1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3454036"
+      }
+    },
+    {
+      "id": "3088586",
+      "name": "Knocking On Forbidden Doors",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/8/0/3f8de149166e2fb753685fba02e174ef.mp3?hdnea=exp=1774860096~acl=/api/1/1/3/f/8/0/3f8de149166e2fb753685fba02e174ef.mp3*~data=user_id=0,application_id=42~hmac=fa840742392a436e2569f202f4510ca833c12446c6cb2b0133a672ae3ac77bd9",
+      "duration_ms": 263000,
+      "track_number": 6,
+      "album": {
+        "id": "299148",
+        "name": "MCMXC a.D.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3088586"
+      }
+    },
+    {
+      "id": "3088584",
+      "name": "Mea Culpa",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/2/0/972d68201df9afd2fea96bf8577a1d6d.mp3?hdnea=exp=1774860096~acl=/api/1/1/9/7/2/0/972d68201df9afd2fea96bf8577a1d6d.mp3*~data=user_id=0,application_id=42~hmac=d7e452688cc9784b32670592e0135a30d2b9f0ea221b5be47065b4e321e9c2e7",
+      "duration_ms": 300000,
+      "track_number": 7,
+      "album": {
+        "id": "299148",
+        "name": "MCMXC a.D.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b3164b1a3c377aa31aa470c5128ae0d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3088584"
+      }
+    },
+    {
+      "id": "3132756",
+      "name": "Age Of Loneliness (Carly's Song)",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/6/0/316700797234833633e9eafd70fbaca1.mp3?hdnea=exp=1774860096~acl=/api/1/1/3/1/6/0/316700797234833633e9eafd70fbaca1.mp3*~data=user_id=0,application_id=42~hmac=c2e341fa3092357dd2ac949a229a860cdeb02e1f812c20cc78810165e6751fe7",
+      "duration_ms": 322000,
+      "track_number": 8,
+      "album": {
+        "id": "301927",
+        "name": "The Cross Of Changes",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00eac2b394a1e76d5b42824ac11a57c0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00eac2b394a1e76d5b42824ac11a57c0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00eac2b394a1e76d5b42824ac11a57c0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3132756"
+      }
+    },
+    {
+      "id": "4621952",
+      "name": "Age Of Loneliness (Radio Edit)",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/2/0/092c487d348e6f87273b24bd72548055.mp3?hdnea=exp=1774860096~acl=/api/1/1/0/9/2/0/092c487d348e6f87273b24bd72548055.mp3*~data=user_id=0,application_id=42~hmac=d9dd220efa478be37835a05ce41cddf9e4d17be4a7a5f4e0f669135fa66be575",
+      "duration_ms": 254000,
+      "track_number": 9,
+      "album": {
+        "id": "425191",
+        "name": "The Platinum Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93e1de0038aad19f040cb6cc0d94b347/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93e1de0038aad19f040cb6cc0d94b347/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93e1de0038aad19f040cb6cc0d94b347/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4621952"
+      }
+    },
+    {
+      "id": "3454038",
+      "name": "The Child In Us",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/2/0/342c4f5f499f167799239bdd694087d9.mp3?hdnea=exp=1774860096~acl=/api/1/1/3/4/2/0/342c4f5f499f167799239bdd694087d9.mp3*~data=user_id=0,application_id=42~hmac=14033772b3be19be3dee92872f3fe8eb7e3aa4a4930fd4c95a7bfa0448dbfe52",
+      "duration_ms": 305000,
+      "track_number": 10,
+      "album": {
+        "id": "327661",
+        "name": "Le Roi Est Mort, Vive Le Roi!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73d824b638ad0a0484e2fe77a5ecd6d1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73d824b638ad0a0484e2fe77a5ecd6d1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73d824b638ad0a0484e2fe77a5ecd6d1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2402",
+          "name": "Enigma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3454038"
+      }
+    }
+  ]
+}

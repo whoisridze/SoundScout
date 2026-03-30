@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "106380372",
+      "name": "Space Song",
+      "popularity": 87,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/9/0/009e9ceae6e8fa2607156e7554117456.mp3?hdnea=exp=1774859886~acl=/api/1/1/0/0/9/0/009e9ceae6e8fa2607156e7554117456.mp3*~data=user_id=0,application_id=42~hmac=2ba24451e6dc6c9c0edfb7a45583caaf7e9cdb4ec5a32423b3c768773c5340a2",
+      "duration_ms": 320000,
+      "track_number": 1,
+      "album": {
+        "id": "11093204",
+        "name": "Depression Cherry",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/399cffa2434760d22746a10a44c80bc2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/399cffa2434760d22746a10a44c80bc2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/399cffa2434760d22746a10a44c80bc2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/106380372"
+      }
+    },
+    {
+      "id": "497748042",
+      "name": "Lemon Glow",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/6/0/9962806f03eee8ed539b6ec29a35405b.mp3?hdnea=exp=1774859886~acl=/api/1/1/9/9/6/0/9962806f03eee8ed539b6ec29a35405b.mp3*~data=user_id=0,application_id=42~hmac=27fe509aa760fc48a540a6c61d049696ebf2b0de2d727156e2ebbf9295a6ee32",
+      "duration_ms": 244000,
+      "track_number": 2,
+      "album": {
+        "id": "63205362",
+        "name": "7",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67967f4e67760061fd06267a57a3dbdd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67967f4e67760061fd06267a57a3dbdd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67967f4e67760061fd06267a57a3dbdd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/497748042"
+      }
+    },
+    {
+      "id": "373082541",
+      "name": "Master of None",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/f/0/e8f89010e299148869e2d78e07a698b2.mp3?hdnea=exp=1774859886~acl=/api/1/1/e/8/f/0/e8f89010e299148869e2d78e07a698b2.mp3*~data=user_id=0,application_id=42~hmac=e8a60dccf7a6abe96204e80f6886b7238f186ec9176002958dde3dd921621a29",
+      "duration_ms": 199000,
+      "track_number": 3,
+      "album": {
+        "id": "43108871",
+        "name": "Beach House",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0bdf4e3d9e4a66e92bbe861e23a770f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0bdf4e3d9e4a66e92bbe861e23a770f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0bdf4e3d9e4a66e92bbe861e23a770f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/373082541"
+      }
+    },
+    {
+      "id": "497748062",
+      "name": "Drunk in L.A.",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/f/0/bbf8ff2cf5e5881a7c141f69e9fec298.mp3?hdnea=exp=1774859886~acl=/api/1/1/b/b/f/0/bbf8ff2cf5e5881a7c141f69e9fec298.mp3*~data=user_id=0,application_id=42~hmac=96ec09276ad5e8a7a7c4b0c989c9ed8b53d6ed6b2814e103eced9b2bd203cddc",
+      "duration_ms": 239000,
+      "track_number": 4,
+      "album": {
+        "id": "63205362",
+        "name": "7",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67967f4e67760061fd06267a57a3dbdd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67967f4e67760061fd06267a57a3dbdd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67967f4e67760061fd06267a57a3dbdd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/497748062"
+      }
+    },
+    {
+      "id": "69017519",
+      "name": "Silver Soul",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/0/0/7507a969f65872f38787831c98095981.mp3?hdnea=exp=1774859886~acl=/api/1/1/7/5/0/0/7507a969f65872f38787831c98095981.mp3*~data=user_id=0,application_id=42~hmac=67aa4b9a81b565a66495c19fcee1e40f81cbaaf82c4ad1c40304c195137148bf",
+      "duration_ms": 298000,
+      "track_number": 5,
+      "album": {
+        "id": "6762694",
+        "name": "Teen Dream",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73f49d02e25453df144353f4ccf8b161/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73f49d02e25453df144353f4ccf8b161/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73f49d02e25453df144353f4ccf8b161/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69017519"
+      }
+    },
+    {
+      "id": "69000252",
+      "name": "Myth",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/3/0/5d3a1ec396b27843d80022030ec596f8.mp3?hdnea=exp=1774859886~acl=/api/1/1/5/d/3/0/5d3a1ec396b27843d80022030ec596f8.mp3*~data=user_id=0,application_id=42~hmac=e9ea5e2f36d5c41432be3b9838a78aa71e1f7af0e457db3d40f36524a2ed7e47",
+      "duration_ms": 258000,
+      "track_number": 6,
+      "album": {
+        "id": "6760771",
+        "name": "Bloom",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0616ef61572cbc0fb5d35e039e3022a3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0616ef61572cbc0fb5d35e039e3022a3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0616ef61572cbc0fb5d35e039e3022a3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69000252"
+      }
+    },
+    {
+      "id": "106380370",
+      "name": "Sparks",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/9/0/b49b8f109c19db98a6ef0785af233718.mp3?hdnea=exp=1774859886~acl=/api/1/1/b/4/9/0/b49b8f109c19db98a6ef0785af233718.mp3*~data=user_id=0,application_id=42~hmac=a0ab5afdc361863a2f5c64c02b2815a288e5fc138f8bf9fd4f4d54e421d38001",
+      "duration_ms": 321000,
+      "track_number": 7,
+      "album": {
+        "id": "11093204",
+        "name": "Depression Cherry",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/399cffa2434760d22746a10a44c80bc2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/399cffa2434760d22746a10a44c80bc2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/399cffa2434760d22746a10a44c80bc2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/106380370"
+      }
+    },
+    {
+      "id": "69017527",
+      "name": "Take Care",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/2/0/1a232c56842a340187f342e0ac77af42.mp3?hdnea=exp=1774859886~acl=/api/1/1/1/a/2/0/1a232c56842a340187f342e0ac77af42.mp3*~data=user_id=0,application_id=42~hmac=ba61f31f96ddd2a6af09efc54fd34500b8f1cd59188e965ce7821e920be8ef2d",
+      "duration_ms": 348000,
+      "track_number": 8,
+      "album": {
+        "id": "6762694",
+        "name": "Teen Dream",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73f49d02e25453df144353f4ccf8b161/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73f49d02e25453df144353f4ccf8b161/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73f49d02e25453df144353f4ccf8b161/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69017527"
+      }
+    },
+    {
+      "id": "109623290",
+      "name": "All Your Yeahs",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/3/0/df3be090ca0fd9dd8eaff42e9e0ca81f.mp3?hdnea=exp=1774859886~acl=/api/1/1/d/f/3/0/df3be090ca0fd9dd8eaff42e9e0ca81f.mp3*~data=user_id=0,application_id=42~hmac=b7d7cb2821f879bc88d80d980cdff945301c1bf3c1bd7c11177e87e639989d64",
+      "duration_ms": 228000,
+      "track_number": 9,
+      "album": {
+        "id": "11419838",
+        "name": "Thank Your Lucky Stars",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb0fafe47000325074c0a3688a1a64c7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb0fafe47000325074c0a3688a1a64c7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb0fafe47000325074c0a3688a1a64c7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/109623290"
+      }
+    },
+    {
+      "id": "497748082",
+      "name": "Black Car",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/b/0/f7b19aeef9dd6eedea7c71e1a5d56a6b.mp3?hdnea=exp=1774859886~acl=/api/1/1/f/7/b/0/f7b19aeef9dd6eedea7c71e1a5d56a6b.mp3*~data=user_id=0,application_id=42~hmac=bafedbae32f7e2ce65d9d93a9196e15ad8307704f7a802987f8eb0adcddbb6b3",
+      "duration_ms": 251000,
+      "track_number": 10,
+      "album": {
+        "id": "63205362",
+        "name": "7",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67967f4e67760061fd06267a57a3dbdd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67967f4e67760061fd06267a57a3dbdd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67967f4e67760061fd06267a57a3dbdd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75055",
+          "name": "Beach House"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/497748082"
+      }
+    }
+  ]
+}

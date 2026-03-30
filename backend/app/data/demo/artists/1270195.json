@@ -1,0 +1,32 @@
+{
+  "id": "1270195",
+  "name": "Liquid Mind",
+  "popularity": 29,
+  "followers": {
+    "total": 2948
+  },
+  "genres": [
+    "new age"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/380f50c2cb3e98641ad1fc3c3b4b4009/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/380f50c2cb3e98641ad1fc3c3b4b4009/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/380f50c2cb3e98641ad1fc3c3b4b4009/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1270195"
+  },
+  "uri": "deezer:artist:1270195"
+}

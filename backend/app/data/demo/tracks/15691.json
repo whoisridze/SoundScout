@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "504079942",
+      "name": "Live It Up (Official Song 2018 FIFA World Cup Russia)",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/2/0/0321be98385fd9b884bdaebd2cb98661.mp3?hdnea=exp=1774859941~acl=/api/1/1/0/3/2/0/0321be98385fd9b884bdaebd2cb98661.mp3*~data=user_id=0,application_id=42~hmac=10c17391efdb50b85a7fba1d11ff1101c94db84578b89166069ee86bbaf77e43",
+      "duration_ms": 207000,
+      "track_number": 1,
+      "album": {
+        "id": "64328672",
+        "name": "Live It Up (Official Song 2018 FIFA World Cup Russia)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/76b204fc46a7476978a5d68f00d6a3da/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/76b204fc46a7476978a5d68f00d6a3da/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/76b204fc46a7476978a5d68f00d6a3da/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/504079942"
+      }
+    },
+    {
+      "id": "140421809",
+      "name": "El Perdón (with Enrique Iglesias)",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/f/0/60f0b19d96744fa072864f04af3deb11.mp3?hdnea=exp=1774859941~acl=/api/1/1/6/0/f/0/60f0b19d96744fa072864f04af3deb11.mp3*~data=user_id=0,application_id=42~hmac=3740107f319657a723ce55216ab8f02d4cbe9a17bb4856f1ec4bc41f85126ba6",
+      "duration_ms": 206000,
+      "track_number": 2,
+      "album": {
+        "id": "15119989",
+        "name": "Fénix",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/68b6ebdd0514f16c57a87552a33d26d3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/68b6ebdd0514f16c57a87552a33d26d3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/68b6ebdd0514f16c57a87552a33d26d3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/140421809"
+      }
+    },
+    {
+      "id": "791449262",
+      "name": "X",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/a/0/02ac62a03cd233c21e317687c6ff30d4.mp3?hdnea=exp=1774859941~acl=/api/1/1/0/2/a/0/02ac62a03cd233c21e317687c6ff30d4.mp3*~data=user_id=0,application_id=42~hmac=e073e5d656a331eb65d1c65389a1f296040ca58d9a8dc28d027f54b0172c7bf4",
+      "duration_ms": 172000,
+      "track_number": 3,
+      "album": {
+        "id": "116943052",
+        "name": "Intimo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9617b74ba1f29473e01ef5fa73d0fb7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9617b74ba1f29473e01ef5fa73d0fb7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9617b74ba1f29473e01ef5fa73d0fb7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/791449262"
+      }
+    },
+    {
+      "id": "1790683427",
+      "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/1/0/4a191e916bf12f3d8935b0502fb30344.mp3?hdnea=exp=1774859941~acl=/api/1/1/4/a/1/0/4a191e916bf12f3d8935b0502fb30344.mp3*~data=user_id=0,application_id=42~hmac=da08c79347ac88c57ae8bbf0b0adc2eb0d7929d03589dc7218155f9c0e21ec43",
+      "duration_ms": 222000,
+      "track_number": 4,
+      "album": {
+        "id": "327263897",
+        "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f864c265fbbc3bfbaf52f089cb1d6772/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f864c265fbbc3bfbaf52f089cb1d6772/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f864c265fbbc3bfbaf52f089cb1d6772/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1790683427"
+      }
+    },
+    {
+      "id": "517799952",
+      "name": "X (feat. Maluma & Ozuna)",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/5/0/4e543d13edd22d36a248d2752edb7fde.mp3?hdnea=exp=1774859941~acl=/api/1/1/4/e/5/0/4e543d13edd22d36a248d2752edb7fde.mp3*~data=user_id=0,application_id=42~hmac=a75634bdae1f9de065f69ca685f9a18f6f41832878822c6f95b3cfcc98528565",
+      "duration_ms": 235000,
+      "track_number": 5,
+      "album": {
+        "id": "66527152",
+        "name": "X (feat. Maluma & Ozuna)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a3364528159f8377d3b1b5310f40dae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a3364528159f8377d3b1b5310f40dae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a3364528159f8377d3b1b5310f40dae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/517799952"
+      }
+    },
+    {
+      "id": "1005672462",
+      "name": "Desahogo (feat. Carla Morrison)",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/c/0/9bc83f7f9d79be6e109bee2f9020242e.mp3?hdnea=exp=1774859941~acl=/api/1/1/9/b/c/0/9bc83f7f9d79be6e109bee2f9020242e.mp3*~data=user_id=0,application_id=42~hmac=3bcf4b8f7f42e657e8220f7ccbbed0813b41a5d351f535e5b6d9e1d843211033",
+      "duration_ms": 198000,
+      "track_number": 6,
+      "album": {
+        "id": "157517122",
+        "name": "Desahogo (feat. Carla Morrison)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01e3a406573314eb9c41c0b218a98834/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01e3a406573314eb9c41c0b218a98834/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01e3a406573314eb9c41c0b218a98834/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1005672462"
+      }
+    },
+    {
+      "id": "140421811",
+      "name": "Hasta el Amanecer",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/1/0/ed1359fc67000bb0d0a779a6339be31a.mp3?hdnea=exp=1774859941~acl=/api/1/1/e/d/1/0/ed1359fc67000bb0d0a779a6339be31a.mp3*~data=user_id=0,application_id=42~hmac=2472328db2d882383d34adc78a63d1240ed3f6a1726a56a729080b200277008b",
+      "duration_ms": 197000,
+      "track_number": 7,
+      "album": {
+        "id": "15119989",
+        "name": "Fénix",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/68b6ebdd0514f16c57a87552a33d26d3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/68b6ebdd0514f16c57a87552a33d26d3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/68b6ebdd0514f16c57a87552a33d26d3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/140421811"
+      }
+    },
+    {
+      "id": "563488452",
+      "name": "Jaleo",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/b/0/07bd26de390c30c9c7e6c96277453c19.mp3?hdnea=exp=1774859941~acl=/api/1/1/0/7/b/0/07bd26de390c30c9c7e6c96277453c19.mp3*~data=user_id=0,application_id=42~hmac=7099089df4956b195aafefc94fd5e500754bdc023595a87041be85612c4be98b",
+      "duration_ms": 176000,
+      "track_number": 8,
+      "album": {
+        "id": "74744162",
+        "name": "Jaleo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91645fe98ca6d3e2a22db157e3433e81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91645fe98ca6d3e2a22db157e3433e81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91645fe98ca6d3e2a22db157e3433e81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/563488452"
+      }
+    },
+    {
+      "id": "120761858",
+      "name": "En La Cama",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/8/0/e2888685d7bfb25a615b2bce5557fb84.mp3?hdnea=exp=1774859941~acl=/api/1/1/e/2/8/0/e2888685d7bfb25a615b2bce5557fb84.mp3*~data=user_id=0,application_id=42~hmac=4384c393719e370383ae2552bcd3f9e6609620d572bb3fdce46f80a92cc3d608",
+      "duration_ms": 157000,
+      "track_number": 9,
+      "album": {
+        "id": "12602700",
+        "name": "Exitos",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c584649f46c956376816070e8624c9dd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c584649f46c956376816070e8624c9dd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c584649f46c956376816070e8624c9dd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/120761858"
+      }
+    },
+    {
+      "id": "845382192",
+      "name": "Muévelo",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/d/0/d3db77af9e98d9182490703a19713c08.mp3?hdnea=exp=1774859941~acl=/api/1/1/d/3/d/0/d3db77af9e98d9182490703a19713c08.mp3*~data=user_id=0,application_id=42~hmac=c2a6097fa15630082714ce2b6d039469399ab20f99212164e0dbb03d33d510d3",
+      "duration_ms": 194000,
+      "track_number": 10,
+      "album": {
+        "id": "125184462",
+        "name": "Muévelo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0fdebeec9eb5d4ac85715c36a13504ee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0fdebeec9eb5d4ac85715c36a13504ee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0fdebeec9eb5d4ac85715c36a13504ee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15691",
+          "name": "Nicky Jam"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/845382192"
+      }
+    }
+  ]
+}

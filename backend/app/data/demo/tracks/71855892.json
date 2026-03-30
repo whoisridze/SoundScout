@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2814830342",
+      "name": "Pink Skies",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/7/0/a5792d5052792a546e8eac2a4f8d6732.mp3?hdnea=exp=1774860037~acl=/api/1/1/a/5/7/0/a5792d5052792a546e8eac2a4f8d6732.mp3*~data=user_id=0,application_id=42~hmac=3c9cf126133991a4e58465c90ab05bbcd7006e88843a722767a6c89a0cd339e5",
+      "duration_ms": 194000,
+      "track_number": 1,
+      "album": {
+        "id": "590846582",
+        "name": "Pink Skies",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7060ea038f51fdeff23bc40eb5027663/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7060ea038f51fdeff23bc40eb5027663/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7060ea038f51fdeff23bc40eb5027663/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2814830342"
+      }
+    },
+    {
+      "id": "3078570181",
+      "name": "This World's A Giant",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/6/0/126bbb862fa711aa925944f6e1d4b05a.mp3?hdnea=exp=1774860037~acl=/api/1/1/1/2/6/0/126bbb862fa711aa925944f6e1d4b05a.mp3*~data=user_id=0,application_id=42~hmac=52b03bfb8baf77e1a175fd0b05cd56c592f1ba86081ed0017d911257357a8abd",
+      "duration_ms": 216000,
+      "track_number": 2,
+      "album": {
+        "id": "666656101",
+        "name": "This World's A Giant",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/549021d91f23a81d006b82e231f3200f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/549021d91f23a81d006b82e231f3200f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/549021d91f23a81d006b82e231f3200f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3078570181"
+      }
+    },
+    {
+      "id": "3761742092",
+      "name": "Plastic Cigarette",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/4/0/f84e863ac2f08c133bfba380b0cfbad2.mp3?hdnea=exp=1774860037~acl=/api/1/1/f/8/4/0/f84e863ac2f08c133bfba380b0cfbad2.mp3*~data=user_id=0,application_id=42~hmac=0704cabd5fe059f371f47dc04f6ce1914d44257078b393f60787c4dfdf9d159f",
+      "duration_ms": 185000,
+      "track_number": 3,
+      "album": {
+        "id": "893019512",
+        "name": "With Heaven On Top",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63d7107a3c982353b96bd2e7389d57ae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63d7107a3c982353b96bd2e7389d57ae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63d7107a3c982353b96bd2e7389d57ae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3761742092"
+      }
+    },
+    {
+      "id": "2417266355",
+      "name": "Spotless (feat. The Lumineers)",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/0/0/2a04d5400de437666db89ff7c6e508b5.mp3?hdnea=exp=1774860037~acl=/api/1/1/2/a/0/0/2a04d5400de437666db89ff7c6e508b5.mp3*~data=user_id=0,application_id=42~hmac=f11704368dcd848afb6cdba86e87b39067f1e7cfe81d9fa67f431d38a765e70c",
+      "duration_ms": 169000,
+      "track_number": 4,
+      "album": {
+        "id": "477835645",
+        "name": "Zach Bryan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2417266355"
+      }
+    },
+    {
+      "id": "2417266335",
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/b/0/8fb90dedf08a72e013e52b321d57673a.mp3?hdnea=exp=1774860037~acl=/api/1/1/8/f/b/0/8fb90dedf08a72e013e52b321d57673a.mp3*~data=user_id=0,application_id=42~hmac=808106b3eb72b5eac94cb792d7f99ffee01a452fab30a1b516a45b3e7db0e6e8",
+      "duration_ms": 227000,
+      "track_number": 5,
+      "album": {
+        "id": "477835645",
+        "name": "Zach Bryan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2417266335"
+      }
+    },
+    {
+      "id": "1714552247",
+      "name": "Something in the Orange",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/6/0/786d9d803879699be22e6a9818e517b1.mp3?hdnea=exp=1774860037~acl=/api/1/1/7/8/6/0/786d9d803879699be22e6a9818e517b1.mp3*~data=user_id=0,application_id=42~hmac=4872984b34439a6d059a76c7b26330872382e5be5280709aa1c64cfbb4ad64b7",
+      "duration_ms": 228000,
+      "track_number": 6,
+      "album": {
+        "id": "309717407",
+        "name": "Something in the Orange",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1e94b9d5da3d043035ccecc9b92838f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1e94b9d5da3d043035ccecc9b92838f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1e94b9d5da3d043035ccecc9b92838f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1714552247"
+      }
+    },
+    {
+      "id": "2118224167",
+      "name": "Dawns (feat. Maggie Rogers)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/9/0/209e9602666c83ae68c80dccd54656b2.mp3?hdnea=exp=1774860037~acl=/api/1/1/2/0/9/0/209e9602666c83ae68c80dccd54656b2.mp3*~data=user_id=0,application_id=42~hmac=e18ff8a033c9d0ab592710533dd75bada1d2471a8d5f35f2db7dce4f40885f47",
+      "duration_ms": 290000,
+      "track_number": 7,
+      "album": {
+        "id": "399047857",
+        "name": "Dawns (feat. Maggie Rogers)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a7a7bbb870661bf7748e1f7275ff88a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a7a7bbb870661bf7748e1f7275ff88a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a7a7bbb870661bf7748e1f7275ff88a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2118224167"
+      }
+    },
+    {
+      "id": "2417266215",
+      "name": "East Side of Sorrow",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/8/0/c788001bf6a9190ee104045533d78a84.mp3?hdnea=exp=1774860037~acl=/api/1/1/c/7/8/0/c788001bf6a9190ee104045533d78a84.mp3*~data=user_id=0,application_id=42~hmac=cd153eb725562a332b10498cfeb809225ac450cccd44e8bf6c865f2bd13a6deb",
+      "duration_ms": 209000,
+      "track_number": 8,
+      "album": {
+        "id": "477835645",
+        "name": "Zach Bryan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c6a9089cda16da7f524b9ef1f965270/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2417266215"
+      }
+    },
+    {
+      "id": "1736518357",
+      "name": "Something in the Orange (Z&E's Version)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/2/0/8d2e60781cded2cf4920ea3ffa1b2662.mp3?hdnea=exp=1774860037~acl=/api/1/1/8/d/2/0/8d2e60781cded2cf4920ea3ffa1b2662.mp3*~data=user_id=0,application_id=42~hmac=6f5a08977d0574e4ec49b8026fa1423315c6a4afa678c6e820e039f437386325",
+      "duration_ms": 254000,
+      "track_number": 9,
+      "album": {
+        "id": "314971957",
+        "name": "American Heartbreak",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69a7dad07b7b9323cf635c0862f916fe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69a7dad07b7b9323cf635c0862f916fe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69a7dad07b7b9323cf635c0862f916fe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1736518357"
+      }
+    },
+    {
+      "id": "1736518437",
+      "name": "Tishomingo",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/5/0/575a4aea710a19fe6fa6738660eb9f25.mp3?hdnea=exp=1774860037~acl=/api/1/1/5/7/5/0/575a4aea710a19fe6fa6738660eb9f25.mp3*~data=user_id=0,application_id=42~hmac=ec043ebd2267dcdbe86b5716bbf0627518323738a2706478c30eb5f94e54ae1f",
+      "duration_ms": 188000,
+      "track_number": 10,
+      "album": {
+        "id": "314971957",
+        "name": "American Heartbreak",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69a7dad07b7b9323cf635c0862f916fe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69a7dad07b7b9323cf635c0862f916fe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69a7dad07b7b9323cf635c0862f916fe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "71855892",
+          "name": "Zach Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1736518437"
+      }
+    }
+  ]
+}

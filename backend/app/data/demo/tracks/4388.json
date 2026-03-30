@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2915762031",
+      "name": "Leave a Light On (Talk Away The Dark)",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/f/0/c3f354702b8f2b4b49942d06b88d79a2.mp3?hdnea=exp=1774860039~acl=/api/1/1/c/3/f/0/c3f354702b8f2b4b49942d06b88d79a2.mp3*~data=user_id=0,application_id=42~hmac=c0b47f97ddcace57cb31ce3f7e5e84aa9462f1a0dcf74dbd37152cf04722541c",
+      "duration_ms": 186000,
+      "track_number": 1,
+      "album": {
+        "id": "621005931",
+        "name": "Leave a Light On (Talk Away The Dark)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56fc02d3e7d0107cf243efce10b82ef8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56fc02d3e7d0107cf243efce10b82ef8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56fc02d3e7d0107cf243efce10b82ef8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2915762031"
+      }
+    },
+    {
+      "id": "447743612",
+      "name": "The Champion",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/8/0/d2891c9cfa73ac6ff96a36050bb458bd.mp3?hdnea=exp=1774860039~acl=/api/1/1/d/2/8/0/d2891c9cfa73ac6ff96a36050bb458bd.mp3*~data=user_id=0,application_id=42~hmac=1b9fe06acbc02048f89743ea75eb47b75788f587a406f115ea2beecf4de10952",
+      "duration_ms": 223000,
+      "track_number": 2,
+      "album": {
+        "id": "54625072",
+        "name": "The Champion",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b5f4c6c22dc229a96fdff683afc56a77/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b5f4c6c22dc229a96fdff683afc56a77/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b5f4c6c22dc229a96fdff683afc56a77/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/447743612"
+      }
+    },
+    {
+      "id": "90944585",
+      "name": "Before He Cheats",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/0/0/e40d9c2f44e3a6e2dd3388960b2db84d.mp3?hdnea=exp=1774860039~acl=/api/1/1/e/4/0/0/e40d9c2f44e3a6e2dd3388960b2db84d.mp3*~data=user_id=0,application_id=42~hmac=61c0e4601538b53c4479e23c8f3289f8e122f87d438a020c010cdc68b98aeda2",
+      "duration_ms": 199000,
+      "track_number": 3,
+      "album": {
+        "id": "9223095",
+        "name": "Greatest Hits: Decade #1",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d53a821f232b3c0a749d5910af9b501/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d53a821f232b3c0a749d5910af9b501/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d53a821f232b3c0a749d5910af9b501/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/90944585"
+      }
+    },
+    {
+      "id": "2058923907",
+      "name": "Can't Stop Lovin' You",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/c/0/53c43f17d376e64aef49d5a71a30cebd.mp3?hdnea=exp=1774860039~acl=/api/1/1/5/3/c/0/53c43f17d376e64aef49d5a71a30cebd.mp3*~data=user_id=0,application_id=42~hmac=41a552b4ffd05d77b687170506dab595a0cda494690a9bbcd1ef37e2bf504a37",
+      "duration_ms": 244000,
+      "track_number": 4,
+      "album": {
+        "id": "384515057",
+        "name": "Music From Another Dimension! (Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b20c1d1d2e50f623cffeec31b3862a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b20c1d1d2e50f623cffeec31b3862a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b20c1d1d2e50f623cffeec31b3862a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2058923907"
+      }
+    },
+    {
+      "id": "1776705737",
+      "name": "Pink Champagne",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/a/0/73aa65e7a39ad14079fbaa0ba0d323c8.mp3?hdnea=exp=1774860039~acl=/api/1/1/7/3/a/0/73aa65e7a39ad14079fbaa0ba0d323c8.mp3*~data=user_id=0,application_id=42~hmac=041a65a7138785f54eeb31ce48bdbcadcacea4b55cbb2a83b1edcc81318a9f6d",
+      "duration_ms": 203000,
+      "track_number": 5,
+      "album": {
+        "id": "324216437",
+        "name": "Denim & Rhinestones",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/583aa2d501d8ca250f9840cebf5f9842/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/583aa2d501d8ca250f9840cebf5f9842/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/583aa2d501d8ca250f9840cebf5f9842/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1776705737"
+      }
+    },
+    {
+      "id": "2175514217",
+      "name": "Out Of That Truck",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/2/0/d025fffc4a45c7856114f58d368c9b80.mp3?hdnea=exp=1774860039~acl=/api/1/1/d/0/2/0/d025fffc4a45c7856114f58d368c9b80.mp3*~data=user_id=0,application_id=42~hmac=405070ad6936f822788f618c8a6fcc29494803be6ce600d11551e1dd0914bf3d",
+      "duration_ms": 177000,
+      "track_number": 6,
+      "album": {
+        "id": "413834397",
+        "name": "Out Of That Truck",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc6ca7627d7edae663ca2b01ee4d1f37/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc6ca7627d7edae663ca2b01ee4d1f37/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc6ca7627d7edae663ca2b01ee4d1f37/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2175514217"
+      }
+    },
+    {
+      "id": "13144324",
+      "name": "Starts with Goodbye",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/1/0/e81f37e48dc05df40edffe2d24068c41.mp3?hdnea=exp=1774860039~acl=/api/1/1/e/8/1/0/e81f37e48dc05df40edffe2d24068c41.mp3*~data=user_id=0,application_id=42~hmac=5108e36eee269dc028dd9c2bb6023138d0d8b35f4d67a4efd0e5ae970bed4b5d",
+      "duration_ms": 247000,
+      "track_number": 7,
+      "album": {
+        "id": "1206113",
+        "name": "Some Hearts",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e6671d78586231350f8eda9097d0036/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e6671d78586231350f8eda9097d0036/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e6671d78586231350f8eda9097d0036/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13144324"
+      }
+    },
+    {
+      "id": "20508941",
+      "name": "Blown Away",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/4/0/03488b03ba0fe934ebd4fde91c8d2031.mp3?hdnea=exp=1774860039~acl=/api/1/1/0/3/4/0/03488b03ba0fe934ebd4fde91c8d2031.mp3*~data=user_id=0,application_id=42~hmac=83a2394fcebb564687b3eae854a7e03632f52766ce835eacec559b84d6029361",
+      "duration_ms": 240000,
+      "track_number": 8,
+      "album": {
+        "id": "1948031",
+        "name": "Blown Away",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/158de2d01e335c078d327358f212ba81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/158de2d01e335c078d327358f212ba81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/158de2d01e335c078d327358f212ba81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/20508941"
+      }
+    },
+    {
+      "id": "3761148662",
+      "name": "If I Didn’t Love You",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/4/0/594962404c29118db690d5c1b2547beb.mp3?hdnea=exp=1774860039~acl=/api/1/1/5/9/4/0/594962404c29118db690d5c1b2547beb.mp3*~data=user_id=0,application_id=42~hmac=5b8f16a9666393f2964905a59d7dac370db5d02f7f59cc0ae01ef8e592d4b974",
+      "duration_ms": 212000,
+      "track_number": 9,
+      "album": {
+        "id": "892810932",
+        "name": "MACON",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1ea4d2ce3215c96c5a6a1fdbe4f8692/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1ea4d2ce3215c96c5a6a1fdbe4f8692/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1ea4d2ce3215c96c5a6a1fdbe4f8692/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3761148662"
+      }
+    },
+    {
+      "id": "2997926461",
+      "name": "I'm Gonna Love You",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/c/0/13c8a7e4022e4a549314161c1aa14a36.mp3?hdnea=exp=1774860039~acl=/api/1/1/1/3/c/0/13c8a7e4022e4a549314161c1aa14a36.mp3*~data=user_id=0,application_id=42~hmac=7f98014bf9f6db88f7d5dfd67ef4892381bc956dcbe445449098d8312ea93c70",
+      "duration_ms": 188000,
+      "track_number": 10,
+      "album": {
+        "id": "644267751",
+        "name": "I'm Gonna Love You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7acef576e9ef27ca60ec7767f4639fce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7acef576e9ef27ca60ec7767f4639fce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7acef576e9ef27ca60ec7767f4639fce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4388",
+          "name": "Carrie Underwood"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2997926461"
+      }
+    }
+  ]
+}

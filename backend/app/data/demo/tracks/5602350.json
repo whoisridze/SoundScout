@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "538599552",
+      "name": "Skylines",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/1/0/ae1e978aa32f9e397c2f9701165a4ba1.mp3?hdnea=exp=1774859927~acl=/api/1/1/a/e/1/0/ae1e978aa32f9e397c2f9701165a4ba1.mp3*~data=user_id=0,application_id=42~hmac=05de3acc9161ffb39a410936a86c3bd6265493768f86285861cd6c8b3b1a0644",
+      "duration_ms": 302000,
+      "track_number": 1,
+      "album": {
+        "id": "70191642",
+        "name": "Night Drive (Instrumental Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/538599552"
+      }
+    },
+    {
+      "id": "667949732",
+      "name": "My Delorean",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/7/0/41730b600fe0110fc4dc9e7c31693a3e.mp3?hdnea=exp=1774859927~acl=/api/1/1/4/1/7/0/41730b600fe0110fc4dc9e7c31693a3e.mp3*~data=user_id=0,application_id=42~hmac=80c8717a5402732f40457cc9a6b35ebb166efadf52d293e0d8bb105d2a373bcb",
+      "duration_ms": 230000,
+      "track_number": 2,
+      "album": {
+        "id": "94162762",
+        "name": "My Delorean",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d014c5ad15370c7f6d0f20ebd7cab365/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d014c5ad15370c7f6d0f20ebd7cab365/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d014c5ad15370c7f6d0f20ebd7cab365/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/667949732"
+      }
+    },
+    {
+      "id": "489442752",
+      "name": "Back to You",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/8/0/35857bc11fe051c60c6bdf8099701aad.mp3?hdnea=exp=1774859927~acl=/api/1/1/3/5/8/0/35857bc11fe051c60c6bdf8099701aad.mp3*~data=user_id=0,application_id=42~hmac=78437be4064149a6790fdfe97c15e804cb54b5a576d698acd00ddc0f8cac93bc",
+      "duration_ms": 268000,
+      "track_number": 3,
+      "album": {
+        "id": "61806182",
+        "name": "Night Drive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46eb6a9e48dc3c55626eedf45a6be979/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46eb6a9e48dc3c55626eedf45a6be979/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46eb6a9e48dc3c55626eedf45a6be979/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/489442752"
+      }
+    },
+    {
+      "id": "489442772",
+      "name": "Neon Lights",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/7/0/6672c197b5be13ef405c52ddc2681971.mp3?hdnea=exp=1774859927~acl=/api/1/1/6/6/7/0/6672c197b5be13ef405c52ddc2681971.mp3*~data=user_id=0,application_id=42~hmac=35920abe2f629426d5685af8aa548a39d0e834e891a90872fba79424ce48f292",
+      "duration_ms": 239000,
+      "track_number": 4,
+      "album": {
+        "id": "61806182",
+        "name": "Night Drive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46eb6a9e48dc3c55626eedf45a6be979/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46eb6a9e48dc3c55626eedf45a6be979/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46eb6a9e48dc3c55626eedf45a6be979/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/489442772"
+      }
+    },
+    {
+      "id": "538599512",
+      "name": "Cruise",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/3/0/ca38b7c383529f722bd3aaeeef4928a2.mp3?hdnea=exp=1774859927~acl=/api/1/1/c/a/3/0/ca38b7c383529f722bd3aaeeef4928a2.mp3*~data=user_id=0,application_id=42~hmac=50f720776296024fdbcad2b5e3b338907a9e3ca12266b08e42ce6b9dfcabd5e6",
+      "duration_ms": 354000,
+      "track_number": 5,
+      "album": {
+        "id": "70191642",
+        "name": "Night Drive (Instrumental Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/538599512"
+      }
+    },
+    {
+      "id": "538599542",
+      "name": "Too Late (Instrumental)",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/0/0/5c0191641472e5197402a66b51cc14d5.mp3?hdnea=exp=1774859927~acl=/api/1/1/5/c/0/0/5c0191641472e5197402a66b51cc14d5.mp3*~data=user_id=0,application_id=42~hmac=bd8c3b24f03f350f3f59acfd360c7ef434eb7fe00e3180d34ea9236e8f74b0e2",
+      "duration_ms": 301000,
+      "track_number": 6,
+      "album": {
+        "id": "70191642",
+        "name": "Night Drive (Instrumental Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/538599542"
+      }
+    },
+    {
+      "id": "489442732",
+      "name": "Static",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/e/0/85ed99e3d212b21f2a022bd70ba2f1d9.mp3?hdnea=exp=1774859927~acl=/api/1/1/8/5/e/0/85ed99e3d212b21f2a022bd70ba2f1d9.mp3*~data=user_id=0,application_id=42~hmac=89bddce5a6f39c2b0928ac53aef76b14ab4e0b5eda557ed8f4c858b140c8d446",
+      "duration_ms": 293000,
+      "track_number": 7,
+      "album": {
+        "id": "61806182",
+        "name": "Night Drive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46eb6a9e48dc3c55626eedf45a6be979/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46eb6a9e48dc3c55626eedf45a6be979/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46eb6a9e48dc3c55626eedf45a6be979/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/489442732"
+      }
+    },
+    {
+      "id": "1947479007",
+      "name": "Escaping the Void",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/e/0/4dea3208177aad888a75fc0bfedeb4e8.mp3?hdnea=exp=1774859927~acl=/api/1/1/4/d/e/0/4dea3208177aad888a75fc0bfedeb4e8.mp3*~data=user_id=0,application_id=42~hmac=d4e869145c5c6ab1ef1f3ecfc060efdc90a54f027162dd7bf03b94ce951f8114",
+      "duration_ms": 311000,
+      "track_number": 8,
+      "album": {
+        "id": "363135427",
+        "name": "Multiverse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f60c1172bd5d772428c4a1c346f08b20/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f60c1172bd5d772428c4a1c346f08b20/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f60c1172bd5d772428c4a1c346f08b20/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1947479007"
+      }
+    },
+    {
+      "id": "386580971",
+      "name": "Memories",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/1/0/5b1d19ba855ab4c6fe13aa62793b5d2c.mp3?hdnea=exp=1774859927~acl=/api/1/1/5/b/1/0/5b1d19ba855ab4c6fe13aa62793b5d2c.mp3*~data=user_id=0,application_id=42~hmac=cfbdbbd8709f2049bf35138dfbc2fdfd3efe8636352d408865ddca14438a72d9",
+      "duration_ms": 273000,
+      "track_number": 9,
+      "album": {
+        "id": "45085761",
+        "name": "Lovers, Pt. 2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb5895fa946c9bf0743ea71e9a72d73d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb5895fa946c9bf0743ea71e9a72d73d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb5895fa946c9bf0743ea71e9a72d73d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/386580971"
+      }
+    },
+    {
+      "id": "538599562",
+      "name": "Tokyo (Instrumental)",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/a/0/97a37fed6c4103e8d278e89994bb6863.mp3?hdnea=exp=1774859927~acl=/api/1/1/9/7/a/0/97a37fed6c4103e8d278e89994bb6863.mp3*~data=user_id=0,application_id=42~hmac=86563751c86e320273d964ff7b84eb64c96f9c4810820f45e12993dc8a4da047",
+      "duration_ms": 304000,
+      "track_number": 10,
+      "album": {
+        "id": "70191642",
+        "name": "Night Drive (Instrumental Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75f6395a0008df0d71385c337ad0246a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5602350",
+          "name": "Timecop1983"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/538599562"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2431653135",
+      "name": "Evermore",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/3/0/c437c8c7a9a76897c79d3904534036f1.mp3?hdnea=exp=1774859974~acl=/api/1/1/c/4/3/0/c437c8c7a9a76897c79d3904534036f1.mp3*~data=user_id=0,application_id=42~hmac=d92634ce30e8210564c309b26601b0a5cc32a0acf19e9b605b2fab0a961f74ef",
+      "duration_ms": 120000,
+      "track_number": 1,
+      "album": {
+        "id": "481928265",
+        "name": "Bedtime Stories Pt.4",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0db45aeff0aa050ab1aabf7408970af/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0db45aeff0aa050ab1aabf7408970af/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0db45aeff0aa050ab1aabf7408970af/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2431653135"
+      }
+    },
+    {
+      "id": "450906272",
+      "name": "ikigai",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/6/0/3d6d67c5e53bba3bdb6c785307c827f0.mp3?hdnea=exp=1774859974~acl=/api/1/1/3/d/6/0/3d6d67c5e53bba3bdb6c785307c827f0.mp3*~data=user_id=0,application_id=42~hmac=3d04e46a58b94eb8183e7acdf2cb2ba970bcc759952e99037d1defdc52cfca63",
+      "duration_ms": 149000,
+      "track_number": 2,
+      "album": {
+        "id": "55181752",
+        "name": "hiraeth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5999fcc29b063fd319d5a2e25827153e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5999fcc29b063fd319d5a2e25827153e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5999fcc29b063fd319d5a2e25827153e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/450906272"
+      }
+    },
+    {
+      "id": "887663942",
+      "name": "Dreaming",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/b/0/47bba90e0f101cd25d7c7a481a0f7795.mp3?hdnea=exp=1774859974~acl=/api/1/1/4/7/b/0/47bba90e0f101cd25d7c7a481a0f7795.mp3*~data=user_id=0,application_id=42~hmac=c42c03211d17c25533d34e7d199963909d29ef4f01e99282027a95756195d494",
+      "duration_ms": 151000,
+      "track_number": 3,
+      "album": {
+        "id": "133580902",
+        "name": "Dreaming",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a792c6d0a59e59b67ff142a278a8b64/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a792c6d0a59e59b67ff142a278a8b64/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a792c6d0a59e59b67ff142a278a8b64/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/887663942"
+      }
+    },
+    {
+      "id": "450906322",
+      "name": "phosphenes",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/c/0/0dcb910bc7db256eae86736424525548.mp3?hdnea=exp=1774859974~acl=/api/1/1/0/d/c/0/0dcb910bc7db256eae86736424525548.mp3*~data=user_id=0,application_id=42~hmac=d87c9889c171913a13025aae4ee445e1e3c7fa7af534cfee7d18fd7e4c08170c",
+      "duration_ms": 172000,
+      "track_number": 4,
+      "album": {
+        "id": "55181752",
+        "name": "hiraeth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5999fcc29b063fd319d5a2e25827153e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5999fcc29b063fd319d5a2e25827153e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5999fcc29b063fd319d5a2e25827153e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/450906322"
+      }
+    },
+    {
+      "id": "450880392",
+      "name": "monster gambling in tokyo",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/c/0/6fc7032043036830ef68faa7b675a1fb.mp3?hdnea=exp=1774859974~acl=/api/1/1/6/f/c/0/6fc7032043036830ef68faa7b675a1fb.mp3*~data=user_id=0,application_id=42~hmac=3a0ba7e0c0db441a26938a5659d94846498d6ba35eea6130c8ccd04d6818eacb",
+      "duration_ms": 77000,
+      "track_number": 5,
+      "album": {
+        "id": "55170392",
+        "name": "rainy evening",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b00eedca8e23bab2f4cc83780a4a9d76/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b00eedca8e23bab2f4cc83780a4a9d76/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b00eedca8e23bab2f4cc83780a4a9d76/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/450880392"
+      }
+    },
+    {
+      "id": "444704062",
+      "name": "wings (one for jun)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/b/0/c5bf2c2a17ab10c44bb06c25ebd1a854.mp3?hdnea=exp=1774859974~acl=/api/1/1/c/5/b/0/c5bf2c2a17ab10c44bb06c25ebd1a854.mp3*~data=user_id=0,application_id=42~hmac=90e1a045cafefbb8201e0fb04b7bcf83d461d55ecc6e5abcc9ba613d37078e8b",
+      "duration_ms": 125000,
+      "track_number": 6,
+      "album": {
+        "id": "54042902",
+        "name": "nobody else",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ff89ff4db528dd7bb2039803f6f946/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ff89ff4db528dd7bb2039803f6f946/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3ff89ff4db528dd7bb2039803f6f946/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/444704062"
+      }
+    },
+    {
+      "id": "450880382",
+      "name": "controlla",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/f/0/b7f1510833ea1e2ad81447c80e9ee66b.mp3?hdnea=exp=1774859974~acl=/api/1/1/b/7/f/0/b7f1510833ea1e2ad81447c80e9ee66b.mp3*~data=user_id=0,application_id=42~hmac=060b556cb32b8bd4260af2e727855d187ef92749d0463a6080363832b2f21c9d",
+      "duration_ms": 109000,
+      "track_number": 7,
+      "album": {
+        "id": "55170392",
+        "name": "rainy evening",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b00eedca8e23bab2f4cc83780a4a9d76/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b00eedca8e23bab2f4cc83780a4a9d76/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b00eedca8e23bab2f4cc83780a4a9d76/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/450880382"
+      }
+    },
+    {
+      "id": "412423872",
+      "name": "last time",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/0/0/0c04ec6ec6d185d15898683dcc96a74d.mp3?hdnea=exp=1774859974~acl=/api/1/1/0/c/0/0/0c04ec6ec6d185d15898683dcc96a74d.mp3*~data=user_id=0,application_id=42~hmac=2919e8a54f6f1decfee65eb23df0342dd499e0dec543f9f878a4e7db744bea8d",
+      "duration_ms": 171000,
+      "track_number": 8,
+      "album": {
+        "id": "49077062",
+        "name": "last time",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dc8c1f9c2621bf172e382ca50972283/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dc8c1f9c2621bf172e382ca50972283/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dc8c1f9c2621bf172e382ca50972283/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/412423872"
+      }
+    },
+    {
+      "id": "1847712727",
+      "name": "Starlink",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/9/0/b092d67cc70ad061fa6bced879e770bd.mp3?hdnea=exp=1774859974~acl=/api/1/1/b/0/9/0/b092d67cc70ad061fa6bced879e770bd.mp3*~data=user_id=0,application_id=42~hmac=ce724b6f0fd5ea0d5ae47a1c69d0b5db65b389b981480d1bf15efeafe55122f7",
+      "duration_ms": 154000,
+      "track_number": 9,
+      "album": {
+        "id": "341798327",
+        "name": "chillhop beat tapes: SwuM x Idealism",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f76bbc3a9ad6f0b8295164d6b52349f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f76bbc3a9ad6f0b8295164d6b52349f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f76bbc3a9ad6f0b8295164d6b52349f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1847712727"
+      }
+    },
+    {
+      "id": "1361998332",
+      "name": "And Then I Woke Up",
+      "popularity": 3,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/0/0/d30cb9325c9f8cf0baf55cf3af74ae87.mp3?hdnea=exp=1774859974~acl=/api/1/1/d/3/0/0/d30cb9325c9f8cf0baf55cf3af74ae87.mp3*~data=user_id=0,application_id=42~hmac=e1bc9baa1b163921d8ad56ce5650f130a5387f6eb686a196516e5f0a5e24ede8",
+      "duration_ms": 314000,
+      "track_number": 10,
+      "album": {
+        "id": "227473412",
+        "name": "Sit In Silence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/768a8e6618cfdd440eace1b7a50ae51b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/768a8e6618cfdd440eace1b7a50ae51b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/768a8e6618cfdd440eace1b7a50ae51b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11900657",
+          "name": "Idealism"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1361998332"
+      }
+    }
+  ]
+}

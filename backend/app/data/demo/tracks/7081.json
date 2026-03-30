@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "63429145",
+      "name": "Hills And Valleys",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/6/0/bb61503483d8ffad6c994549e5227cec.mp3?hdnea=exp=1774860109~acl=/api/1/1/b/b/6/0/bb61503483d8ffad6c994549e5227cec.mp3*~data=user_id=0,application_id=42~hmac=912f7846998f785196d76da33fb6a6ab64974c31b0aca3ca944c963b91cccbe8",
+      "duration_ms": 273000,
+      "track_number": 1,
+      "album": {
+        "id": "6230910",
+        "name": "Inna Heights",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1be4cf85a5a9347fb0ce56abb27fe93/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1be4cf85a5a9347fb0ce56abb27fe93/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1be4cf85a5a9347fb0ce56abb27fe93/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63429145"
+      }
+    },
+    {
+      "id": "3867322041",
+      "name": "African Soldier",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/1/0/dc1bd82740ce862da5278fee12609618.mp3?hdnea=exp=1774860109~acl=/api/1/1/d/c/1/0/dc1bd82740ce862da5278fee12609618.mp3*~data=user_id=0,application_id=42~hmac=34f9bb121700aae77b7cbf0ac45965d7a0228f1a6e20c454ab9925c3f33223d0",
+      "duration_ms": 166000,
+      "track_number": 2,
+      "album": {
+        "id": "927326191",
+        "name": "African Soldier",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e19e55780193713ad5c57666d753a49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e19e55780193713ad5c57666d753a49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e19e55780193713ad5c57666d753a49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3867322041"
+      }
+    },
+    {
+      "id": "2267096987",
+      "name": "Party Girls (feat. Buju Banton)",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/a/0/a9af1fb3e8fecf72d1f2075727de4e40.mp3?hdnea=exp=1774860109~acl=/api/1/1/a/9/a/0/a9af1fb3e8fecf72d1f2075727de4e40.mp3*~data=user_id=0,application_id=42~hmac=8a375e600f18bcd93f7aa86fe7174996b935cba6263c32ac61496bb67199609c",
+      "duration_ms": 243000,
+      "track_number": 3,
+      "album": {
+        "id": "437122287",
+        "name": "Party Girls (feat. Buju Banton)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/88b6bce7798275432bb70e5407327edf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/88b6bce7798275432bb70e5407327edf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/88b6bce7798275432bb70e5407327edf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2267096987"
+      }
+    },
+    {
+      "id": "1167885",
+      "name": "Murderer",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/1/0/d51247be1f4c154f790dce25d3822425.mp3?hdnea=exp=1774860109~acl=/api/1/1/d/5/1/0/d51247be1f4c154f790dce25d3822425.mp3*~data=user_id=0,application_id=42~hmac=850454335860eba44b1fa3882f96e81a659ba823ed3fa51bb11f1d056c71be50",
+      "duration_ms": 235000,
+      "track_number": 4,
+      "album": {
+        "id": "125073",
+        "name": "Til Shiloh",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0b52fce419c2c352332d99bc5642f14c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0b52fce419c2c352332d99bc5642f14c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0b52fce419c2c352332d99bc5642f14c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1167885"
+      }
+    },
+    {
+      "id": "37181301",
+      "name": "Pull It Up",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/b/0/9bbe30a2a1408df759ae6ba67e2cb9b3.mp3?hdnea=exp=1774860109~acl=/api/1/1/9/b/b/0/9bbe30a2a1408df759ae6ba67e2cb9b3.mp3*~data=user_id=0,application_id=42~hmac=268e41812bcd5d39300537384ae233bd7f22598bdc66da170c0df85d63975f9b",
+      "duration_ms": 215000,
+      "track_number": 5,
+      "album": {
+        "id": "3620561",
+        "name": "Reggae Gold 2012",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/782bc32a70f571616281bcb65ece6f89/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/782bc32a70f571616281bcb65ece6f89/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/782bc32a70f571616281bcb65ece6f89/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/37181301"
+      }
+    },
+    {
+      "id": "3892630101",
+      "name": "Punisher",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/3/0/ee3e22e26000e055e428172e6cb3c5be.mp3?hdnea=exp=1774860109~acl=/api/1/1/e/e/3/0/ee3e22e26000e055e428172e6cb3c5be.mp3*~data=user_id=0,application_id=42~hmac=09bd7bd73e1600cc9bfa79fc999505f7673bc018c07c9e99d9681f09d2d45da2",
+      "duration_ms": 182000,
+      "track_number": 6,
+      "album": {
+        "id": "936873331",
+        "name": "Punisher",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ac97cdeee0d68c9bd54a677ea6b0ffb4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ac97cdeee0d68c9bd54a677ea6b0ffb4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ac97cdeee0d68c9bd54a677ea6b0ffb4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3892630101"
+      }
+    },
+    {
+      "id": "1173600382",
+      "name": "Champion",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/8/0/fa8e02bcbcf2884770900a6e4732772f.mp3?hdnea=exp=1774860109~acl=/api/1/1/f/a/8/0/fa8e02bcbcf2884770900a6e4732772f.mp3*~data=user_id=0,application_id=42~hmac=90167e8c9341b70b4546872ed2b04b71d194740a708719e9e072260c13151940",
+      "duration_ms": 240000,
+      "track_number": 7,
+      "album": {
+        "id": "192525472",
+        "name": "'Til Shiloh (25th Anniversary Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bae5501d409dcb89847fe768d1dc40a9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bae5501d409dcb89847fe768d1dc40a9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bae5501d409dcb89847fe768d1dc40a9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1173600382"
+      }
+    },
+    {
+      "id": "63729589",
+      "name": "Ring The Alarm Quick",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/b/0/b5b1d0497697fd12735e669a9012b929.mp3?hdnea=exp=1774860109~acl=/api/1/1/b/5/b/0/b5b1d0497697fd12735e669a9012b929.mp3*~data=user_id=0,application_id=42~hmac=be130e28f1fe37c9a69f1aef2bece22e653540782bdcd81c793998b3e57a2fc7",
+      "duration_ms": 214000,
+      "track_number": 8,
+      "album": {
+        "id": "6258749",
+        "name": "Reggae Hits, Vol. 34",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3199dc37eeca4fd4faa4c5437faffb2d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3199dc37eeca4fd4faa4c5437faffb2d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3199dc37eeca4fd4faa4c5437faffb2d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63729589"
+      }
+    },
+    {
+      "id": "63407484",
+      "name": "23rd Psalm (feat. Morgan Heritage)",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/3/0/6c3065d9bcca9d30b431df79a264a3a2.mp3?hdnea=exp=1774860109~acl=/api/1/1/6/c/3/0/6c3065d9bcca9d30b431df79a264a3a2.mp3*~data=user_id=0,application_id=42~hmac=90815e8c40029077008a9a783d041a742579cd227b76d91143cd5bf255887178",
+      "duration_ms": 340000,
+      "track_number": 9,
+      "album": {
+        "id": "6228830",
+        "name": "Buju & Friends",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96353d19465d161b086efc2f5babdb44/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96353d19465d161b086efc2f5babdb44/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96353d19465d161b086efc2f5babdb44/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63407484"
+      }
+    },
+    {
+      "id": "63429160",
+      "name": "Love Sponge",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/e/0/b6ef4a71d6a7e78a5425848fb8892c84.mp3?hdnea=exp=1774860109~acl=/api/1/1/b/6/e/0/b6ef4a71d6a7e78a5425848fb8892c84.mp3*~data=user_id=0,application_id=42~hmac=5ca32827913465854efdc97e850bfa676d1e4aff05e98a0137a78fb9fac7fdc7",
+      "duration_ms": 218000,
+      "track_number": 10,
+      "album": {
+        "id": "6230910",
+        "name": "Inna Heights",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1be4cf85a5a9347fb0ce56abb27fe93/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1be4cf85a5a9347fb0ce56abb27fe93/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1be4cf85a5a9347fb0ce56abb27fe93/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7081",
+          "name": "Buju Banton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63429160"
+      }
+    }
+  ]
+}

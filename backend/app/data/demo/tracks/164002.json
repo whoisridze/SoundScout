@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "42855631",
+      "name": "Gal A Bubble (Radio Version)",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/c/0/2dc29c6b146e01a6089e3400b5b930e0.mp3?hdnea=exp=1774860112~acl=/api/1/1/2/d/c/0/2dc29c6b146e01a6089e3400b5b930e0.mp3*~data=user_id=0,application_id=42~hmac=f411aea8f13a7d193e172298c9a4495f3ea3bc6a8dcc2b997344f3bca38bb8e3",
+      "duration_ms": 212000,
+      "track_number": 1,
+      "album": {
+        "id": "4177641",
+        "name": "Gal A Bubble",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9233595e0efe0288106b7c310b24d8a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9233595e0efe0288106b7c310b24d8a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9233595e0efe0288106b7c310b24d8a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/42855631"
+      }
+    },
+    {
+      "id": "3480494261",
+      "name": "Top Gyal",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/4/0/524ed46ab4fb4033516b57ea991aedc7.mp3?hdnea=exp=1774860112~acl=/api/1/1/5/2/4/0/524ed46ab4fb4033516b57ea991aedc7.mp3*~data=user_id=0,application_id=42~hmac=66219e2d8bc13eb1d72dad40c95f537ac525e6f36fb94d8e52e5135e5f4c3a01",
+      "duration_ms": 126000,
+      "track_number": 2,
+      "album": {
+        "id": "795238531",
+        "name": "Top Gyal",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9ff6497f32defe97b25384caa04e225/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9ff6497f32defe97b25384caa04e225/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9ff6497f32defe97b25384caa04e225/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3480494261"
+      }
+    },
+    {
+      "id": "143754056",
+      "name": "Gal Dem Sugar",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/b/0/27b3b87507b90ad6b0112d700a209d4d.mp3?hdnea=exp=1774860112~acl=/api/1/1/2/7/b/0/27b3b87507b90ad6b0112d700a209d4d.mp3*~data=user_id=0,application_id=42~hmac=96a737b390dbcf69c85ef4e5c0f533d95bff7def6a8edbbe7c301ae8cfaddb45",
+      "duration_ms": 204000,
+      "track_number": 3,
+      "album": {
+        "id": "15575344",
+        "name": "Gal Dem Sugar",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c3df561804bacc701a0c5049bdd881e2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c3df561804bacc701a0c5049bdd881e2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c3df561804bacc701a0c5049bdd881e2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/143754056"
+      }
+    },
+    {
+      "id": "2585721882",
+      "name": "Bruk off Yuh Back",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/a/0/f4a98bb8bfc8b505c50cee780690b3c6.mp3?hdnea=exp=1774860112~acl=/api/1/1/f/4/a/0/f4a98bb8bfc8b505c50cee780690b3c6.mp3*~data=user_id=0,application_id=42~hmac=272973d62571dd1b69a51458dff240524fbd0266082c812ff150a01fac89c600",
+      "duration_ms": 173000,
+      "track_number": 4,
+      "album": {
+        "id": "523979712",
+        "name": "Bruk off Yuh Back",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f67915ddf974f152d740e57e7ebe559f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f67915ddf974f152d740e57e7ebe559f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f67915ddf974f152d740e57e7ebe559f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2585721882"
+      }
+    },
+    {
+      "id": "551373362",
+      "name": "Meck It Clap (Remix)",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/f/0/75f8ec73a7714113ea810134b06ec366.mp3?hdnea=exp=1774860112~acl=/api/1/1/7/5/f/0/75f8ec73a7714113ea810134b06ec366.mp3*~data=user_id=0,application_id=42~hmac=1b7d4b22530644dd24f644b2fe621380cac0c1e949d34fff4869d6578fa0a448",
+      "duration_ms": 188000,
+      "track_number": 5,
+      "album": {
+        "id": "72516232",
+        "name": "Meck It Clap (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c42e3ad4074421a3268724f835ae2303/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c42e3ad4074421a3268724f835ae2303/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c42e3ad4074421a3268724f835ae2303/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/551373362"
+      }
+    },
+    {
+      "id": "3549793851",
+      "name": "Emoji Pêche",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/f/0/51f650a4834565eae4b570d427c00c9f.mp3?hdnea=exp=1774860112~acl=/api/1/1/5/1/f/0/51f650a4834565eae4b570d427c00c9f.mp3*~data=user_id=0,application_id=42~hmac=3f4b3056c4c5f8c3c86ba6c2a40ad4cbeeb08465b26810001a62546e590e52a1",
+      "duration_ms": 138000,
+      "track_number": 6,
+      "album": {
+        "id": "819156361",
+        "name": "Queen",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf62cc02c759f93e2dd4943d3b40441c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf62cc02c759f93e2dd4943d3b40441c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf62cc02c759f93e2dd4943d3b40441c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3549793851"
+      }
+    },
+    {
+      "id": "693923492",
+      "name": "Walk and Wine (Gal a Bubble 3)",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/0/0/da0a78f963dc960f7fc185394b242e2f.mp3?hdnea=exp=1774860112~acl=/api/1/1/d/a/0/0/da0a78f963dc960f7fc185394b242e2f.mp3*~data=user_id=0,application_id=42~hmac=c54fdd82f797929195b72d5cbe4ff4a855d5f67a1b6472af360bcb709fe9f7e0",
+      "duration_ms": 204000,
+      "track_number": 7,
+      "album": {
+        "id": "99794162",
+        "name": "Walk and Wine (Gal a Bubble 3)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/510442822f95c4484e0f84750e3539a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/510442822f95c4484e0f84750e3539a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/510442822f95c4484e0f84750e3539a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/693923492"
+      }
+    },
+    {
+      "id": "581782082",
+      "name": "My Own",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/e/0/95e976c2b8783c5111f14415124b5c5a.mp3?hdnea=exp=1774860112~acl=/api/1/1/9/5/e/0/95e976c2b8783c5111f14415124b5c5a.mp3*~data=user_id=0,application_id=42~hmac=380fd0c249e3b4705ac5dae7327f0943d2848ca309d2c7e469ab1954303e4518",
+      "duration_ms": 145000,
+      "track_number": 8,
+      "album": {
+        "id": "77969712",
+        "name": "RAW",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5849e5856d9b227fc19645bb9b32a06f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5849e5856d9b227fc19645bb9b32a06f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5849e5856d9b227fc19645bb9b32a06f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/581782082"
+      }
+    },
+    {
+      "id": "1249373392",
+      "name": "Change Of Thoughts",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/9/0/1a9dca17b018d5e0c5fbcbda8c08d561.mp3?hdnea=exp=1774860112~acl=/api/1/1/1/a/9/0/1a9dca17b018d5e0c5fbcbda8c08d561.mp3*~data=user_id=0,application_id=42~hmac=b85e7c45b03937824331d97860e6d164b4af3d6ad01952e858bb456ac979b4b6",
+      "duration_ms": 168000,
+      "track_number": 9,
+      "album": {
+        "id": "208831182",
+        "name": "Change Of Thoughts",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01f7d0be57eda03ea3e046b9aad25cf5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01f7d0be57eda03ea3e046b9aad25cf5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01f7d0be57eda03ea3e046b9aad25cf5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1249373392"
+      }
+    },
+    {
+      "id": "3163642281",
+      "name": "Bingo",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/a/0/8da7a2e73684a2f0e03ae942f0df2490.mp3?hdnea=exp=1774860112~acl=/api/1/1/8/d/a/0/8da7a2e73684a2f0e03ae942f0df2490.mp3*~data=user_id=0,application_id=42~hmac=f25ed51eddf5397eef225446d0dd3f0312e7b3473f9778ce42f7b87a2222ab85",
+      "duration_ms": 191000,
+      "track_number": 10,
+      "album": {
+        "id": "690435511",
+        "name": "Bingo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9097d39172e52d12c903b540e7687140/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9097d39172e52d12c903b540e7687140/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9097d39172e52d12c903b540e7687140/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "164002",
+          "name": "Konshens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3163642281"
+      }
+    }
+  ]
+}

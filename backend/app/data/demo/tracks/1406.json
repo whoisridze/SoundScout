@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "14886403",
+      "name": "'Round Midnight",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/b/0/9cb6258d4e31e3c328d2cf58014bb3cf.mp3?hdnea=exp=1774859910~acl=/api/1/1/9/c/b/0/9cb6258d4e31e3c328d2cf58014bb3cf.mp3*~data=user_id=0,application_id=42~hmac=c69f6dd4f849f1cf6138e3c5bd1920333a5c3b6340568a9edce78442a02f54a0",
+      "duration_ms": 242000,
+      "track_number": 1,
+      "album": {
+        "id": "1372629",
+        "name": "The Essential Herbie Hancock",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/768a2ba44426bb4cfae7ceedeca67a09/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/768a2ba44426bb4cfae7ceedeca67a09/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/768a2ba44426bb4cfae7ceedeca67a09/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14886403"
+      }
+    },
+    {
+      "id": "3104591",
+      "name": "Cantaloupe Island (Remastered 1999/Rudy Van Gelder Edition)",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/1/0/f4153cecf820fb370de2b4d4c837d034.mp3?hdnea=exp=1774859910~acl=/api/1/1/f/4/1/0/f4153cecf820fb370de2b4d4c837d034.mp3*~data=user_id=0,application_id=42~hmac=a687ceff21d19757b7375f615652f7f261ed0c032e6a62fa930e08ffa27f763b",
+      "duration_ms": 330000,
+      "track_number": 2,
+      "album": {
+        "id": "300216",
+        "name": "Empyrean Isles (Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c01af6d8d58f3721a6cfd4be42e18f1f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c01af6d8d58f3721a6cfd4be42e18f1f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c01af6d8d58f3721a6cfd4be42e18f1f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3104591"
+      }
+    },
+    {
+      "id": "1015296",
+      "name": "Chameleon",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/e/0/24ee542c0f59d25622072e9c6cac5eb7.mp3?hdnea=exp=1774859910~acl=/api/1/1/2/4/e/0/24ee542c0f59d25622072e9c6cac5eb7.mp3*~data=user_id=0,application_id=42~hmac=0ef70a5220c8783a7092048042b2e474785499c7a1b61f56e3d7202e61787ded",
+      "duration_ms": 941000,
+      "track_number": 3,
+      "album": {
+        "id": "111628",
+        "name": "Head Hunters",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08a552af7a8c574a73fdaec9d9f8d4f6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08a552af7a8c574a73fdaec9d9f8d4f6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08a552af7a8c574a73fdaec9d9f8d4f6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1015296"
+      }
+    },
+    {
+      "id": "623838",
+      "name": "Rockit",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/8/0/218120dc700b8a44f8210c2f8aca5a8b.mp3?hdnea=exp=1774859910~acl=/api/1/1/2/1/8/0/218120dc700b8a44f8210c2f8aca5a8b.mp3*~data=user_id=0,application_id=42~hmac=033b186dc0658d239a3b927c359be28908fda6408e8923356530a4780e2920c7",
+      "duration_ms": 324000,
+      "track_number": 4,
+      "album": {
+        "id": "78189",
+        "name": "Future Shock",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/633145348ce715f008e5f9c66e84245c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/633145348ce715f008e5f9c66e84245c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/633145348ce715f008e5f9c66e84245c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/623838"
+      }
+    },
+    {
+      "id": "1012605",
+      "name": "Watermelon Man",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/c/0/78cc3e04030811237d98f1333128367b.mp3?hdnea=exp=1774859910~acl=/api/1/1/7/8/c/0/78cc3e04030811237d98f1333128367b.mp3*~data=user_id=0,application_id=42~hmac=63a8e4561faa7f17693dda12f305c92d708b2d16ed229223fec002c6b8eb3e88",
+      "duration_ms": 389000,
+      "track_number": 5,
+      "album": {
+        "id": "111628",
+        "name": "Head Hunters",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08a552af7a8c574a73fdaec9d9f8d4f6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08a552af7a8c574a73fdaec9d9f8d4f6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08a552af7a8c574a73fdaec9d9f8d4f6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1012605"
+      }
+    },
+    {
+      "id": "15527210",
+      "name": "Calypso",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/5/0/d95086652f6209c3599b21cedc287f74.mp3?hdnea=exp=1774859910~acl=/api/1/1/d/9/5/0/d95086652f6209c3599b21cedc287f74.mp3*~data=user_id=0,application_id=42~hmac=a14b996ddf780e1c21aabad53a50bf036d91b25c26d2927f9c81ba05d6e0052f",
+      "duration_ms": 403000,
+      "track_number": 6,
+      "album": {
+        "id": "1435357",
+        "name": "Mr. Hands",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a39a3b251cecc932481435c98cf4b3d9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a39a3b251cecc932481435c98cf4b3d9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a39a3b251cecc932481435c98cf4b3d9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15527210"
+      }
+    },
+    {
+      "id": "1100913",
+      "name": "River",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/1/0/74148fb39b37b014ab6f8ac65ab6ee58.mp3?hdnea=exp=1774859910~acl=/api/1/1/7/4/1/0/74148fb39b37b014ab6f8ac65ab6ee58.mp3*~data=user_id=0,application_id=42~hmac=217cbc0a16130cd9bf892a6570847daa96a8dd0a85f59e9aac5003dc7eebf091",
+      "duration_ms": 327000,
+      "track_number": 7,
+      "album": {
+        "id": "118774",
+        "name": "River: The Joni Letters",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c682e5fdc2858b2cddcd65cb2f97a8d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c682e5fdc2858b2cddcd65cb2f97a8d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c682e5fdc2858b2cddcd65cb2f97a8d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1100913"
+      }
+    },
+    {
+      "id": "687886",
+      "name": "Wiggle Waggle",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/b/0/ebbff61048f1eca32c1623e6d581e55e.mp3?hdnea=exp=1774859910~acl=/api/1/1/e/b/b/0/ebbff61048f1eca32c1623e6d581e55e.mp3*~data=user_id=0,application_id=42~hmac=56b7162bc915261584c0489d66147dd86f622609fcf638d09a62a66fd733d1ae",
+      "duration_ms": 350000,
+      "track_number": 8,
+      "album": {
+        "id": "82965",
+        "name": "MORE PSYCHEDELIC JAZZ & SOUL",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed97b5afdaf3fda0f6dc272a3ed3874d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed97b5afdaf3fda0f6dc272a3ed3874d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed97b5afdaf3fda0f6dc272a3ed3874d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/687886"
+      }
+    },
+    {
+      "id": "2167383",
+      "name": "Stars in Your Eyes",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/3/0/323b8927c7b1c7fe1bd9d3ce45071abe.mp3?hdnea=exp=1774859910~acl=/api/1/1/3/2/3/0/323b8927c7b1c7fe1bd9d3ce45071abe.mp3*~data=user_id=0,application_id=42~hmac=d95699f584bfe49733147e8e5c66b0d3fc9762c4ea16a364ddbd50e514f0e02d",
+      "duration_ms": 424000,
+      "track_number": 9,
+      "album": {
+        "id": "216880",
+        "name": "Monster",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ff8c6a8231bc88e2b7043fdb7393714/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ff8c6a8231bc88e2b7043fdb7393714/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ff8c6a8231bc88e2b7043fdb7393714/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2167383"
+      }
+    },
+    {
+      "id": "2262751",
+      "name": "Transition (Live At Massey Hall / 2001)",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/a/0/f7a7e2e0a40fdfdc7e6f97d0fd29ef19.mp3?hdnea=exp=1774859910~acl=/api/1/1/f/7/a/0/f7a7e2e0a40fdfdc7e6f97d0fd29ef19.mp3*~data=user_id=0,application_id=42~hmac=69955f71c5a7d16091d007dc7666aacc35558e645bf4464c67d4e675d7b0f8dd",
+      "duration_ms": 626000,
+      "track_number": 10,
+      "album": {
+        "id": "226044",
+        "name": "Directions in Music: Live At Massey Hall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8a6f403fd1d1381ebbed7021c938c82/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8a6f403fd1d1381ebbed7021c938c82/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8a6f403fd1d1381ebbed7021c938c82/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1406",
+          "name": "Herbie Hancock"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2262751"
+      }
+    }
+  ]
+}

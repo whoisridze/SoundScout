@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "10303625",
+      "name": "Tom Sawyer",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/e/0/28ea52fbca5ec61d1e27286d6b16e787.mp3?hdnea=exp=1774859986~acl=/api/1/1/2/8/e/0/28ea52fbca5ec61d1e27286d6b16e787.mp3*~data=user_id=0,application_id=42~hmac=136d6374f53e9763ad3fa76b73d37b01ee962f969367da6f38b02004f6624acf",
+      "duration_ms": 276000,
+      "track_number": 1,
+      "album": {
+        "id": "942295",
+        "name": "Moving Pictures (2011 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ee330e0d51624845386572426b5ed80/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ee330e0d51624845386572426b5ed80/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ee330e0d51624845386572426b5ed80/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10303625"
+      }
+    },
+    {
+      "id": "1161421",
+      "name": "Natural Science",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/2/0/732cc10b25bd396d3c63c897c284d4e0.mp3?hdnea=exp=1774859986~acl=/api/1/1/7/3/2/0/732cc10b25bd396d3c63c897c284d4e0.mp3*~data=user_id=0,application_id=42~hmac=2db544f443b1ae05cd915d75bdb4b00a477dff014cdc3c7dcd7f2934a9251b31",
+      "duration_ms": 557000,
+      "track_number": 2,
+      "album": {
+        "id": "124360",
+        "name": "Permanent Waves",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5bc2ef7928d0e357f050422ef1110c3a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5bc2ef7928d0e357f050422ef1110c3a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5bc2ef7928d0e357f050422ef1110c3a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1161421"
+      }
+    },
+    {
+      "id": "1085806",
+      "name": "Anthem",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/5/0/165bd578f7871f1f3c52bfab97a7d786.mp3?hdnea=exp=1774859986~acl=/api/1/1/1/6/5/0/165bd578f7871f1f3c52bfab97a7d786.mp3*~data=user_id=0,application_id=42~hmac=f989ff43762954a12d29fa66bfc5a91dfd0aa0a8a7ae41f40610c73ba9282cbe",
+      "duration_ms": 266000,
+      "track_number": 3,
+      "album": {
+        "id": "117239",
+        "name": "Fly By Night",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1ec38ec768cfbcac31f6296d982ef1ff/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1ec38ec768cfbcac31f6296d982ef1ff/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1ec38ec768cfbcac31f6296d982ef1ff/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085806"
+      }
+    },
+    {
+      "id": "1085805",
+      "name": "Working Man",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/c/0/f8cb97a0d8653024e3dbae97a3c08044.mp3?hdnea=exp=1774859986~acl=/api/1/1/f/8/c/0/f8cb97a0d8653024e3dbae97a3c08044.mp3*~data=user_id=0,application_id=42~hmac=ce1e078663955dd1648b9b168ea29c63157454057a5ea22020dd401516ec7dbd",
+      "duration_ms": 429000,
+      "track_number": 4,
+      "album": {
+        "id": "117238",
+        "name": "Rush",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f27aa6f63fbea69d858c93b965529fc0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f27aa6f63fbea69d858c93b965529fc0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f27aa6f63fbea69d858c93b965529fc0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085805"
+      }
+    },
+    {
+      "id": "62681249",
+      "name": "A Passage To Bangkok",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/4/0/504ff9a2a3711c056a7590c65b15f64a.mp3?hdnea=exp=1774859986~acl=/api/1/1/5/0/4/0/504ff9a2a3711c056a7590c65b15f64a.mp3*~data=user_id=0,application_id=42~hmac=81bece1ed61737b6a0ad52c8185676a9d6e1fff66539c9beba628ca457bdfbcc",
+      "duration_ms": 214000,
+      "track_number": 5,
+      "album": {
+        "id": "6152799",
+        "name": "2112 (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/890e281535a6af2d701a1518e729547b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/890e281535a6af2d701a1518e729547b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/890e281535a6af2d701a1518e729547b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/62681249"
+      }
+    },
+    {
+      "id": "2307405",
+      "name": "The Trees",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/2/0/3528cbada71ee0ce450ea0c76f129310.mp3?hdnea=exp=1774859986~acl=/api/1/1/3/5/2/0/3528cbada71ee0ce450ea0c76f129310.mp3*~data=user_id=0,application_id=42~hmac=eb19f7dc6783ce5065b590fa00881bbd48049e006304e9abc05f3645dff0af0c",
+      "duration_ms": 285000,
+      "track_number": 6,
+      "album": {
+        "id": "229925",
+        "name": "Hemispheres",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/067fcbabe9c4a7b26d992bc205994462/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/067fcbabe9c4a7b26d992bc205994462/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/067fcbabe9c4a7b26d992bc205994462/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2307405"
+      }
+    },
+    {
+      "id": "3884588291",
+      "name": "The Enemy Within (2026 Terry Brown Mix)",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/1/0/7d1e136f8dd0d04ca4578e70abb99d0b.mp3?hdnea=exp=1774859986~acl=/api/1/1/7/d/1/0/7d1e136f8dd0d04ca4578e70abb99d0b.mp3*~data=user_id=0,application_id=42~hmac=4644f48c466bbfd1e2a1d4edf3ebae31eaeb4ac840bbf87e8548a574f2590181",
+      "duration_ms": 288000,
+      "track_number": 7,
+      "album": {
+        "id": "933738681",
+        "name": "Grace Under Pressure (Super Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96970e6813a789c4a5e0d8925eab002d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96970e6813a789c4a5e0d8925eab002d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96970e6813a789c4a5e0d8925eab002d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3884588291"
+      }
+    },
+    {
+      "id": "10303628",
+      "name": "Limelight",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/7/0/03721e5e48a68c99460a3534fe96b455.mp3?hdnea=exp=1774859986~acl=/api/1/1/0/3/7/0/03721e5e48a68c99460a3534fe96b455.mp3*~data=user_id=0,application_id=42~hmac=297a125bffc8926c9b4a460810007a782063a3f1305f7e408cbba30f453d2933",
+      "duration_ms": 259000,
+      "track_number": 8,
+      "album": {
+        "id": "942295",
+        "name": "Moving Pictures (2011 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ee330e0d51624845386572426b5ed80/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ee330e0d51624845386572426b5ed80/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ee330e0d51624845386572426b5ed80/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10303628"
+      }
+    },
+    {
+      "id": "1161416",
+      "name": "The Spirit Of Radio",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/f/0/3ff8941a798f6aa5bac583953f8f76f6.mp3?hdnea=exp=1774859986~acl=/api/1/1/3/f/f/0/3ff8941a798f6aa5bac583953f8f76f6.mp3*~data=user_id=0,application_id=42~hmac=33b4809ec492540dd05e24f23bdb660a0b0068be380bba5c464337da458a22c4",
+      "duration_ms": 299000,
+      "track_number": 9,
+      "album": {
+        "id": "124360",
+        "name": "Permanent Waves",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5bc2ef7928d0e357f050422ef1110c3a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5bc2ef7928d0e357f050422ef1110c3a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5bc2ef7928d0e357f050422ef1110c3a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1161416"
+      }
+    },
+    {
+      "id": "1090281",
+      "name": "Manhattan Project",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/a/0/bda65312791b30a9fbfadd27fc8a9e48.mp3?hdnea=exp=1774859986~acl=/api/1/1/b/d/a/0/bda65312791b30a9fbfadd27fc8a9e48.mp3*~data=user_id=0,application_id=42~hmac=96a363a0411b681b0c72089b18a5fd4fc140876fd94e2396de09299904db7555",
+      "duration_ms": 307000,
+      "track_number": 10,
+      "album": {
+        "id": "117781",
+        "name": "Power Windows",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c9beb02f364e392c08225ca7a3d0d5cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c9beb02f364e392c08225ca7a3d0d5cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c9beb02f364e392c08225ca7a3d0d5cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8686",
+          "name": "Rush"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1090281"
+      }
+    }
+  ]
+}

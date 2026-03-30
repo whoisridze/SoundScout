@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2579890802",
+      "name": "Show Me How",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/d/0/4eda0d70644723e08fdffec9127a3e5f.mp3?hdnea=exp=1774859892~acl=/api/1/1/4/e/d/0/4eda0d70644723e08fdffec9127a3e5f.mp3*~data=user_id=0,application_id=42~hmac=a0b623db0471102d6c8e2cae617bf86eca32d0162e6f230e2e516d164cf584f2",
+      "duration_ms": 215000,
+      "track_number": 1,
+      "album": {
+        "id": "522165162",
+        "name": "Show Me How",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f4f35fdc77ef818f0e0e29211cac77f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f4f35fdc77ef818f0e0e29211cac77f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f4f35fdc77ef818f0e0e29211cac77f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2579890802"
+      }
+    },
+    {
+      "id": "2896363701",
+      "name": "Lauren",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/e/0/c4eab55e26b249fb27da92ef385f6c56.mp3?hdnea=exp=1774859892~acl=/api/1/1/c/4/e/0/c4eab55e26b249fb27da92ef385f6c56.mp3*~data=user_id=0,application_id=42~hmac=3b7c3f8dfbefd1b2899fd7e943c6a52a59c8e8f9cab7c525d6a00a638f861a33",
+      "duration_ms": 223000,
+      "track_number": 2,
+      "album": {
+        "id": "617447731",
+        "name": "Lauren",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7134731a2bf663dc50c9c838bd4110b5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7134731a2bf663dc50c9c838bd4110b5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7134731a2bf663dc50c9c838bd4110b5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2896363701"
+      }
+    },
+    {
+      "id": "2580853032",
+      "name": "Sorbitol",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/3/0/1934be37c2bea8d9eed99be0519fb332.mp3?hdnea=exp=1774859892~acl=/api/1/1/1/9/3/0/1934be37c2bea8d9eed99be0519fb332.mp3*~data=user_id=0,application_id=42~hmac=fe3b846779365c4c64079751b2a8aaa1b1a9911fc8bf499d5d14ce8ef9da0eee",
+      "duration_ms": 179000,
+      "track_number": 3,
+      "album": {
+        "id": "522523592",
+        "name": "Untourable Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32c7f1835e837e2574fc2371ff5c36d0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32c7f1835e837e2574fc2371ff5c36d0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32c7f1835e837e2574fc2371ff5c36d0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2580853032"
+      }
+    },
+    {
+      "id": "2896790141",
+      "name": "Dazed (feat. Gabrielle & Geoffroy)",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/0/0/2107a81f25398f07b9887f60e2235fd3.mp3?hdnea=exp=1774859892~acl=/api/1/1/2/1/0/0/2107a81f25398f07b9887f60e2235fd3.mp3*~data=user_id=0,application_id=42~hmac=598efb83dbbc37fbd9558d28dcdbcde3dae4f91c25f5b9920f8abf9efc422bdc",
+      "duration_ms": 232000,
+      "track_number": 4,
+      "album": {
+        "id": "617542511",
+        "name": "Men I Trust",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a6c89fb096892ec0992537933dbe2bb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a6c89fb096892ec0992537933dbe2bb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a6c89fb096892ec0992537933dbe2bb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2896790141"
+      }
+    },
+    {
+      "id": "2896775911",
+      "name": "You Deserve This",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/9/0/999827a0e20cac8667e0b53cc99eea01.mp3?hdnea=exp=1774859892~acl=/api/1/1/9/9/9/0/999827a0e20cac8667e0b53cc99eea01.mp3*~data=user_id=0,application_id=42~hmac=8f556501ddc64ae00102c6d456454a07011be2dbc61e33167a89142a94412f53",
+      "duration_ms": 185000,
+      "track_number": 5,
+      "album": {
+        "id": "617539091",
+        "name": "You Deserve This",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1688a45d114e85679979e01792f2cc71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1688a45d114e85679979e01792f2cc71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1688a45d114e85679979e01792f2cc71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2896775911"
+      }
+    },
+    {
+      "id": "661361792",
+      "name": "Numb",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/c/0/dec73712d44f46f391d9239ca5c114b4.mp3?hdnea=exp=1774859892~acl=/api/1/1/d/e/c/0/dec73712d44f46f391d9239ca5c114b4.mp3*~data=user_id=0,application_id=42~hmac=00ee4ffa72b313ac5c58d0c5d9fc46169e6db6133af1cccff6fe3f8b82825302",
+      "duration_ms": 219000,
+      "track_number": 6,
+      "album": {
+        "id": "92794922",
+        "name": "Numb",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee6e96e8a95a3d145608f80ddd280de8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee6e96e8a95a3d145608f80ddd280de8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee6e96e8a95a3d145608f80ddd280de8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/661361792"
+      }
+    },
+    {
+      "id": "3266096621",
+      "name": "Bethlehem",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/4/0/4e4b155363afd665836fc942bf4cc443.mp3?hdnea=exp=1774859892~acl=/api/1/1/4/e/4/0/4e4b155363afd665836fc942bf4cc443.mp3*~data=user_id=0,application_id=42~hmac=a0249cb514d63908991a8704c91b8b1ae6f89f7bb36588460f9100ac38c96ad6",
+      "duration_ms": 199000,
+      "track_number": 7,
+      "album": {
+        "id": "723354661",
+        "name": "Equus Asinus",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d64d6bb6b21db6e0b58f160aae946e66/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d64d6bb6b21db6e0b58f160aae946e66/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d64d6bb6b21db6e0b58f160aae946e66/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3266096621"
+      }
+    },
+    {
+      "id": "2580853142",
+      "name": "A Cycle (2021)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/a/0/1ba8e8bb355d764117f6fa453e963a57.mp3?hdnea=exp=1774859892~acl=/api/1/1/1/b/a/0/1ba8e8bb355d764117f6fa453e963a57.mp3*~data=user_id=0,application_id=42~hmac=996b7e02508fcbe7b03625cd6db22b5413023eccf2fca7990243c72f43699ca3",
+      "duration_ms": 243000,
+      "track_number": 8,
+      "album": {
+        "id": "522523592",
+        "name": "Untourable Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32c7f1835e837e2574fc2371ff5c36d0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32c7f1835e837e2574fc2371ff5c36d0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32c7f1835e837e2574fc2371ff5c36d0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2580853142"
+      }
+    },
+    {
+      "id": "1917061177",
+      "name": "Billie Toppy",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/4/0/104aa5837fdb35b7837fc5f2eb297c43.mp3?hdnea=exp=1774859892~acl=/api/1/1/1/0/4/0/104aa5837fdb35b7837fc5f2eb297c43.mp3*~data=user_id=0,application_id=42~hmac=75bc2f20e800aa0a52663a957b319cb50d578663953f0bcfe037a4bc93554ece",
+      "duration_ms": 195000,
+      "track_number": 9,
+      "album": {
+        "id": "357284107",
+        "name": "Billie Toppy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/80700aed45a5428910c012fab467c745/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/80700aed45a5428910c012fab467c745/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/80700aed45a5428910c012fab467c745/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1917061177"
+      }
+    },
+    {
+      "id": "717644222",
+      "name": "Show Me How (Album V)",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/a/0/64a6109da715557d8a95b6eb625f4526.mp3?hdnea=exp=1774859892~acl=/api/1/1/6/4/a/0/64a6109da715557d8a95b6eb625f4526.mp3*~data=user_id=0,application_id=42~hmac=0ad7235556bc53ecb6741737c4fa893157eea82902bb641d8e715f92f3db28bd",
+      "duration_ms": 215000,
+      "track_number": 10,
+      "album": {
+        "id": "104755862",
+        "name": "Oncle Jazz",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/231cf5ffe0750987a4e1dba689c03c42/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/231cf5ffe0750987a4e1dba689c03c42/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/231cf5ffe0750987a4e1dba689c03c42/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6390014",
+          "name": "Men I Trust"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717644222"
+      }
+    }
+  ]
+}

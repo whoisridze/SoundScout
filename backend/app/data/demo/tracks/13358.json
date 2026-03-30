@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "64920072",
+      "name": "Nightcall",
+      "popularity": 89,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/1/5/0/b15bb3562dd8d7e79c9cdda4d6ba00ad.mp3?hdnea=exp=1774859924~acl=/api/1/1/b/1/5/0/b15bb3562dd8d7e79c9cdda4d6ba00ad.mp3*~data=user_id=0,application_id=42~hmac=f9929ded79b18b77d4cfc1a973b70971a4f3f32cf511d334950007061443371c",
+      "duration_ms": 259000,
+      "track_number": 1,
+      "album": {
+        "id": "6358418",
+        "name": "OutRun",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64920072"
+      }
+    },
+    {
+      "id": "2992806421",
+      "name": "Nightcall",
+      "popularity": 96,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/5/0/3357298031e2a9717bfa5d41b4d5fe75.mp3?hdnea=exp=1774859924~acl=/api/1/1/3/3/5/0/3357298031e2a9717bfa5d41b4d5fe75.mp3*~data=user_id=0,application_id=42~hmac=5b60ed109718992ddfba148a82222d0f61947a61eacb89ac5fc7c4edc574874e",
+      "duration_ms": 179000,
+      "track_number": 2,
+      "album": {
+        "id": "642656871",
+        "name": "Nightcall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c95fdb7a15907c0c2d4e2ee999beeb05/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c95fdb7a15907c0c2d4e2ee999beeb05/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c95fdb7a15907c0c2d4e2ee999beeb05/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2992806421"
+      }
+    },
+    {
+      "id": "64920076",
+      "name": "Roadgame",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/2/0/85264a8ebfe1dd3ee7432386232fe5d4.mp3?hdnea=exp=1774859924~acl=/api/1/1/8/5/2/0/85264a8ebfe1dd3ee7432386232fe5d4.mp3*~data=user_id=0,application_id=42~hmac=9cde5c87f42f060c9484470ac3ba04dd4a8cad3a4f350a7acbc80373ef65f7ab",
+      "duration_ms": 224000,
+      "track_number": 3,
+      "album": {
+        "id": "6358418",
+        "name": "OutRun",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64920076"
+      }
+    },
+    {
+      "id": "62496772",
+      "name": "Pacific Coast Highway",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/1/0/a81cd89a4a6f646b2bd210c8db147f6b.mp3?hdnea=exp=1774859924~acl=/api/1/1/a/8/1/0/a81cd89a4a6f646b2bd210c8db147f6b.mp3*~data=user_id=0,application_id=42~hmac=6d9f8a1b389796aadcceadf7180aaa8c3e932d220d9ead1d6e80f1645ddf55cd",
+      "duration_ms": 344000,
+      "track_number": 4,
+      "album": {
+        "id": "6133795",
+        "name": "Nightcall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7f9ecda862091716e4e8f74a7e115f93/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7f9ecda862091716e4e8f74a7e115f93/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7f9ecda862091716e4e8f74a7e115f93/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/62496772"
+      }
+    },
+    {
+      "id": "64920075",
+      "name": "First Blood",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/f/0/39f3e02a9c4b8aa5ad3ba64a36851761.mp3?hdnea=exp=1774859924~acl=/api/1/1/3/9/f/0/39f3e02a9c4b8aa5ad3ba64a36851761.mp3*~data=user_id=0,application_id=42~hmac=c2be41c6011f7dfded12a2c40e4a5d0abae2ce606279dc36f91897155f60522e",
+      "duration_ms": 183000,
+      "track_number": 5,
+      "album": {
+        "id": "6358418",
+        "name": "OutRun",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64920075"
+      }
+    },
+    {
+      "id": "64920068",
+      "name": "Odd Look",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/c/0/5dc638294fd7c63a9b7115323ec0be0d.mp3?hdnea=exp=1774859924~acl=/api/1/1/5/d/c/0/5dc638294fd7c63a9b7115323ec0be0d.mp3*~data=user_id=0,application_id=42~hmac=d9f233fc184187b4e98da481b0efb14dff29a70278caa5cb9ebaf3a35990ecde",
+      "duration_ms": 290000,
+      "track_number": 6,
+      "album": {
+        "id": "6358418",
+        "name": "OutRun",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64920068"
+      }
+    },
+    {
+      "id": "63497698",
+      "name": "ProtoVision (Blood Orange Remix)",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/1/0/e41486a8ffd7165825c99a5acecc4c8c.mp3?hdnea=exp=1774859924~acl=/api/1/1/e/4/1/0/e41486a8ffd7165825c99a5acecc4c8c.mp3*~data=user_id=0,application_id=42~hmac=ac45e4042e475d0669bff51494bc33206da7115e40f8998879bbfa72e8ae12f3",
+      "duration_ms": 249000,
+      "track_number": 7,
+      "album": {
+        "id": "6239227",
+        "name": "ProtoVision",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/523abb6e3856ed294f81b60b1fdc6f2b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/523abb6e3856ed294f81b60b1fdc6f2b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/523abb6e3856ed294f81b60b1fdc6f2b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63497698"
+      }
+    },
+    {
+      "id": "1689957237",
+      "name": "Trigger",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/9/0/6894154095184e99a570c08a06d5230a.mp3?hdnea=exp=1774859924~acl=/api/1/1/6/8/9/0/6894154095184e99a570c08a06d5230a.mp3*~data=user_id=0,application_id=42~hmac=d5779933ca8fd5a81df9b782614d69734a4bee6593f36c79d79e9976f74bfc6a",
+      "duration_ms": 219000,
+      "track_number": 8,
+      "album": {
+        "id": "303973127",
+        "name": "Reborn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0395640f5d64827eb0aa50d5ff900077/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0395640f5d64827eb0aa50d5ff900077/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0395640f5d64827eb0aa50d5ff900077/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1689957237"
+      }
+    },
+    {
+      "id": "1689957277",
+      "name": "Zenith",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/0/0/980ad77b7a3e4c92dee4b157e5c7a9f0.mp3?hdnea=exp=1774859924~acl=/api/1/1/9/8/0/0/980ad77b7a3e4c92dee4b157e5c7a9f0.mp3*~data=user_id=0,application_id=42~hmac=021bd86c78fe984f15cc14c8e2ea205b342e6271e07bb8bea2a0fddb233e5c06",
+      "duration_ms": 281000,
+      "track_number": 9,
+      "album": {
+        "id": "303973127",
+        "name": "Reborn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0395640f5d64827eb0aa50d5ff900077/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0395640f5d64827eb0aa50d5ff900077/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0395640f5d64827eb0aa50d5ff900077/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1689957277"
+      }
+    },
+    {
+      "id": "64920065",
+      "name": "Prelude",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/d/0/56d0a266b278ae0deb3c9bcbc6dac8db.mp3?hdnea=exp=1774859924~acl=/api/1/1/5/6/d/0/56d0a266b278ae0deb3c9bcbc6dac8db.mp3*~data=user_id=0,application_id=42~hmac=0057557a2d1b91a3925eaa5e47f84db7297e23ad637863ff5e54aaba8a0d3af6",
+      "duration_ms": 116000,
+      "track_number": 10,
+      "album": {
+        "id": "6358418",
+        "name": "OutRun",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e57b7aba14f763eb61ac2ff495288d04/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13358",
+          "name": "Kavinsky"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64920065"
+      }
+    }
+  ]
+}

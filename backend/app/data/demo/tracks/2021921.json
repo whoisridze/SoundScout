@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2949619111",
+      "name": "Somethin' 'Bout A Woman",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/a/0/61adacbf7ae954cb0cb3ef1df4c83bba.mp3?hdnea=exp=1774860042~acl=/api/1/1/6/1/a/0/61adacbf7ae954cb0cb3ef1df4c83bba.mp3*~data=user_id=0,application_id=42~hmac=020fda55df7a441d197987cb0a888a8b65693305d06a23b9f25100f5877d0b7a",
+      "duration_ms": 210000,
+      "track_number": 1,
+      "album": {
+        "id": "630087971",
+        "name": "About A Woman",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a97a2936fea96a411665de40e552c70d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a97a2936fea96a411665de40e552c70d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a97a2936fea96a411665de40e552c70d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2949619111"
+      }
+    },
+    {
+      "id": "3080915821",
+      "name": "Somethin' 'Bout A Woman",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/b/0/ebb932938e818347b08c47a61f74b682.mp3?hdnea=exp=1774860042~acl=/api/1/1/e/b/b/0/ebb932938e818347b08c47a61f74b682.mp3*~data=user_id=0,application_id=42~hmac=e207073b60b4aef43c7891ff6499f070bb12373e03ec2e90391f8e5aca9df2f5",
+      "duration_ms": 207000,
+      "track_number": 2,
+      "album": {
+        "id": "667155651",
+        "name": "Somethin' 'Bout A Woman",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/867832c1e400094aff3306fcd117bbea/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/867832c1e400094aff3306fcd117bbea/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/867832c1e400094aff3306fcd117bbea/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3080915821"
+      }
+    },
+    {
+      "id": "3584537931",
+      "name": "Ain't A Bad Life",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/e/0/1be6225f1cdc7a46c99e8ee07a711b0a.mp3?hdnea=exp=1774860042~acl=/api/1/1/1/b/e/0/1be6225f1cdc7a46c99e8ee07a711b0a.mp3*~data=user_id=0,application_id=42~hmac=d095a5fc30c1c458f55ecd7ddc9c36593a09be56232c2fb3ca1cd62ea1d4be1b",
+      "duration_ms": 187000,
+      "track_number": 3,
+      "album": {
+        "id": "831616881",
+        "name": "About A Woman (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ce7f363dba53ac90a8d0db0c34e583c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ce7f363dba53ac90a8d0db0c34e583c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ce7f363dba53ac90a8d0db0c34e583c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3584537931"
+      }
+    },
+    {
+      "id": "3584538021",
+      "name": "What Could Go Right",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/c/0/bccfff710ce53032479a2e60c976b102.mp3?hdnea=exp=1774860042~acl=/api/1/1/b/c/c/0/bccfff710ce53032479a2e60c976b102.mp3*~data=user_id=0,application_id=42~hmac=69ea4662e576dd08586a9a30bf071297a44927164a96e94acb97098fbd2f5eef",
+      "duration_ms": 211000,
+      "track_number": 4,
+      "album": {
+        "id": "831616881",
+        "name": "About A Woman (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ce7f363dba53ac90a8d0db0c34e583c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ce7f363dba53ac90a8d0db0c34e583c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ce7f363dba53ac90a8d0db0c34e583c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3584538021"
+      }
+    },
+    {
+      "id": "3902306181",
+      "name": "Georgia On My Mind",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/2/0/28228ee33c5fa07cf28259e2232cbc47.mp3?hdnea=exp=1774860042~acl=/api/1/1/2/8/2/0/28228ee33c5fa07cf28259e2232cbc47.mp3*~data=user_id=0,application_id=42~hmac=18386616cf858b36169ae4925f7dd22cb18777c3b1f7d817735eb5c26d9080b3",
+      "duration_ms": 155000,
+      "track_number": 5,
+      "album": {
+        "id": "940498921",
+        "name": "Georgia On My Mind",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20c5056a385e5025037d39b59ee3ef37/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20c5056a385e5025037d39b59ee3ef37/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/20c5056a385e5025037d39b59ee3ef37/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3902306181"
+      }
+    },
+    {
+      "id": "2845879592",
+      "name": "Feelin' Country (From Twisters: The Album)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/1/0/1d1abd489e392c9e622e4864e35d5673.mp3?hdnea=exp=1774860042~acl=/api/1/1/1/d/1/0/1d1abd489e392c9e622e4864e35d5673.mp3*~data=user_id=0,application_id=42~hmac=5b497a76d97922f5977d6af0683c1aa9230ae725407ab27830cbe03ee1e4094e",
+      "duration_ms": 164000,
+      "track_number": 6,
+      "album": {
+        "id": "601228692",
+        "name": "Feelin' Country (From Twisters: The Album)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f1b97ff3655f2e8d0df4d46cad5c71a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f1b97ff3655f2e8d0df4d46cad5c71a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f1b97ff3655f2e8d0df4d46cad5c71a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2845879592"
+      }
+    },
+    {
+      "id": "3584537961",
+      "name": "Small Town Girls",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/8/0/2085a092395bc23db6b8934724b52e30.mp3?hdnea=exp=1774860042~acl=/api/1/1/2/0/8/0/2085a092395bc23db6b8934724b52e30.mp3*~data=user_id=0,application_id=42~hmac=60a7fe2cdf96b1885847b9feda43abf4f0626a182115d305e19590285bf901cb",
+      "duration_ms": 150000,
+      "track_number": 7,
+      "album": {
+        "id": "831616881",
+        "name": "About A Woman (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ce7f363dba53ac90a8d0db0c34e583c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ce7f363dba53ac90a8d0db0c34e583c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ce7f363dba53ac90a8d0db0c34e583c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3584537961"
+      }
+    },
+    {
+      "id": "2780572851",
+      "name": "Beautiful As You",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/8/0/0d84f07e46e8e3cb998d6f461b88bb7c.mp3?hdnea=exp=1774860042~acl=/api/1/1/0/d/8/0/0d84f07e46e8e3cb998d6f461b88bb7c.mp3*~data=user_id=0,application_id=42~hmac=7ef61d46075dc8a96a97c2a5e7a18b67ef6b2a8899372cdbb03d996cb8f372f3",
+      "duration_ms": 163000,
+      "track_number": 8,
+      "album": {
+        "id": "581245621",
+        "name": "Beautiful As You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e7c0bc67a3dc9fd26aa4fcca7c1b181e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e7c0bc67a3dc9fd26aa4fcca7c1b181e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e7c0bc67a3dc9fd26aa4fcca7c1b181e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2780572851"
+      }
+    },
+    {
+      "id": "3241949381",
+      "name": "NOTHING ELSE",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/d/0/a3d6ab115c73ce9c6a5996c6ef2ce8e6.mp3?hdnea=exp=1774860042~acl=/api/1/1/a/3/d/0/a3d6ab115c73ce9c6a5996c6ef2ce8e6.mp3*~data=user_id=0,application_id=42~hmac=51f6393df53dc790917646adb91e1104f1a94688d3551ec09dd438d17338524a",
+      "duration_ms": 118000,
+      "track_number": 9,
+      "album": {
+        "id": "715786081",
+        "name": "NOTHING ELSE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e10ff9a0b7b7a85d8077951b779c3731/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e10ff9a0b7b7a85d8077951b779c3731/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e10ff9a0b7b7a85d8077951b779c3731/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3241949381"
+      }
+    },
+    {
+      "id": "134950894",
+      "name": "Die A Happy Man",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/0/0/5901a38ce4aed9ffdc8e6bf557b0d8ae.mp3?hdnea=exp=1774860042~acl=/api/1/1/5/9/0/0/5901a38ce4aed9ffdc8e6bf557b0d8ae.mp3*~data=user_id=0,application_id=42~hmac=2a2a3fcad042d6f41ce61f5b1a8f56d1d7dc6b2f66f16a8b3e0e51d36e824876",
+      "duration_ms": 228000,
+      "track_number": 10,
+      "album": {
+        "id": "14400688",
+        "name": "Tangled Up (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8098c7acbb4ea462bdf42ac7a34ba95/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8098c7acbb4ea462bdf42ac7a34ba95/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8098c7acbb4ea462bdf42ac7a34ba95/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021921",
+          "name": "Thomas Rhett"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/134950894"
+      }
+    }
+  ]
+}

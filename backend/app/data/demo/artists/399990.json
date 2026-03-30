@@ -1,0 +1,32 @@
+{
+  "id": "399990",
+  "name": "Kacey Musgraves",
+  "popularity": 7,
+  "followers": {
+    "total": 72242
+  },
+  "genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/229fe42ffc5b16b51112ffee967453e1/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/229fe42ffc5b16b51112ffee967453e1/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/229fe42ffc5b16b51112ffee967453e1/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/399990"
+  },
+  "uri": "deezer:artist:399990"
+}

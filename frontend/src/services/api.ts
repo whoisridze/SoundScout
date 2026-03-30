@@ -6,7 +6,7 @@ const REFRESH_TOKEN_KEY = "soundscout_refresh_token";
 
 // Create axios instance
 const api = axios.create({
-  baseURL: "/api/v1",
+  baseURL: import.meta.env.VITE_API_URL || "/api/v1",
 });
 
 // Track if we're currently refreshing to prevent multiple refresh calls
@@ -95,7 +95,7 @@ api.interceptors.response.use(
 
       try {
         // Use plain axios to avoid interceptor loop
-        const response = await axios.post("/api/v1/auth/refresh", {
+        const response = await axios.post(`${import.meta.env.VITE_API_URL || "/api/v1"}/auth/refresh`, {
           refresh_token: refreshToken,
         });
 

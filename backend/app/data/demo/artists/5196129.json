@@ -1,0 +1,32 @@
+{
+  "id": "5196129",
+  "name": "Kamasi Washington",
+  "popularity": 3,
+  "followers": {
+    "total": 34313
+  },
+  "genres": [
+    "jazz fusion"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2a4cdcc6ef2d0f31e86c9143cb548cb9/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2a4cdcc6ef2d0f31e86c9143cb548cb9/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2a4cdcc6ef2d0f31e86c9143cb548cb9/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5196129"
+  },
+  "uri": "deezer:artist:5196129"
+}

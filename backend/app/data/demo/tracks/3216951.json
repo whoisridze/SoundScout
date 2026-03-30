@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "137922807",
+      "name": "Cosmo Black",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/2/0/37280c1f47795b6a056b38255d63878b.mp3?hdnea=exp=1774859932~acl=/api/1/1/3/7/2/0/37280c1f47795b6a056b38255d63878b.mp3*~data=user_id=0,application_id=42~hmac=d761fc43437e36e859abdc5b42b816f84a1f1196a56ed222a5fbc97ca7f68b08",
+      "duration_ms": 266000,
+      "track_number": 1,
+      "album": {
+        "id": "14805441",
+        "name": "The Legacy Collection, Vol. I",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/137922807"
+      }
+    },
+    {
+      "id": "137922795",
+      "name": "Intergalactic Highway",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/a/0/24af411a2f14cee22b0de350b7fe2538.mp3?hdnea=exp=1774859932~acl=/api/1/1/2/4/a/0/24af411a2f14cee22b0de350b7fe2538.mp3*~data=user_id=0,application_id=42~hmac=62371ba28ba375040feaa2dd0293ec15bc7e4a02c19ac5bba0a17a3a677ee47d",
+      "duration_ms": 268000,
+      "track_number": 2,
+      "album": {
+        "id": "14805441",
+        "name": "The Legacy Collection, Vol. I",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/137922795"
+      }
+    },
+    {
+      "id": "133459170",
+      "name": "The Tristar",
+      "popularity": 8,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/6/0/286bf141454aea641d770a0b64e5a8e5.mp3?hdnea=exp=1774859932~acl=/api/1/1/2/8/6/0/286bf141454aea641d770a0b64e5a8e5.mp3*~data=user_id=0,application_id=42~hmac=e72e7f698ceba0bb50817eaf4a4a9fd58123403f2506744a8c8cd0c5fcaf79d9",
+      "duration_ms": 265000,
+      "track_number": 3,
+      "album": {
+        "id": "14215594",
+        "name": "The Rigel Axiom",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/25c748ce9d8ea031a26809a443b1d3de/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/25c748ce9d8ea031a26809a443b1d3de/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/25c748ce9d8ea031a26809a443b1d3de/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/133459170"
+      }
+    },
+    {
+      "id": "137934381",
+      "name": "Dust of the Saturn",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/6/0/866ac3c980d5a47f42d8a93002b18156.mp3?hdnea=exp=1774859932~acl=/api/1/1/8/6/6/0/866ac3c980d5a47f42d8a93002b18156.mp3*~data=user_id=0,application_id=42~hmac=14e42c69aee7ddb4971c7c27939de2a1ced5a18dff35f359179838af446b1de3",
+      "duration_ms": 320000,
+      "track_number": 4,
+      "album": {
+        "id": "14806745",
+        "name": "The Legacy Collection, Vol. II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d441f478a237495d65d6c1a643b4ee1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d441f478a237495d65d6c1a643b4ee1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d441f478a237495d65d6c1a643b4ee1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/137934381"
+      }
+    },
+    {
+      "id": "137922799",
+      "name": "On the Edge of Space",
+      "popularity": 7,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/1/0/c01cb2201b36ed0406c9305482face0e.mp3?hdnea=exp=1774859932~acl=/api/1/1/c/0/1/0/c01cb2201b36ed0406c9305482face0e.mp3*~data=user_id=0,application_id=42~hmac=3cea74e37c239ec800ca214bffd2c52876b54d51fdc2efb9990819f0e95b630d",
+      "duration_ms": 283000,
+      "track_number": 5,
+      "album": {
+        "id": "14805441",
+        "name": "The Legacy Collection, Vol. I",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/137922799"
+      }
+    },
+    {
+      "id": "137922789",
+      "name": "Throttle Up",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/4/0/c64d67d8acfeb9acf29122ba4341ce85.mp3?hdnea=exp=1774859932~acl=/api/1/1/c/6/4/0/c64d67d8acfeb9acf29122ba4341ce85.mp3*~data=user_id=0,application_id=42~hmac=c8cb109a3ce6436a2a929b06365ec30c7490f4116639046eeb6d624beb3fd31d",
+      "duration_ms": 238000,
+      "track_number": 6,
+      "album": {
+        "id": "14805441",
+        "name": "The Legacy Collection, Vol. I",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a969ebb5f58d8e0fe2d2fcd84ac7f569/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/137922789"
+      }
+    },
+    {
+      "id": "121700572",
+      "name": "Pulse Power",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/5/0/375b147eb9d46d73e2a1320c3f156bd0.mp3?hdnea=exp=1774859932~acl=/api/1/1/3/7/5/0/375b147eb9d46d73e2a1320c3f156bd0.mp3*~data=user_id=0,application_id=42~hmac=7bae953bdc30a307c2b0e5139cf8bf64d248bc458b7e087905dccabc6e084d62",
+      "duration_ms": 363000,
+      "track_number": 7,
+      "album": {
+        "id": "12719690",
+        "name": "Escape Velocity",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb8db9efd2ba22dcdd2a6682b49eb92/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb8db9efd2ba22dcdd2a6682b49eb92/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb8db9efd2ba22dcdd2a6682b49eb92/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/121700572"
+      }
+    },
+    {
+      "id": "137934393",
+      "name": "Visions",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/1/0/f11acc5478a008ed79241b30273d1724.mp3?hdnea=exp=1774859932~acl=/api/1/1/f/1/1/0/f11acc5478a008ed79241b30273d1724.mp3*~data=user_id=0,application_id=42~hmac=15223c0bc94121d2d06f0ef596d15888cd517a82bd2d2c70fa68016988831915",
+      "duration_ms": 292000,
+      "track_number": 8,
+      "album": {
+        "id": "14806745",
+        "name": "The Legacy Collection, Vol. II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d441f478a237495d65d6c1a643b4ee1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d441f478a237495d65d6c1a643b4ee1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d441f478a237495d65d6c1a643b4ee1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/137934393"
+      }
+    },
+    {
+      "id": "121700562",
+      "name": "Propulsion Overdrive",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/2/0/cc2752d035fbdb9e5f6e6ce32e798bd9.mp3?hdnea=exp=1774859932~acl=/api/1/1/c/c/2/0/cc2752d035fbdb9e5f6e6ce32e798bd9.mp3*~data=user_id=0,application_id=42~hmac=f9498955649eccf832017723842cc5adb669673a38b58141af79fcbc393ae668",
+      "duration_ms": 315000,
+      "track_number": 9,
+      "album": {
+        "id": "12719690",
+        "name": "Escape Velocity",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb8db9efd2ba22dcdd2a6682b49eb92/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb8db9efd2ba22dcdd2a6682b49eb92/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb8db9efd2ba22dcdd2a6682b49eb92/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/121700562"
+      }
+    },
+    {
+      "id": "121700568",
+      "name": "The Pulsating Nebula",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/2/0/5828357561a8a85031293fb604a81de6.mp3?hdnea=exp=1774859932~acl=/api/1/1/5/8/2/0/5828357561a8a85031293fb604a81de6.mp3*~data=user_id=0,application_id=42~hmac=32ad49701131818951a51778f4b66d59cb7150b599837036bc29cc64b63a1e4e",
+      "duration_ms": 379000,
+      "track_number": 10,
+      "album": {
+        "id": "12719690",
+        "name": "Escape Velocity",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb8db9efd2ba22dcdd2a6682b49eb92/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb8db9efd2ba22dcdd2a6682b49eb92/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb8db9efd2ba22dcdd2a6682b49eb92/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3216951",
+          "name": "Dynatron"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/121700568"
+      }
+    }
+  ]
+}

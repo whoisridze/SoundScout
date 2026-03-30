@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "61382107",
+      "name": "Symphony Of Destruction (Remastered 2012)",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/7/0/4a7112a82f9d1c93437bd68aaea9d43d.mp3?hdnea=exp=1774860023~acl=/api/1/1/4/a/7/0/4a7112a82f9d1c93437bd68aaea9d43d.mp3*~data=user_id=0,application_id=42~hmac=2801bb4e1cb2910bec9ad590d27e2ad0c237feef57621deafc0b4400165842a1",
+      "duration_ms": 243000,
+      "track_number": 1,
+      "album": {
+        "id": "6014586",
+        "name": "Countdown To Extinction (Deluxe Edition - Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04049664871981fd33afa7fe6966a384/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04049664871981fd33afa7fe6966a384/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04049664871981fd33afa7fe6966a384/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/61382107"
+      }
+    },
+    {
+      "id": "3089034",
+      "name": "Symphony Of Destruction",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/e/0/26ee1b09e54a1b52626271961230ce58.mp3?hdnea=exp=1774860023~acl=/api/1/1/2/6/e/0/26ee1b09e54a1b52626271961230ce58.mp3*~data=user_id=0,application_id=42~hmac=ce9e682bc750b5b204afc39220e24813b6bb184df600910bb2e6c2159c0ebaa0",
+      "duration_ms": 246000,
+      "track_number": 2,
+      "album": {
+        "id": "299179",
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d54d77e629de42eab15c2d72f8a14bc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d54d77e629de42eab15c2d72f8a14bc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d54d77e629de42eab15c2d72f8a14bc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3089034"
+      }
+    },
+    {
+      "id": "3788300102",
+      "name": "Tipping Point",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/9/0/7893a40cb5974c07a5a8f5260917aacd.mp3?hdnea=exp=1774860023~acl=/api/1/1/7/8/9/0/7893a40cb5974c07a5a8f5260917aacd.mp3*~data=user_id=0,application_id=42~hmac=9ccec81652a7db4dd487aadd0c9a0b8915fefb30a62bcd05921f8f3262295dbc",
+      "duration_ms": 268000,
+      "track_number": 3,
+      "album": {
+        "id": "902129562",
+        "name": "Megadeth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788300102"
+      }
+    },
+    {
+      "id": "3088984",
+      "name": "A Tout Le Monde (Remastered 2004)",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/4/0/9c492ad71f8af888d10b19fde2aae55c.mp3?hdnea=exp=1774860023~acl=/api/1/1/9/c/4/0/9c492ad71f8af888d10b19fde2aae55c.mp3*~data=user_id=0,application_id=42~hmac=1459844e3d19c20953655d4841f0989ce477824b313fb87fc0c3c3be267c2768",
+      "duration_ms": 268000,
+      "track_number": 4,
+      "album": {
+        "id": "299176",
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/087282f85f7ce7e2c9d0e3198ef9e6cf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/087282f85f7ce7e2c9d0e3198ef9e6cf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/087282f85f7ce7e2c9d0e3198ef9e6cf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3088984"
+      }
+    },
+    {
+      "id": "3121524",
+      "name": "Kill The King",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/2/0/4526226b96829beb5159de72b2e3ec27.mp3?hdnea=exp=1774860023~acl=/api/1/1/4/5/2/0/4526226b96829beb5159de72b2e3ec27.mp3*~data=user_id=0,application_id=42~hmac=6063e417a58ff5cd4e1ba55ee0cb56e047791e146668f2b0b8f429876b236405",
+      "duration_ms": 224000,
+      "track_number": 5,
+      "album": {
+        "id": "301224",
+        "name": "Greatest Hits: Back To The Start",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6571eb7172a95341b2a14cec9ead1647/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6571eb7172a95341b2a14cec9ead1647/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6571eb7172a95341b2a14cec9ead1647/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3121524"
+      }
+    },
+    {
+      "id": "3121521",
+      "name": "Angry Again",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/5/0/bf5839c8beecb4f32b0bd3498bf8a2ad.mp3?hdnea=exp=1774860023~acl=/api/1/1/b/f/5/0/bf5839c8beecb4f32b0bd3498bf8a2ad.mp3*~data=user_id=0,application_id=42~hmac=304704662171202428968fea68a61c5924a13b8cc4728933c8c4a54730036936",
+      "duration_ms": 225000,
+      "track_number": 6,
+      "album": {
+        "id": "301224",
+        "name": "Greatest Hits: Back To The Start",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6571eb7172a95341b2a14cec9ead1647/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6571eb7172a95341b2a14cec9ead1647/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6571eb7172a95341b2a14cec9ead1647/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3121521"
+      }
+    },
+    {
+      "id": "3339544",
+      "name": "Holy Wars...The Punishment Due",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/5/0/d15e26894df286d4c97e63c9fb7d6956.mp3?hdnea=exp=1774860023~acl=/api/1/1/d/1/5/0/d15e26894df286d4c97e63c9fb7d6956.mp3*~data=user_id=0,application_id=42~hmac=dc0d2ccb72fe54b9ba16d0b6e8bf6b6b1c28826c769681edfbc33c4d8f0567ee",
+      "duration_ms": 394000,
+      "track_number": 7,
+      "album": {
+        "id": "318250",
+        "name": "Rust In Peace",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e72c97303ec864bff2ce9059ff030c61/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e72c97303ec864bff2ce9059ff030c61/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e72c97303ec864bff2ce9059ff030c61/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3339544"
+      }
+    },
+    {
+      "id": "3788300142",
+      "name": "Puppet Parade",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/f/0/69f63c695a76b93ba2c40cd620c20616.mp3?hdnea=exp=1774860023~acl=/api/1/1/6/9/f/0/69f63c695a76b93ba2c40cd620c20616.mp3*~data=user_id=0,application_id=42~hmac=37601ff8856d164314bff3a268cc94248700375071e0b41fee0539ae6fa1bd2f",
+      "duration_ms": 280000,
+      "track_number": 8,
+      "album": {
+        "id": "902129562",
+        "name": "Megadeth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788300142"
+      }
+    },
+    {
+      "id": "3788300112",
+      "name": "I Don't Care",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/3/0/b03479b112f4455d8e7a13f0c42926fa.mp3?hdnea=exp=1774860023~acl=/api/1/1/b/0/3/0/b03479b112f4455d8e7a13f0c42926fa.mp3*~data=user_id=0,application_id=42~hmac=5f168efe4550b51970e627e8231127dc22aae9abcc287d7b7584b5354e9b2176",
+      "duration_ms": 189000,
+      "track_number": 9,
+      "album": {
+        "id": "902129562",
+        "name": "Megadeth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788300112"
+      }
+    },
+    {
+      "id": "3788300132",
+      "name": "Let There Be Shred",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/3/0/d338bedc4b36144d81fa12891ffda748.mp3?hdnea=exp=1774860023~acl=/api/1/1/d/3/3/0/d338bedc4b36144d81fa12891ffda748.mp3*~data=user_id=0,application_id=42~hmac=bc2cd2fd9b2b2742ff73222512f7f67b8095837ba01004bb73730b55be84cc65",
+      "duration_ms": 238000,
+      "track_number": 10,
+      "album": {
+        "id": "902129562",
+        "name": "Megadeth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbcd14353a18c1f7c98ed750b1ff2e2e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3487",
+          "name": "Megadeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788300132"
+      }
+    }
+  ]
+}

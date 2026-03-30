@@ -1,0 +1,32 @@
+{
+  "id": "8638",
+  "name": "Blake Shelton",
+  "popularity": 73,
+  "followers": {
+    "total": 730123
+  },
+  "genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8ffc79d14461956fac3ee529f645a5ae/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8ffc79d14461956fac3ee529f645a5ae/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8ffc79d14461956fac3ee529f645a5ae/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/8638"
+  },
+  "uri": "deezer:artist:8638"
+}

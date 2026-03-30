@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "491767152",
+      "name": "Let Me Down",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/4/0/4e4bd6a229105292c927d9e4539cc015.mp3?hdnea=exp=1774860004~acl=/api/1/1/4/e/4/0/4e4bd6a229105292c927d9e4539cc015.mp3*~data=user_id=0,application_id=42~hmac=3a98d791963bc98b14275a95f5ca452ebf9d083a4ac7242bae411f92ae197304",
+      "duration_ms": 188000,
+      "track_number": 1,
+      "album": {
+        "id": "62225332",
+        "name": "Let Me Down",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21495a3abdbff3dd8ce0090810289445/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21495a3abdbff3dd8ce0090810289445/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21495a3abdbff3dd8ce0090810289445/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/491767152"
+      }
+    },
+    {
+      "id": "3899324761",
+      "name": "Price Of It All",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/d/0/cbd1391fe98efe19b11904600e628454.mp3?hdnea=exp=1774860004~acl=/api/1/1/c/b/d/0/cbd1391fe98efe19b11904600e628454.mp3*~data=user_id=0,application_id=42~hmac=9f85c8f08328434439f5242c5403b91db0646f8764ffd27d207502d0581ebe0a",
+      "duration_ms": 184000,
+      "track_number": 2,
+      "album": {
+        "id": "939217691",
+        "name": "Price Of It All (Music From the Original Series \"Bait\")",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e173cb3885c6d228045ba66719518662/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e173cb3885c6d228045ba66719518662/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e173cb3885c6d228045ba66719518662/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3899324761"
+      }
+    },
+    {
+      "id": "2246866387",
+      "name": "Killing Me (Acoustic)",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/7/0/6c77ca651461600925df1ee97df6446b.mp3?hdnea=exp=1774860004~acl=/api/1/1/6/c/7/0/6c77ca651461600925df1ee97df6446b.mp3*~data=user_id=0,application_id=42~hmac=ceb9b4d90e7151f1849a75b771d15b1f6cc0fa6c027d9a9a9b0a2dbf312c378b",
+      "duration_ms": 198000,
+      "track_number": 3,
+      "album": {
+        "id": "432076417",
+        "name": "Killing Me (Acoustic)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f11db189f81a854893b2d16b8b65e4c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f11db189f81a854893b2d16b8b65e4c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f11db189f81a854893b2d16b8b65e4c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2246866387"
+      }
+    },
+    {
+      "id": "488652032",
+      "name": "Don't Watch Me Cry",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/3/0/ff31089003d658475c4f5d4de10414e0.mp3?hdnea=exp=1774860004~acl=/api/1/1/f/f/3/0/ff31089003d658475c4f5d4de10414e0.mp3*~data=user_id=0,application_id=42~hmac=00bc4d0d9bafd78acb6c614602bf51e9efdf495ecbce3b67ffa24e4b2edb7a4b",
+      "duration_ms": 190000,
+      "track_number": 4,
+      "album": {
+        "id": "61667412",
+        "name": "Lost & Found",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8c1d39d598180031b6c197e6057d4ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8c1d39d598180031b6c197e6057d4ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8c1d39d598180031b6c197e6057d4ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/488652032"
+      }
+    },
+    {
+      "id": "1250503092",
+      "name": "Nobody But You",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/d/0/d3d5e23a0ecddb04268f6380f7f6afa5.mp3?hdnea=exp=1774860004~acl=/api/1/1/d/3/d/0/d3d5e23a0ecddb04268f6380f7f6afa5.mp3*~data=user_id=0,application_id=42~hmac=31add944dd95f6f276d7849996c4c2ec20d9a7f7c48af2729f507d5d61886e84",
+      "duration_ms": 213000,
+      "track_number": 5,
+      "album": {
+        "id": "209116862",
+        "name": "Nobody But You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cc7bf55284b80fe9d54b4519aca5092/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cc7bf55284b80fe9d54b4519aca5092/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cc7bf55284b80fe9d54b4519aca5092/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1250503092"
+      }
+    },
+    {
+      "id": "488651972",
+      "name": "The One",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/3/0/0833d915b03c08446df230e0632fee0c.mp3?hdnea=exp=1774860004~acl=/api/1/1/0/8/3/0/0833d915b03c08446df230e0632fee0c.mp3*~data=user_id=0,application_id=42~hmac=cebed5925230cb1d8bb688f20b6d16bb4d8d8597d9f77328e675f7e2788154fc",
+      "duration_ms": 197000,
+      "track_number": 6,
+      "album": {
+        "id": "61667412",
+        "name": "Lost & Found",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8c1d39d598180031b6c197e6057d4ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8c1d39d598180031b6c197e6057d4ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8c1d39d598180031b6c197e6057d4ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/488651972"
+      }
+    },
+    {
+      "id": "2246853117",
+      "name": "Killing Me",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/1/0/5f1522f646065d3f6bae607a515e6084.mp3?hdnea=exp=1774860004~acl=/api/1/1/5/f/1/0/5f1522f646065d3f6bae607a515e6084.mp3*~data=user_id=0,application_id=42~hmac=918594e13807f6a691bf516f8022f482fdeeaccd9cf20e6c23d4d1bcf20eb188",
+      "duration_ms": 205000,
+      "track_number": 7,
+      "album": {
+        "id": "432072377",
+        "name": "Killing Me",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef6566c4345ed6a039c967de09e3bc42/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef6566c4345ed6a039c967de09e3bc42/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef6566c4345ed6a039c967de09e3bc42/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2246853117"
+      }
+    },
+    {
+      "id": "3059867631",
+      "name": "Loving You (feat. Maverick Sabre)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/0/0/27027762bd5e10b666c6427d69569835.mp3?hdnea=exp=1774860004~acl=/api/1/1/2/7/0/0/27027762bd5e10b666c6427d69569835.mp3*~data=user_id=0,application_id=42~hmac=9bcd7743ad6efb4ed780d33e5dd676da83e7d60597d23c36f7f064a534f86e4a",
+      "duration_ms": 152000,
+      "track_number": 8,
+      "album": {
+        "id": "661351241",
+        "name": "Loving You / Don't Let Me Go",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33d77c6046522007f3c678ede52803b7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33d77c6046522007f3c678ede52803b7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33d77c6046522007f3c678ede52803b7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3059867631"
+      }
+    },
+    {
+      "id": "2337181965",
+      "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/2/0/1c21be5529a3986aaec0b00f79f73eb8.mp3?hdnea=exp=1774860004~acl=/api/1/1/1/c/2/0/1c21be5529a3986aaec0b00f79f73eb8.mp3*~data=user_id=0,application_id=42~hmac=b1b882acf2f444b267d0dc33e3a935123d3fbad2cdd57a8be4b27ccee59b19ad",
+      "duration_ms": 131000,
+      "track_number": 9,
+      "album": {
+        "id": "456127555",
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b09c5e58b8ddb64aa32db29fb427d2f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b09c5e58b8ddb64aa32db29fb427d2f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b09c5e58b8ddb64aa32db29fb427d2f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2337181965"
+      }
+    },
+    {
+      "id": "2893102941",
+      "name": "In The Night (feat. Jorja Smith & Amaarae)",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/a/0/1cae5d78d7bbe0f74f97b9d698fe12a3.mp3?hdnea=exp=1774860004~acl=/api/1/1/1/c/a/0/1cae5d78d7bbe0f74f97b9d698fe12a3.mp3*~data=user_id=0,application_id=42~hmac=f41150d7ff8e6ec12d8a2610ddb131401d986290ac75e66addc48db0e89c808a",
+      "duration_ms": 230000,
+      "track_number": 10,
+      "album": {
+        "id": "616399991",
+        "name": "Bando Stone and The New World",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7207a0bc6ced0ebb635e6035c7173ec1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7207a0bc6ced0ebb635e6035c7173ec1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7207a0bc6ced0ebb635e6035c7173ec1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9945222",
+          "name": "Jorja Smith"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2893102941"
+      }
+    }
+  ]
+}

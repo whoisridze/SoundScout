@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3907717261",
+      "name": "SWIM",
+      "popularity": 99,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/6/0/c869bc823c5c31777e8da65ff6cd735a.mp3?hdnea=exp=1774859946~acl=/api/1/1/c/8/6/0/c869bc823c5c31777e8da65ff6cd735a.mp3*~data=user_id=0,application_id=42~hmac=c8b99a02042653a12b28bf1c5736e20cea5124fb9b250a3e833c90d6b4320b23",
+      "duration_ms": 159000,
+      "track_number": 1,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717261"
+      }
+    },
+    {
+      "id": "3907717291",
+      "name": "Like Animals",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/f/0/e2f64fad9073f844380d0ae8b2069288.mp3?hdnea=exp=1774859946~acl=/api/1/1/e/2/f/0/e2f64fad9073f844380d0ae8b2069288.mp3*~data=user_id=0,application_id=42~hmac=291026e9bbb459bbd321451b8cb1ebf7bb8001248e5ae39c9b26db73cfb488f8",
+      "duration_ms": 189000,
+      "track_number": 2,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717291"
+      }
+    },
+    {
+      "id": "3907717191",
+      "name": "Body to Body",
+      "popularity": 99,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/c/0/c9c7a5bbebc6b31de04b80c6ed83fb72.mp3?hdnea=exp=1774859946~acl=/api/1/1/c/9/c/0/c9c7a5bbebc6b31de04b80c6ed83fb72.mp3*~data=user_id=0,application_id=42~hmac=bba136273062fea41437983d9b7d30903cabfa8b44f7ba80d08ef22f7f77979c",
+      "duration_ms": 189000,
+      "track_number": 3,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717191"
+      }
+    },
+    {
+      "id": "3907717231",
+      "name": "FYA",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/d/0/cfd8afa16e2c39189676a956f41cdb3f.mp3?hdnea=exp=1774859946~acl=/api/1/1/c/f/d/0/cfd8afa16e2c39189676a956f41cdb3f.mp3*~data=user_id=0,application_id=42~hmac=5f10c333bace90508175a5f6f550cbcc7737e3508df60afdb54ed95746e72b43",
+      "duration_ms": 180000,
+      "track_number": 4,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717231"
+      }
+    },
+    {
+      "id": "3907717301",
+      "name": "they don’t know ’bout us",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/0/0/db04205fa6c44df213a85bbbab5e186c.mp3?hdnea=exp=1774859946~acl=/api/1/1/d/b/0/0/db04205fa6c44df213a85bbbab5e186c.mp3*~data=user_id=0,application_id=42~hmac=aedd13195d2e91bb656feeab4f556aa57d1273ed45a709d83ca9eed4b317240f",
+      "duration_ms": 164000,
+      "track_number": 5,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717301"
+      }
+    },
+    {
+      "id": "3907717281",
+      "name": "NORMAL",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/6/0/5f62609d62a6d7e9df925b92d02fc7d3.mp3?hdnea=exp=1774859946~acl=/api/1/1/5/f/6/0/5f62609d62a6d7e9df925b92d02fc7d3.mp3*~data=user_id=0,application_id=42~hmac=875a1b3c7b74bdc93faef42ebac24eaba036068315db38e3d45eb08c427116d8",
+      "duration_ms": 181000,
+      "track_number": 6,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717281"
+      }
+    },
+    {
+      "id": "3907717201",
+      "name": "Hooligan",
+      "popularity": 99,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/e/0/26eaa89a89e4d4505323436998c1ce11.mp3?hdnea=exp=1774859946~acl=/api/1/1/2/6/e/0/26eaa89a89e4d4505323436998c1ce11.mp3*~data=user_id=0,application_id=42~hmac=cef211e200efb9ea59abf53454e82d0df6c448d1e6359452f7ccb0def01246e5",
+      "duration_ms": 182000,
+      "track_number": 7,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717201"
+      }
+    },
+    {
+      "id": "3907717211",
+      "name": "Aliens",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/d/0/c6d2dd680be5fc3d1716d313dd698647.mp3?hdnea=exp=1774859946~acl=/api/1/1/c/6/d/0/c6d2dd680be5fc3d1716d313dd698647.mp3*~data=user_id=0,application_id=42~hmac=59ee2ab0991e9a56ffca75936a352637693570bcbea7d6c846aa1925983c0809",
+      "duration_ms": 167000,
+      "track_number": 8,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717211"
+      }
+    },
+    {
+      "id": "3907717241",
+      "name": "2.0",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/6/0/fc62156b01646b7b2b11891a83401650.mp3?hdnea=exp=1774859946~acl=/api/1/1/f/c/6/0/fc62156b01646b7b2b11891a83401650.mp3*~data=user_id=0,application_id=42~hmac=0b947c94c28decec8044f6cb1bdd3b44603ba88d06157cf30f3365fbf4a000c1",
+      "duration_ms": 169000,
+      "track_number": 9,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717241"
+      }
+    },
+    {
+      "id": "3907717271",
+      "name": "Merry Go Round",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/3/0/74322cce8561fe1f1eeca90f66971393.mp3?hdnea=exp=1774859946~acl=/api/1/1/7/4/3/0/74322cce8561fe1f1eeca90f66971393.mp3*~data=user_id=0,application_id=42~hmac=2b49131079c6adf22e5b374d5eac2398c886cbb6d1fc98f6294772574f6295a3",
+      "duration_ms": 229000,
+      "track_number": 10,
+      "album": {
+        "id": "942227361",
+        "name": "ARIRANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3b8e9462db0c02e082c706c624f9811/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6982223",
+          "name": "BTS"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3907717271"
+      }
+    }
+  ]
+}

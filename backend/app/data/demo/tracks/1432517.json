@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "391850072",
+      "name": "King of the Streets",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/9/0/df9c720f5373673af4fc165b5b437a5c.mp3?hdnea=exp=1774859930~acl=/api/1/1/d/f/9/0/df9c720f5373673af4fc165b5b437a5c.mp3*~data=user_id=0,application_id=42~hmac=e342e5732c6c87efca88e1a1c11e07188699102276bd430bbbb3839ff85f1dbc",
+      "duration_ms": 297000,
+      "track_number": 1,
+      "album": {
+        "id": "45867052",
+        "name": "Skull and Shark",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b8bf1f93ac21a75ff2252b1cb433a02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b8bf1f93ac21a75ff2252b1cb433a02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b8bf1f93ac21a75ff2252b1cb433a02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/391850072"
+      }
+    },
+    {
+      "id": "399336672",
+      "name": "Overdrive",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/5/0/5851d25d7f472b95c7648bcf7fa15295.mp3?hdnea=exp=1774859930~acl=/api/1/1/5/8/5/0/5851d25d7f472b95c7648bcf7fa15295.mp3*~data=user_id=0,application_id=42~hmac=0d669f268e3cb13e49ec38cdd8de59aa0f68e6704c0711868eba9f07e001b49b",
+      "duration_ms": 271000,
+      "track_number": 2,
+      "album": {
+        "id": "46981052",
+        "name": "Redline",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab0c4cd2d48754b01ae54904eeb7d5cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab0c4cd2d48754b01ae54904eeb7d5cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab0c4cd2d48754b01ae54904eeb7d5cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399336672"
+      }
+    },
+    {
+      "id": "399336682",
+      "name": "Electric Groove",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/6/0/a464583c977ebf7395a505aeb0fd7b17.mp3?hdnea=exp=1774859930~acl=/api/1/1/a/4/6/0/a464583c977ebf7395a505aeb0fd7b17.mp3*~data=user_id=0,application_id=42~hmac=894c17f67dd3474c33f405e67fb9bad82458c15b1b6a4cea585b2c4ab67c518c",
+      "duration_ms": 290000,
+      "track_number": 3,
+      "album": {
+        "id": "46981052",
+        "name": "Redline",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab0c4cd2d48754b01ae54904eeb7d5cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab0c4cd2d48754b01ae54904eeb7d5cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab0c4cd2d48754b01ae54904eeb7d5cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399336682"
+      }
+    },
+    {
+      "id": "399783592",
+      "name": "Disco Planet",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/7/0/73779707857419a9e2a71160a936f8d2.mp3?hdnea=exp=1774859930~acl=/api/1/1/7/3/7/0/73779707857419a9e2a71160a936f8d2.mp3*~data=user_id=0,application_id=42~hmac=225a772d0cc0f5f582871e13826c92b31d46ea7ae7a525dcf79780b1404ed034",
+      "duration_ms": 291000,
+      "track_number": 4,
+      "album": {
+        "id": "47046942",
+        "name": "Visitors",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399783592"
+      }
+    },
+    {
+      "id": "399783602",
+      "name": "Shoulder of Orion",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/0/0/930fd14544fd10a6ba307db7d78039ee.mp3?hdnea=exp=1774859930~acl=/api/1/1/9/3/0/0/930fd14544fd10a6ba307db7d78039ee.mp3*~data=user_id=0,application_id=42~hmac=1ccd9f5fa695b0f6c4dba09ab1af1a55e4955e9f2713bc72f49d94322254759f",
+      "duration_ms": 302000,
+      "track_number": 5,
+      "album": {
+        "id": "47046942",
+        "name": "Visitors",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399783602"
+      }
+    },
+    {
+      "id": "399783642",
+      "name": "Star Hustler",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/f/0/75f4037f8a3f27830da6edb37f540f2e.mp3?hdnea=exp=1774859930~acl=/api/1/1/7/5/f/0/75f4037f8a3f27830da6edb37f540f2e.mp3*~data=user_id=0,application_id=42~hmac=b6ea52743096af5718f49c2be585002ecf8e1d88d09c0995f771769f6b2a5440",
+      "duration_ms": 283000,
+      "track_number": 6,
+      "album": {
+        "id": "47046942",
+        "name": "Visitors",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399783642"
+      }
+    },
+    {
+      "id": "399443752",
+      "name": "Cool Breeze",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/f/0/90f0e9c2a1dc56c43254913fadf301d6.mp3?hdnea=exp=1774859930~acl=/api/1/1/9/0/f/0/90f0e9c2a1dc56c43254913fadf301d6.mp3*~data=user_id=0,application_id=42~hmac=8a57b3c2b92be99764136b8b9897f432971b31c28858889dd9e7afbcf81ed524",
+      "duration_ms": 277000,
+      "track_number": 7,
+      "album": {
+        "id": "46998552",
+        "name": "Dreamrider",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9974159f5a4950509a8c86c66d427b89/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9974159f5a4950509a8c86c66d427b89/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9974159f5a4950509a8c86c66d427b89/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399443752"
+      }
+    },
+    {
+      "id": "399783612",
+      "name": "So Far Away",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/6/0/8364a327e4bbd58e660ce631a13a3d0c.mp3?hdnea=exp=1774859930~acl=/api/1/1/8/3/6/0/8364a327e4bbd58e660ce631a13a3d0c.mp3*~data=user_id=0,application_id=42~hmac=5bdf1ecbf73f7b0341a694cbc5c4ec9b9caecbc439c0ad4e11a9a584032a9554",
+      "duration_ms": 282000,
+      "track_number": 8,
+      "album": {
+        "id": "47046942",
+        "name": "Visitors",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/107952ca1a06f35581491461c10b41ee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399783612"
+      }
+    },
+    {
+      "id": "391850112",
+      "name": "The Looks That Kill",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/2/0/1621752d325aff4987822ef039922d00.mp3?hdnea=exp=1774859930~acl=/api/1/1/1/6/2/0/1621752d325aff4987822ef039922d00.mp3*~data=user_id=0,application_id=42~hmac=5866fda1978ba1a8d0117ed0817970c815a126587c22f5437842630bcfaf8154",
+      "duration_ms": 248000,
+      "track_number": 9,
+      "album": {
+        "id": "45867052",
+        "name": "Skull and Shark",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b8bf1f93ac21a75ff2252b1cb433a02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b8bf1f93ac21a75ff2252b1cb433a02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b8bf1f93ac21a75ff2252b1cb433a02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/391850112"
+      }
+    },
+    {
+      "id": "391850082",
+      "name": "Massacre",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/a/0/86aa521912331552fba2428a0d46ad7a.mp3?hdnea=exp=1774859930~acl=/api/1/1/8/6/a/0/86aa521912331552fba2428a0d46ad7a.mp3*~data=user_id=0,application_id=42~hmac=62d2d1a11d0baf658ceb3a9fa63e06d1386c0999208707d5f1054dae57fdb7b3",
+      "duration_ms": 287000,
+      "track_number": 10,
+      "album": {
+        "id": "45867052",
+        "name": "Skull and Shark",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b8bf1f93ac21a75ff2252b1cb433a02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b8bf1f93ac21a75ff2252b1cb433a02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b8bf1f93ac21a75ff2252b1cb433a02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1432517",
+          "name": "Lazerhawk"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/391850082"
+      }
+    }
+  ]
+}

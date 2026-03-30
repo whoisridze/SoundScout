@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2436442645",
+      "name": "She",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/e/0/0ae1702d4ab27bb1d17cb1af0cb0fd34.mp3?hdnea=exp=1774860117~acl=/api/1/1/0/a/e/0/0ae1702d4ab27bb1d17cb1af0cb0fd34.mp3*~data=user_id=0,application_id=42~hmac=dd15986c4d8e473a7ed129c045aa9557fd2c4f58afa674d8d011e352cdc25463",
+      "duration_ms": 171000,
+      "track_number": 1,
+      "album": {
+        "id": "483165405",
+        "name": "She",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d03c33708a2522cf08c057826da8ff5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d03c33708a2522cf08c057826da8ff5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d03c33708a2522cf08c057826da8ff5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2436442645"
+      }
+    },
+    {
+      "id": "3904656471",
+      "name": "Can't Get Enuff",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/0/0/130f271609286cc754a6b0bbc68dbbb7.mp3?hdnea=exp=1774860117~acl=/api/1/1/1/3/0/0/130f271609286cc754a6b0bbc68dbbb7.mp3*~data=user_id=0,application_id=42~hmac=6aed1351b6142d64181698fc1130f285b9e5162f9d5144b6b0354b94b18c56ad",
+      "duration_ms": 170000,
+      "track_number": 2,
+      "album": {
+        "id": "941232281",
+        "name": "Can't Get Enuff",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bacffc46d9ffaa5d7a3a0a61a254f61/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bacffc46d9ffaa5d7a3a0a61a254f61/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bacffc46d9ffaa5d7a3a0a61a254f61/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3904656471"
+      }
+    },
+    {
+      "id": "3744117352",
+      "name": "No Flunk",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/e/0/97ef95a61e16b7c284d88dbfc430d908.mp3?hdnea=exp=1774860117~acl=/api/1/1/9/7/e/0/97ef95a61e16b7c284d88dbfc430d908.mp3*~data=user_id=0,application_id=42~hmac=7f17e825b19c54113af96d00e5c15767a47c617141a269a2ec3b98bcf7a06718",
+      "duration_ms": 139000,
+      "track_number": 3,
+      "album": {
+        "id": "886615752",
+        "name": "No Flunk",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5cd37db47ac6afa03f5a8005ca8b6e13/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5cd37db47ac6afa03f5a8005ca8b6e13/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5cd37db47ac6afa03f5a8005ca8b6e13/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3744117352"
+      }
+    },
+    {
+      "id": "1696829437",
+      "name": "Talibhan",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/a/0/84a6ccfe9e633960c10fc52209637a02.mp3?hdnea=exp=1774860117~acl=/api/1/1/8/4/a/0/84a6ccfe9e633960c10fc52209637a02.mp3*~data=user_id=0,application_id=42~hmac=6217e04e5d0655bc0ee6eac1ac049136fdaf9b0f88deb79014e8ddeff7afe83d",
+      "duration_ms": 183000,
+      "track_number": 4,
+      "album": {
+        "id": "305610377",
+        "name": "Talibhan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9626bad8ea8df97043d2bddeb92e0baf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9626bad8ea8df97043d2bddeb92e0baf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9626bad8ea8df97043d2bddeb92e0baf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1696829437"
+      }
+    },
+    {
+      "id": "1471739762",
+      "name": "Gvnman Shift",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/c/0/ffc04acd09c2a1f1ac6e768d803c0391.mp3?hdnea=exp=1774860117~acl=/api/1/1/f/f/c/0/ffc04acd09c2a1f1ac6e768d803c0391.mp3*~data=user_id=0,application_id=42~hmac=616a761c6bc2807f1653d4215ea3e7118fb02acc826552a8db6f8daecf85e758",
+      "duration_ms": 204000,
+      "track_number": 5,
+      "album": {
+        "id": "253448922",
+        "name": "Gvnman Shift",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a0d8a0d4246ce6bad887aea9e4ff7483/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a0d8a0d4246ce6bad887aea9e4ff7483/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a0d8a0d4246ce6bad887aea9e4ff7483/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1471739762"
+      }
+    },
+    {
+      "id": "3294571651",
+      "name": "Street Jump",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/6/0/df6e6c2726d90adaed945bae5eadf95b.mp3?hdnea=exp=1774860117~acl=/api/1/1/d/f/6/0/df6e6c2726d90adaed945bae5eadf95b.mp3*~data=user_id=0,application_id=42~hmac=935023f03492420d94ccc9dc85f9eb901a30b7bf3329ac9ff32715fbe0a5e720",
+      "duration_ms": 196000,
+      "track_number": 6,
+      "album": {
+        "id": "732760861",
+        "name": "Street Jump",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/caeaa482225eccd4c4b71f35deb95af1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/caeaa482225eccd4c4b71f35deb95af1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/caeaa482225eccd4c4b71f35deb95af1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3294571651"
+      }
+    },
+    {
+      "id": "3697139702",
+      "name": "Ketch E Dip (Bay Man A Look)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/e/0/c3e96d1b2a77e8b0a525336d2f0c9d78.mp3?hdnea=exp=1774860117~acl=/api/1/1/c/3/e/0/c3e96d1b2a77e8b0a525336d2f0c9d78.mp3*~data=user_id=0,application_id=42~hmac=26e58fa37a3bd2c87a05e6c61115119b227f8d29c4b46b9a5219930bbc83efb7",
+      "duration_ms": 144000,
+      "track_number": 7,
+      "album": {
+        "id": "870605102",
+        "name": "Ketch E Dip (Bay Man A Look)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44d0e7f07fc21cb43ba8128b2248ade7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44d0e7f07fc21cb43ba8128b2248ade7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44d0e7f07fc21cb43ba8128b2248ade7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3697139702"
+      }
+    },
+    {
+      "id": "1985958847",
+      "name": "Eediattt ‘Idiot’",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/3/0/6e3733f4c7137dd83158dd718e006670.mp3?hdnea=exp=1774860117~acl=/api/1/1/6/e/3/0/6e3733f4c7137dd83158dd718e006670.mp3*~data=user_id=0,application_id=42~hmac=2ce058c022cf304142bf81e7550ba81b4bfc43199eb92f19229bcee143ef233f",
+      "duration_ms": 174000,
+      "track_number": 8,
+      "album": {
+        "id": "370297627",
+        "name": "Beast Of The Era EP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/18e75a7c23875ce7bc1e1f51d3008773/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/18e75a7c23875ce7bc1e1f51d3008773/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/18e75a7c23875ce7bc1e1f51d3008773/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1985958847"
+      }
+    },
+    {
+      "id": "1551639922",
+      "name": "Protocol",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/9/0/df98aeec0d2a19e9216d14c3dd256a0f.mp3?hdnea=exp=1774860117~acl=/api/1/1/d/f/9/0/df98aeec0d2a19e9216d14c3dd256a0f.mp3*~data=user_id=0,application_id=42~hmac=5190be89a6274b704e9450ac95e8d86f886c1c30c541d563614d37aad7a84260",
+      "duration_ms": 199000,
+      "track_number": 9,
+      "album": {
+        "id": "272395752",
+        "name": "Protocol",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed314e6868b992767299e7c9f0d5843/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed314e6868b992767299e7c9f0d5843/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed314e6868b992767299e7c9f0d5843/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1551639922"
+      }
+    },
+    {
+      "id": "2942379571",
+      "name": "Senseless",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/d/0/1adbb2191abb39f2eb57301de487de44.mp3?hdnea=exp=1774860117~acl=/api/1/1/1/a/d/0/1adbb2191abb39f2eb57301de487de44.mp3*~data=user_id=0,application_id=42~hmac=6993956534a9eb3730348bbf17b05cc05872e61526640c34d41e38b174fc4496",
+      "duration_ms": 172000,
+      "track_number": 10,
+      "album": {
+        "id": "627753971",
+        "name": "Stalky the Bratt",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ddd6d50c02e08ea5ee5e5903025b496d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ddd6d50c02e08ea5ee5e5903025b496d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ddd6d50c02e08ea5ee5e5903025b496d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "874562",
+          "name": "Skeng"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2942379571"
+      }
+    }
+  ]
+}

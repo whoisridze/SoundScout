@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2461123655",
+      "name": "Hell N Back (feat. Summer Walker)",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/5/0/245fea3e7d84dc08f4c64057db81f57a.mp3?hdnea=exp=1774860002~acl=/api/1/1/2/4/5/0/245fea3e7d84dc08f4c64057db81f57a.mp3*~data=user_id=0,application_id=42~hmac=c6a2420aed6eeb01a7979041ee2dd143ff47bae95fff3b05c72014f744fa25eb",
+      "duration_ms": 195000,
+      "track_number": 1,
+      "album": {
+        "id": "489849155",
+        "name": "Halo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35d3ba7440091c12e8380b791ad5d205/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35d3ba7440091c12e8380b791ad5d205/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35d3ba7440091c12e8380b791ad5d205/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2461123655"
+      }
+    },
+    {
+      "id": "3652835752",
+      "name": "Go Girl",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/3/0/a43ddef973bb0b2cb917a6d24f0f4fdc.mp3?hdnea=exp=1774860002~acl=/api/1/1/a/4/3/0/a43ddef973bb0b2cb917a6d24f0f4fdc.mp3*~data=user_id=0,application_id=42~hmac=81fbc1c26bfb0c5b6a865c69b872f7663e758603fdf44dd394a1d805e1aa3b6b",
+      "duration_ms": 228000,
+      "track_number": 2,
+      "album": {
+        "id": "855489232",
+        "name": "Finally Over It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffc939e6613740c5301ec3669e8697a9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffc939e6613740c5301ec3669e8697a9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffc939e6613740c5301ec3669e8697a9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3652835752"
+      }
+    },
+    {
+      "id": "1015720682",
+      "name": "White Tee",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e18ff5046c8acecd866a69ac3581df.mp3?hdnea=exp=1774860002~acl=/api/1/1/8/8/e/0/88e18ff5046c8acecd866a69ac3581df.mp3*~data=user_id=0,application_id=42~hmac=086c3f171bd18abecca7a02ec9419eae39d7cd98c593e362c920bed041a3c402",
+      "duration_ms": 211000,
+      "track_number": 3,
+      "album": {
+        "id": "159514962",
+        "name": "Life On Earth - EP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d734d316cc7cabb4e2a59be2fb779963/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d734d316cc7cabb4e2a59be2fb779963/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d734d316cc7cabb4e2a59be2fb779963/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1015720682"
+      }
+    },
+    {
+      "id": "810557972",
+      "name": "Something Real",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/8/0/8a8f215c56829942d78bf22fffe58aa2.mp3?hdnea=exp=1774860002~acl=/api/1/1/8/a/8/0/8a8f215c56829942d78bf22fffe58aa2.mp3*~data=user_id=0,application_id=42~hmac=be5da6746e64ceff922430b17436c45af080014254e3525e368bf53990731ff9",
+      "duration_ms": 183000,
+      "track_number": 4,
+      "album": {
+        "id": "119385022",
+        "name": "Something Real",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/27c7d5ca270884ea2ecee0a9ded53e3f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/27c7d5ca270884ea2ecee0a9ded53e3f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/27c7d5ca270884ea2ecee0a9ded53e3f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/810557972"
+      }
+    },
+    {
+      "id": "3652835812",
+      "name": "FMT",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/9/0/259b14631bc858cee8a435a338b25fab.mp3?hdnea=exp=1774860002~acl=/api/1/1/2/5/9/0/259b14631bc858cee8a435a338b25fab.mp3*~data=user_id=0,application_id=42~hmac=f67bd42d3d60cfab42054c0b3ad79a0a12d514d62ac351206e05d5fb6cbfab09",
+      "duration_ms": 208000,
+      "track_number": 5,
+      "album": {
+        "id": "855489232",
+        "name": "Finally Over It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffc939e6613740c5301ec3669e8697a9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffc939e6613740c5301ec3669e8697a9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffc939e6613740c5301ec3669e8697a9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3652835812"
+      }
+    },
+    {
+      "id": "1766771577",
+      "name": "Purple Hearts",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/8/0/4a826afaa7bac5bcc5faf656db9186ed.mp3?hdnea=exp=1774860002~acl=/api/1/1/4/a/8/0/4a826afaa7bac5bcc5faf656db9186ed.mp3*~data=user_id=0,application_id=42~hmac=8f5303a68656827e819f6e0ad9e01acabc91a11269d1473728eaa2ae10635fd5",
+      "duration_ms": 329000,
+      "track_number": 6,
+      "album": {
+        "id": "322019377",
+        "name": "Mr. Morale & The Big Steppers",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/412361ce41f0bd2595978dbf0e035ad3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/412361ce41f0bd2595978dbf0e035ad3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/412361ce41f0bd2595978dbf0e035ad3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1766771577"
+      }
+    },
+    {
+      "id": "765794262",
+      "name": "Body",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/6/0/286b9a9071c50bd54cac82a36d176d38.mp3?hdnea=exp=1774860002~acl=/api/1/1/2/8/6/0/286b9a9071c50bd54cac82a36d176d38.mp3*~data=user_id=0,application_id=42~hmac=76494fb91cd97c3189496166c6f289060591202b5b178700530983c2af1d99fd",
+      "duration_ms": 193000,
+      "track_number": 7,
+      "album": {
+        "id": "113016222",
+        "name": "Over It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62cf1fc3efebb23bd6cbf09a147d3c66/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62cf1fc3efebb23bd6cbf09a147d3c66/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62cf1fc3efebb23bd6cbf09a147d3c66/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/765794262"
+      }
+    },
+    {
+      "id": "2614584432",
+      "name": "prove it",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/7/0/bf7d90f8bb0b60424743baf6deee20d5.mp3?hdnea=exp=1774860002~acl=/api/1/1/b/f/7/0/bf7d90f8bb0b60424743baf6deee20d5.mp3*~data=user_id=0,application_id=42~hmac=5e07978ba908201106ede4d4596daf018c0845f060fe2161918a2ade1d291d8c",
+      "duration_ms": 207000,
+      "track_number": 8,
+      "album": {
+        "id": "533077002",
+        "name": "american dream",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2614584432"
+      }
+    },
+    {
+      "id": "642673892",
+      "name": "Karma",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/6/0/9a6ebf4f871319039478d8ea677f653f.mp3?hdnea=exp=1774860002~acl=/api/1/1/9/a/6/0/9a6ebf4f871319039478d8ea677f653f.mp3*~data=user_id=0,application_id=42~hmac=6e82263ac0fe29bbb7e3e1c20b62e90b1c812f6259442f65583b6c564e9c7f56",
+      "duration_ms": 188000,
+      "track_number": 9,
+      "album": {
+        "id": "89198532",
+        "name": "Last Day Of Summer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ba5878f51f5aa6f1995b2ba72878f0a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ba5878f51f5aa6f1995b2ba72878f0a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ba5878f51f5aa6f1995b2ba72878f0a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/642673892"
+      }
+    },
+    {
+      "id": "1543741732",
+      "name": "Ex For A Reason",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/6/0/2c68c02ec7c27f8f4e65148e92e553f1.mp3?hdnea=exp=1774860002~acl=/api/1/1/2/c/6/0/2c68c02ec7c27f8f4e65148e92e553f1.mp3*~data=user_id=0,application_id=42~hmac=a3c52a32a6f3094156a43e217a1cd99a4634ad49d37270c00c44556fe3dbc7b0",
+      "duration_ms": 226000,
+      "track_number": 10,
+      "album": {
+        "id": "270644462",
+        "name": "Still Over It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/30a28794bfa49a7e1bd56e402d13fcec/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/30a28794bfa49a7e1bd56e402d13fcec/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/30a28794bfa49a7e1bd56e402d13fcec/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "14482665",
+          "name": "Summer Walker"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1543741732"
+      }
+    }
+  ]
+}

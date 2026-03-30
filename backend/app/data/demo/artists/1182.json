@@ -1,0 +1,32 @@
+{
+  "id": "1182",
+  "name": "Arctic Monkeys",
+  "popularity": 99,
+  "followers": {
+    "total": 4869919
+  },
+  "genres": [
+    "indie rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6c03e4c7c36800897fd468633286db24/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6c03e4c7c36800897fd468633286db24/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6c03e4c7c36800897fd468633286db24/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1182"
+  },
+  "uri": "deezer:artist:1182"
+}

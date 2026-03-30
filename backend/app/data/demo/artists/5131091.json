@@ -1,0 +1,32 @@
+{
+  "id": "5131091",
+  "name": "Denzel Curry",
+  "popularity": 18,
+  "followers": {
+    "total": 184459
+  },
+  "genres": [
+    "trap"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f0d047c02138800e4921a46f4b72f995/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f0d047c02138800e4921a46f4b72f995/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f0d047c02138800e4921a46f4b72f995/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5131091"
+  },
+  "uri": "deezer:artist:5131091"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4418",
+  "name": "Taj Mahal",
+  "popularity": 9,
+  "followers": {
+    "total": 92548
+  },
+  "genres": [
+    "blues"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/d1bff4ede97f7236478baa7e08e005a6/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/d1bff4ede97f7236478baa7e08e005a6/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/d1bff4ede97f7236478baa7e08e005a6/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/4418"
+  },
+  "uri": "deezer:artist:4418"
+}

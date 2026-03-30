@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2904304891",
+      "name": "Vampires",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/5/0/9352ba1d4944fe36d8a8d7c86548cffc.mp3?hdnea=exp=1774859922~acl=/api/1/1/9/3/5/0/9352ba1d4944fe36d8a8d7c86548cffc.mp3*~data=user_id=0,application_id=42~hmac=c67b6f262ed88646a046443dec08d807d317c69900c8d11d3989fbeb0449782d",
+      "duration_ms": 317000,
+      "track_number": 1,
+      "album": {
+        "id": "618966801",
+        "name": "Vampires",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c733e8ba08ebda4cf082aa1dff6dc55/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c733e8ba08ebda4cf082aa1dff6dc55/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c733e8ba08ebda4cf082aa1dff6dc55/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2904304891"
+      }
+    },
+    {
+      "id": "2904312461",
+      "name": "Los Angeles",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/6/0/1c68b9f651bfa13de9ac71af878d5e93.mp3?hdnea=exp=1774859922~acl=/api/1/1/1/c/6/0/1c68b9f651bfa13de9ac71af878d5e93.mp3*~data=user_id=0,application_id=42~hmac=13d543050fdd6302206424796fbef5623a5d8da7e3a6f5236790bca275c6f066",
+      "duration_ms": 389000,
+      "track_number": 2,
+      "album": {
+        "id": "618969161",
+        "name": "Days of Thunder",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d3156e8f27a3bf8fe894266ade8b8c9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d3156e8f27a3bf8fe894266ade8b8c9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d3156e8f27a3bf8fe894266ade8b8c9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2904312461"
+      }
+    },
+    {
+      "id": "2904312421",
+      "name": "Gloria",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/a/0/e5aa4c484d0b3c04d4a2c56542bf3c61.mp3?hdnea=exp=1774859922~acl=/api/1/1/e/5/a/0/e5aa4c484d0b3c04d4a2c56542bf3c61.mp3*~data=user_id=0,application_id=42~hmac=6608b559d3dd617e5d3d4c707a15c4dcd4dfef83eba8872a0f3012d29f04eff2",
+      "duration_ms": 289000,
+      "track_number": 3,
+      "album": {
+        "id": "618969161",
+        "name": "Days of Thunder",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d3156e8f27a3bf8fe894266ade8b8c9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d3156e8f27a3bf8fe894266ade8b8c9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d3156e8f27a3bf8fe894266ade8b8c9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2904312421"
+      }
+    },
+    {
+      "id": "2904317941",
+      "name": "River of Darkness",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/a/0/04aa0fb79b0d2145555b341657dbc4b4.mp3?hdnea=exp=1774859922~acl=/api/1/1/0/4/a/0/04aa0fb79b0d2145555b341657dbc4b4.mp3*~data=user_id=0,application_id=42~hmac=74ecbc162efb47b427afd670340ec2357f71e466e13d52ad9090e5029f0f836f",
+      "duration_ms": 365000,
+      "track_number": 4,
+      "album": {
+        "id": "618971161",
+        "name": "Nocturnal",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be6f3b1d4bcf875b1ccb74b195cb9224/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be6f3b1d4bcf875b1ccb74b195cb9224/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be6f3b1d4bcf875b1ccb74b195cb9224/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2904317941"
+      }
+    },
+    {
+      "id": "3474799211",
+      "name": "Summer's Ending Soon",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/8/0/e885a6e4f088f78f0c2125440f081b0a.mp3?hdnea=exp=1774859922~acl=/api/1/1/e/8/8/0/e885a6e4f088f78f0c2125440f081b0a.mp3*~data=user_id=0,application_id=42~hmac=54b6d0aaec7876a53292cdb94d93649c340843371db4adbe455e8572c59e67d4",
+      "duration_ms": 411000,
+      "track_number": 5,
+      "album": {
+        "id": "793064321",
+        "name": "Summer's Ending Soon",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/723396585e6510e9922298e1fdcf92bc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/723396585e6510e9922298e1fdcf92bc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/723396585e6510e9922298e1fdcf92bc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3474799211"
+      }
+    },
+    {
+      "id": "3575353981",
+      "name": "First Night In Paris (feat. Carpenter Brut)",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/9/0/6b9066245644896f07068ece6f4a994f.mp3?hdnea=exp=1774859922~acl=/api/1/1/6/b/9/0/6b9066245644896f07068ece6f4a994f.mp3*~data=user_id=0,application_id=42~hmac=9adebef9619a2b9c786232fc3951e6fdfb93b052789a32a16ac59ecf5f0c0bcf",
+      "duration_ms": 177000,
+      "track_number": 6,
+      "album": {
+        "id": "828315451",
+        "name": "Syndicate",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/723396585e6510e9922298e1fdcf92bc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/723396585e6510e9922298e1fdcf92bc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/723396585e6510e9922298e1fdcf92bc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3575353981"
+      }
+    },
+    {
+      "id": "2904325951",
+      "name": "The Equaliser (Not Alone)",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/1/0/0316f0fe3b65c66ca60f49ddeab21937.mp3?hdnea=exp=1774859922~acl=/api/1/1/0/3/1/0/0316f0fe3b65c66ca60f49ddeab21937.mp3*~data=user_id=0,application_id=42~hmac=20386c971e8d722e4ef8951f9d6d136f4ec93a7f3b2f1b2b627af5d793b2070c",
+      "duration_ms": 229000,
+      "track_number": 7,
+      "album": {
+        "id": "618973831",
+        "name": "Endless Summer (5 Year Anniversary Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56b60b3994d02ae963634d783024c95b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56b60b3994d02ae963634d783024c95b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56b60b3994d02ae963634d783024c95b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2904325951"
+      }
+    },
+    {
+      "id": "2904325931",
+      "name": "Jason",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/4/0/9a4714086f71d0090148a342c63b5d23.mp3?hdnea=exp=1774859922~acl=/api/1/1/9/a/4/0/9a4714086f71d0090148a342c63b5d23.mp3*~data=user_id=0,application_id=42~hmac=05126f005c02b6e275132236bf69b58618d1831f754d2b2b501b3a9282a00888",
+      "duration_ms": 331000,
+      "track_number": 8,
+      "album": {
+        "id": "618973831",
+        "name": "Endless Summer (5 Year Anniversary Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56b60b3994d02ae963634d783024c95b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56b60b3994d02ae963634d783024c95b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56b60b3994d02ae963634d783024c95b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2904325931"
+      }
+    },
+    {
+      "id": "1241896772",
+      "name": "Because The Night",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/3/0/193b6bf7f23a2030a790c6e7cab005c1.mp3?hdnea=exp=1774859922~acl=/api/1/1/1/9/3/0/193b6bf7f23a2030a790c6e7cab005c1.mp3*~data=user_id=0,application_id=42~hmac=32ce33387efcc9b64d202fe177de9e73320f09649b5a9ba62c620c155325f38c",
+      "duration_ms": 216000,
+      "track_number": 9,
+      "album": {
+        "id": "207228692",
+        "name": "Horror Show",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/364f1a51f2d2fc54b06d5cccad250fe7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/364f1a51f2d2fc54b06d5cccad250fe7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/364f1a51f2d2fc54b06d5cccad250fe7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1241896772"
+      }
+    },
+    {
+      "id": "2904318621",
+      "name": "Wave",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/e/0/f9e02d1b95efaf59414180a319694ecc.mp3?hdnea=exp=1774859922~acl=/api/1/1/f/9/e/0/f9e02d1b95efaf59414180a319694ecc.mp3*~data=user_id=0,application_id=42~hmac=c2d9944e311536d8c496def82d921b099166bf6813b5c374aa335343c19b44ef",
+      "duration_ms": 271000,
+      "track_number": 10,
+      "album": {
+        "id": "618971411",
+        "name": "Kids",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1b2bd5256075100b714b6c7bef5230f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1b2bd5256075100b714b6c7bef5230f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1b2bd5256075100b714b6c7bef5230f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6807853",
+          "name": "The Midnight"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2904318621"
+      }
+    }
+  ]
+}

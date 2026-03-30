@@ -1,0 +1,32 @@
+{
+  "id": "5297021",
+  "name": "KAROL G",
+  "popularity": 99,
+  "followers": {
+    "total": 3344012
+  },
+  "genres": [
+    "latin pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/dd8c6b3068d2761955eb6e432046ed91/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/dd8c6b3068d2761955eb6e432046ed91/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/dd8c6b3068d2761955eb6e432046ed91/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5297021"
+  },
+  "uri": "deezer:artist:5297021"
+}

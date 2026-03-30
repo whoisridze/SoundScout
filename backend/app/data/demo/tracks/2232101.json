@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3230355431",
+      "name": "Streets of 2043",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/7/0/b27dafe2ca75c82213942569de3ea833.mp3?hdnea=exp=1774859929~acl=/api/1/1/b/2/7/0/b27dafe2ca75c82213942569de3ea833.mp3*~data=user_id=0,application_id=42~hmac=f844ce6f0b4cb420d7453128b08316903100f9ecf437e2522ff2ef743b8e3ffb",
+      "duration_ms": 361000,
+      "track_number": 1,
+      "album": {
+        "id": "711896571",
+        "name": "Synthwave, Vol. 7",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/301923868f8de8b82a3d5772feae811c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/301923868f8de8b82a3d5772feae811c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/301923868f8de8b82a3d5772feae811c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3230355431"
+      }
+    },
+    {
+      "id": "3293463141",
+      "name": "Devil Trigger (Power Glove Battle Version)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/7/0/8a738bc3e80eaa0f6ba4987d01595e99.mp3?hdnea=exp=1774859929~acl=/api/1/1/8/a/7/0/8a738bc3e80eaa0f6ba4987d01595e99.mp3*~data=user_id=0,application_id=42~hmac=84cd2036edef4bc6a0e41cb483e4f3706507f628ffa970574cdd9993822fd776",
+      "duration_ms": 139000,
+      "track_number": 2,
+      "album": {
+        "id": "732382911",
+        "name": "Devil May Cry (Soundtrack from the Netflix Series)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5305b15b6786b53d0f5d2a53dd9d5514/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5305b15b6786b53d0f5d2a53dd9d5514/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5305b15b6786b53d0f5d2a53dd9d5514/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3293463141"
+      }
+    },
+    {
+      "id": "1110475412",
+      "name": "Mercenary",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/4/0/9b4dc87bbd7540f04f07b95957f6ee42.mp3?hdnea=exp=1774859929~acl=/api/1/1/9/b/4/0/9b4dc87bbd7540f04f07b95957f6ee42.mp3*~data=user_id=0,application_id=42~hmac=02025efaa0e7caedfcc40708306432f6f75fa81d8367fd918c84e32e263b3948",
+      "duration_ms": 219000,
+      "track_number": 3,
+      "album": {
+        "id": "179858402",
+        "name": "Mercenary",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70abe9a86b41bee2dfe293acf6af1493/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70abe9a86b41bee2dfe293acf6af1493/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70abe9a86b41bee2dfe293acf6af1493/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1110475412"
+      }
+    },
+    {
+      "id": "99462268",
+      "name": "Motorcycle Cop",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/6/0/a56d5a942b5971165c187b91bf14c48d.mp3?hdnea=exp=1774859929~acl=/api/1/1/a/5/6/0/a56d5a942b5971165c187b91bf14c48d.mp3*~data=user_id=0,application_id=42~hmac=3fc372bc1872dcd33347132ec8a5c515eda0f3a2eb1592e7341415cd40964141",
+      "duration_ms": 265000,
+      "track_number": 4,
+      "album": {
+        "id": "10184252",
+        "name": "EP II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21e5d64d1dd6d51208acea66c9f37986/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21e5d64d1dd6d51208acea66c9f37986/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21e5d64d1dd6d51208acea66c9f37986/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/99462268"
+      }
+    },
+    {
+      "id": "1865678467",
+      "name": "Hunters",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/7/0/bd7a3d800bab9acb539f85b7e06c2e95.mp3?hdnea=exp=1774859929~acl=/api/1/1/b/d/7/0/bd7a3d800bab9acb539f85b7e06c2e95.mp3*~data=user_id=0,application_id=42~hmac=9fd1b93f0c5144014fd9d685b0ca214e6fd9ed78feb152fae71dfd2bee22747d",
+      "duration_ms": 198000,
+      "track_number": 5,
+      "album": {
+        "id": "346208587",
+        "name": "Throwback",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6ebf8d60d416494cde06c98a7a8c3b05/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6ebf8d60d416494cde06c98a7a8c3b05/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6ebf8d60d416494cde06c98a7a8c3b05/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1865678467"
+      }
+    },
+    {
+      "id": "672605522",
+      "name": "Clutch",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/1/0/2c1f7ff92b5f415540ae33ace5dacf7b.mp3?hdnea=exp=1774859929~acl=/api/1/1/2/c/1/0/2c1f7ff92b5f415540ae33ace5dacf7b.mp3*~data=user_id=0,application_id=42~hmac=7817ed05cc016a113b0f56be0dfc5600d4c6e17c8ba1be536f6e36cca509da4b",
+      "duration_ms": 253000,
+      "track_number": 6,
+      "album": {
+        "id": "95183642",
+        "name": "Playback",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0afc3300225b4b2414d1f5c91c94c02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0afc3300225b4b2414d1f5c91c94c02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0afc3300225b4b2414d1f5c91c94c02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/672605522"
+      }
+    },
+    {
+      "id": "2291815595",
+      "name": "Ghost (feat. Power Glove)",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/3/0/113b855a7ae66526d7291773258ecac5.mp3?hdnea=exp=1774859929~acl=/api/1/1/1/1/3/0/113b855a7ae66526d7291773258ecac5.mp3*~data=user_id=0,application_id=42~hmac=dfd5bc3d8360a92a6d079e47ff745270d75200763a1ca37dbcf9cc99f67eb785",
+      "duration_ms": 262000,
+      "track_number": 7,
+      "album": {
+        "id": "443768075",
+        "name": "Unicorn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2291815595"
+      }
+    },
+    {
+      "id": "672605552",
+      "name": "Afterburner",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/d/0/b2d1ff4892dec01d1ba4c5f75185c568.mp3?hdnea=exp=1774859929~acl=/api/1/1/b/2/d/0/b2d1ff4892dec01d1ba4c5f75185c568.mp3*~data=user_id=0,application_id=42~hmac=3870ee9a07c7df43afe6c9ee8cc95a0d5ea6857455dc40db96d41e317a218343",
+      "duration_ms": 368000,
+      "track_number": 8,
+      "album": {
+        "id": "95183642",
+        "name": "Playback",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0afc3300225b4b2414d1f5c91c94c02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0afc3300225b4b2414d1f5c91c94c02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0afc3300225b4b2414d1f5c91c94c02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/672605552"
+      }
+    },
+    {
+      "id": "1668164972",
+      "name": "Feel It (Music from the Netflix Original Series \"High Score\")",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/f/0/68f5d1b44d8e46862c2eefc746cefce3.mp3?hdnea=exp=1774859929~acl=/api/1/1/6/8/f/0/68f5d1b44d8e46862c2eefc746cefce3.mp3*~data=user_id=0,application_id=42~hmac=fc48b6898caa58ed2aaa853fe2906d70ab0ca414ffe1c312972dc7fa1ff23d04",
+      "duration_ms": 179000,
+      "track_number": 9,
+      "album": {
+        "id": "298763702",
+        "name": "Feel It (Music from the Netflix Original Series \"High Score\")",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0584fa4c9e5505c6f07464e57266bdf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0584fa4c9e5505c6f07464e57266bdf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0584fa4c9e5505c6f07464e57266bdf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1668164972"
+      }
+    },
+    {
+      "id": "71263100",
+      "name": "Sloan's Assault",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/c/0/e2c3e831bede8c3988b49802c43bb372.mp3?hdnea=exp=1774859929~acl=/api/1/1/e/2/c/0/e2c3e831bede8c3988b49802c43bb372.mp3*~data=user_id=0,application_id=42~hmac=145ca5e81595af150d3e593baf7aa2e09304ce9aca9fd3d3cefba499cea52e5b",
+      "duration_ms": 211000,
+      "track_number": 10,
+      "album": {
+        "id": "6996222",
+        "name": "Far Cry 3: Blood Dragon (Original Game Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f98d338b5011d81ef3fe54688a96d83/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f98d338b5011d81ef3fe54688a96d83/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f98d338b5011d81ef3fe54688a96d83/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2232101",
+          "name": "Power Glove"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/71263100"
+      }
+    }
+  ]
+}

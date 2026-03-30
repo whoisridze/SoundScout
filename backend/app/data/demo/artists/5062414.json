@@ -1,0 +1,32 @@
+{
+  "id": "5062414",
+  "name": "Hozier",
+  "popularity": 99,
+  "followers": {
+    "total": 1384074
+  },
+  "genres": [
+    "indie folk"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/4970da41372f40bb2d85b71d41c359e8/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/4970da41372f40bb2d85b71d41c359e8/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/4970da41372f40bb2d85b71d41c359e8/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5062414"
+  },
+  "uri": "deezer:artist:5062414"
+}

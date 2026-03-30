@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "123103236",
+      "name": "DUELE EL CORAZON (feat. Wisin)",
+      "popularity": 84,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/1/0/d0174bf3be14df89124f59dd0f5ba529.mp3?hdnea=exp=1774860010~acl=/api/1/1/d/0/1/0/d0174bf3be14df89124f59dd0f5ba529.mp3*~data=user_id=0,application_id=42~hmac=abd9b956d76855b702e0c3e9f5d3fa79f4456a408130b928f863de7dcc4a4bdf",
+      "duration_ms": 200000,
+      "track_number": 1,
+      "album": {
+        "id": "12889906",
+        "name": "DUELE EL CORAZON (feat. Wisin)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da52a3f89aee0c921f2e4a8316c8567f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da52a3f89aee0c921f2e4a8316c8567f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da52a3f89aee0c921f2e4a8316c8567f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/123103236"
+      }
+    },
+    {
+      "id": "431481022",
+      "name": "Quisiera Alejarme (feat. Ozuna)",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/2/0/a726ab3f26ae157af32f4dde6dfbf7f5.mp3?hdnea=exp=1774860010~acl=/api/1/1/a/7/2/0/a726ab3f26ae157af32f4dde6dfbf7f5.mp3*~data=user_id=0,application_id=42~hmac=e94140b687646d773fa26d9f8a8c6f4d39a9e016cd6ce218e35d7a2c299aa4e1",
+      "duration_ms": 222000,
+      "track_number": 2,
+      "album": {
+        "id": "52060132",
+        "name": "Victory",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1b65f4014a915f6ed24f51c48b940b8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1b65f4014a915f6ed24f51c48b940b8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1b65f4014a915f6ed24f51c48b940b8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/431481022"
+      }
+    },
+    {
+      "id": "3569808591",
+      "name": "CONTRABANDO",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/4/0/0f4cdfebe80848bfbb6be1179d469e8a.mp3?hdnea=exp=1774860010~acl=/api/1/1/0/f/4/0/0f4cdfebe80848bfbb6be1179d469e8a.mp3*~data=user_id=0,application_id=42~hmac=3e6ba7923dd129a8e637eb853a531265948f3ecbf5871041a0c07ab655355db7",
+      "duration_ms": 176000,
+      "track_number": 3,
+      "album": {
+        "id": "826365121",
+        "name": "Cosa Nuestra: Capítulo 0",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3569808591"
+      }
+    },
+    {
+      "id": "105405056",
+      "name": "Poder (feat. Farruko)",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/5/0/6d58026680c412a64822277d2eac12d7.mp3?hdnea=exp=1774860010~acl=/api/1/1/6/d/5/0/6d58026680c412a64822277d2eac12d7.mp3*~data=user_id=0,application_id=42~hmac=0e3bfca508f0df4495373a79a1b8305a67d1b549901348f0c7a7d2ed34d93d79",
+      "duration_ms": 249000,
+      "track_number": 4,
+      "album": {
+        "id": "10979784",
+        "name": "Los Vaqueros: La Trilogía",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/af0e7e336c40634c3b4a7fae359baf84/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/af0e7e336c40634c3b4a7fae359baf84/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/af0e7e336c40634c3b4a7fae359baf84/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/105405056"
+      }
+    },
+    {
+      "id": "2831089852",
+      "name": "Tu Boca",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/5/0/21564b632f68e52be4d0b2a593fb5a0a.mp3?hdnea=exp=1774860010~acl=/api/1/1/2/1/5/0/21564b632f68e52be4d0b2a593fb5a0a.mp3*~data=user_id=0,application_id=42~hmac=5eb7a4c3fcaba43aec74c12a7836bc55cf7bfc7ed2c24fe9066769352c93eb7a",
+      "duration_ms": 186000,
+      "track_number": 5,
+      "album": {
+        "id": "596496822",
+        "name": "Tu Boca",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/000ee821b407179f32ecd7ce79b7bb81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/000ee821b407179f32ecd7ce79b7bb81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/000ee821b407179f32ecd7ce79b7bb81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2831089852"
+      }
+    },
+    {
+      "id": "431481062",
+      "name": "Escápate Conmigo (feat. Ozuna)",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/9/0/00972040c73d2749bbc26bdd60221f50.mp3?hdnea=exp=1774860010~acl=/api/1/1/0/0/9/0/00972040c73d2749bbc26bdd60221f50.mp3*~data=user_id=0,application_id=42~hmac=abfb69ae52eef845ce3b1f16ae330f577b9a2249dadadb0dde0e8084d37259b6",
+      "duration_ms": 233000,
+      "track_number": 6,
+      "album": {
+        "id": "52060132",
+        "name": "Victory",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1b65f4014a915f6ed24f51c48b940b8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1b65f4014a915f6ed24f51c48b940b8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1b65f4014a915f6ed24f51c48b940b8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/431481062"
+      }
+    },
+    {
+      "id": "2768257011",
+      "name": "Peligrosa",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/4/0/59441930a991650bd992c9c164b03f8d.mp3?hdnea=exp=1774860010~acl=/api/1/1/5/9/4/0/59441930a991650bd992c9c164b03f8d.mp3*~data=user_id=0,application_id=42~hmac=455173b713825a4f15314f89879dd2556c096281e1683ca55a41668eb6044d2e",
+      "duration_ms": 224000,
+      "track_number": 7,
+      "album": {
+        "id": "578741661",
+        "name": "Peligrosa",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21082d9fc117256ce283f3098dec24ca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21082d9fc117256ce283f3098dec24ca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21082d9fc117256ce283f3098dec24ca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2768257011"
+      }
+    },
+    {
+      "id": "75116580",
+      "name": "Que Viva la Vida (feat. Michel Teló)",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/0/0/590ee8638a912ca8fce8830456e6164d.mp3?hdnea=exp=1774860010~acl=/api/1/1/5/9/0/0/590ee8638a912ca8fce8830456e6164d.mp3*~data=user_id=0,application_id=42~hmac=0e6a2c70ff15861d7deb93030c26b477e3d650f95e755322343ec8679019ee32",
+      "duration_ms": 202000,
+      "track_number": 8,
+      "album": {
+        "id": "7428493",
+        "name": "El Regreso del Sobreviviente (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22d01ad0d2a710060baf973d89015954/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22d01ad0d2a710060baf973d89015954/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22d01ad0d2a710060baf973d89015954/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75116580"
+      }
+    },
+    {
+      "id": "2104942967",
+      "name": "Soy Yo",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/4/0/844bf80e17accd423db48654715ddb82.mp3?hdnea=exp=1774860010~acl=/api/1/1/8/4/4/0/844bf80e17accd423db48654715ddb82.mp3*~data=user_id=0,application_id=42~hmac=b59ca9ce8accba10f467335303f3a8d6daf193c0975f457ec7d4f271f766fa3f",
+      "duration_ms": 218000,
+      "track_number": 9,
+      "album": {
+        "id": "395620107",
+        "name": "Soy Yo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6e340e35fb004a2895779d84c700b76/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6e340e35fb004a2895779d84c700b76/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6e340e35fb004a2895779d84c700b76/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2104942967"
+      }
+    },
+    {
+      "id": "638016732",
+      "name": "Si Me Das Tu Amor",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/b/0/10bf1231502dd216b5552a35f99ee3c3.mp3?hdnea=exp=1774860010~acl=/api/1/1/1/0/b/0/10bf1231502dd216b5552a35f99ee3c3.mp3*~data=user_id=0,application_id=42~hmac=e461157e745a71b251f5bac0f5df127d689eb1ab0e33dd469bf37721665afc95",
+      "duration_ms": 213000,
+      "track_number": 10,
+      "album": {
+        "id": "88345812",
+        "name": "Si Me Das Tu Amor",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a818a7f93ec6260faa8208d397eb072/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a818a7f93ec6260faa8208d397eb072/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a818a7f93ec6260faa8208d397eb072/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15898",
+          "name": "Wisin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/638016732"
+      }
+    }
+  ]
+}

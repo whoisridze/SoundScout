@@ -1,0 +1,32 @@
+{
+  "id": "152366",
+  "name": "Lang Lang",
+  "popularity": 81,
+  "followers": {
+    "total": 814320
+  },
+  "genres": [
+    "classical"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e14b44c874c5d93900467f69be04330f/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e14b44c874c5d93900467f69be04330f/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e14b44c874c5d93900467f69be04330f/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/152366"
+  },
+  "uri": "deezer:artist:152366"
+}

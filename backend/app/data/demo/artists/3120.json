@@ -1,0 +1,32 @@
+{
+  "id": "3120",
+  "name": "Robert Johnson",
+  "popularity": 34,
+  "followers": {
+    "total": 346295
+  },
+  "genres": [
+    "blues"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/41653e85cf2ebc9f65c698e92fbb4464/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/41653e85cf2ebc9f65c698e92fbb4464/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/41653e85cf2ebc9f65c698e92fbb4464/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/3120"
+  },
+  "uri": "deezer:artist:3120"
+}

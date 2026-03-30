@@ -1,0 +1,32 @@
+{
+  "id": "10375188",
+  "name": "6lack",
+  "popularity": 40,
+  "followers": {
+    "total": 407075
+  },
+  "genres": [
+    "r&b"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/99efcda22e449394f3362defa4aeb4bb/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/99efcda22e449394f3362defa4aeb4bb/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/99efcda22e449394f3362defa4aeb4bb/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/10375188"
+  },
+  "uri": "deezer:artist:10375188"
+}

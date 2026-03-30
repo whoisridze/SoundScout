@@ -1,0 +1,32 @@
+{
+  "id": "254940",
+  "name": "Steven Wilson",
+  "popularity": 7,
+  "followers": {
+    "total": 77310
+  },
+  "genres": [
+    "progressive rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2672dcf0beed71b4076c568131895be2/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2672dcf0beed71b4076c568131895be2/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2672dcf0beed71b4076c568131895be2/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/254940"
+  },
+  "uri": "deezer:artist:254940"
+}

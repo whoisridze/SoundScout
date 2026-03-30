@@ -1,0 +1,488 @@
+{
+  "items": [
+    {
+      "id": "265084",
+      "name": "Gary Clark Jr.",
+      "popularity": 10,
+      "followers": {
+        "total": 102752
+      },
+      "genres": [
+        "blues rock",
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ace55ab2709f6277c4769f867dd36f78/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ace55ab2709f6277c4769f867dd36f78/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ace55ab2709f6277c4769f867dd36f78/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/265084"
+      },
+      "uri": "deezer:artist:265084"
+    },
+    {
+      "id": "4781",
+      "name": "Joe Bonamassa",
+      "popularity": 55,
+      "followers": {
+        "total": 555877
+      },
+      "genres": [
+        "blues rock",
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9d850c3a35757f76fcc0b470752bf7ea/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9d850c3a35757f76fcc0b470752bf7ea/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9d850c3a35757f76fcc0b470752bf7ea/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4781"
+      },
+      "uri": "deezer:artist:4781"
+    },
+    {
+      "id": "2483",
+      "name": "The Black Keys",
+      "popularity": 99,
+      "followers": {
+        "total": 1081369
+      },
+      "genres": [
+        "indie rock",
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3b27055c39125c3e3133a595990e86a1/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3b27055c39125c3e3133a595990e86a1/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3b27055c39125c3e3133a595990e86a1/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2483"
+      },
+      "uri": "deezer:artist:2483"
+    },
+    {
+      "id": "1945",
+      "name": "Jack White",
+      "popularity": 33,
+      "followers": {
+        "total": 334883
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d3544c732d7f70e09f5506143c0833ce/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d3544c732d7f70e09f5506143c0833ce/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d3544c732d7f70e09f5506143c0833ce/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1945"
+      },
+      "uri": "deezer:artist:1945"
+    },
+    {
+      "id": "598",
+      "name": "John Mayer",
+      "popularity": 99,
+      "followers": {
+        "total": 1030034
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a6d0e250c8d4acb660d4c9b1a633778c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a6d0e250c8d4acb660d4c9b1a633778c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a6d0e250c8d4acb660d4c9b1a633778c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/598"
+      },
+      "uri": "deezer:artist:598"
+    },
+    {
+      "id": "12297",
+      "name": "Stevie Ray Vaughan",
+      "popularity": 30,
+      "followers": {
+        "total": 302900
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7d28abf0671f0ff938b54dcc33398deb/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7d28abf0671f0ff938b54dcc33398deb/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7d28abf0671f0ff938b54dcc33398deb/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/12297"
+      },
+      "uri": "deezer:artist:12297"
+    },
+    {
+      "id": "192",
+      "name": "Eric Clapton",
+      "popularity": 99,
+      "followers": {
+        "total": 2776047
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1d4063997634c8af676b81656c7ebba5/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1d4063997634c8af676b81656c7ebba5/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1d4063997634c8af676b81656c7ebba5/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/192"
+      },
+      "uri": "deezer:artist:192"
+    },
+    {
+      "id": "3614",
+      "name": "B.B. King",
+      "popularity": 99,
+      "followers": {
+        "total": 1692962
+      },
+      "genres": [
+        "blues rock",
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0f58456c5fd66319a04ad06dc2cfac94/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0f58456c5fd66319a04ad06dc2cfac94/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0f58456c5fd66319a04ad06dc2cfac94/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3614"
+      },
+      "uri": "deezer:artist:3614"
+    },
+    {
+      "id": "8680",
+      "name": "Buddy Guy",
+      "popularity": 48,
+      "followers": {
+        "total": 481335
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7eb093e30b60e432feb24aab3768bf9e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7eb093e30b60e432feb24aab3768bf9e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7eb093e30b60e432feb24aab3768bf9e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8680"
+      },
+      "uri": "deezer:artist:8680"
+    },
+    {
+      "id": "10543",
+      "name": "Rory Gallagher",
+      "popularity": 12,
+      "followers": {
+        "total": 120570
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f79d993f8ad2828c1939b3eed731d89c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f79d993f8ad2828c1939b3eed731d89c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f79d993f8ad2828c1939b3eed731d89c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10543"
+      },
+      "uri": "deezer:artist:10543"
+    },
+    {
+      "id": "3562",
+      "name": "Jonny Lang",
+      "popularity": 3,
+      "followers": {
+        "total": 37202
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9dbe6ed4b6434d7f0bc68aee542547f0/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9dbe6ed4b6434d7f0bc68aee542547f0/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9dbe6ed4b6434d7f0bc68aee542547f0/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3562"
+      },
+      "uri": "deezer:artist:3562"
+    },
+    {
+      "id": "5287",
+      "name": "Kenny Wayne Shepherd",
+      "popularity": 2,
+      "followers": {
+        "total": 29101
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0253b95138d33e026c9e5e0b38155d25/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0253b95138d33e026c9e5e0b38155d25/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0253b95138d33e026c9e5e0b38155d25/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5287"
+      },
+      "uri": "deezer:artist:5287"
+    },
+    {
+      "id": "410081",
+      "name": "Derek Trucks",
+      "popularity": 1,
+      "followers": {
+        "total": 16971
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/29c268517c9b242252bb2615180f8efe/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/29c268517c9b242252bb2615180f8efe/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/29c268517c9b242252bb2615180f8efe/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/410081"
+      },
+      "uri": "deezer:artist:410081"
+    },
+    {
+      "id": "1330256",
+      "name": "Tedeschi Trucks Band",
+      "popularity": 2,
+      "followers": {
+        "total": 26725
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3be1fce30e8faf0f7464e375f91f0f02/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3be1fce30e8faf0f7464e375f91f0f02/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3be1fce30e8faf0f7464e375f91f0f02/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1330256"
+      },
+      "uri": "deezer:artist:1330256"
+    },
+    {
+      "id": "9319",
+      "name": "Gov't Mule",
+      "popularity": 2,
+      "followers": {
+        "total": 29595
+      },
+      "genres": [
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e18b8e18114eb65ecdb84861fc92a58e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e18b8e18114eb65ecdb84861fc92a58e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e18b8e18114eb65ecdb84861fc92a58e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/9319"
+      },
+      "uri": "deezer:artist:9319"
+    }
+  ]
+}

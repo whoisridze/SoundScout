@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "812490042",
+      "name": "Night Train",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/7/0/b5739affd790f2af0aa9f457ef0f549a.mp3?hdnea=exp=1774859927~acl=/api/1/1/b/5/7/0/b5739affd790f2af0aa9f457ef0f549a.mp3*~data=user_id=0,application_id=42~hmac=d53501da17f0e2bb948b3fcca282efe65c5e63140037687fdac0794076c55e6a",
+      "duration_ms": 244000,
+      "track_number": 1,
+      "album": {
+        "id": "119747752",
+        "name": "Current Events",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/488c7e126ed78af17314a92f92f1c9de/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/488c7e126ed78af17314a92f92f1c9de/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/488c7e126ed78af17314a92f92f1c9de/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/812490042"
+      }
+    },
+    {
+      "id": "82715446",
+      "name": "Breeze",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/f/0/75f3e6474518dc3d82927487280a0d29.mp3?hdnea=exp=1774859927~acl=/api/1/1/7/5/f/0/75f3e6474518dc3d82927487280a0d29.mp3*~data=user_id=0,application_id=42~hmac=08de8b39ef3d1344d6f6fac2714be13560609be9e3dab4af673a773778922b9c",
+      "duration_ms": 318000,
+      "track_number": 2,
+      "album": {
+        "id": "8307460",
+        "name": "Breeze",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81ea0252d7798b2ad3b025538876c78d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81ea0252d7798b2ad3b025538876c78d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81ea0252d7798b2ad3b025538876c78d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/82715446"
+      }
+    },
+    {
+      "id": "812490022",
+      "name": "Frantic Aerobics",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/3/0/d230df6453899497a4d2510e0014a988.mp3?hdnea=exp=1774859927~acl=/api/1/1/d/2/3/0/d230df6453899497a4d2510e0014a988.mp3*~data=user_id=0,application_id=42~hmac=63f34da24748c02a53baf025631cb0524afc3a96c87582b133ce33261cc00f08",
+      "duration_ms": 227000,
+      "track_number": 3,
+      "album": {
+        "id": "119747752",
+        "name": "Current Events",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/488c7e126ed78af17314a92f92f1c9de/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/488c7e126ed78af17314a92f92f1c9de/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/488c7e126ed78af17314a92f92f1c9de/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/812490022"
+      }
+    },
+    {
+      "id": "802092522",
+      "name": "Hollywood Heights",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/f/0/fdf73f69468fa9b20ebe1a4a021158d7.mp3?hdnea=exp=1774859927~acl=/api/1/1/f/d/f/0/fdf73f69468fa9b20ebe1a4a021158d7.mp3*~data=user_id=0,application_id=42~hmac=2b95940417efb445710d0a2a235c925da45c74b58a0b891f3443190f5fac029d",
+      "duration_ms": 188000,
+      "track_number": 4,
+      "album": {
+        "id": "118335732",
+        "name": "Burning Chrome",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c255563260ac9e63dade5a68eae78f69/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c255563260ac9e63dade5a68eae78f69/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c255563260ac9e63dade5a68eae78f69/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/802092522"
+      }
+    },
+    {
+      "id": "550434922",
+      "name": "Time Paradox (feat. Satellite Young)",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/e/0/efeb44a866ac16398622a0439c88708a.mp3?hdnea=exp=1774859927~acl=/api/1/1/e/f/e/0/efeb44a866ac16398622a0439c88708a.mp3*~data=user_id=0,application_id=42~hmac=ad4cee58d436da7fbc4bb5eea99eaff480330cd57b5d240d20b3367a51b51cb5",
+      "duration_ms": 198000,
+      "track_number": 5,
+      "album": {
+        "id": "72359892",
+        "name": "Selection 5",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e23e60343293b39a8bd1f2cc942656ae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e23e60343293b39a8bd1f2cc942656ae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e23e60343293b39a8bd1f2cc942656ae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/550434922"
+      }
+    },
+    {
+      "id": "82332040",
+      "name": "The Touch",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/5/0/e15d089905e73d3e908cf9684e0f9408.mp3?hdnea=exp=1774859927~acl=/api/1/1/e/1/5/0/e15d089905e73d3e908cf9684e0f9408.mp3*~data=user_id=0,application_id=42~hmac=d658d072ba67805c9b64780c1a8b0894b6ca1f1e41fc2ccda096e38c1cc28e33",
+      "duration_ms": 326000,
+      "track_number": 6,
+      "album": {
+        "id": "8260136",
+        "name": "Interceptor",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29026e7f8dca6bf5b9f2022d4f3f0dcb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29026e7f8dca6bf5b9f2022d4f3f0dcb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29026e7f8dca6bf5b9f2022d4f3f0dcb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/82332040"
+      }
+    },
+    {
+      "id": "802092472",
+      "name": "The Heat Is On",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/7/0/927ef7939e33265bdea115b5042330c9.mp3?hdnea=exp=1774859927~acl=/api/1/1/9/2/7/0/927ef7939e33265bdea115b5042330c9.mp3*~data=user_id=0,application_id=42~hmac=adcc1888e3945eb128418a0891f8b93d8e1c6187563aaca193f727e99fe3be46",
+      "duration_ms": 278000,
+      "track_number": 7,
+      "album": {
+        "id": "118335732",
+        "name": "Burning Chrome",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c255563260ac9e63dade5a68eae78f69/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c255563260ac9e63dade5a68eae78f69/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c255563260ac9e63dade5a68eae78f69/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/802092472"
+      }
+    },
+    {
+      "id": "140242457",
+      "name": "Melting Point",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/d/0/acdf0a6b7855a19abe218bfa62545be2.mp3?hdnea=exp=1774859927~acl=/api/1/1/a/c/d/0/acdf0a6b7855a19abe218bfa62545be2.mp3*~data=user_id=0,application_id=42~hmac=c21f86a8885c1c5fedda3619fa9d76cef0c1e3dcef86c05aaf854afb99c75547",
+      "duration_ms": 283000,
+      "track_number": 8,
+      "album": {
+        "id": "15096573",
+        "name": "Selection 3",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91b691dadcdb1460bbcd552f4d3cefd2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91b691dadcdb1460bbcd552f4d3cefd2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91b691dadcdb1460bbcd552f4d3cefd2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/140242457"
+      }
+    },
+    {
+      "id": "70262769",
+      "name": "The Touch (LIFELIKE Remix)",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/d/0/69d0641f365d33ab7cf946b23623f1c4.mp3?hdnea=exp=1774859927~acl=/api/1/1/6/9/d/0/69d0641f365d33ab7cf946b23623f1c4.mp3*~data=user_id=0,application_id=42~hmac=e1ea1b72dbe78a6e2c641e2d79cbf0b4dc8e1756ded54bf8533259cbfb6b1cc4",
+      "duration_ms": 448000,
+      "track_number": 9,
+      "album": {
+        "id": "6893332",
+        "name": "The Touch",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/733b515318175998428b5c577b26f401/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/733b515318175998428b5c577b26f401/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/733b515318175998428b5c577b26f401/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70262769"
+      }
+    },
+    {
+      "id": "802092542",
+      "name": "Ravaged Skies",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/2/0/202350bfe9f18dcf5e7afce36f57b971.mp3?hdnea=exp=1774859927~acl=/api/1/1/2/0/2/0/202350bfe9f18dcf5e7afce36f57b971.mp3*~data=user_id=0,application_id=42~hmac=e24af3d32a9448d3381d34c11729dbbf278f068291ba8c430465b1e99cdeedfb",
+      "duration_ms": 270000,
+      "track_number": 10,
+      "album": {
+        "id": "118335732",
+        "name": "Burning Chrome",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c255563260ac9e63dade5a68eae78f69/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c255563260ac9e63dade5a68eae78f69/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c255563260ac9e63dade5a68eae78f69/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1448283",
+          "name": "Mitch Murder"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/802092542"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2969",
+  "name": "Pantera",
+  "popularity": 99,
+  "followers": {
+    "total": 1591009
+  },
+  "genres": [
+    "metal"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f4ee6ca8f9cd27a944de0476776fee50/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f4ee6ca8f9cd27a944de0476776fee50/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f4ee6ca8f9cd27a944de0476776fee50/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2969"
+  },
+  "uri": "deezer:artist:2969"
+}

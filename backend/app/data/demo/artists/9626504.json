@@ -1,0 +1,32 @@
+{
+  "id": "9626504",
+  "name": "Luke Combs",
+  "popularity": 34,
+  "followers": {
+    "total": 344279
+  },
+  "genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c2a8e5d0d293a06bf887bb2724a780bc/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c2a8e5d0d293a06bf887bb2724a780bc/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c2a8e5d0d293a06bf887bb2724a780bc/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/9626504"
+  },
+  "uri": "deezer:artist:9626504"
+}

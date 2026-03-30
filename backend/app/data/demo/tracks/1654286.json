@@ -1,0 +1,244 @@
+{
+  "tracks": [
+    {
+      "id": "959548462",
+      "name": "Extra Lesson",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/2/0/9e2282dda60c6215c8794cbec17a54c3.mp3?hdnea=exp=1774860111~acl=/api/1/1/9/e/2/0/9e2282dda60c6215c8794cbec17a54c3.mp3*~data=user_id=0,application_id=42~hmac=d1994b1ab4de2b8b3f25ade25743d42efbe3ec972474e435182a5b57cde2d528",
+      "duration_ms": 215000,
+      "track_number": 1,
+      "album": {
+        "id": "148028182",
+        "name": "Extra Lesson",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4898a0c3c263c2d4f9a74c41f006a4b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4898a0c3c263c2d4f9a74c41f006a4b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4898a0c3c263c2d4f9a74c41f006a4b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1654286",
+          "name": "Alkaline"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/959548462"
+      }
+    },
+    {
+      "id": "452067422",
+      "name": "After All",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/5/0/29535af3dcb2a1d7a3908fd802c0d29d.mp3?hdnea=exp=1774860111~acl=/api/1/1/2/9/5/0/29535af3dcb2a1d7a3908fd802c0d29d.mp3*~data=user_id=0,application_id=42~hmac=02b574f335f7f03e7fe91565125cfe2447f0733571ad57cb08389221edbaa00d",
+      "duration_ms": 182000,
+      "track_number": 2,
+      "album": {
+        "id": "55393002",
+        "name": "After All",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03f3ff0c9a486d0a54498938484fb83f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03f3ff0c9a486d0a54498938484fb83f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03f3ff0c9a486d0a54498938484fb83f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1654286",
+          "name": "Alkaline"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/452067422"
+      }
+    },
+    {
+      "id": "960303372",
+      "name": "Champion Boy",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/b/0/75ba0fa481aa5d28d3d98ae2b667b0f2.mp3?hdnea=exp=1774860111~acl=/api/1/1/7/5/b/0/75ba0fa481aa5d28d3d98ae2b667b0f2.mp3*~data=user_id=0,application_id=42~hmac=cc1b4b9bdedd8e7abd93e0e6abc94f34a29fef8873eeca1ef4724213d30f0ce7",
+      "duration_ms": 169000,
+      "track_number": 3,
+      "album": {
+        "id": "148199782",
+        "name": "New Level Unlocked",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b579aab58ab0622244fa7d13a4b57caa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b579aab58ab0622244fa7d13a4b57caa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b579aab58ab0622244fa7d13a4b57caa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1654286",
+          "name": "Alkaline"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/960303372"
+      }
+    },
+    {
+      "id": "584294422",
+      "name": "Richer And Richer",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/5/0/d15130c43a41e0be2527ea417d3f5a40.mp3?hdnea=exp=1774860111~acl=/api/1/1/d/1/5/0/d15130c43a41e0be2527ea417d3f5a40.mp3*~data=user_id=0,application_id=42~hmac=873f1ce930e4ab255d5badd78f567c2c3b9a4078bdb26044fee1cdd58787a0a5",
+      "duration_ms": 167000,
+      "track_number": 4,
+      "album": {
+        "id": "78422132",
+        "name": "Richer And Richer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a20a23a53ed9822685a4e69bb89ac241/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a20a23a53ed9822685a4e69bb89ac241/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a20a23a53ed9822685a4e69bb89ac241/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1654286",
+          "name": "Alkaline"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/584294422"
+      }
+    },
+    {
+      "id": "473251992",
+      "name": "On Fleek (Love You Everything)",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/d/0/46d76791867e8276a493bfdee3900c51.mp3?hdnea=exp=1774860111~acl=/api/1/1/4/6/d/0/46d76791867e8276a493bfdee3900c51.mp3*~data=user_id=0,application_id=42~hmac=2948588f4f01427433b60bdeb94b367a9290b6870152ae0407db72cb84c60120",
+      "duration_ms": 165000,
+      "track_number": 5,
+      "album": {
+        "id": "59019252",
+        "name": "On Fleek (Love You Everything)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e234931b08d91ee1f1af5b9617fba596/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e234931b08d91ee1f1af5b9617fba596/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e234931b08d91ee1f1af5b9617fba596/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1654286",
+          "name": "Alkaline"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/473251992"
+      }
+    },
+    {
+      "id": "1356431822",
+      "name": "Ah",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/7/0/8478102917ac9fc7bde28177bc7ef800.mp3?hdnea=exp=1774860111~acl=/api/1/1/8/4/7/0/8478102917ac9fc7bde28177bc7ef800.mp3*~data=user_id=0,application_id=42~hmac=9a3e7f6f91af170e2a6ed0c02c9600383400ff2b3d901bc8155f18762cb11fe3",
+      "duration_ms": 181000,
+      "track_number": 6,
+      "album": {
+        "id": "226123782",
+        "name": "Top Prize",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/30328a47a0985210a83ecd185d949c5d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/30328a47a0985210a83ecd185d949c5d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/30328a47a0985210a83ecd185d949c5d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1654286",
+          "name": "Alkaline"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1356431822"
+      }
+    }
+  ]
+}

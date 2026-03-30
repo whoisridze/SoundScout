@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "860",
+      "name": "Pink Floyd",
+      "popularity": 99,
+      "followers": {
+        "total": 6727415
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d62a818a5de6455f17b6a992cf22b32f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d62a818a5de6455f17b6a992cf22b32f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d62a818a5de6455f17b6a992cf22b32f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/860"
+      },
+      "uri": "deezer:artist:860"
+    },
+    {
+      "id": "2711",
+      "name": "Yes",
+      "popularity": 30,
+      "followers": {
+        "total": 305777
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/000bf505abef3d1d34a19502f2609bda/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/000bf505abef3d1d34a19502f2609bda/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/000bf505abef3d1d34a19502f2609bda/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2711"
+      },
+      "uri": "deezer:artist:2711"
+    },
+    {
+      "id": "3037",
+      "name": "Genesis",
+      "popularity": 99,
+      "followers": {
+        "total": 1159729
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c0ed2cf09c7bf072111d614fc4557b66/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c0ed2cf09c7bf072111d614fc4557b66/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c0ed2cf09c7bf072111d614fc4557b66/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3037"
+      },
+      "uri": "deezer:artist:3037"
+    },
+    {
+      "id": "1994",
+      "name": "King Crimson",
+      "popularity": 16,
+      "followers": {
+        "total": 164791
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5d4cae8affc8a9eb2c8966dd9a8fa149/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5d4cae8affc8a9eb2c8966dd9a8fa149/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5d4cae8affc8a9eb2c8966dd9a8fa149/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1994"
+      },
+      "uri": "deezer:artist:1994"
+    },
+    {
+      "id": "8686",
+      "name": "Rush",
+      "popularity": 52,
+      "followers": {
+        "total": 520069
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d6261144619bc30736f72807067dc928/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d6261144619bc30736f72807067dc928/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d6261144619bc30736f72807067dc928/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8686"
+      },
+      "uri": "deezer:artist:8686"
+    },
+    {
+      "id": "689",
+      "name": "TOOL",
+      "popularity": 51,
+      "followers": {
+        "total": 519367
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4b44a5f85c132844a16417dfa361c3b3/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4b44a5f85c132844a16417dfa361c3b3/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4b44a5f85c132844a16417dfa361c3b3/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/689"
+      },
+      "uri": "deezer:artist:689"
+    },
+    {
+      "id": "4069",
+      "name": "Porcupine Tree",
+      "popularity": 13,
+      "followers": {
+        "total": 139937
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/41578470bf649f2fd2262a3031667169/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/41578470bf649f2fd2262a3031667169/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/41578470bf649f2fd2262a3031667169/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4069"
+      },
+      "uri": "deezer:artist:4069"
+    },
+    {
+      "id": "828",
+      "name": "Dream Theater",
+      "popularity": 58,
+      "followers": {
+        "total": 584215
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2224b2118fd879e7c18fe3c3eab882bf/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2224b2118fd879e7c18fe3c3eab882bf/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2224b2118fd879e7c18fe3c3eab882bf/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/828"
+      },
+      "uri": "deezer:artist:828"
+    },
+    {
+      "id": "2814",
+      "name": "Opeth",
+      "popularity": 26,
+      "followers": {
+        "total": 260931
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ee95a92e9a5ed5c8b905f3e61bbc26f9/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ee95a92e9a5ed5c8b905f3e61bbc26f9/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ee95a92e9a5ed5c8b905f3e61bbc26f9/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2814"
+      },
+      "uri": "deezer:artist:2814"
+    },
+    {
+      "id": "254940",
+      "name": "Steven Wilson",
+      "popularity": 7,
+      "followers": {
+        "total": 77310
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2672dcf0beed71b4076c568131895be2/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2672dcf0beed71b4076c568131895be2/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2672dcf0beed71b4076c568131895be2/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/254940"
+      },
+      "uri": "deezer:artist:254940"
+    },
+    {
+      "id": "12826",
+      "name": "Camel",
+      "popularity": 4,
+      "followers": {
+        "total": 49835
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/45636e5ee32b59511c91abc32a7ddd1e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/45636e5ee32b59511c91abc32a7ddd1e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/45636e5ee32b59511c91abc32a7ddd1e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/12826"
+      },
+      "uri": "deezer:artist:12826"
+    },
+    {
+      "id": "2888",
+      "name": "Jethro Tull",
+      "popularity": 27,
+      "followers": {
+        "total": 274787
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/61bf9f087ed07bdc4a8e52232af900c4/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/61bf9f087ed07bdc4a8e52232af900c4/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/61bf9f087ed07bdc4a8e52232af900c4/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2888"
+      },
+      "uri": "deezer:artist:2888"
+    },
+    {
+      "id": "3612",
+      "name": "Emerson, Lake & Palmer",
+      "popularity": 13,
+      "followers": {
+        "total": 132978
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c839501d721d4bf43c567fe16a2967e6/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c839501d721d4bf43c567fe16a2967e6/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c839501d721d4bf43c567fe16a2967e6/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3612"
+      },
+      "uri": "deezer:artist:3612"
+    },
+    {
+      "id": "1679",
+      "name": "Gentle Giant",
+      "popularity": 3,
+      "followers": {
+        "total": 31009
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/af1ac3c55689251678a151f545b1569e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/af1ac3c55689251678a151f545b1569e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/af1ac3c55689251678a151f545b1569e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1679"
+      },
+      "uri": "deezer:artist:1679"
+    },
+    {
+      "id": "2893",
+      "name": "Marillion",
+      "popularity": 12,
+      "followers": {
+        "total": 129238
+      },
+      "genres": [
+        "progressive rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b217962d86a5dbb6d0371e20bd3ce9d8/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b217962d86a5dbb6d0371e20bd3ce9d8/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b217962d86a5dbb6d0371e20bd3ce9d8/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2893"
+      },
+      "uri": "deezer:artist:2893"
+    }
+  ]
+}

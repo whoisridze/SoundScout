@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3502847731",
+      "name": "Opium",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/8/0/a88049b4e4ca587638a011cb654b450d.mp3?hdnea=exp=1774860101~acl=/api/1/1/a/8/8/0/a88049b4e4ca587638a011cb654b450d.mp3*~data=user_id=0,application_id=42~hmac=14e2ea1756abddf5b53ba7a709477811c2eca1759ccf04f5622ef4a54fd6c3a1",
+      "duration_ms": 344000,
+      "track_number": 1,
+      "album": {
+        "id": "802993531",
+        "name": "Anastasis",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f40d125ba42054c2641ddda47de196/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f40d125ba42054c2641ddda47de196/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f40d125ba42054c2641ddda47de196/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3502847731"
+      }
+    },
+    {
+      "id": "3502858651",
+      "name": "Rakim (Live)",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/f/0/9df377ad909bd565ce44813090ad3ebe.mp3?hdnea=exp=1774860101~acl=/api/1/1/9/d/f/0/9df377ad909bd565ce44813090ad3ebe.mp3*~data=user_id=0,application_id=42~hmac=d21ac634c2ad64037de5649db429fa74764507895c1c3ed0ab565bc620406bc9",
+      "duration_ms": 375000,
+      "track_number": 2,
+      "album": {
+        "id": "802994081",
+        "name": "In Concert (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28c5c21f04bdc99d0c5ad2e7b8c1d941/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28c5c21f04bdc99d0c5ad2e7b8c1d941/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28c5c21f04bdc99d0c5ad2e7b8c1d941/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3502858651"
+      }
+    },
+    {
+      "id": "3502847651",
+      "name": "Anabasis",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/a/0/6da81dee26d3ee9c985b994f70f8b675.mp3?hdnea=exp=1774860101~acl=/api/1/1/6/d/a/0/6da81dee26d3ee9c985b994f70f8b675.mp3*~data=user_id=0,application_id=42~hmac=14b8375245bb15a5d9df4eba087f032d4fa538a8e5a9f998e735dbe634ca9af6",
+      "duration_ms": 410000,
+      "track_number": 3,
+      "album": {
+        "id": "802993531",
+        "name": "Anastasis",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f40d125ba42054c2641ddda47de196/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f40d125ba42054c2641ddda47de196/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8f40d125ba42054c2641ddda47de196/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3502847651"
+      }
+    },
+    {
+      "id": "942244",
+      "name": "Saltarello (Remastered)",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/f/0/9ffc081fe7bbd18567e1085f96d90b3a.mp3?hdnea=exp=1774860101~acl=/api/1/1/9/f/f/0/9ffc081fe7bbd18567e1085f96d90b3a.mp3*~data=user_id=0,application_id=42~hmac=d29a519ba2f7de17050a96a67e459d7042a6f928c2208c058bda9504b8732d1a",
+      "duration_ms": 154000,
+      "track_number": 4,
+      "album": {
+        "id": "106025",
+        "name": "Aion (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e22c16e1d287e0afa5da29cf533dbbac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e22c16e1d287e0afa5da29cf533dbbac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e22c16e1d287e0afa5da29cf533dbbac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/942244"
+      }
+    },
+    {
+      "id": "941391",
+      "name": "Indus (Remastered)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/c/0/73ccabdd0f2ca9c61b27c555c415115b.mp3?hdnea=exp=1774860101~acl=/api/1/1/7/3/c/0/73ccabdd0f2ca9c61b27c555c415115b.mp3*~data=user_id=0,application_id=42~hmac=9f54d647fcbe2b50e9f8f78c0244b1c1b2b97d269141ca6a4ebad20c4929960c",
+      "duration_ms": 563000,
+      "track_number": 5,
+      "album": {
+        "id": "105908",
+        "name": "Spiritchaser (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadc812ad5bca3a95377b1236088ddb4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadc812ad5bca3a95377b1236088ddb4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadc812ad5bca3a95377b1236088ddb4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/941391"
+      }
+    },
+    {
+      "id": "948760",
+      "name": "Rakim (Live Remastered)",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/7/0/c274b82dbd376516fb58b886887e6fe6.mp3?hdnea=exp=1774860101~acl=/api/1/1/c/2/7/0/c274b82dbd376516fb58b886887e6fe6.mp3*~data=user_id=0,application_id=42~hmac=de465bffdb797bc382a3f21487194be82036dd80eae3c440c26837e7c861f353",
+      "duration_ms": 385000,
+      "track_number": 6,
+      "album": {
+        "id": "106742",
+        "name": "Toward the Within (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dd00c389918a850425a26320141fd3a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dd00c389918a850425a26320141fd3a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dd00c389918a850425a26320141fd3a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/948760"
+      }
+    },
+    {
+      "id": "940431",
+      "name": "Orbis de Ignis (Remastered)",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/e/0/35e9b2a86ccef44c7d33e5c0b05e193a.mp3?hdnea=exp=1774860101~acl=/api/1/1/3/5/e/0/35e9b2a86ccef44c7d33e5c0b05e193a.mp3*~data=user_id=0,application_id=42~hmac=8787327943db95db6bd477125b2604d4827d7b825b053953167379658fe9e2f3",
+      "duration_ms": 95000,
+      "track_number": 7,
+      "album": {
+        "id": "105795",
+        "name": "The Serpent's Egg (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/764aeccc5db5ef28db1c6c89a66b6e53/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/764aeccc5db5ef28db1c6c89a66b6e53/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/764aeccc5db5ef28db1c6c89a66b6e53/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/940431"
+      }
+    },
+    {
+      "id": "941387",
+      "name": "Song of the Stars (Remastered)",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/7/0/6e74c5dff4eef70502f8e14f4bc4232c.mp3?hdnea=exp=1774860101~acl=/api/1/1/6/e/7/0/6e74c5dff4eef70502f8e14f4bc4232c.mp3*~data=user_id=0,application_id=42~hmac=64d8ed0451a869ac4ee9e277952a74b9584b855bd8f74f81ab0dfc51a1c0464f",
+      "duration_ms": 613000,
+      "track_number": 8,
+      "album": {
+        "id": "105908",
+        "name": "Spiritchaser (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadc812ad5bca3a95377b1236088ddb4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadc812ad5bca3a95377b1236088ddb4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadc812ad5bca3a95377b1236088ddb4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/941387"
+      }
+    },
+    {
+      "id": "941394",
+      "name": "Song of the Dispossessed (Remastered)",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/0/0/140b26243ccc4e8bee53108a8f9322d1.mp3?hdnea=exp=1774860101~acl=/api/1/1/1/4/0/0/140b26243ccc4e8bee53108a8f9322d1.mp3*~data=user_id=0,application_id=42~hmac=1caf7e974af9d69c31f0ebd7ded4cf57ac9bf2e8ba7fb30625bbbd82ed69f208",
+      "duration_ms": 300000,
+      "track_number": 9,
+      "album": {
+        "id": "105908",
+        "name": "Spiritchaser (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadc812ad5bca3a95377b1236088ddb4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadc812ad5bca3a95377b1236088ddb4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadc812ad5bca3a95377b1236088ddb4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/941394"
+      }
+    },
+    {
+      "id": "942247",
+      "name": "The Song of the Sibyl (Remastered)",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/f/0/d4f40e639ca17cd5ff53ca9940a0d427.mp3?hdnea=exp=1774860101~acl=/api/1/1/d/4/f/0/d4f40e639ca17cd5ff53ca9940a0d427.mp3*~data=user_id=0,application_id=42~hmac=22e1dae9bfca82a29df9801d5a96aadffcc771e4cff34ab652b9b183ea4d13cf",
+      "duration_ms": 225000,
+      "track_number": 10,
+      "album": {
+        "id": "106025",
+        "name": "Aion (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e22c16e1d287e0afa5da29cf533dbbac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e22c16e1d287e0afa5da29cf533dbbac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e22c16e1d287e0afa5da29cf533dbbac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "605",
+          "name": "Dead Can Dance"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/942247"
+      }
+    }
+  ]
+}

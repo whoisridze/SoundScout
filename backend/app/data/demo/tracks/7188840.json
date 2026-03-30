@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3040572191",
+      "name": "Love Somebody",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/8/0/4f80ea5d1930cdfc4990ae50ad85d384.mp3?hdnea=exp=1774860036~acl=/api/1/1/4/f/8/0/4f80ea5d1930cdfc4990ae50ad85d384.mp3*~data=user_id=0,application_id=42~hmac=cba8141389a76f3bd3ba57f48b48fb747ea530c7822e897235a591709db72583",
+      "duration_ms": 205000,
+      "track_number": 1,
+      "album": {
+        "id": "655091621",
+        "name": "Love Somebody",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/473abf39f40221437fb7c590e36b7282/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/473abf39f40221437fb7c590e36b7282/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/473abf39f40221437fb7c590e36b7282/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3040572191"
+      }
+    },
+    {
+      "id": "3366676861",
+      "name": "What I Want",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/e/0/48e80c4f385104a43d397547212054d8.mp3?hdnea=exp=1774860036~acl=/api/1/1/4/8/e/0/48e80c4f385104a43d397547212054d8.mp3*~data=user_id=0,application_id=42~hmac=4f4cf1e4413875ad4c072a271cdfce89b7742ca5e9096c3fda733b95c0bc8e68",
+      "duration_ms": 184000,
+      "track_number": 2,
+      "album": {
+        "id": "756669041",
+        "name": "I’m The Problem",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0a95c46e56018109a6786f9e795acb6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0a95c46e56018109a6786f9e795acb6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0a95c46e56018109a6786f9e795acb6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3366676861"
+      }
+    },
+    {
+      "id": "3366676191",
+      "name": "I Got Better",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/a/0/bba44418c10a6ca63bbabed357276858.mp3?hdnea=exp=1774860036~acl=/api/1/1/b/b/a/0/bba44418c10a6ca63bbabed357276858.mp3*~data=user_id=0,application_id=42~hmac=c8ea7fd316f7b7ed3f0de51853af0c5aa3b4855c4ba6ef597f90ded1806c813a",
+      "duration_ms": 205000,
+      "track_number": 3,
+      "album": {
+        "id": "756668921",
+        "name": "I’m The Problem",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3366676191"
+      }
+    },
+    {
+      "id": "3326163551",
+      "name": "I Ain't Comin' Back",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/6/0/84659acbc81c5876d52516c631a95e37.mp3?hdnea=exp=1774860036~acl=/api/1/1/8/4/6/0/84659acbc81c5876d52516c631a95e37.mp3*~data=user_id=0,application_id=42~hmac=6b27a9b46597e1041252ee9810054d93de5aa79d7267c6b1ea0821f3f38fd0a5",
+      "duration_ms": 175000,
+      "track_number": 4,
+      "album": {
+        "id": "742935831",
+        "name": "I Ain't Comin' Back",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3326163551"
+      }
+    },
+    {
+      "id": "3398329531",
+      "name": "Last Night",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/f/0/02f68de5cf7cca70684d82455dc2132d.mp3?hdnea=exp=1774860036~acl=/api/1/1/0/2/f/0/02f68de5cf7cca70684d82455dc2132d.mp3*~data=user_id=0,application_id=42~hmac=d856ec88c7b5f2588ce7466e6660f976eba06aacca29052185c0ecc901656431",
+      "duration_ms": 163000,
+      "track_number": 5,
+      "album": {
+        "id": "767042911",
+        "name": "One Thing At A Time",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/db22e72b0989df03db05897b8eec25ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/db22e72b0989df03db05897b8eec25ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/db22e72b0989df03db05897b8eec25ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3398329531"
+      }
+    },
+    {
+      "id": "3353801801",
+      "name": "Superman",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/2/0/7e27b604f276610211f0f2c304f46adb.mp3?hdnea=exp=1774860036~acl=/api/1/1/7/e/2/0/7e27b604f276610211f0f2c304f46adb.mp3*~data=user_id=0,application_id=42~hmac=b2838f9445c76af4b7a5c636c9286a28831a435c93790ffe0986a868f8670cb3",
+      "duration_ms": 188000,
+      "track_number": 6,
+      "album": {
+        "id": "752453311",
+        "name": "Superman",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3353801801"
+      }
+    },
+    {
+      "id": "3278152451",
+      "name": "Just In Case",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/b/0/0cb5b3640af19250bbfb22af094f5dfa.mp3?hdnea=exp=1774860036~acl=/api/1/1/0/c/b/0/0cb5b3640af19250bbfb22af094f5dfa.mp3*~data=user_id=0,application_id=42~hmac=468c9db1a58bc71aa0cbc47febf958d9d9224dc3812cccefab3a7839604083b0",
+      "duration_ms": 166000,
+      "track_number": 7,
+      "album": {
+        "id": "727297031",
+        "name": "Just In Case",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/22c6d080209e45ef58cca3596bf95e71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3278152451"
+      }
+    },
+    {
+      "id": "3595357382",
+      "name": "Graveyard Whistling",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/f/0/f5f91f9fe81eafb56d10ca7121e10658.mp3?hdnea=exp=1774860036~acl=/api/1/1/f/5/f/0/f5f91f9fe81eafb56d10ca7121e10658.mp3*~data=user_id=0,application_id=42~hmac=d3a2b9d024f78b93b3948da51166890de50b90b7f724baac0a9754ad375286fe",
+      "duration_ms": 244000,
+      "track_number": 8,
+      "album": {
+        "id": "835419572",
+        "name": "Graveyard Whistling",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b18e2c63da41fc272a991ec569936336/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b18e2c63da41fc272a991ec569936336/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b18e2c63da41fc272a991ec569936336/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3595357382"
+      }
+    },
+    {
+      "id": "3206261161",
+      "name": "I'm The Problem",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/5/0/fe54da49a61ddd1894143ebf95b825a9.mp3?hdnea=exp=1774860036~acl=/api/1/1/f/e/5/0/fe54da49a61ddd1894143ebf95b825a9.mp3*~data=user_id=0,application_id=42~hmac=5a8e86f531d3e114894145fbe4d54b7f318c7651d5722cb009d6487a45c5122a",
+      "duration_ms": 177000,
+      "track_number": 9,
+      "album": {
+        "id": "704279041",
+        "name": "I'm The Problem",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f878b3aebe0e2be32fa4cecebf7a2124/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f878b3aebe0e2be32fa4cecebf7a2124/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f878b3aebe0e2be32fa4cecebf7a2124/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3206261161"
+      }
+    },
+    {
+      "id": "3399879451",
+      "name": "Wasted On You",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0c83b848ecbc9b2f6a277847348840b.mp3?hdnea=exp=1774860036~acl=/api/1/1/f/0/c/0/f0c83b848ecbc9b2f6a277847348840b.mp3*~data=user_id=0,application_id=42~hmac=ebceb2802355bc1066ee461909721bd6bd1e55f5925000a57c8d09d87c44c235",
+      "duration_ms": 178000,
+      "track_number": 10,
+      "album": {
+        "id": "767572651",
+        "name": "Dangerous: The Double Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ae3bc77672fbdd0ab53a6b3e1c24051c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ae3bc77672fbdd0ab53a6b3e1c24051c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ae3bc77672fbdd0ab53a6b3e1c24051c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7188840",
+          "name": "Morgan Wallen"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3399879451"
+      }
+    }
+  ]
+}

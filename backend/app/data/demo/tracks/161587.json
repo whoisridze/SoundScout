@@ -1,0 +1,44 @@
+{
+  "tracks": [
+    {
+      "id": "3066655701",
+      "name": "Starry Night (Live)",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/d/0/e1d0948002ef01bdaaf47a40dc8b74f8.mp3?hdnea=exp=1774860102~acl=/api/1/1/e/1/d/0/e1d0948002ef01bdaaf47a40dc8b74f8.mp3*~data=user_id=0,application_id=42~hmac=cd8410aca92a81957f45409d6232647eb98c30288a002f6fc8d5bc2a97ddabbf",
+      "duration_ms": 342000,
+      "track_number": 1,
+      "album": {
+        "id": "663418041",
+        "name": "Kukai 1250: Live In Zentsuji",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fa27962963b13c291119c0473649e295/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fa27962963b13c291119c0473649e295/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fa27962963b13c291119c0473649e295/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161587",
+          "name": "Hiroki Okano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3066655701"
+      }
+    }
+  ]
+}

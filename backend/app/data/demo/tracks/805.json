@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2794915",
+      "name": "Lumos! (Hedwig's Theme)",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/e/0/34edc4948c78ec6b39039bad73174d0a.mp3?hdnea=exp=1774860069~acl=/api/1/1/3/4/e/0/34edc4948c78ec6b39039bad73174d0a.mp3*~data=user_id=0,application_id=42~hmac=2ff5a86a8eb2309beb1d716c84626a394238260942834bb61560e8f43b62e9f1",
+      "duration_ms": 98000,
+      "track_number": 1,
+      "album": {
+        "id": "271580",
+        "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee3f992281a035cdc1d955f5babec417/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee3f992281a035cdc1d955f5babec417/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee3f992281a035cdc1d955f5babec417/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2794915"
+      }
+    },
+    {
+      "id": "6066638",
+      "name": "Theme From Schindler's List",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/5/0/bf54188934238d4d84b8bd7049a65c0e.mp3?hdnea=exp=1774860069~acl=/api/1/1/b/f/5/0/bf54188934238d4d84b8bd7049a65c0e.mp3*~data=user_id=0,application_id=42~hmac=aa9bc9cd91848f7bf219d070637d0617ded1f73083129c6e58d6ea893f6ae25d",
+      "duration_ms": 254000,
+      "track_number": 2,
+      "album": {
+        "id": "241510",
+        "name": "Schindler's List",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed2414b07609770b01fa69221580ae37/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed2414b07609770b01fa69221580ae37/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed2414b07609770b01fa69221580ae37/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/6066638"
+      }
+    },
+    {
+      "id": "115709934",
+      "name": "Rey's Theme",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/7/0/8a76d509560f47fd901d8fa68ead42c5.mp3?hdnea=exp=1774860069~acl=/api/1/1/8/a/7/0/8a76d509560f47fd901d8fa68ead42c5.mp3*~data=user_id=0,application_id=42~hmac=d3b0e8f855bbaa35884824f5c0ddb277c240a7334efa7131262946d45959fe3a",
+      "duration_ms": 191000,
+      "track_number": 3,
+      "album": {
+        "id": "11991280",
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fc9904443744594d7fa86bf0324a261/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fc9904443744594d7fa86bf0324a261/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fc9904443744594d7fa86bf0324a261/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/115709934"
+      }
+    },
+    {
+      "id": "1030913",
+      "name": "Main Theme (From \"Jurassic Park\")",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/b/0/c5bb4ce9c11edfad76480494e621b5c9.mp3?hdnea=exp=1774860069~acl=/api/1/1/c/5/b/0/c5bb4ce9c11edfad76480494e621b5c9.mp3*~data=user_id=0,application_id=42~hmac=7d2ee00226c13192674d3c84632ba759888ffde5e385d74e167a4244a1e67638",
+      "duration_ms": 329000,
+      "track_number": 4,
+      "album": {
+        "id": "113026",
+        "name": "Williams on Williams (The Classic Spielberg Scores)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64b9cd3eb6cb009c3680a8d7a07ff9af/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64b9cd3eb6cb009c3680a8d7a07ff9af/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64b9cd3eb6cb009c3680a8d7a07ff9af/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030913"
+      }
+    },
+    {
+      "id": "440475672",
+      "name": "Main Title and Escape",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/9/0/379880a6b2a36ea66854b5cba7c8901f.mp3?hdnea=exp=1774860069~acl=/api/1/1/3/7/9/0/379880a6b2a36ea66854b5cba7c8901f.mp3*~data=user_id=0,application_id=42~hmac=96c2d1f203c7ca936ba64bba5abab2125d3d94f92e3896375ca2c65b9be8c0f4",
+      "duration_ms": 446000,
+      "track_number": 5,
+      "album": {
+        "id": "53413842",
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f4a0d0192d764d964146dc6e85174c9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f4a0d0192d764d964146dc6e85174c9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f4a0d0192d764d964146dc6e85174c9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/440475672"
+      }
+    },
+    {
+      "id": "2342328025",
+      "name": "Rey's Theme (From \"Star Wars: The Force Awakens\")",
+      "popularity": 1,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/1/0/5a1521c6176b9ae03fb54e3aea042091.mp3?hdnea=exp=1774860069~acl=/api/1/1/5/a/1/0/5a1521c6176b9ae03fb54e3aea042091.mp3*~data=user_id=0,application_id=42~hmac=1de618388cb7cf35b7790349ed8db9e94ea51b84cadf9bda736bc0ba6bd5101e",
+      "duration_ms": 197000,
+      "track_number": 6,
+      "album": {
+        "id": "457648035",
+        "name": "Energetic Classical",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/172e84a148e790dd66757eebf3682c23/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/172e84a148e790dd66757eebf3682c23/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/172e84a148e790dd66757eebf3682c23/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2342328025"
+      }
+    },
+    {
+      "id": "110953378",
+      "name": "Main Theme (From \"Schindler's List\")",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/4/0/3249ffd9b8ee7c8e2bf88c8d7f9b071f.mp3?hdnea=exp=1774860069~acl=/api/1/1/3/2/4/0/3249ffd9b8ee7c8e2bf88c8d7f9b071f.mp3*~data=user_id=0,application_id=42~hmac=20a426ed709141fe25cc8b07689652fe8c3bc28657f95e8a47736fe644a7ec99",
+      "duration_ms": 213000,
+      "track_number": 7,
+      "album": {
+        "id": "11539346",
+        "name": "John Williams: The Great Movie Soundtracks",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/896c16963c8de59222c37c2ff1a57698/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/896c16963c8de59222c37c2ff1a57698/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/896c16963c8de59222c37c2ff1a57698/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/110953378"
+      }
+    },
+    {
+      "id": "2228680",
+      "name": "Catch Me If You Can (From \"Catch Me If You Can\" Soundtrack)",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/9/0/9a922cfb3320b6bcd9f0445a1ddaa218.mp3?hdnea=exp=1774860069~acl=/api/1/1/9/a/9/0/9a922cfb3320b6bcd9f0445a1ddaa218.mp3*~data=user_id=0,application_id=42~hmac=bfcf56c01709994ad4c006c97dacd53a71182f1166a861add3780d40bfa6d5b5",
+      "duration_ms": 161000,
+      "track_number": 8,
+      "album": {
+        "id": "223052",
+        "name": "Catch Me If You Can",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b04649bd6a5addfc2ace3c5588806a3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b04649bd6a5addfc2ace3c5588806a3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b04649bd6a5addfc2ace3c5588806a3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2228680"
+      }
+    },
+    {
+      "id": "8164705",
+      "name": "Sayuri's Theme (From \"Memoirs of a Geisha\" Soundtrack)",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/9/0/f39fff16461f90cf3f25440e8f8b34eb.mp3?hdnea=exp=1774860069~acl=/api/1/1/f/3/9/0/f39fff16461f90cf3f25440e8f8b34eb.mp3*~data=user_id=0,application_id=42~hmac=608a7e6249673efe253c2a43be63cab92bbe85dae597ae2e6e75706214ef4633",
+      "duration_ms": 91000,
+      "track_number": 9,
+      "album": {
+        "id": "753324",
+        "name": "Memoirs of a Geisha",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c36f45135e429b57c60b5466451343e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c36f45135e429b57c60b5466451343e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c36f45135e429b57c60b5466451343e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/8164705"
+      }
+    },
+    {
+      "id": "8164708",
+      "name": "Brush On Silk (From \"Memoirs of a Geisha\" Soundtrack)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/3/0/6b3e0ae015b41f2efd999d68f39b9104.mp3?hdnea=exp=1774860069~acl=/api/1/1/6/b/3/0/6b3e0ae015b41f2efd999d68f39b9104.mp3*~data=user_id=0,application_id=42~hmac=d7628a3dec01a48e261b678df6621bfb5d7ba13ba7acd2b0b3bcae07210b232b",
+      "duration_ms": 151000,
+      "track_number": 10,
+      "album": {
+        "id": "753324",
+        "name": "Memoirs of a Geisha",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c36f45135e429b57c60b5466451343e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c36f45135e429b57c60b5466451343e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c36f45135e429b57c60b5466451343e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "805",
+          "name": "John Williams"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/8164708"
+      }
+    }
+  ]
+}

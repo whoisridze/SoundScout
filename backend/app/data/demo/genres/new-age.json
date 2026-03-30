@@ -1,0 +1,485 @@
+{
+  "items": [
+    {
+      "id": "487",
+      "name": "Enya",
+      "popularity": 45,
+      "followers": {
+        "total": 451271
+      },
+      "genres": [
+        "easy listening",
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/476edfb1b2db19ffd3efa77f653ad620/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/476edfb1b2db19ffd3efa77f653ad620/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/476edfb1b2db19ffd3efa77f653ad620/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/487"
+      },
+      "uri": "deezer:artist:487"
+    },
+    {
+      "id": "494",
+      "name": "Yanni",
+      "popularity": 16,
+      "followers": {
+        "total": 169545
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c132b309b48f7f55e8f36252e883bd75/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c132b309b48f7f55e8f36252e883bd75/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c132b309b48f7f55e8f36252e883bd75/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/494"
+      },
+      "uri": "deezer:artist:494"
+    },
+    {
+      "id": "10712",
+      "name": "Kitaro",
+      "popularity": 5,
+      "followers": {
+        "total": 59902
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e0238a36cc6749e419b22c1c26dc6f3b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e0238a36cc6749e419b22c1c26dc6f3b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e0238a36cc6749e419b22c1c26dc6f3b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10712"
+      },
+      "uri": "deezer:artist:10712"
+    },
+    {
+      "id": "2402",
+      "name": "Enigma",
+      "popularity": 18,
+      "followers": {
+        "total": 186384
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/612f4aa2899cccdd0bb06ec53f14bee5/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/612f4aa2899cccdd0bb06ec53f14bee5/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/612f4aa2899cccdd0bb06ec53f14bee5/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2402"
+      },
+      "uri": "deezer:artist:2402"
+    },
+    {
+      "id": "2639",
+      "name": "Vangelis",
+      "popularity": 20,
+      "followers": {
+        "total": 206377
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e06dfb492eb566e0301ccef38938c48d/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e06dfb492eb566e0301ccef38938c48d/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e06dfb492eb566e0301ccef38938c48d/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2639"
+      },
+      "uri": "deezer:artist:2639"
+    },
+    {
+      "id": "2047",
+      "name": "Jean-Michel Jarre",
+      "popularity": 31,
+      "followers": {
+        "total": 316520
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3ea16ff83d0129f38755b0c2454e1731/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3ea16ff83d0129f38755b0c2454e1731/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3ea16ff83d0129f38755b0c2454e1731/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2047"
+      },
+      "uri": "deezer:artist:2047"
+    },
+    {
+      "id": "383796",
+      "name": "Deuter",
+      "popularity": 87,
+      "followers": {
+        "total": 8793
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b438e547640503331621e683c274d012/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b438e547640503331621e683c274d012/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b438e547640503331621e683c274d012/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/383796"
+      },
+      "uri": "deezer:artist:383796"
+    },
+    {
+      "id": "2760",
+      "name": "Loreena McKennitt",
+      "popularity": 12,
+      "followers": {
+        "total": 129639
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1bdf763455ae6f42f605bb942908af8/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1bdf763455ae6f42f605bb942908af8/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1bdf763455ae6f42f605bb942908af8/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2760"
+      },
+      "uri": "deezer:artist:2760"
+    },
+    {
+      "id": "605",
+      "name": "Dead Can Dance",
+      "popularity": 13,
+      "followers": {
+        "total": 131238
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/78cd40551ae3a40b8734a5cd8ca695b7/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/78cd40551ae3a40b8734a5cd8ca695b7/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/78cd40551ae3a40b8734a5cd8ca695b7/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/605"
+      },
+      "uri": "deezer:artist:605"
+    },
+    {
+      "id": "1270195",
+      "name": "Liquid Mind",
+      "popularity": 29,
+      "followers": {
+        "total": 2948
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/380f50c2cb3e98641ad1fc3c3b4b4009/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/380f50c2cb3e98641ad1fc3c3b4b4009/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/380f50c2cb3e98641ad1fc3c3b4b4009/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1270195"
+      },
+      "uri": "deezer:artist:1270195"
+    },
+    {
+      "id": "161587",
+      "name": "Hiroki Okano",
+      "popularity": 1,
+      "followers": {
+        "total": 121
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e864950f21fd128882cf7b4c00ae926f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e864950f21fd128882cf7b4c00ae926f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e864950f21fd128882cf7b4c00ae926f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/161587"
+      },
+      "uri": "deezer:artist:161587"
+    },
+    {
+      "id": "6202",
+      "name": "Karunesh",
+      "popularity": 1,
+      "followers": {
+        "total": 13077
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a3176b788f7e17f3704a5936620e5b1c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a3176b788f7e17f3704a5936620e5b1c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a3176b788f7e17f3704a5936620e5b1c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/6202"
+      },
+      "uri": "deezer:artist:6202"
+    },
+    {
+      "id": "462875",
+      "name": "Deva Premal",
+      "popularity": 3,
+      "followers": {
+        "total": 32666
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/feaeed98650f025188cc648978a2a8f5/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/feaeed98650f025188cc648978a2a8f5/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/feaeed98650f025188cc648978a2a8f5/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/462875"
+      },
+      "uri": "deezer:artist:462875"
+    },
+    {
+      "id": "7707",
+      "name": "Krishna Das",
+      "popularity": 2,
+      "followers": {
+        "total": 25186
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a1558ef5e7dffee5714fe6097576ac6c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a1558ef5e7dffee5714fe6097576ac6c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a1558ef5e7dffee5714fe6097576ac6c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7707"
+      },
+      "uri": "deezer:artist:7707"
+    },
+    {
+      "id": "2305201",
+      "name": "Jai-Jagdeesh",
+      "popularity": 57,
+      "followers": {
+        "total": 5790
+      },
+      "genres": [
+        "new age"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bc1fea6cf7f489980d281aabd0d95441/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bc1fea6cf7f489980d281aabd0d95441/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bc1fea6cf7f489980d281aabd0d95441/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2305201"
+      },
+      "uri": "deezer:artist:2305201"
+    }
+  ]
+}

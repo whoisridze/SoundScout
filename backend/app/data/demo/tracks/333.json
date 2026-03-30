@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3792429142",
+      "name": "McArthur",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/8/0/518ae81b22d9a902bff103cdf5015cbd.mp3?hdnea=exp=1774860044~acl=/api/1/1/5/1/8/0/518ae81b22d9a902bff103cdf5015cbd.mp3*~data=user_id=0,application_id=42~hmac=0410def58ae193431eb2aebd92a075cb94b6aaa91555c8e9cfca070f832b35ed",
+      "duration_ms": 231000,
+      "track_number": 1,
+      "album": {
+        "id": "903310122",
+        "name": "McArthur",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d99cd02a6ca6b40e54e9b5263b64208/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d99cd02a6ca6b40e54e9b5263b64208/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d99cd02a6ca6b40e54e9b5263b64208/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3792429142"
+      }
+    },
+    {
+      "id": "75781479",
+      "name": "Down On The Farm",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/0/0/9706ff49482effae7e2802069fd1e30a.mp3?hdnea=exp=1774860044~acl=/api/1/1/9/7/0/0/9706ff49482effae7e2802069fd1e30a.mp3*~data=user_id=0,application_id=42~hmac=cd79a5eec34f75caf38fc8b0724b4b125793a3d73bef8a897cc8e342b9461c55",
+      "duration_ms": 178000,
+      "track_number": 2,
+      "album": {
+        "id": "7507434",
+        "name": "Not A Moment Too Soon",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e453e87913024b03252c31418395a890/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e453e87913024b03252c31418395a890/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e453e87913024b03252c31418395a890/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75781479"
+      }
+    },
+    {
+      "id": "1543629322",
+      "name": "Redneck Girl",
+      "popularity": 1,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/c/0/eec69dc99b514a3baad2365a86ec9cab.mp3?hdnea=exp=1774860044~acl=/api/1/1/e/e/c/0/eec69dc99b514a3baad2365a86ec9cab.mp3*~data=user_id=0,application_id=42~hmac=9c7249557552f9339775f0a5b8ffc0a74738d2d6d227ed2483e281773261f53a",
+      "duration_ms": 225000,
+      "track_number": 3,
+      "album": {
+        "id": "270621632",
+        "name": "McGraw Machine Hits: 2013-2019 (Big Machine Radio Release Special)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f1eed90e6bdb6ce79192eafafd09ff3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f1eed90e6bdb6ce79192eafafd09ff3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f1eed90e6bdb6ce79192eafafd09ff3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1543629322"
+      }
+    },
+    {
+      "id": "1574890742",
+      "name": "The Cowboy In Me (Yellowstone Edition)",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/1/0/fb1bf66069148d13467c35e69822bfbe.mp3?hdnea=exp=1774860044~acl=/api/1/1/f/b/1/0/fb1bf66069148d13467c35e69822bfbe.mp3*~data=user_id=0,application_id=42~hmac=cdbeb7ac62311bd12955b9ce2a1630fbf23e56be12c3fa6dea98fe52d6c8db75",
+      "duration_ms": 217000,
+      "track_number": 4,
+      "album": {
+        "id": "277270722",
+        "name": "The Cowboy In Me (Yellowstone Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64cd268deab4f09ca96ebe4232ba3cef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64cd268deab4f09ca96ebe4232ba3cef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64cd268deab4f09ca96ebe4232ba3cef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1574890742"
+      }
+    },
+    {
+      "id": "1140854232",
+      "name": "Humble And Kind",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/9/0/649cea069b23e4a8cfc6d2784eeadb35.mp3?hdnea=exp=1774860044~acl=/api/1/1/6/4/9/0/649cea069b23e4a8cfc6d2784eeadb35.mp3*~data=user_id=0,application_id=42~hmac=8ac4ee13c1cfda5470bdbfc30405d62360b3b1a4ade93124c6f69a78eb89f5fd",
+      "duration_ms": 260000,
+      "track_number": 5,
+      "album": {
+        "id": "186071892",
+        "name": "McGraw Machine Hits: 2013-2019",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3eda50cbe5325789d7c8935ee3d40fc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3eda50cbe5325789d7c8935ee3d40fc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3eda50cbe5325789d7c8935ee3d40fc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1140854232"
+      }
+    },
+    {
+      "id": "2174203057",
+      "name": "Standing Room Only",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/b/0/f3b5c864cd4ffef4c2eaea15431695a0.mp3?hdnea=exp=1774860044~acl=/api/1/1/f/3/b/0/f3b5c864cd4ffef4c2eaea15431695a0.mp3*~data=user_id=0,application_id=42~hmac=55ec1e7037f2c2ffaaadb34e35959da99274be809a51e9856649b2ffe2143dc3",
+      "duration_ms": 226000,
+      "track_number": 6,
+      "album": {
+        "id": "413519947",
+        "name": "Standing Room Only",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b196822085646411b950c0f7d57521f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b196822085646411b950c0f7d57521f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b196822085646411b950c0f7d57521f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2174203057"
+      }
+    },
+    {
+      "id": "75766550",
+      "name": "The Cowboy In Me",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/4/0/2a417f88d2ad4856faf79f9c9f636744.mp3?hdnea=exp=1774860044~acl=/api/1/1/2/a/4/0/2a417f88d2ad4856faf79f9c9f636744.mp3*~data=user_id=0,application_id=42~hmac=b5ae553a13d6837f7ada765fc7418f08488ac1a2ef67cde57632e66e52be40a6",
+      "duration_ms": 244000,
+      "track_number": 7,
+      "album": {
+        "id": "7505767",
+        "name": "Number One Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be12b009324217afcd78a385c071c61e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be12b009324217afcd78a385c071c61e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be12b009324217afcd78a385c071c61e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75766550"
+      }
+    },
+    {
+      "id": "36209201",
+      "name": "Feel Like a Rock Star (Duet with Tim McGraw)",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/4/0/294e02b86dcd5cf2fe790079b9357e13.mp3?hdnea=exp=1774860044~acl=/api/1/1/2/9/4/0/294e02b86dcd5cf2fe790079b9357e13.mp3*~data=user_id=0,application_id=42~hmac=8a0ed2a0a6582643a4f0431f1fd0f1e1762c595d26985748be501ee43892893e",
+      "duration_ms": 208000,
+      "track_number": 8,
+      "album": {
+        "id": "3522821",
+        "name": "Welcome To The Fishbowl",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/705d8d76780d8888083c7678d37b2359/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/705d8d76780d8888083c7678d37b2359/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/705d8d76780d8888083c7678d37b2359/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/36209201"
+      }
+    },
+    {
+      "id": "1208901802",
+      "name": "Something Like That (Stripped Down Acoustic)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/4/0/f146c9f1d63aa51ee6c24404f1639aae.mp3?hdnea=exp=1774860044~acl=/api/1/1/f/1/4/0/f146c9f1d63aa51ee6c24404f1639aae.mp3*~data=user_id=0,application_id=42~hmac=306cbaf7029d2924acc7d5e13c30f01fede67c193ce2bf29991eb6a93ae1fee7",
+      "duration_ms": 188000,
+      "track_number": 9,
+      "album": {
+        "id": "200113122",
+        "name": "Something Like That (Stripped Down Acoustic)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ea911dc2f02c49c0b2e610d7e2e408f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ea911dc2f02c49c0b2e610d7e2e408f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ea911dc2f02c49c0b2e610d7e2e408f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1208901802"
+      }
+    },
+    {
+      "id": "75765362",
+      "name": "My Little Girl (from the motion picture My Friend Flicka)",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/9/0/0e95aac8b5636a08c78875e730caa3f9.mp3?hdnea=exp=1774860044~acl=/api/1/1/0/e/9/0/0e95aac8b5636a08c78875e730caa3f9.mp3*~data=user_id=0,application_id=42~hmac=966858090726f365664c28ffdd4a2ef1ed2a8ffc12110697e828b979577273f4",
+      "duration_ms": 223000,
+      "track_number": 10,
+      "album": {
+        "id": "7505671",
+        "name": "Love Story",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b5ebabe683da82a58cbd3ae095383f6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b5ebabe683da82a58cbd3ae095383f6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b5ebabe683da82a58cbd3ae095383f6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "333",
+          "name": "Tim McGraw"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75765362"
+      }
+    }
+  ]
+}

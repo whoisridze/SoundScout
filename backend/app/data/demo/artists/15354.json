@@ -1,0 +1,32 @@
+{
+  "id": "15354",
+  "name": "Hiromi",
+  "popularity": 2,
+  "followers": {
+    "total": 24901
+  },
+  "genres": [
+    "jazz fusion"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/094d6838cd806acf3ec76a82765701f7/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/094d6838cd806acf3ec76a82765701f7/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/094d6838cd806acf3ec76a82765701f7/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/15354"
+  },
+  "uri": "deezer:artist:15354"
+}

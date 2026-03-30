@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "402829632",
+      "name": "Dreams Tonite",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/3/0/ea34f483d316b4418287c24126a4ca27.mp3?hdnea=exp=1774859890~acl=/api/1/1/e/a/3/0/ea34f483d316b4418287c24126a4ca27.mp3*~data=user_id=0,application_id=42~hmac=94c0f6c599a264f1f3b7331541c6409cf67edb97d888b1d571b43ff9349668f4",
+      "duration_ms": 196000,
+      "track_number": 1,
+      "album": {
+        "id": "47498782",
+        "name": "Antisocialites",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/402829632"
+      }
+    },
+    {
+      "id": "78511978",
+      "name": "Archie, Marry Me",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/7/0/63735a2b4cb82c7dcd0baba73d6f22d0.mp3?hdnea=exp=1774859890~acl=/api/1/1/6/3/7/0/63735a2b4cb82c7dcd0baba73d6f22d0.mp3*~data=user_id=0,application_id=42~hmac=2d3c575c86545f03da0f6de2183125e163e7bad8c8889ad6d8aaf67158fbe7a0",
+      "duration_ms": 196000,
+      "track_number": 2,
+      "album": {
+        "id": "7809456",
+        "name": "Alvvays",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/750b373216221b8cef331ebd50c2fe04/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/750b373216221b8cef331ebd50c2fe04/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/750b373216221b8cef331ebd50c2fe04/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/78511978"
+      }
+    },
+    {
+      "id": "402829662",
+      "name": "Not My Baby",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/6/0/ea6aa3f222e7c3e5d89e9e6743452c45.mp3?hdnea=exp=1774859890~acl=/api/1/1/e/a/6/0/ea6aa3f222e7c3e5d89e9e6743452c45.mp3*~data=user_id=0,application_id=42~hmac=3c19e832a1600362201044398a0fba60ed90c60f5d6c1a1046a43a1883db4b56",
+      "duration_ms": 256000,
+      "track_number": 3,
+      "album": {
+        "id": "47498782",
+        "name": "Antisocialites",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/402829662"
+      }
+    },
+    {
+      "id": "402829622",
+      "name": "In Undertow",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/c/0/c8c052d32980b2f62e28176c7519b9bc.mp3?hdnea=exp=1774859890~acl=/api/1/1/c/8/c/0/c8c052d32980b2f62e28176c7519b9bc.mp3*~data=user_id=0,application_id=42~hmac=9094cfdf9f4896dac392f35232991a4234e7779cddecd0fc7274486956203182",
+      "duration_ms": 197000,
+      "track_number": 4,
+      "album": {
+        "id": "47498782",
+        "name": "Antisocialites",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/402829622"
+      }
+    },
+    {
+      "id": "78511980",
+      "name": "Next of Kin",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/8/0/758a85636362a42252b33eb60c1863a3.mp3?hdnea=exp=1774859890~acl=/api/1/1/7/5/8/0/758a85636362a42252b33eb60c1863a3.mp3*~data=user_id=0,application_id=42~hmac=4690f657488c4ddd2dbc9aeeab990c26c122f46157a7414a21e01c476ec10844",
+      "duration_ms": 228000,
+      "track_number": 5,
+      "album": {
+        "id": "7809456",
+        "name": "Alvvays",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/750b373216221b8cef331ebd50c2fe04/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/750b373216221b8cef331ebd50c2fe04/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/750b373216221b8cef331ebd50c2fe04/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/78511980"
+      }
+    },
+    {
+      "id": "402829702",
+      "name": "Saved By A Waif",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/6/0/0f6ea5a2602d80b59fee418fb30cc42f.mp3?hdnea=exp=1774859890~acl=/api/1/1/0/f/6/0/0f6ea5a2602d80b59fee418fb30cc42f.mp3*~data=user_id=0,application_id=42~hmac=a244d9bfb514877af5d25be8c89d3f86152d48698d4c69080ccae65836be6c9b",
+      "duration_ms": 179000,
+      "track_number": 6,
+      "album": {
+        "id": "47498782",
+        "name": "Antisocialites",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/402829702"
+      }
+    },
+    {
+      "id": "1793463017",
+      "name": "After The Earthquake",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/d/0/55d0052da0f2b775cf4321319ee93888.mp3?hdnea=exp=1774859890~acl=/api/1/1/5/5/d/0/55d0052da0f2b775cf4321319ee93888.mp3*~data=user_id=0,application_id=42~hmac=43f2a4171ba771dce1e26203e2e8b649fd933419409fc31be81fe56469c2dcdd",
+      "duration_ms": 185000,
+      "track_number": 7,
+      "album": {
+        "id": "327955317",
+        "name": "Blue Rev",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f2e46e2b1b5dd7440d6907ec25a2e3e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f2e46e2b1b5dd7440d6907ec25a2e3e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f2e46e2b1b5dd7440d6907ec25a2e3e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1793463017"
+      }
+    },
+    {
+      "id": "78511979",
+      "name": "Ones Who Love You",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/2/0/dc298873c83d32645eb678ec14678616.mp3?hdnea=exp=1774859890~acl=/api/1/1/d/c/2/0/dc298873c83d32645eb678ec14678616.mp3*~data=user_id=0,application_id=42~hmac=7735c4f8450f061f04e1bc581baa33e72f7cce8a233e2e03171e572e34f3dbde",
+      "duration_ms": 227000,
+      "track_number": 8,
+      "album": {
+        "id": "7809456",
+        "name": "Alvvays",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/750b373216221b8cef331ebd50c2fe04/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/750b373216221b8cef331ebd50c2fe04/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/750b373216221b8cef331ebd50c2fe04/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/78511979"
+      }
+    },
+    {
+      "id": "1793463037",
+      "name": "Pressed",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/2/0/422f67b1f80640af11acd2d0f0bd872f.mp3?hdnea=exp=1774859890~acl=/api/1/1/4/2/2/0/422f67b1f80640af11acd2d0f0bd872f.mp3*~data=user_id=0,application_id=42~hmac=7c92dc4f75de18380b8454555f2bd4d23085137afe13bb7fcd7a0d2f5acf58f6",
+      "duration_ms": 129000,
+      "track_number": 9,
+      "album": {
+        "id": "327955317",
+        "name": "Blue Rev",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f2e46e2b1b5dd7440d6907ec25a2e3e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f2e46e2b1b5dd7440d6907ec25a2e3e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f2e46e2b1b5dd7440d6907ec25a2e3e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1793463037"
+      }
+    },
+    {
+      "id": "402829642",
+      "name": "Plimsoll Punks",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/4/0/1047b7b7eef08f869a7223ebd0768ccb.mp3?hdnea=exp=1774859890~acl=/api/1/1/1/0/4/0/1047b7b7eef08f869a7223ebd0768ccb.mp3*~data=user_id=0,application_id=42~hmac=c815597e00ec794f651295dbccfb462d06a3e4aeff7605b951ce3929bd2c92ef",
+      "duration_ms": 289000,
+      "track_number": 10,
+      "album": {
+        "id": "47498782",
+        "name": "Antisocialites",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4a9dc44a626fc7afcd95f6f26542c83/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5298885",
+          "name": "Alvvays"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/402829642"
+      }
+    }
+  ]
+}

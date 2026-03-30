@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2122526",
+      "name": "Boombastic",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/8/0/8588095299f2aed737681d3c30246b66.mp3?hdnea=exp=1774860108~acl=/api/1/1/8/5/8/0/8588095299f2aed737681d3c30246b66.mp3*~data=user_id=0,application_id=42~hmac=1d658393136ec62f6d6ab482ce6877b286ac993a1a2253ea44fc09642f4c6e81",
+      "duration_ms": 247000,
+      "track_number": 1,
+      "album": {
+        "id": "213082",
+        "name": "The Boombastic Collection - Best Of Shaggy (International Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db7115ada8037b73dfa057f3c045085/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db7115ada8037b73dfa057f3c045085/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db7115ada8037b73dfa057f3c045085/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2122526"
+      }
+    },
+    {
+      "id": "2122532",
+      "name": "It Wasn't Me",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/e/0/a1ea994a11e336d87b1ed9f6a6ea1ae7.mp3?hdnea=exp=1774860108~acl=/api/1/1/a/1/e/0/a1ea994a11e336d87b1ed9f6a6ea1ae7.mp3*~data=user_id=0,application_id=42~hmac=4f89dbe67252073a7afcd51eb27c562af4fc5c74dd3f371847bd32127106df26",
+      "duration_ms": 227000,
+      "track_number": 2,
+      "album": {
+        "id": "213082",
+        "name": "The Boombastic Collection - Best Of Shaggy (International Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db7115ada8037b73dfa057f3c045085/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db7115ada8037b73dfa057f3c045085/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db7115ada8037b73dfa057f3c045085/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2122532"
+      }
+    },
+    {
+      "id": "502768092",
+      "name": "Hey Sexy Lady",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/2/0/ff211818c817abfd41f855ed5a4fd975.mp3?hdnea=exp=1774860108~acl=/api/1/1/f/f/2/0/ff211818c817abfd41f855ed5a4fd975.mp3*~data=user_id=0,application_id=42~hmac=008eeb56b7c37ccf4c638d124d2b427e8a68e590209ee90bde9d15ea65806b1c",
+      "duration_ms": 201000,
+      "track_number": 3,
+      "album": {
+        "id": "64095662",
+        "name": "Lucky Day",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c18477c3e9664358dd01144038d35f6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c18477c3e9664358dd01144038d35f6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c18477c3e9664358dd01144038d35f6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/502768092"
+      }
+    },
+    {
+      "id": "3917123281",
+      "name": "Drop it & Roll it",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/b/0/5ab7cf0d61eb6d6919ddbb1865f4857d.mp3?hdnea=exp=1774860108~acl=/api/1/1/5/a/b/0/5ab7cf0d61eb6d6919ddbb1865f4857d.mp3*~data=user_id=0,application_id=42~hmac=adba1c892714f52b0f3774450df7d319c0123bd4443efad565684ef2bf8a5690",
+      "duration_ms": 139000,
+      "track_number": 4,
+      "album": {
+        "id": "945777401",
+        "name": "Drop it & Roll it",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b8f67e514f098d59908fba62abe7363/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b8f67e514f098d59908fba62abe7363/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b8f67e514f098d59908fba62abe7363/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3917123281"
+      }
+    },
+    {
+      "id": "952515282",
+      "name": "Boombastic (Hot Shot 2020)",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/1/0/0e1f957f0084c23ddd4c9c03cad5b420.mp3?hdnea=exp=1774860108~acl=/api/1/1/0/e/1/0/0e1f957f0084c23ddd4c9c03cad5b420.mp3*~data=user_id=0,application_id=42~hmac=c46338020003319c6d961440337052d4d5aee136b980d0b389f7bc10fe2d8c63",
+      "duration_ms": 183000,
+      "track_number": 5,
+      "album": {
+        "id": "146644992",
+        "name": "Hot Shot 2020",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b24b513a3d71d6f73200cd62b806bb18/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b24b513a3d71d6f73200cd62b806bb18/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b24b513a3d71d6f73200cd62b806bb18/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/952515282"
+      }
+    },
+    {
+      "id": "3855578621",
+      "name": "Looking Lovely (feat. Robin Thicke)",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/e/0/dbe45849d324d688c382a7429ee8a149.mp3?hdnea=exp=1774860108~acl=/api/1/1/d/b/e/0/dbe45849d324d688c382a7429ee8a149.mp3*~data=user_id=0,application_id=42~hmac=637b643d395dd9aa4c8bead3bcd8d13f2613a7ee40c6009aad8361f3a261a2ef",
+      "duration_ms": 202000,
+      "track_number": 6,
+      "album": {
+        "id": "922987651",
+        "name": "Looking Lovely (feat. Robin Thicke)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7fbc98144074a5d78a55d99171bb026c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7fbc98144074a5d78a55d99171bb026c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7fbc98144074a5d78a55d99171bb026c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3855578621"
+      }
+    },
+    {
+      "id": "92171232",
+      "name": "I Need Your Love (feat. Mohombi, Faydee & Costi)",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/7/0/ef73f7f4eeddea233e11e634e1afb935.mp3?hdnea=exp=1774860108~acl=/api/1/1/e/f/7/0/ef73f7f4eeddea233e11e634e1afb935.mp3*~data=user_id=0,application_id=42~hmac=565ee144e549dcf22880d0baa5c7f9ce64d271553213983aed75ab6cb4e6117f",
+      "duration_ms": 216000,
+      "track_number": 7,
+      "album": {
+        "id": "9354956",
+        "name": "I Need Your Love (feat. Mohombi, Faydee & Costi)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fde6154f39f450f895bf3be39c71a55/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fde6154f39f450f895bf3be39c71a55/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fde6154f39f450f895bf3be39c71a55/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/92171232"
+      }
+    },
+    {
+      "id": "487029692",
+      "name": "Don't Make Me Wait",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/8/0/438f1b1cc8cf2b63a152b9968b15805e.mp3?hdnea=exp=1774860108~acl=/api/1/1/4/3/8/0/438f1b1cc8cf2b63a152b9968b15805e.mp3*~data=user_id=0,application_id=42~hmac=e3c2a5956be5f661c602de2843b7e8a6c4e241b04c30d9f3b4e9cb9b34814d2a",
+      "duration_ms": 213000,
+      "track_number": 8,
+      "album": {
+        "id": "61416452",
+        "name": "44/876 (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1761426c1eceb9ec3e31bfad41262dab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1761426c1eceb9ec3e31bfad41262dab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1761426c1eceb9ec3e31bfad41262dab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/487029692"
+      }
+    },
+    {
+      "id": "3232055961",
+      "name": "Rebellion",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/2/0/c3225e218ad6502d697446d99c5c1c83.mp3?hdnea=exp=1774860108~acl=/api/1/1/c/3/2/0/c3225e218ad6502d697446d99c5c1c83.mp3*~data=user_id=0,application_id=42~hmac=9a0eda20ffc52eb3798b197b432ef3adab18aab9a16daed5acdf430972da4e1d",
+      "duration_ms": 145000,
+      "track_number": 9,
+      "album": {
+        "id": "712451091",
+        "name": "Rebellion",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5351a162a7b6cccb9aa8069096abd437/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5351a162a7b6cccb9aa8069096abd437/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5351a162a7b6cccb9aa8069096abd437/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3232055961"
+      }
+    },
+    {
+      "id": "2765897681",
+      "name": "MOVE (feat. Lavbbe)",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/f/0/18f251591f6adea2cae8f26be7a30473.mp3?hdnea=exp=1774860108~acl=/api/1/1/1/8/f/0/18f251591f6adea2cae8f26be7a30473.mp3*~data=user_id=0,application_id=42~hmac=c3a45a2cf0917a53ce625e0254c04899eaf6c6ddb9ef1cd3c70ad021f8ca88f2",
+      "duration_ms": 196000,
+      "track_number": 10,
+      "album": {
+        "id": "577999231",
+        "name": "MOVE (feat. Lavbbe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/791e01cd67d920a13ddfadc7e6bb7512/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/791e01cd67d920a13ddfadc7e6bb7512/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/791e01cd67d920a13ddfadc7e6bb7512/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "461",
+          "name": "Shaggy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2765897681"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2217147387",
+      "name": "Sweet Heat Lightning",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/6/0/dc6a34995550636abe0bbd5e0e760abc.mp3?hdnea=exp=1774860055~acl=/api/1/1/d/c/6/0/dc6a34995550636abe0bbd5e0e760abc.mp3*~data=user_id=0,application_id=42~hmac=20ff24860bfe1e2eadc7224cd2ae59bf9d33ab3aa0fd8c47c98e80a6448987f4",
+      "duration_ms": 286000,
+      "track_number": 1,
+      "album": {
+        "id": "424041577",
+        "name": "Appaloosa Bones",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1ee667d3abf042424e6085ce28ef7890/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1ee667d3abf042424e6085ce28ef7890/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1ee667d3abf042424e6085ce28ef7890/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2217147387"
+      }
+    },
+    {
+      "id": "9592948",
+      "name": "Master & A Hound",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/6/0/72661866f185c8607a19756add2abf84.mp3?hdnea=exp=1774860055~acl=/api/1/1/7/2/6/0/72661866f185c8607a19756add2abf84.mp3*~data=user_id=0,application_id=42~hmac=68a9acd64a222029a495793245f23d5437149701df2a1e0c1e0dc6e75a91a32e",
+      "duration_ms": 182000,
+      "track_number": 2,
+      "album": {
+        "id": "877751",
+        "name": "This Empty Northern Hemisphere",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59fe9ad9f9e997f67bfa64c7cc6c11f5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59fe9ad9f9e997f67bfa64c7cc6c11f5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59fe9ad9f9e997f67bfa64c7cc6c11f5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/9592948"
+      }
+    },
+    {
+      "id": "2858482832",
+      "name": "San Luis",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/1/0/ce1fb15a6f59de5ceb2992bba09e4bfb.mp3?hdnea=exp=1774860055~acl=/api/1/1/c/e/1/0/ce1fb15a6f59de5ceb2992bba09e4bfb.mp3*~data=user_id=0,application_id=42~hmac=b18559ace6e334a0d405d8c0bd9f007c49bfc86c986129fb97bee47cfbe9eaf9",
+      "duration_ms": 272000,
+      "track_number": 3,
+      "album": {
+        "id": "604973082",
+        "name": "Evening Machines",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17ab4a3c720993382e17fdfd20853261/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17ab4a3c720993382e17fdfd20853261/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17ab4a3c720993382e17fdfd20853261/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2858482832"
+      }
+    },
+    {
+      "id": "69010086",
+      "name": "Saint Valentine",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/9/0/ab98f83e1e80dedb623b39f2a7f7252f.mp3?hdnea=exp=1774860055~acl=/api/1/1/a/b/9/0/ab98f83e1e80dedb623b39f2a7f7252f.mp3*~data=user_id=0,application_id=42~hmac=1d6420337ac410f4a1806e1b2343cbfc42f352117b8031ebafa1759a410d958c",
+      "duration_ms": 204000,
+      "track_number": 4,
+      "album": {
+        "id": "6761917",
+        "name": "The Weatherman",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf444ed8cee693f14062dfe77af0b527/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf444ed8cee693f14062dfe77af0b527/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf444ed8cee693f14062dfe77af0b527/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69010086"
+      }
+    },
+    {
+      "id": "9592953",
+      "name": "If I Go, I'm Goin",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/d/0/ebde45148d50e532ae1923d80da219eb.mp3?hdnea=exp=1774860055~acl=/api/1/1/e/b/d/0/ebde45148d50e532ae1923d80da219eb.mp3*~data=user_id=0,application_id=42~hmac=b921d78b617586acf4885fa050c0cf9789c4d1daa954fb3195e674a52da52a28",
+      "duration_ms": 267000,
+      "track_number": 5,
+      "album": {
+        "id": "877751",
+        "name": "This Empty Northern Hemisphere",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59fe9ad9f9e997f67bfa64c7cc6c11f5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59fe9ad9f9e997f67bfa64c7cc6c11f5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59fe9ad9f9e997f67bfa64c7cc6c11f5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/9592953"
+      }
+    },
+    {
+      "id": "9592949",
+      "name": "This Empty Northern Hemisphere",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/1/0/c51ed437883a083f03ed8c7645b51bed.mp3?hdnea=exp=1774860055~acl=/api/1/1/c/5/1/0/c51ed437883a083f03ed8c7645b51bed.mp3*~data=user_id=0,application_id=42~hmac=0da02a6341677f0ca4ee88481b7dd773c482a563d9fd866040afb988905a7a5c",
+      "duration_ms": 300000,
+      "track_number": 6,
+      "album": {
+        "id": "877751",
+        "name": "This Empty Northern Hemisphere",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59fe9ad9f9e997f67bfa64c7cc6c11f5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59fe9ad9f9e997f67bfa64c7cc6c11f5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59fe9ad9f9e997f67bfa64c7cc6c11f5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/9592949"
+      }
+    },
+    {
+      "id": "2858482862",
+      "name": "Bullet Holes",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/f/0/d5f986270cf842f240f91f3c0d5e4cdc.mp3?hdnea=exp=1774860055~acl=/api/1/1/d/5/f/0/d5f986270cf842f240f91f3c0d5e4cdc.mp3*~data=user_id=0,application_id=42~hmac=a33040ca888e65ff3853f13af4dd4e450fcb6b4ae4f6be9e3fbe2ed7d499590d",
+      "duration_ms": 210000,
+      "track_number": 7,
+      "album": {
+        "id": "604973082",
+        "name": "Evening Machines",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17ab4a3c720993382e17fdfd20853261/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17ab4a3c720993382e17fdfd20853261/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17ab4a3c720993382e17fdfd20853261/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2858482862"
+      }
+    },
+    {
+      "id": "69010085",
+      "name": "Amsterdam",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/3/0/a736b5accf6d18c8d7e39753a5745f95.mp3?hdnea=exp=1774860055~acl=/api/1/1/a/7/3/0/a736b5accf6d18c8d7e39753a5745f95.mp3*~data=user_id=0,application_id=42~hmac=2260f9c743d7d53a6baf73f90fb868966e4a15c2c1e161726ade16ab3ffb5134",
+      "duration_ms": 199000,
+      "track_number": 8,
+      "album": {
+        "id": "6761917",
+        "name": "The Weatherman",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf444ed8cee693f14062dfe77af0b527/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf444ed8cee693f14062dfe77af0b527/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf444ed8cee693f14062dfe77af0b527/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69010085"
+      }
+    },
+    {
+      "id": "134781308",
+      "name": "If I Go, I'm Goin",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/3/0/6339861a53221b165686ba6e550c1e08.mp3?hdnea=exp=1774860055~acl=/api/1/1/6/3/3/0/6339861a53221b165686ba6e550c1e08.mp3*~data=user_id=0,application_id=42~hmac=c2349e27d071bee03068f7e0ce92c7c5493ba3940144f12c2841b333e6087a76",
+      "duration_ms": 264000,
+      "track_number": 9,
+      "album": {
+        "id": "14376948",
+        "name": "Gregory Alan Isakov with the Colorado Symphony",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45d3654f4e506f09ca40204a86d7f288/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45d3654f4e506f09ca40204a86d7f288/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45d3654f4e506f09ca40204a86d7f288/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/134781308"
+      }
+    },
+    {
+      "id": "9591357",
+      "name": "3 a.m.",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/9/0/999a2f1776e4c9ca9c326c31643993f5.mp3?hdnea=exp=1774860055~acl=/api/1/1/9/9/9/0/999a2f1776e4c9ca9c326c31643993f5.mp3*~data=user_id=0,application_id=42~hmac=f54510b2f091222cc223752f1d1e99199c809003c81884700ec4ef9b04a1d38d",
+      "duration_ms": 286000,
+      "track_number": 10,
+      "album": {
+        "id": "877607",
+        "name": "That Sea, The Gambler",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ff971728c5956e8c8942f8b0028bf712/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ff971728c5956e8c8942f8b0028bf712/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ff971728c5956e8c8942f8b0028bf712/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398727",
+          "name": "Gregory Alan Isakov"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/9591357"
+      }
+    }
+  ]
+}

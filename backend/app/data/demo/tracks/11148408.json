@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1081133382",
+      "name": "Blurry",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/a/0/efaedf0380626fd303bfc9db2269e251.mp3?hdnea=exp=1774859980~acl=/api/1/1/e/f/a/0/efaedf0380626fd303bfc9db2269e251.mp3*~data=user_id=0,application_id=42~hmac=18cf323c87bc4f1cb19208a55fe6c06b53e1c4766e1bb2ca747dd1a06ad671eb",
+      "duration_ms": 81000,
+      "track_number": 1,
+      "album": {
+        "id": "173466782",
+        "name": "Mirage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1081133382"
+      }
+    },
+    {
+      "id": "1052376222",
+      "name": "autumn breeze",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/2/0/1b2ee5dffd9ec1a10d42d74e33a36a35.mp3?hdnea=exp=1774859980~acl=/api/1/1/1/b/2/0/1b2ee5dffd9ec1a10d42d74e33a36a35.mp3*~data=user_id=0,application_id=42~hmac=a1ce75c0270eabf6232a5960c49dffc2c0b7c6d6d2fe91c6739af1fabbb630a3",
+      "duration_ms": 140000,
+      "track_number": 2,
+      "album": {
+        "id": "167362072",
+        "name": "Endless Sunday Vol. 1",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/84cccd234f2456ccd7015c27e500c1a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/84cccd234f2456ccd7015c27e500c1a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/84cccd234f2456ccd7015c27e500c1a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1052376222"
+      }
+    },
+    {
+      "id": "1081133342",
+      "name": "Distance",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/e/0/fae31d4067ed26fd27a5f24a3c30dd63.mp3?hdnea=exp=1774859980~acl=/api/1/1/f/a/e/0/fae31d4067ed26fd27a5f24a3c30dd63.mp3*~data=user_id=0,application_id=42~hmac=97303710445ee58b16eb59e60f06c3db65a3e28f4d63c9927a57ac3a11e27437",
+      "duration_ms": 159000,
+      "track_number": 3,
+      "album": {
+        "id": "173466782",
+        "name": "Mirage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1081133342"
+      }
+    },
+    {
+      "id": "1081133292",
+      "name": "Train Ride",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/6/0/7661246d9885df4eaab87e1c6d1aa01f.mp3?hdnea=exp=1774859980~acl=/api/1/1/7/6/6/0/7661246d9885df4eaab87e1c6d1aa01f.mp3*~data=user_id=0,application_id=42~hmac=66252fa37ad6ccf6a5a9faab1697525efe0c758c024894a809f13924c590a070",
+      "duration_ms": 123000,
+      "track_number": 4,
+      "album": {
+        "id": "173466782",
+        "name": "Mirage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1081133292"
+      }
+    },
+    {
+      "id": "1100807672",
+      "name": "You Should Have Known",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/b/0/e8b3cd80589d23fea01d969b5b6167ac.mp3?hdnea=exp=1774859980~acl=/api/1/1/e/8/b/0/e8b3cd80589d23fea01d969b5b6167ac.mp3*~data=user_id=0,application_id=42~hmac=1bbd4adee62a514ac837c47ab64b1860e390681b216eb40295aa77ff10b49a52",
+      "duration_ms": 143000,
+      "track_number": 5,
+      "album": {
+        "id": "177859362",
+        "name": "Chillhop Essentials Spring 2017",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a6ccb66785f0daeafb630fe037d41218/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a6ccb66785f0daeafb630fe037d41218/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a6ccb66785f0daeafb630fe037d41218/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1100807672"
+      }
+    },
+    {
+      "id": "962680172",
+      "name": "Fireworks",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/b/0/5abfd22a27992c351c6501cc25d3cd82.mp3?hdnea=exp=1774859980~acl=/api/1/1/5/a/b/0/5abfd22a27992c351c6501cc25d3cd82.mp3*~data=user_id=0,application_id=42~hmac=5c8a7b847085458eab84cc5d2d487c618aa4769b6568d6390d55f4fbd8bbf0f0",
+      "duration_ms": 138000,
+      "track_number": 6,
+      "album": {
+        "id": "148677082",
+        "name": "Hometown",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e8039f14b4cb1e552952ee8dc835cc2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e8039f14b4cb1e552952ee8dc835cc2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e8039f14b4cb1e552952ee8dc835cc2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/962680172"
+      }
+    },
+    {
+      "id": "1100807392",
+      "name": "Sorry",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/7/0/fb7a6a8b57d1cd16b435a7e7360633e7.mp3?hdnea=exp=1774859980~acl=/api/1/1/f/b/7/0/fb7a6a8b57d1cd16b435a7e7360633e7.mp3*~data=user_id=0,application_id=42~hmac=11c9438faa1fd30755440dee5ba439900588ddcb6f773cf5fb841d3aae3e089f",
+      "duration_ms": 111000,
+      "track_number": 7,
+      "album": {
+        "id": "177859342",
+        "name": "Chillhop Essentials Fall 2016",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1d80f222e636b7f2dfa4f8ae1c5782c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1d80f222e636b7f2dfa4f8ae1c5782c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1d80f222e636b7f2dfa4f8ae1c5782c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1100807392"
+      }
+    },
+    {
+      "id": "1081133272",
+      "name": "Sleepover",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/7/0/7c734808e9a5bce3f397e799dfca5289.mp3?hdnea=exp=1774859980~acl=/api/1/1/7/c/7/0/7c734808e9a5bce3f397e799dfca5289.mp3*~data=user_id=0,application_id=42~hmac=4bbe43cce428ae996889dc5db6f32f44ab346139dcb5ad8184d0b6749715f5b9",
+      "duration_ms": 105000,
+      "track_number": 8,
+      "album": {
+        "id": "173466782",
+        "name": "Mirage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1081133272"
+      }
+    },
+    {
+      "id": "962680222",
+      "name": "Evening Routine",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/4/0/744b1565402af9bda666f1d293cd8e3e.mp3?hdnea=exp=1774859980~acl=/api/1/1/7/4/4/0/744b1565402af9bda666f1d293cd8e3e.mp3*~data=user_id=0,application_id=42~hmac=2ee1b2ebd28584bac4dcc3e9377a6d0a521a617b1d209127b74d85a0755beee8",
+      "duration_ms": 144000,
+      "track_number": 9,
+      "album": {
+        "id": "148677082",
+        "name": "Hometown",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e8039f14b4cb1e552952ee8dc835cc2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e8039f14b4cb1e552952ee8dc835cc2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e8039f14b4cb1e552952ee8dc835cc2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/962680222"
+      }
+    },
+    {
+      "id": "1081133352",
+      "name": "New Horizons",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/4/0/024a512dc5ae7a9e68b821999d443652.mp3?hdnea=exp=1774859980~acl=/api/1/1/0/2/4/0/024a512dc5ae7a9e68b821999d443652.mp3*~data=user_id=0,application_id=42~hmac=f94fcb8eb06ef62fde170acaf05ebf97e31717e0ea7a94dc4885c97521775047",
+      "duration_ms": 117000,
+      "track_number": 10,
+      "album": {
+        "id": "173466782",
+        "name": "Mirage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e11ae50deef19d71aee378e7c5628e74/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11148408",
+          "name": "Nymano"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1081133352"
+      }
+    }
+  ]
+}

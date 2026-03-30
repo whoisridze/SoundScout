@@ -1,0 +1,32 @@
+{
+  "id": "362326",
+  "name": "Khalid",
+  "popularity": 99,
+  "followers": {
+    "total": 1747163
+  },
+  "genres": [
+    "r&b"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e6237058662af2e9d4815e57071353cd/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e6237058662af2e9d4815e57071353cd/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e6237058662af2e9d4815e57071353cd/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/362326"
+  },
+  "uri": "deezer:artist:362326"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "620",
+  "name": "Etta James",
+  "popularity": 99,
+  "followers": {
+    "total": 1164044
+  },
+  "genres": [
+    "blues"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5e4919f09ad7eda29f76fd3f6079be67/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5e4919f09ad7eda29f76fd3f6079be67/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5e4919f09ad7eda29f76fd3f6079be67/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/620"
+  },
+  "uri": "deezer:artist:620"
+}

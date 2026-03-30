@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "73998678",
+      "name": "Love Is to Die",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/a/0/b9adfc4dc0146fcf93f8bc1e04473d24.mp3?hdnea=exp=1774859892~acl=/api/1/1/b/9/a/0/b9adfc4dc0146fcf93f8bc1e04473d24.mp3*~data=user_id=0,application_id=42~hmac=281e54113411145efc3197502662d0dd95af57294f415930601a759535bc1351",
+      "duration_ms": 291000,
+      "track_number": 1,
+      "album": {
+        "id": "7299987",
+        "name": "Warpaint",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/73998678"
+      }
+    },
+    {
+      "id": "138547687",
+      "name": "So Good",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/e/0/68efd9a6c930bebb69338cff222f4d79.mp3?hdnea=exp=1774859892~acl=/api/1/1/6/8/e/0/68efd9a6c930bebb69338cff222f4d79.mp3*~data=user_id=0,application_id=42~hmac=da2b01d2cdfb85cfe55c48d9bf7c96ca974b3be758e37e6a0467786ffe8269eb",
+      "duration_ms": 359000,
+      "track_number": 2,
+      "album": {
+        "id": "14880747",
+        "name": "Heads Up",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb0bfb3f2881763aa1612f38026c1ebd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb0bfb3f2881763aa1612f38026c1ebd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb0bfb3f2881763aa1612f38026c1ebd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/138547687"
+      }
+    },
+    {
+      "id": "73998682",
+      "name": "Disco//very",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/a/0/0da60b40cbd0683a7171495dae794a61.mp3?hdnea=exp=1774859892~acl=/api/1/1/0/d/a/0/0da60b40cbd0683a7171495dae794a61.mp3*~data=user_id=0,application_id=42~hmac=df99db2b6e4aaf62ac54c4bb06992c026977cffb680eda818edc10926e9ba522",
+      "duration_ms": 244000,
+      "track_number": 3,
+      "album": {
+        "id": "7299987",
+        "name": "Warpaint",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/73998682"
+      }
+    },
+    {
+      "id": "13789104",
+      "name": "Billie Holiday",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/f/0/0ff5b6ebc4395d8f9ea01cd1b88265c4.mp3?hdnea=exp=1774859892~acl=/api/1/1/0/f/f/0/0ff5b6ebc4395d8f9ea01cd1b88265c4.mp3*~data=user_id=0,application_id=42~hmac=ee0fac4544f0416ef64e5b39f2984ce50c14f8c61378840b85d0c0e349fb5b9a",
+      "duration_ms": 405000,
+      "track_number": 4,
+      "album": {
+        "id": "1261740",
+        "name": "The Fool (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65f2340f1eb10ed7336b5e1b00c47aa8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65f2340f1eb10ed7336b5e1b00c47aa8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65f2340f1eb10ed7336b5e1b00c47aa8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13789104"
+      }
+    },
+    {
+      "id": "1735289487",
+      "name": "Send Nudes",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/8/0/038e832d47d63f68ceff854138e39dec.mp3?hdnea=exp=1774859892~acl=/api/1/1/0/3/8/0/038e832d47d63f68ceff854138e39dec.mp3*~data=user_id=0,application_id=42~hmac=28b85a387d68e1b5eb77a7831319b616b1337fb48f8900fd289993c20e6053e0",
+      "duration_ms": 199000,
+      "track_number": 5,
+      "album": {
+        "id": "314660027",
+        "name": "Radiate Like This",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19e0cb2f43bea30f9311dc250fcb612b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19e0cb2f43bea30f9311dc250fcb612b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19e0cb2f43bea30f9311dc250fcb612b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1735289487"
+      }
+    },
+    {
+      "id": "2631540272",
+      "name": "Common Blue",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/0/0/8b0023114be117a8e6d97f2277bb1bee.mp3?hdnea=exp=1774859892~acl=/api/1/1/8/b/0/0/8b0023114be117a8e6d97f2277bb1bee.mp3*~data=user_id=0,application_id=42~hmac=3bf8473320e84ed059e4697ec02acd7a1e8920fa9652385e08904b6c2113fc97",
+      "duration_ms": 231000,
+      "track_number": 6,
+      "album": {
+        "id": "538458852",
+        "name": "Common Blue",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa3a53ab532167eb8b03bdd3aa84cb51/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa3a53ab532167eb8b03bdd3aa84cb51/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa3a53ab532167eb8b03bdd3aa84cb51/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2631540272"
+      }
+    },
+    {
+      "id": "138547679",
+      "name": "Whiteout",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/6/0/4d6ae31f19ab5d0feaca2fb68d21ea27.mp3?hdnea=exp=1774859892~acl=/api/1/1/4/d/6/0/4d6ae31f19ab5d0feaca2fb68d21ea27.mp3*~data=user_id=0,application_id=42~hmac=649210607b68024c05511a260bfb0cbe7daf2df754c3963999ee7cf9dc434173",
+      "duration_ms": 282000,
+      "track_number": 7,
+      "album": {
+        "id": "14880747",
+        "name": "Heads Up",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb0bfb3f2881763aa1612f38026c1ebd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb0bfb3f2881763aa1612f38026c1ebd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb0bfb3f2881763aa1612f38026c1ebd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/138547679"
+      }
+    },
+    {
+      "id": "1453608842",
+      "name": "The Chauffeur",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/d/0/53d1118dda82d870b784ecb7738efd74.mp3?hdnea=exp=1774859892~acl=/api/1/1/5/3/d/0/53d1118dda82d870b784ecb7738efd74.mp3*~data=user_id=0,application_id=42~hmac=0fe53d278eef0fb037f5ee0757cda234c20f6e3b7a6d9a330d4c08ddde3d30b7",
+      "duration_ms": 354000,
+      "track_number": 8,
+      "album": {
+        "id": "249120902",
+        "name": "The Chauffeur",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57a62294940c367f1758fac5a1b3f6db/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57a62294940c367f1758fac5a1b3f6db/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57a62294940c367f1758fac5a1b3f6db/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1453608842"
+      }
+    },
+    {
+      "id": "73998677",
+      "name": "Keep It Healthy",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/e/0/3feafdf470febd4cd50444f9df2180ab.mp3?hdnea=exp=1774859892~acl=/api/1/1/3/f/e/0/3feafdf470febd4cd50444f9df2180ab.mp3*~data=user_id=0,application_id=42~hmac=9cd1b8dda5d94aca5c92b4af6075d7987872f367a7303f93b3e554ebd495e313",
+      "duration_ms": 241000,
+      "track_number": 9,
+      "album": {
+        "id": "7299987",
+        "name": "Warpaint",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/73998677"
+      }
+    },
+    {
+      "id": "73998680",
+      "name": "Biggy",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/6/0/8e6ebbd00189d3aa01d857bebb8283cd.mp3?hdnea=exp=1774859892~acl=/api/1/1/8/e/6/0/8e6ebbd00189d3aa01d857bebb8283cd.mp3*~data=user_id=0,application_id=42~hmac=1c84e286315ba87cde32e2e3976ac9129f83bb1896d89e26fe59113febb23a14",
+      "duration_ms": 355000,
+      "track_number": 10,
+      "album": {
+        "id": "7299987",
+        "name": "Warpaint",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/32cffb9456976ff0c3ace0af4e4ae725/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "394885",
+          "name": "Warpaint"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/73998680"
+      }
+    }
+  ]
+}

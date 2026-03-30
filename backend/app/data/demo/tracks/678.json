@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "92198180",
+      "name": "Midnight City",
+      "popularity": 87,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/7/0/bd727b30df15d3d506abd829ee8da9f0.mp3?hdnea=exp=1774859890~acl=/api/1/1/b/d/7/0/bd727b30df15d3d506abd829ee8da9f0.mp3*~data=user_id=0,application_id=42~hmac=d8370110219faf484cbd3a7d0b61b07fe94388d15a465c8e5033c544513bd409",
+      "duration_ms": 244000,
+      "track_number": 1,
+      "album": {
+        "id": "9357186",
+        "name": "Midnight City (Remix EP)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17116bb5bc20e30d915e569ec750f78d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17116bb5bc20e30d915e569ec750f78d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17116bb5bc20e30d915e569ec750f78d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/92198180"
+      }
+    },
+    {
+      "id": "940594572",
+      "name": "Solitude (Felsmann + Tiley Reinterpretation)",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/4/0/0146e92d5005655d9cb1659842e90fa8.mp3?hdnea=exp=1774859890~acl=/api/1/1/0/1/4/0/0146e92d5005655d9cb1659842e90fa8.mp3*~data=user_id=0,application_id=42~hmac=dc0517930807c37acb76cd4d9cba081ff8eb4b232f430a8f1d701fb0a807c755",
+      "duration_ms": 222000,
+      "track_number": 2,
+      "album": {
+        "id": "144184022",
+        "name": "Solitude (Felsmann + Tiley Reinterpretation)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eebfc01c19885c9b9c1c940e96386110/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eebfc01c19885c9b9c1c940e96386110/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eebfc01c19885c9b9c1c940e96386110/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/940594572"
+      }
+    },
+    {
+      "id": "92213552",
+      "name": "Reunion",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/3/0/a63422ff54729df775b82cd067326cac.mp3?hdnea=exp=1774859890~acl=/api/1/1/a/6/3/0/a63422ff54729df775b82cd067326cac.mp3*~data=user_id=0,application_id=42~hmac=dd44089591710940e4a08d326d57590b3321b71193f276d2b6aa2fac2d65d780",
+      "duration_ms": 235000,
+      "track_number": 3,
+      "album": {
+        "id": "9358242",
+        "name": "Hurry up, We're Dreaming",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c82449a6fb6a40d947b79a2328ae0eb6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c82449a6fb6a40d947b79a2328ae0eb6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c82449a6fb6a40d947b79a2328ae0eb6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/92213552"
+      }
+    },
+    {
+      "id": "105267370",
+      "name": "We Own the Sky",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/2/0/ab272cc87df77570fd736fa3caefe574.mp3?hdnea=exp=1774859890~acl=/api/1/1/a/b/2/0/ab272cc87df77570fd736fa3caefe574.mp3*~data=user_id=0,application_id=42~hmac=903320c334969004fbe27fb8a7e2952be4152a6bf2b7b7b49a4754fb73dc0e8e",
+      "duration_ms": 303000,
+      "track_number": 4,
+      "album": {
+        "id": "10964116",
+        "name": "Saturdays = Youth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46bf1cfea274b41cb2cc778ef3e7e733/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46bf1cfea274b41cb2cc778ef3e7e733/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46bf1cfea274b41cb2cc778ef3e7e733/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/105267370"
+      }
+    },
+    {
+      "id": "121917464",
+      "name": "Do It, Try It",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/2/0/ed28efe511bee520be480bef3036f3db.mp3?hdnea=exp=1774859890~acl=/api/1/1/e/d/2/0/ed28efe511bee520be480bef3036f3db.mp3*~data=user_id=0,application_id=42~hmac=d939ae530735ecfeb74ee42b9ab221c7905f13386a6387c4dbca0d54121fca7a",
+      "duration_ms": 217000,
+      "track_number": 5,
+      "album": {
+        "id": "12751830",
+        "name": "Junk",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ce9c7d01e10cfaf2a1f47c57004dd35/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ce9c7d01e10cfaf2a1f47c57004dd35/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ce9c7d01e10cfaf2a1f47c57004dd35/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/121917464"
+      }
+    },
+    {
+      "id": "92213558",
+      "name": "Raconte-moi une histoire",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/7/0/6b75df5b81103648a9654d37c6aad523.mp3?hdnea=exp=1774859890~acl=/api/1/1/6/b/7/0/6b75df5b81103648a9654d37c6aad523.mp3*~data=user_id=0,application_id=42~hmac=f7879250f2462242109578b3056ff25f249cadab3054e39285f726fc4ae5f74f",
+      "duration_ms": 244000,
+      "track_number": 6,
+      "album": {
+        "id": "9358242",
+        "name": "Hurry up, We're Dreaming",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c82449a6fb6a40d947b79a2328ae0eb6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c82449a6fb6a40d947b79a2328ae0eb6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c82449a6fb6a40d947b79a2328ae0eb6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/92213558"
+      }
+    },
+    {
+      "id": "867248772",
+      "name": "Oblivion",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/a/0/24a3e264c8fbc6d5748e578906f4ffd7.mp3?hdnea=exp=1774859890~acl=/api/1/1/2/4/a/0/24a3e264c8fbc6d5748e578906f4ffd7.mp3*~data=user_id=0,application_id=42~hmac=31c89a0ab7376212b4fa0cbf0d703a187e0309f9369d932b0b8a819cd52a1a82",
+      "duration_ms": 356000,
+      "track_number": 7,
+      "album": {
+        "id": "130020852",
+        "name": "Oblivion (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8baf7654686330508d44cea94c6a9e98/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8baf7654686330508d44cea94c6a9e98/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8baf7654686330508d44cea94c6a9e98/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/867248772"
+      }
+    },
+    {
+      "id": "511455722",
+      "name": "Un nouveau soleil",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/b/0/25bcf9e007dfcf8f6b1ace4962233153.mp3?hdnea=exp=1774859890~acl=/api/1/1/2/5/b/0/25bcf9e007dfcf8f6b1ace4962233153.mp3*~data=user_id=0,application_id=42~hmac=d9d44bbb818a9bfe7e234dacd2c64142105fd76b2f40ad827f7bf2320490cb6f",
+      "duration_ms": 402000,
+      "track_number": 8,
+      "album": {
+        "id": "65575932",
+        "name": "Les rencontres d'après minuit / You and the Night (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75ebd3a893ba6f38bb853c8214c95998/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75ebd3a893ba6f38bb853c8214c95998/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75ebd3a893ba6f38bb853c8214c95998/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/511455722"
+      }
+    },
+    {
+      "id": "125325030",
+      "name": "Do It, Try It (The Blaze Remix)",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/9/0/e797f755690c1fb751b70303f9ae3e6d.mp3?hdnea=exp=1774859890~acl=/api/1/1/e/7/9/0/e797f755690c1fb751b70303f9ae3e6d.mp3*~data=user_id=0,application_id=42~hmac=5b2c085fed9470ba2f778b6c156f48a16a11ec7355e58d17749be183e18af353",
+      "duration_ms": 351000,
+      "track_number": 9,
+      "album": {
+        "id": "13175906",
+        "name": "Do It, Try It (The Blaze Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9677c8fb4933d619af9b4795f1395d2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9677c8fb4933d619af9b4795f1395d2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9677c8fb4933d619af9b4795f1395d2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/125325030"
+      }
+    },
+    {
+      "id": "139691215",
+      "name": "Midnight City (Eric Prydz Private Remix)",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/9/0/b49e447f39ef1c25ed64c404de8232dd.mp3?hdnea=exp=1774859890~acl=/api/1/1/b/4/9/0/b49e447f39ef1c25ed64c404de8232dd.mp3*~data=user_id=0,application_id=42~hmac=71ee5f565975649ce5bc1cbaf916dcc3a57abf4160a9037fb44253749dd6594a",
+      "duration_ms": 362000,
+      "track_number": 10,
+      "album": {
+        "id": "15025615",
+        "name": "Midnight City (Eric Prydz Private Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d76c3b7eef80ef5a6a4204c8691d22cf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d76c3b7eef80ef5a6a4204c8691d22cf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d76c3b7eef80ef5a6a4204c8691d22cf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "678",
+          "name": "M83"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/139691215"
+      }
+    }
+  ]
+}

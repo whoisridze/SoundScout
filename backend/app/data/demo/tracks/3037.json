@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "14637544",
+      "name": "I Can't Dance",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/5/0/3e58a0b5f4f011e8884101b98d0dcfbc.mp3?hdnea=exp=1774859985~acl=/api/1/1/3/e/5/0/3e58a0b5f4f011e8884101b98d0dcfbc.mp3*~data=user_id=0,application_id=42~hmac=4b8b3c10cb1215dfb7bd086e59b49422f7a54f3517a0cc6a70ae73161cd92c7a",
+      "duration_ms": 240000,
+      "track_number": 1,
+      "album": {
+        "id": "1347472",
+        "name": "I Can't Dance / On the Shoreline",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ade41e71897cafc574156046b9633c14/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ade41e71897cafc574156046b9633c14/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ade41e71897cafc574156046b9633c14/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14637544"
+      }
+    },
+    {
+      "id": "14639815",
+      "name": "Jesus He Knows Me (2007 Remaster)",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/0/0/3c013dad8fc742f1b34cb37b3c1e7b32.mp3?hdnea=exp=1774859985~acl=/api/1/1/3/c/0/0/3c013dad8fc742f1b34cb37b3c1e7b32.mp3*~data=user_id=0,application_id=42~hmac=bbb503f8369ca19b2d1502c9c81772bcb9f3d277927338a5cd440dd9fbf18471",
+      "duration_ms": 256000,
+      "track_number": 2,
+      "album": {
+        "id": "1347734",
+        "name": "We Can't Dance (2007 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8968f10c0e11ba7280a44958bda37820/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8968f10c0e11ba7280a44958bda37820/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8968f10c0e11ba7280a44958bda37820/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14639815"
+      }
+    },
+    {
+      "id": "14638221",
+      "name": "That's All (Platinum Collection Version)",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/d/0/2cdca6591a11adcd3628c38212530ed8.mp3?hdnea=exp=1774859985~acl=/api/1/1/2/c/d/0/2cdca6591a11adcd3628c38212530ed8.mp3*~data=user_id=0,application_id=42~hmac=26d5130d361f00d5c3fc5f708add74e292bec31b2848e3ecfbb9a7a4b89cc86b",
+      "duration_ms": 265000,
+      "track_number": 3,
+      "album": {
+        "id": "1347551",
+        "name": "Platinum Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ce121328888d3d49fec4edd5e524f17/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ce121328888d3d49fec4edd5e524f17/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ce121328888d3d49fec4edd5e524f17/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14638221"
+      }
+    },
+    {
+      "id": "14639814",
+      "name": "No Son of Mine (2007 Remaster)",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/0/0/880d92e38649917cbb05243982743da2.mp3?hdnea=exp=1774859985~acl=/api/1/1/8/8/0/0/880d92e38649917cbb05243982743da2.mp3*~data=user_id=0,application_id=42~hmac=d0d8c9d743de6b4491f5ad330b8674ed1e6d98cf49ca98d0e65adf1da750ff25",
+      "duration_ms": 399000,
+      "track_number": 4,
+      "album": {
+        "id": "1347734",
+        "name": "We Can't Dance (2007 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8968f10c0e11ba7280a44958bda37820/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8968f10c0e11ba7280a44958bda37820/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8968f10c0e11ba7280a44958bda37820/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14639814"
+      }
+    },
+    {
+      "id": "14639826",
+      "name": "Mama (2007 Remaster)",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/7858c084fd4d7859d1594753318ac77f.mp3?hdnea=exp=1774859985~acl=/api/1/1/7/8/5/0/7858c084fd4d7859d1594753318ac77f.mp3*~data=user_id=0,application_id=42~hmac=5a975501d544ccba450bc890420efb481f0a04fe80bb3bfe6e50785123780021",
+      "duration_ms": 410000,
+      "track_number": 5,
+      "album": {
+        "id": "1347735",
+        "name": "Genesis (2007 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f69bc45cd6e45319afb11a5258d91e69/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f69bc45cd6e45319afb11a5258d91e69/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f69bc45cd6e45319afb11a5258d91e69/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14639826"
+      }
+    },
+    {
+      "id": "14638214",
+      "name": "Hold on My Heart (Platinum Collection Version)",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/f/0/92f5abd60ee6fc9dba9f43f84379f589.mp3?hdnea=exp=1774859985~acl=/api/1/1/9/2/f/0/92f5abd60ee6fc9dba9f43f84379f589.mp3*~data=user_id=0,application_id=42~hmac=fba37ac9950d875e16f5b5bb404efa2b530b1c68b848ea73b74b852fe092dd96",
+      "duration_ms": 277000,
+      "track_number": 6,
+      "album": {
+        "id": "1347551",
+        "name": "Platinum Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ce121328888d3d49fec4edd5e524f17/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ce121328888d3d49fec4edd5e524f17/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ce121328888d3d49fec4edd5e524f17/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14638214"
+      }
+    },
+    {
+      "id": "14637103",
+      "name": "In Too Deep (2007 Remaster)",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/a/0/aca647400d550681d84cd402ede09473.mp3?hdnea=exp=1774859985~acl=/api/1/1/a/c/a/0/aca647400d550681d84cd402ede09473.mp3*~data=user_id=0,application_id=42~hmac=faf5a269155c4647a4d4502fa3099e20659e1508de5c9d00799ae48632afe6b0",
+      "duration_ms": 302000,
+      "track_number": 7,
+      "album": {
+        "id": "1347441",
+        "name": "Invisible Touch (2007 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe34d9731f608634324ad239cabaae30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe34d9731f608634324ad239cabaae30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe34d9731f608634324ad239cabaae30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14637103"
+      }
+    },
+    {
+      "id": "14640458",
+      "name": "Abacab (2007 Remaster)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/0/0/ca05bf8494d451b32bc1d39a2389e9c2.mp3?hdnea=exp=1774859985~acl=/api/1/1/c/a/0/0/ca05bf8494d451b32bc1d39a2389e9c2.mp3*~data=user_id=0,application_id=42~hmac=cd0a0efe39f76df275496cdd356387421eece81cbc6afe18f8cb217708926156",
+      "duration_ms": 418000,
+      "track_number": 8,
+      "album": {
+        "id": "1347787",
+        "name": "Abacab (2007 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6a8ec672b97991ab58eb6d908bfe91c9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6a8ec672b97991ab58eb6d908bfe91c9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6a8ec672b97991ab58eb6d908bfe91c9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14640458"
+      }
+    },
+    {
+      "id": "14637100",
+      "name": "Invisible Touch (2007 Remaster)",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/1/0/0e11d49aa6ce9854503c1420932b4452.mp3?hdnea=exp=1774859985~acl=/api/1/1/0/e/1/0/0e11d49aa6ce9854503c1420932b4452.mp3*~data=user_id=0,application_id=42~hmac=d86800f2afde1dc33a1fba5642e5c701c8762080b546c25a60fbecc2a6837fc7",
+      "duration_ms": 208000,
+      "track_number": 9,
+      "album": {
+        "id": "1347441",
+        "name": "Invisible Touch (2007 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe34d9731f608634324ad239cabaae30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe34d9731f608634324ad239cabaae30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe34d9731f608634324ad239cabaae30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14637100"
+      }
+    },
+    {
+      "id": "14637102",
+      "name": "Land of Confusion (2007 Remaster)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/e/0/c0ed59961232c06bdb3b97164940826b.mp3?hdnea=exp=1774859985~acl=/api/1/1/c/0/e/0/c0ed59961232c06bdb3b97164940826b.mp3*~data=user_id=0,application_id=42~hmac=e6b4962f6e84e06fd96714992be5d8b856d7cf0dc9badc4931e578e839ced7eb",
+      "duration_ms": 285000,
+      "track_number": 10,
+      "album": {
+        "id": "1347441",
+        "name": "Invisible Touch (2007 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe34d9731f608634324ad239cabaae30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe34d9731f608634324ad239cabaae30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe34d9731f608634324ad239cabaae30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3037",
+          "name": "Genesis"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14637102"
+      }
+    }
+  ]
+}

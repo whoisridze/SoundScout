@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "831303292",
+      "name": "This Man",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/7/0/eb7ea953bf969888c0b1850afeb67566.mp3?hdnea=exp=1774860079~acl=/api/1/1/e/b/7/0/eb7ea953bf969888c0b1850afeb67566.mp3*~data=user_id=0,application_id=42~hmac=59ac35c8aeb6d2503735f267ca8ae4e2216bce3213f3eabef50e22dd7917116e",
+      "duration_ms": 306000,
+      "track_number": 1,
+      "album": {
+        "id": "122870302",
+        "name": "This Man",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/540a1c206ac232a087156880263134b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/540a1c206ac232a087156880263134b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/540a1c206ac232a087156880263134b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/831303292"
+      }
+    },
+    {
+      "id": "613088112",
+      "name": "Smoking Gun",
+      "popularity": 5,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/0/0/ef00e6816e6e465b3fe23f8ff154f5d2.mp3?hdnea=exp=1774860079~acl=/api/1/1/e/f/0/0/ef00e6816e6e465b3fe23f8ff154f5d2.mp3*~data=user_id=0,application_id=42~hmac=4ad6592944d98f5121f79c7ba06678f02279b515301fc85adf09c46cc9f843e1",
+      "duration_ms": 245000,
+      "track_number": 2,
+      "album": {
+        "id": "83508832",
+        "name": "20th Century Masters: The Millennium Collection: Best Of Robert Cray",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbae89dd99443842baf68676dfe1ebf9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbae89dd99443842baf68676dfe1ebf9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbae89dd99443842baf68676dfe1ebf9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/613088112"
+      }
+    },
+    {
+      "id": "82406212",
+      "name": "Six Strings Down (Album Version)",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/1/0/ce169c6622d7dbb5c0cd05eed7861805.mp3?hdnea=exp=1774860079~acl=/api/1/1/c/e/1/0/ce169c6622d7dbb5c0cd05eed7861805.mp3*~data=user_id=0,application_id=42~hmac=0856da67463d19c7a5e5ea04b70393240ff7663a142d488447ee85a8d979cf0c",
+      "duration_ms": 513000,
+      "track_number": 3,
+      "album": {
+        "id": "8269844",
+        "name": "The Essential Jimmie Vaughan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d38606ecfa6b1c39abcfcfb737ed70db/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d38606ecfa6b1c39abcfcfb737ed70db/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d38606ecfa6b1c39abcfcfb737ed70db/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/82406212"
+      }
+    },
+    {
+      "id": "1587115552",
+      "name": "Right Next Door (Because Of Me) (Live)",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/a/0/abaa9b5626ac5b34159b0630caee74c7.mp3?hdnea=exp=1774860079~acl=/api/1/1/a/b/a/0/abaa9b5626ac5b34159b0630caee74c7.mp3*~data=user_id=0,application_id=42~hmac=3a2fc960ce13ee0047c12065c81a9a52a2352bc3bdbc1ae148c7e3a073071f75",
+      "duration_ms": 409000,
+      "track_number": 4,
+      "album": {
+        "id": "279630132",
+        "name": "4 Nights of 40 Years Live",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/849e8d384bcd0989b77167ffdbe1d4ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/849e8d384bcd0989b77167ffdbe1d4ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/849e8d384bcd0989b77167ffdbe1d4ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587115552"
+      }
+    },
+    {
+      "id": "613088122",
+      "name": "Right Next Door (Because Of Me)",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/a/0/8aadd8c086605c11d0277200e6d0ceca.mp3?hdnea=exp=1774860079~acl=/api/1/1/8/a/a/0/8aadd8c086605c11d0277200e6d0ceca.mp3*~data=user_id=0,application_id=42~hmac=b074b7325e8683732c5fdda7330fe9e1752afd900d2951c182bb6c3a662618bb",
+      "duration_ms": 256000,
+      "track_number": 5,
+      "album": {
+        "id": "83508832",
+        "name": "20th Century Masters: The Millennium Collection: Best Of Robert Cray",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbae89dd99443842baf68676dfe1ebf9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbae89dd99443842baf68676dfe1ebf9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbae89dd99443842baf68676dfe1ebf9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/613088122"
+      }
+    },
+    {
+      "id": "1587081732",
+      "name": "You Move Me",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/b/0/c4b2dd93958f17e53b7e2f077b1b1512.mp3?hdnea=exp=1774860079~acl=/api/1/1/c/4/b/0/c4b2dd93958f17e53b7e2f077b1b1512.mp3*~data=user_id=0,application_id=42~hmac=40f98c33971d9dd8ae8452e2850614a0a05c5b3a44b8cbc232f8609a855eedb5",
+      "duration_ms": 261000,
+      "track_number": 6,
+      "album": {
+        "id": "279621862",
+        "name": "In My Soul",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d21ccf5569ba13129e180a4564d6261/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d21ccf5569ba13129e180a4564d6261/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d21ccf5569ba13129e180a4564d6261/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587081732"
+      }
+    },
+    {
+      "id": "141468329",
+      "name": "The Same Love That Made Me Laugh",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/c/0/b6ccac79a95765ba8579cebec4df103e.mp3?hdnea=exp=1774860079~acl=/api/1/1/b/6/c/0/b6ccac79a95765ba8579cebec4df103e.mp3*~data=user_id=0,application_id=42~hmac=d39b50e83fa96fc5cd4cfcc3caf2d90df7c5956e3a661fc04d424919dc145ff0",
+      "duration_ms": 231000,
+      "track_number": 7,
+      "album": {
+        "id": "15270521",
+        "name": "Robert Cray & Hi Rhythm",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf10bbe2e69c06215d9cdeda696c549e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf10bbe2e69c06215d9cdeda696c549e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf10bbe2e69c06215d9cdeda696c549e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/141468329"
+      }
+    },
+    {
+      "id": "1587081762",
+      "name": "Nobody's Fault But Mine",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/5/0/54570bf3925f31335574c1b32e78bfac.mp3?hdnea=exp=1774860079~acl=/api/1/1/5/4/5/0/54570bf3925f31335574c1b32e78bfac.mp3*~data=user_id=0,application_id=42~hmac=9fef60a08811c13684f03aa9653eec60a57d1ee43b7391f902204ecec87bd173",
+      "duration_ms": 159000,
+      "track_number": 8,
+      "album": {
+        "id": "279621862",
+        "name": "In My Soul",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d21ccf5569ba13129e180a4564d6261/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d21ccf5569ba13129e180a4564d6261/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d21ccf5569ba13129e180a4564d6261/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587081762"
+      }
+    },
+    {
+      "id": "1587081902",
+      "name": "Hip Tight Onions",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/2/0/95238f9e6f7971d0e3c067d0fd14429f.mp3?hdnea=exp=1774860079~acl=/api/1/1/9/5/2/0/95238f9e6f7971d0e3c067d0fd14429f.mp3*~data=user_id=0,application_id=42~hmac=3a46637afd9c399a3532b9b2930ee5289d3982c45434099d24563a5d3cacc5e9",
+      "duration_ms": 136000,
+      "track_number": 9,
+      "album": {
+        "id": "279621862",
+        "name": "In My Soul",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d21ccf5569ba13129e180a4564d6261/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d21ccf5569ba13129e180a4564d6261/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d21ccf5569ba13129e180a4564d6261/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587081902"
+      }
+    },
+    {
+      "id": "1587078142",
+      "name": "(Won't Be) Coming Home",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/c/0/a3c066052e2c8de40a223ec320659ace.mp3?hdnea=exp=1774860079~acl=/api/1/1/a/3/c/0/a3c066052e2c8de40a223ec320659ace.mp3*~data=user_id=0,application_id=42~hmac=5b51d9124c8faf271d4df33d7dcd647eee2419c4a5141b23db85ba1815ae3dcb",
+      "duration_ms": 292000,
+      "track_number": 10,
+      "album": {
+        "id": "279621142",
+        "name": "Nothin But Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5980bcee05e5537eb2881ac6210532cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5980bcee05e5537eb2881ac6210532cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5980bcee05e5537eb2881ac6210532cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "74408",
+          "name": "Robert Cray"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587078142"
+      }
+    }
+  ]
+}

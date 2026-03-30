@@ -1,0 +1,32 @@
+{
+  "id": "338654",
+  "name": "Red Velvet",
+  "popularity": 78,
+  "followers": {
+    "total": 785184
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0ce3988847484f293a81a0597e775f11/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0ce3988847484f293a81a0597e775f11/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0ce3988847484f293a81a0597e775f11/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/338654"
+  },
+  "uri": "deezer:artist:338654"
+}

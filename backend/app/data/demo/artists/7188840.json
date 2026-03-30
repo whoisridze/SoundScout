@@ -1,0 +1,32 @@
+{
+  "id": "7188840",
+  "name": "Morgan Wallen",
+  "popularity": 27,
+  "followers": {
+    "total": 278490
+  },
+  "genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f5450fe707a7a32f2fc8ed3cb80afa6c/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f5450fe707a7a32f2fc8ed3cb80afa6c/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f5450fe707a7a32f2fc8ed3cb80afa6c/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/7188840"
+  },
+  "uri": "deezer:artist:7188840"
+}

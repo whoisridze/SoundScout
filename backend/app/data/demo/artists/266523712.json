@@ -1,0 +1,32 @@
+{
+  "id": "266523712",
+  "name": "Sean Paul",
+  "popularity": 1,
+  "followers": {
+    "total": 75
+  },
+  "genres": [
+    "dancehall"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c834467563c989d45d43522bcff8770f/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c834467563c989d45d43522bcff8770f/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c834467563c989d45d43522bcff8770f/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/266523712"
+  },
+  "uri": "deezer:artist:266523712"
+}

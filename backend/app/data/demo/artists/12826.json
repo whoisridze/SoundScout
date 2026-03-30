@@ -1,0 +1,32 @@
+{
+  "id": "12826",
+  "name": "Camel",
+  "popularity": 4,
+  "followers": {
+    "total": 49835
+  },
+  "genres": [
+    "progressive rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/45636e5ee32b59511c91abc32a7ddd1e/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/45636e5ee32b59511c91abc32a7ddd1e/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/45636e5ee32b59511c91abc32a7ddd1e/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/12826"
+  },
+  "uri": "deezer:artist:12826"
+}

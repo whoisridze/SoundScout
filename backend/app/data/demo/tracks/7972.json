@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "553901882",
+      "name": "Wake Up in the Sky",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/5/0/745888af0be35e7939bd006d87341bbc.mp3?hdnea=exp=1774859903~acl=/api/1/1/7/4/5/0/745888af0be35e7939bd006d87341bbc.mp3*~data=user_id=0,application_id=42~hmac=7ad8930f883717f999aaec8c15f7b9f2e0d6842440e171a7b063217d01f4a72c",
+      "duration_ms": 204000,
+      "track_number": 1,
+      "album": {
+        "id": "73028472",
+        "name": "Wake Up in the Sky",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93c37fa9c4aa86f5edac9fd0a3ab7b00/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93c37fa9c4aa86f5edac9fd0a3ab7b00/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93c37fa9c4aa86f5edac9fd0a3ab7b00/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/553901882"
+      }
+    },
+    {
+      "id": "394692942",
+      "name": "I Get the Bag (feat. Migos)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/d/0/c7df37fac100568a510ec4c86da5337f.mp3?hdnea=exp=1774859903~acl=/api/1/1/c/7/d/0/c7df37fac100568a510ec4c86da5337f.mp3*~data=user_id=0,application_id=42~hmac=a6d5e2eecd00a368a70f0981c60a7214eb3bce1ef1f7e1cfbda48a0770df0ed8",
+      "duration_ms": 233000,
+      "track_number": 2,
+      "album": {
+        "id": "46293192",
+        "name": "I Get the Bag (feat. Migos)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8ce4ec884458c9cd111c2409d98b9bf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8ce4ec884458c9cd111c2409d98b9bf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8ce4ec884458c9cd111c2409d98b9bf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/394692942"
+      }
+    },
+    {
+      "id": "3564577801",
+      "name": "Only Time",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/7/0/8173cdce68e58f531b40e39f6d21ba50.mp3?hdnea=exp=1774859903~acl=/api/1/1/8/1/7/0/8173cdce68e58f531b40e39f6d21ba50.mp3*~data=user_id=0,application_id=42~hmac=4932e9834812159e0a5a13fc08cc7dd6bed41fc96cc66c1993fc4c7a566c64d1",
+      "duration_ms": 202000,
+      "track_number": 3,
+      "album": {
+        "id": "824474961",
+        "name": "Only Time",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/425fe89c1d808ee9a363934b8a71e052/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/425fe89c1d808ee9a363934b8a71e052/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/425fe89c1d808ee9a363934b8a71e052/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3564577801"
+      }
+    },
+    {
+      "id": "365642571",
+      "name": "Met Gala (feat. Offset)",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/9/0/a69c64570077cc032dc142d44eb1eaa3.mp3?hdnea=exp=1774859903~acl=/api/1/1/a/6/9/0/a69c64570077cc032dc142d44eb1eaa3.mp3*~data=user_id=0,application_id=42~hmac=1544de384f6fa3c10e07ec35e223f15abb1496f5acd07d4b76ef8dea27890f93",
+      "duration_ms": 209000,
+      "track_number": 4,
+      "album": {
+        "id": "42102181",
+        "name": "Droptopwop",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45b62395637b5f0dea11231226e2a5eb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45b62395637b5f0dea11231226e2a5eb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45b62395637b5f0dea11231226e2a5eb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/365642571"
+      }
+    },
+    {
+      "id": "126587209",
+      "name": "Champions",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/c/0/08cb1d2066caf2b97c2263d23ce76102.mp3?hdnea=exp=1774859903~acl=/api/1/1/0/8/c/0/08cb1d2066caf2b97c2263d23ce76102.mp3*~data=user_id=0,application_id=42~hmac=ef4ce5b253fe4aa2de144b8a4133543e7c224f8dd9a9e8ca52c7b947409b46f8",
+      "duration_ms": 334000,
+      "track_number": 5,
+      "album": {
+        "id": "13336781",
+        "name": "Champions",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c5deee90276300083dc87d93e048ee7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c5deee90276300083dc87d93e048ee7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c5deee90276300083dc87d93e048ee7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/126587209"
+      }
+    },
+    {
+      "id": "5743697",
+      "name": "Coca Coca (feat. Rocko, OJ Da Juiceman, Waka Flocka Flame, Shawty Lo, Yo Gotti, & Nicki Minaj)",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/2/0/b02d8049f97216f117fb522565ac8d46.mp3?hdnea=exp=1774859903~acl=/api/1/1/b/0/2/0/b02d8049f97216f117fb522565ac8d46.mp3*~data=user_id=0,application_id=42~hmac=fed1096aae6af0e8d19545c35d51e1e81e940bea9a62a24d284608a3dc336e38",
+      "duration_ms": 528000,
+      "track_number": 6,
+      "album": {
+        "id": "524297",
+        "name": "Burrrprint (2) HD",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fe6f01674038a069123cb43b3c4b6f7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fe6f01674038a069123cb43b3c4b6f7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fe6f01674038a069123cb43b3c4b6f7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5743697"
+      }
+    },
+    {
+      "id": "1630245042",
+      "name": "Rumors (feat. Lil Durk)",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/c/0/65cebf33c9553d292adef9880c78c166.mp3?hdnea=exp=1774859903~acl=/api/1/1/6/5/c/0/65cebf33c9553d292adef9880c78c166.mp3*~data=user_id=0,application_id=42~hmac=0f712c4ea7db7b56b8c0acb78dd66ab0d82b7c645fba4be43c38b3261e026963",
+      "duration_ms": 185000,
+      "track_number": 7,
+      "album": {
+        "id": "289645122",
+        "name": "Rumors (feat. Lil Durk)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96b593dc78808aeb89489fd46f2df4b8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96b593dc78808aeb89489fd46f2df4b8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96b593dc78808aeb89489fd46f2df4b8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1630245042"
+      }
+    },
+    {
+      "id": "585354292",
+      "name": "F.I.G.H.T.",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/d/0/33d9f4e0d1cf3e05dbafd6b450267b36.mp3?hdnea=exp=1774859903~acl=/api/1/1/3/3/d/0/33d9f4e0d1cf3e05dbafd6b450267b36.mp3*~data=user_id=0,application_id=42~hmac=61c028306013089c509cd9fe93b4c072573b4d4a6240ce0c1c3a0b7b795adaa9",
+      "duration_ms": 391000,
+      "track_number": 8,
+      "album": {
+        "id": "78584382",
+        "name": "Creed II: The Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b443b32933e20e5055202cb1259e993c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b443b32933e20e5055202cb1259e993c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b443b32933e20e5055202cb1259e993c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585354292"
+      }
+    },
+    {
+      "id": "1714550237",
+      "name": "Serial Killers",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/7/0/ed72373226fb1d7e6dacc13256f26cfe.mp3?hdnea=exp=1774859903~acl=/api/1/1/e/d/7/0/ed72373226fb1d7e6dacc13256f26cfe.mp3*~data=user_id=0,application_id=42~hmac=8a148641e7310579ecd840fc0c287b3f7c8e313bbe85be0015ec8ba3891e864a",
+      "duration_ms": 188000,
+      "track_number": 9,
+      "album": {
+        "id": "309716487",
+        "name": "Serial Killers",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/98c30273c06ea4bd56b14fbf2b104211/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/98c30273c06ea4bd56b14fbf2b104211/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/98c30273c06ea4bd56b14fbf2b104211/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1714550237"
+      }
+    },
+    {
+      "id": "401791132",
+      "name": "Curve (feat. The Weeknd)",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/5/0/925885eedb292c070458d501ffa45fee.mp3?hdnea=exp=1774859903~acl=/api/1/1/9/2/5/0/925885eedb292c070458d501ffa45fee.mp3*~data=user_id=0,application_id=42~hmac=f57614da474e7a2f1fe2496b2c46f266c583d39994348d8704cba9c7814bee87",
+      "duration_ms": 161000,
+      "track_number": 10,
+      "album": {
+        "id": "47347802",
+        "name": "Curve (feat. The Weeknd)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1186398a1b2a586f3819ca4b7019c145/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1186398a1b2a586f3819ca4b7019c145/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1186398a1b2a586f3819ca4b7019c145/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7972",
+          "name": "Gucci Mane"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/401791132"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "662879",
+      "name": "Walk",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/5/0/7b5a23fa9e72642e7551c867e2ac4647.mp3?hdnea=exp=1774860024~acl=/api/1/1/7/b/5/0/7b5a23fa9e72642e7551c867e2ac4647.mp3*~data=user_id=0,application_id=42~hmac=216588e18ecff69c3e631ab9b4a01e6fc47dea4f858c6332527de78ed44e9f55",
+      "duration_ms": 315000,
+      "track_number": 1,
+      "album": {
+        "id": "80396",
+        "name": "Vulgar Display of Power",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/662879"
+      }
+    },
+    {
+      "id": "714397",
+      "name": "Cowboys from Hell",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/4/0/8e4388dd89ba46774071e51f25e54ba3.mp3?hdnea=exp=1774860024~acl=/api/1/1/8/e/4/0/8e4388dd89ba46774071e51f25e54ba3.mp3*~data=user_id=0,application_id=42~hmac=48183fbb7f0ff70a12d126036e214c17f776d248f63bbc588f2658c2224be181",
+      "duration_ms": 243000,
+      "track_number": 2,
+      "album": {
+        "id": "85363",
+        "name": "Cowboys from Hell",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8e78de81ec615be64c9179589439d17/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8e78de81ec615be64c9179589439d17/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8e78de81ec615be64c9179589439d17/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/714397"
+      }
+    },
+    {
+      "id": "714420",
+      "name": "Cemetery Gates",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/7/0/1c7791a02657b844e18b9b0f49c925fc.mp3?hdnea=exp=1774860024~acl=/api/1/1/1/c/7/0/1c7791a02657b844e18b9b0f49c925fc.mp3*~data=user_id=0,application_id=42~hmac=f672bbe788b72a8a5e4d7a17bf5593036b09fad60d2b3a5cce6905a3966be113",
+      "duration_ms": 422000,
+      "track_number": 3,
+      "album": {
+        "id": "85363",
+        "name": "Cowboys from Hell",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8e78de81ec615be64c9179589439d17/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8e78de81ec615be64c9179589439d17/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8e78de81ec615be64c9179589439d17/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/714420"
+      }
+    },
+    {
+      "id": "662883",
+      "name": "This Love",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/6/0/6a6293afe7a7fed2a6fd46c6a44dcc20.mp3?hdnea=exp=1774860024~acl=/api/1/1/6/a/6/0/6a6293afe7a7fed2a6fd46c6a44dcc20.mp3*~data=user_id=0,application_id=42~hmac=d493ad5311ff2a6d8e888da02a0e04f66a414d7e4742cf8cb818ec29e362c285",
+      "duration_ms": 393000,
+      "track_number": 4,
+      "album": {
+        "id": "80396",
+        "name": "Vulgar Display of Power",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/662883"
+      }
+    },
+    {
+      "id": "671036",
+      "name": "Floods",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/a/0/19af1da3da46bd3064d41702dda126d0.mp3?hdnea=exp=1774860024~acl=/api/1/1/1/9/a/0/19af1da3da46bd3064d41702dda126d0.mp3*~data=user_id=0,application_id=42~hmac=2d5f88a1252e5b2e48a26033075b99cfe3817572bc524631a0dc1835438ba5ee",
+      "duration_ms": 419000,
+      "track_number": 5,
+      "album": {
+        "id": "81330",
+        "name": "The Great Southern Trendkill",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c5df693c44169ae721268d428a9e451/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c5df693c44169ae721268d428a9e451/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c5df693c44169ae721268d428a9e451/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/671036"
+      }
+    },
+    {
+      "id": "662909",
+      "name": "I'm Broken",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/a/0/f9aba7e8ab0bea5a1b237b450116824a.mp3?hdnea=exp=1774860024~acl=/api/1/1/f/9/a/0/f9aba7e8ab0bea5a1b237b450116824a.mp3*~data=user_id=0,application_id=42~hmac=7ddc7f3a028088a4a656baf3588db4c0c76732df7b9ab79108d54bd64126ba1f",
+      "duration_ms": 264000,
+      "track_number": 6,
+      "album": {
+        "id": "80398",
+        "name": "Far Beyond Driven",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f2dfe56d80439f2871dc13d135fa99a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f2dfe56d80439f2871dc13d135fa99a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f2dfe56d80439f2871dc13d135fa99a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/662909"
+      }
+    },
+    {
+      "id": "662896",
+      "name": "Hollow",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/d/0/56db9e188b780e862ca633120c737ca4.mp3?hdnea=exp=1774860024~acl=/api/1/1/5/6/d/0/56db9e188b780e862ca633120c737ca4.mp3*~data=user_id=0,application_id=42~hmac=e071d6af148a9f4c93815ce0b7d3cf756ecf3f08fb56b384a64de04dccd4e283",
+      "duration_ms": 345000,
+      "track_number": 7,
+      "album": {
+        "id": "80396",
+        "name": "Vulgar Display of Power",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/662896"
+      }
+    },
+    {
+      "id": "662877",
+      "name": "A New Level",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/0/0/6202b813a78b83255d7a227019204a93.mp3?hdnea=exp=1774860024~acl=/api/1/1/6/2/0/0/6202b813a78b83255d7a227019204a93.mp3*~data=user_id=0,application_id=42~hmac=759783f21b6da2fb18dd2db7b393aa39db7b85938b48bc888353073d22d1dfa5",
+      "duration_ms": 237000,
+      "track_number": 8,
+      "album": {
+        "id": "80396",
+        "name": "Vulgar Display of Power",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/662877"
+      }
+    },
+    {
+      "id": "714426",
+      "name": "Domination",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/9/0/369e87fff1e92a8578a938d0069a020b.mp3?hdnea=exp=1774860024~acl=/api/1/1/3/6/9/0/369e87fff1e92a8578a938d0069a020b.mp3*~data=user_id=0,application_id=42~hmac=e453f51e91949388b06d4e78eab06e6e7f9fbe938810f5afdb38fba10b6f5acc",
+      "duration_ms": 305000,
+      "track_number": 9,
+      "album": {
+        "id": "85363",
+        "name": "Cowboys from Hell",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8e78de81ec615be64c9179589439d17/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8e78de81ec615be64c9179589439d17/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8e78de81ec615be64c9179589439d17/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/714426"
+      }
+    },
+    {
+      "id": "662924",
+      "name": "Planet Caravan",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/8/0/5f8e49cf6e1712c07d0a1ca34debfdec.mp3?hdnea=exp=1774860024~acl=/api/1/1/5/f/8/0/5f8e49cf6e1712c07d0a1ca34debfdec.mp3*~data=user_id=0,application_id=42~hmac=d0678dd73ec6895796ca48e4e4f3a41b4711b35345a91c2b9906935bd5ae493f",
+      "duration_ms": 243000,
+      "track_number": 10,
+      "album": {
+        "id": "80398",
+        "name": "Far Beyond Driven",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f2dfe56d80439f2871dc13d135fa99a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f2dfe56d80439f2871dc13d135fa99a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f2dfe56d80439f2871dc13d135fa99a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2969",
+          "name": "Pantera"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/662924"
+      }
+    }
+  ]
+}

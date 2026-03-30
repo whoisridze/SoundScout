@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "79124121",
+      "name": "Siesta",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/e/0/a3ed95e834d64147b492e8e6bb793e6d.mp3?hdnea=exp=1774860094~acl=/api/1/1/a/3/e/0/a3ed95e834d64147b492e8e6bb793e6d.mp3*~data=user_id=0,application_id=42~hmac=66f5bac2e5cf1d3150667d9220e46af32a50af852cb3deafa525ef5b0469d869",
+      "duration_ms": 169000,
+      "track_number": 1,
+      "album": {
+        "id": "7866901",
+        "name": "Mr Lucky Goes Latin",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d29c52b14376cd0e6dd4a94f72fe50a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d29c52b14376cd0e6dd4a94f72fe50a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d29c52b14376cd0e6dd4a94f72fe50a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/79124121"
+      }
+    },
+    {
+      "id": "92601028",
+      "name": "A Lovely Sound",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/2/0/8d26ca680d374bf19999e89d259230c7.mp3?hdnea=exp=1774860094~acl=/api/1/1/8/d/2/0/8d26ca680d374bf19999e89d259230c7.mp3*~data=user_id=0,application_id=42~hmac=463470b75667c2025e867883760510148da7c42adb639fd51aae82f40bc01983",
+      "duration_ms": 213000,
+      "track_number": 2,
+      "album": {
+        "id": "9398014",
+        "name": "Peter Gunn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e8ea94c9a4bc56fdec23cc3e4152486/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e8ea94c9a4bc56fdec23cc3e4152486/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e8ea94c9a4bc56fdec23cc3e4152486/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/92601028"
+      }
+    },
+    {
+      "id": "13198891",
+      "name": "Session at Pete's Pad",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/e/0/6ce42dc8b713fa8bb2a2fe562655a030.mp3?hdnea=exp=1774860094~acl=/api/1/1/6/c/e/0/6ce42dc8b713fa8bb2a2fe562655a030.mp3*~data=user_id=0,application_id=42~hmac=b5c41dcee8bfe4edb8a807fda385d333363fbb6eb42deabec05b8081224ac5ea",
+      "duration_ms": 237000,
+      "track_number": 3,
+      "album": {
+        "id": "1210470",
+        "name": "Music From Peter Gunn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/624eb355be8b7eff0c7052719faff3ab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/624eb355be8b7eff0c7052719faff3ab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/624eb355be8b7eff0c7052719faff3ab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13198891"
+      }
+    },
+    {
+      "id": "10023402",
+      "name": "Love Theme from \"Romeo and Juliet\"",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/f/0/c9fd00764c79a80081c395fbffcb8e4e.mp3?hdnea=exp=1774860094~acl=/api/1/1/c/9/f/0/c9fd00764c79a80081c395fbffcb8e4e.mp3*~data=user_id=0,application_id=42~hmac=38d4904da2368d5607a28c5833cbde3cdf5e3e19c80ed213dc45228b85ca3113",
+      "duration_ms": 152000,
+      "track_number": 4,
+      "album": {
+        "id": "917825",
+        "name": "Lo Esencial De La Música Instrumental Más Hermosa Del Mundo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92ba4ec302c02cefd5f8b3ddf59236bc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92ba4ec302c02cefd5f8b3ddf59236bc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92ba4ec302c02cefd5f8b3ddf59236bc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10023402"
+      }
+    },
+    {
+      "id": "66738710",
+      "name": "Lujon",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/f/0/38f1bca7fa94ad02d3b7ce288011744d.mp3?hdnea=exp=1774860094~acl=/api/1/1/3/8/f/0/38f1bca7fa94ad02d3b7ce288011744d.mp3*~data=user_id=0,application_id=42~hmac=9b4ddd36e399704e51194c5fa003a7941e6d4e5a78668489649a85a00409f757",
+      "duration_ms": 159000,
+      "track_number": 5,
+      "album": {
+        "id": "6527374",
+        "name": "Mr. Lucky Goes Latin (Original Television Soundtrack) [Remastered]",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c743f694374046107877acef17185b6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c743f694374046107877acef17185b6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c743f694374046107877acef17185b6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/66738710"
+      }
+    },
+    {
+      "id": "1034953",
+      "name": "Moon River (From \"Breakfast at Tiffany's\")",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/d/0/85d5a42283d5d68ad90ed41965fb9fd3.mp3?hdnea=exp=1774860094~acl=/api/1/1/8/5/d/0/85d5a42283d5d68ad90ed41965fb9fd3.mp3*~data=user_id=0,application_id=42~hmac=c45cbe46e28ae0ccd997abd48b7334e3625581e1b4d562e01c5ad09d7d254a87",
+      "duration_ms": 247000,
+      "track_number": 6,
+      "album": {
+        "id": "113049",
+        "name": "John Williams Plays the Movies",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c6097296476969af0f9ed217b103b90/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c6097296476969af0f9ed217b103b90/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c6097296476969af0f9ed217b103b90/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1034953"
+      }
+    },
+    {
+      "id": "890532",
+      "name": "The Pink Panther Theme (Album Version)",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/c/0/90cc2eabb5c87656d3d1b5a53607399f.mp3?hdnea=exp=1774860094~acl=/api/1/1/9/0/c/0/90cc2eabb5c87656d3d1b5a53607399f.mp3*~data=user_id=0,application_id=42~hmac=594c14300f33139c1205bf831276d70f444a4dd7d4896c5725b50a9d8966c5a4",
+      "duration_ms": 254000,
+      "track_number": 7,
+      "album": {
+        "id": "100919",
+        "name": "Ultimate Mancini",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b823a50956fe975938e01eba2f43b387/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b823a50956fe975938e01eba2f43b387/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b823a50956fe975938e01eba2f43b387/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/890532"
+      }
+    },
+    {
+      "id": "3813527482",
+      "name": "Moon River",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/4/0/154e8006c80e5ef5ef1125b8a5a434c5.mp3?hdnea=exp=1774860094~acl=/api/1/1/1/5/4/0/154e8006c80e5ef5ef1125b8a5a434c5.mp3*~data=user_id=0,application_id=42~hmac=f42b465d798bf0095e460cb7e40fa34961b971f9462ca96ab9fb175efe6a7693",
+      "duration_ms": 152000,
+      "track_number": 8,
+      "album": {
+        "id": "908489282",
+        "name": "The Henry Mancini 100th Sessions: Henry Has Company",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94b510c3b37c5be5a68290aa45a11091/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94b510c3b37c5be5a68290aa45a11091/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94b510c3b37c5be5a68290aa45a11091/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3813527482"
+      }
+    },
+    {
+      "id": "633356",
+      "name": "Loose Caboose",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/0/0/a3073115bf7a65827dedd17b3a05baf7.mp3?hdnea=exp=1774860094~acl=/api/1/1/a/3/0/0/a3073115bf7a65827dedd17b3a05baf7.mp3*~data=user_id=0,application_id=42~hmac=2bbd66b6d9914eece930c0e9d8eb2ce6a87220cd4355b5760ea4395fc8c3f5a1",
+      "duration_ms": 188000,
+      "track_number": 9,
+      "album": {
+        "id": "79012",
+        "name": "Breakfast At Tiffany's",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1ffdf4426a0d53dce3875bd8ca55813/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1ffdf4426a0d53dce3875bd8ca55813/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1ffdf4426a0d53dce3875bd8ca55813/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/633356"
+      }
+    },
+    {
+      "id": "580961",
+      "name": "Pink Panther Theme (Remix Version)",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/c/0/35ccaa8100ea22c9221509df3e219b5a.mp3?hdnea=exp=1774860094~acl=/api/1/1/3/5/c/0/35ccaa8100ea22c9221509df3e219b5a.mp3*~data=user_id=0,application_id=42~hmac=addf80de32ab9018fa7dac3e4a27980bd004d65a26e6173908aa251e029767ba",
+      "duration_ms": 157000,
+      "track_number": 10,
+      "album": {
+        "id": "73836",
+        "name": "Pink Panther Lounge",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d36382c8661bd196d60800e1a7a817e6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d36382c8661bd196d60800e1a7a817e6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d36382c8661bd196d60800e1a7a817e6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2682",
+          "name": "Henry Mancini"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/580961"
+      }
+    }
+  ]
+}

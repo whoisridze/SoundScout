@@ -1,0 +1,487 @@
+{
+  "items": [
+    {
+      "id": "3614",
+      "name": "B.B. King",
+      "popularity": 99,
+      "followers": {
+        "total": 1692962
+      },
+      "genres": [
+        "blues rock",
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0f58456c5fd66319a04ad06dc2cfac94/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0f58456c5fd66319a04ad06dc2cfac94/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0f58456c5fd66319a04ad06dc2cfac94/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3614"
+      },
+      "uri": "deezer:artist:3614"
+    },
+    {
+      "id": "5414",
+      "name": "Muddy Waters",
+      "popularity": 99,
+      "followers": {
+        "total": 1459602
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/183c51b2b94b0e67a4d47cb9682c9ba1/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/183c51b2b94b0e67a4d47cb9682c9ba1/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/183c51b2b94b0e67a4d47cb9682c9ba1/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5414"
+      },
+      "uri": "deezer:artist:5414"
+    },
+    {
+      "id": "8987",
+      "name": "Howlin' Wolf",
+      "popularity": 40,
+      "followers": {
+        "total": 405539
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6a71751430f807e0edf44bb31b1aac7a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6a71751430f807e0edf44bb31b1aac7a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6a71751430f807e0edf44bb31b1aac7a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8987"
+      },
+      "uri": "deezer:artist:8987"
+    },
+    {
+      "id": "1159",
+      "name": "John Lee Hooker",
+      "popularity": 99,
+      "followers": {
+        "total": 1375229
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a9051ab98764d6e541cec0bc2449f1c4/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a9051ab98764d6e541cec0bc2449f1c4/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a9051ab98764d6e541cec0bc2449f1c4/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1159"
+      },
+      "uri": "deezer:artist:1159"
+    },
+    {
+      "id": "3120",
+      "name": "Robert Johnson",
+      "popularity": 34,
+      "followers": {
+        "total": 346295
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/41653e85cf2ebc9f65c698e92fbb4464/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/41653e85cf2ebc9f65c698e92fbb4464/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/41653e85cf2ebc9f65c698e92fbb4464/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3120"
+      },
+      "uri": "deezer:artist:3120"
+    },
+    {
+      "id": "620",
+      "name": "Etta James",
+      "popularity": 99,
+      "followers": {
+        "total": 1164044
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5e4919f09ad7eda29f76fd3f6079be67/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5e4919f09ad7eda29f76fd3f6079be67/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5e4919f09ad7eda29f76fd3f6079be67/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/620"
+      },
+      "uri": "deezer:artist:620"
+    },
+    {
+      "id": "4192",
+      "name": "Albert King",
+      "popularity": 25,
+      "followers": {
+        "total": 251421
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9a24bbbdc1b386210f92c12657c81e27/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9a24bbbdc1b386210f92c12657c81e27/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9a24bbbdc1b386210f92c12657c81e27/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4192"
+      },
+      "uri": "deezer:artist:4192"
+    },
+    {
+      "id": "8569",
+      "name": "Freddie King",
+      "popularity": 9,
+      "followers": {
+        "total": 92229
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bb06a512571027e376b5941364902d40/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bb06a512571027e376b5941364902d40/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bb06a512571027e376b5941364902d40/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8569"
+      },
+      "uri": "deezer:artist:8569"
+    },
+    {
+      "id": "69959",
+      "name": "Keb' Mo'",
+      "popularity": 9,
+      "followers": {
+        "total": 99292
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e4228c8314012b7c3906e52b14480644/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e4228c8314012b7c3906e52b14480644/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e4228c8314012b7c3906e52b14480644/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/69959"
+      },
+      "uri": "deezer:artist:69959"
+    },
+    {
+      "id": "4418",
+      "name": "Taj Mahal",
+      "popularity": 9,
+      "followers": {
+        "total": 92548
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d1bff4ede97f7236478baa7e08e005a6/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d1bff4ede97f7236478baa7e08e005a6/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d1bff4ede97f7236478baa7e08e005a6/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4418"
+      },
+      "uri": "deezer:artist:4418"
+    },
+    {
+      "id": "199",
+      "name": "Bonnie Raitt",
+      "popularity": 4,
+      "followers": {
+        "total": 44166
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/27b9db3be31b77737029586cf3e1dfa5/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/27b9db3be31b77737029586cf3e1dfa5/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/27b9db3be31b77737029586cf3e1dfa5/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/199"
+      },
+      "uri": "deezer:artist:199"
+    },
+    {
+      "id": "4091",
+      "name": "Susan Tedeschi",
+      "popularity": 2,
+      "followers": {
+        "total": 23962
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fa34a71de17942a3125f927de1481f1f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fa34a71de17942a3125f927de1481f1f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fa34a71de17942a3125f927de1481f1f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4091"
+      },
+      "uri": "deezer:artist:4091"
+    },
+    {
+      "id": "74408",
+      "name": "Robert Cray",
+      "popularity": 5,
+      "followers": {
+        "total": 56936
+      },
+      "genres": [
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b032b82ca6e902a7f7eaec208075031b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b032b82ca6e902a7f7eaec208075031b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b032b82ca6e902a7f7eaec208075031b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/74408"
+      },
+      "uri": "deezer:artist:74408"
+    },
+    {
+      "id": "4781",
+      "name": "Joe Bonamassa",
+      "popularity": 55,
+      "followers": {
+        "total": 555877
+      },
+      "genres": [
+        "blues rock",
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9d850c3a35757f76fcc0b470752bf7ea/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9d850c3a35757f76fcc0b470752bf7ea/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9d850c3a35757f76fcc0b470752bf7ea/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4781"
+      },
+      "uri": "deezer:artist:4781"
+    },
+    {
+      "id": "265084",
+      "name": "Gary Clark Jr.",
+      "popularity": 10,
+      "followers": {
+        "total": 102752
+      },
+      "genres": [
+        "blues rock",
+        "blues"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ace55ab2709f6277c4769f867dd36f78/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ace55ab2709f6277c4769f867dd36f78/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ace55ab2709f6277c4769f867dd36f78/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/265084"
+      },
+      "uri": "deezer:artist:265084"
+    }
+  ]
+}

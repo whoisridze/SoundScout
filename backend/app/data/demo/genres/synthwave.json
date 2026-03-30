@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "6807853",
+      "name": "The Midnight",
+      "popularity": 4,
+      "followers": {
+        "total": 47998
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/775d1d9d0052508e77a83092792509a8/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/775d1d9d0052508e77a83092792509a8/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/775d1d9d0052508e77a83092792509a8/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/6807853"
+      },
+      "uri": "deezer:artist:6807853"
+    },
+    {
+      "id": "7814812",
+      "name": "FM-84",
+      "popularity": 2,
+      "followers": {
+        "total": 26879
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/adeb9efbf8f35c50d0a2985675cc5159/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/adeb9efbf8f35c50d0a2985675cc5159/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/adeb9efbf8f35c50d0a2985675cc5159/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7814812"
+      },
+      "uri": "deezer:artist:7814812"
+    },
+    {
+      "id": "13358",
+      "name": "Kavinsky",
+      "popularity": 47,
+      "followers": {
+        "total": 477329
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/109f6a90627dbcf043def392d50b0c72/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/109f6a90627dbcf043def392d50b0c72/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/109f6a90627dbcf043def392d50b0c72/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/13358"
+      },
+      "uri": "deezer:artist:13358"
+    },
+    {
+      "id": "4740810",
+      "name": "Perturbator",
+      "popularity": 5,
+      "followers": {
+        "total": 56999
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fe0fbcbf813c3f4986602565e918a863/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fe0fbcbf813c3f4986602565e918a863/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fe0fbcbf813c3f4986602565e918a863/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4740810"
+      },
+      "uri": "deezer:artist:4740810"
+    },
+    {
+      "id": "4346304",
+      "name": "Carpenter Brut",
+      "popularity": 7,
+      "followers": {
+        "total": 76962
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4facc156a8a7bc6c46c502ab2953a3e2/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4facc156a8a7bc6c46c502ab2953a3e2/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4facc156a8a7bc6c46c502ab2953a3e2/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4346304"
+      },
+      "uri": "deezer:artist:4346304"
+    },
+    {
+      "id": "7856702",
+      "name": "Gunship",
+      "popularity": 3,
+      "followers": {
+        "total": 30142
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fc16f7affe65c4c5026c9092fb7a3123/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fc16f7affe65c4c5026c9092fb7a3123/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fc16f7affe65c4c5026c9092fb7a3123/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7856702"
+      },
+      "uri": "deezer:artist:7856702"
+    },
+    {
+      "id": "5602350",
+      "name": "Timecop1983",
+      "popularity": 92,
+      "followers": {
+        "total": 9227
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/30af480ade1bb7186c35168ea332a502/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/30af480ade1bb7186c35168ea332a502/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/30af480ade1bb7186c35168ea332a502/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5602350"
+      },
+      "uri": "deezer:artist:5602350"
+    },
+    {
+      "id": "1448283",
+      "name": "Mitch Murder",
+      "popularity": 1,
+      "followers": {
+        "total": 10409
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6a6b6ed68da56244bc930e3ddb15fe98/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6a6b6ed68da56244bc930e3ddb15fe98/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6a6b6ed68da56244bc930e3ddb15fe98/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1448283"
+      },
+      "uri": "deezer:artist:1448283"
+    },
+    {
+      "id": "5319227",
+      "name": "Dance With the Dead",
+      "popularity": 3,
+      "followers": {
+        "total": 39516
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/34b16ec56209fd56025b634a7a9a0616/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/34b16ec56209fd56025b634a7a9a0616/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/34b16ec56209fd56025b634a7a9a0616/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5319227"
+      },
+      "uri": "deezer:artist:5319227"
+    },
+    {
+      "id": "2232101",
+      "name": "Power Glove",
+      "popularity": 91,
+      "followers": {
+        "total": 9124
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1239f6276f39eae8a4fd3d8d28c80975/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1239f6276f39eae8a4fd3d8d28c80975/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1239f6276f39eae8a4fd3d8d28c80975/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2232101"
+      },
+      "uri": "deezer:artist:2232101"
+    },
+    {
+      "id": "1348013",
+      "name": "Com Truise",
+      "popularity": 2,
+      "followers": {
+        "total": 21347
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f65acbd16135f27677ac99c175fc742d/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f65acbd16135f27677ac99c175fc742d/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f65acbd16135f27677ac99c175fc742d/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1348013"
+      },
+      "uri": "deezer:artist:1348013"
+    },
+    {
+      "id": "1432517",
+      "name": "Lazerhawk",
+      "popularity": 1,
+      "followers": {
+        "total": 15413
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5b8bf1f93ac21a75ff2252b1cb433a02/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5b8bf1f93ac21a75ff2252b1cb433a02/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5b8bf1f93ac21a75ff2252b1cb433a02/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1432517"
+      },
+      "uri": "deezer:artist:1432517"
+    },
+    {
+      "id": "1444371",
+      "name": "Miami Nights 1984",
+      "popularity": 90,
+      "followers": {
+        "total": 9078
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b4d662612a8c292ae6452fa53f742bea/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b4d662612a8c292ae6452fa53f742bea/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b4d662612a8c292ae6452fa53f742bea/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1444371"
+      },
+      "uri": "deezer:artist:1444371"
+    },
+    {
+      "id": "3216951",
+      "name": "Dynatron",
+      "popularity": 54,
+      "followers": {
+        "total": 5475
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/25c748ce9d8ea031a26809a443b1d3de/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/25c748ce9d8ea031a26809a443b1d3de/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/25c748ce9d8ea031a26809a443b1d3de/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3216951"
+      },
+      "uri": "deezer:artist:3216951"
+    },
+    {
+      "id": "199149",
+      "name": "Electric Youth",
+      "popularity": 1,
+      "followers": {
+        "total": 14228
+      },
+      "genres": [
+        "synthwave"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6f2d1cfdfe5702c96b56345107a67f6b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6f2d1cfdfe5702c96b56345107a67f6b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6f2d1cfdfe5702c96b56345107a67f6b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/199149"
+      },
+      "uri": "deezer:artist:199149"
+    }
+  ]
+}

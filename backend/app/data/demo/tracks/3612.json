@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3801697002",
+      "name": "From The Beginning",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/8/0/0d884bfe4bc66cc44412daf07c9b5cb6.mp3?hdnea=exp=1774859993~acl=/api/1/1/0/d/8/0/0d884bfe4bc66cc44412daf07c9b5cb6.mp3*~data=user_id=0,application_id=42~hmac=1aa72ab16e0e3aab1ee28f49f35fa987d45cc0ba753dc51a4a3960d2bebcf7f2",
+      "duration_ms": 256000,
+      "track_number": 1,
+      "album": {
+        "id": "904929032",
+        "name": "Trilogy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/feac8c4a5e86e0a577ae0bb1e2780d87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/feac8c4a5e86e0a577ae0bb1e2780d87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/feac8c4a5e86e0a577ae0bb1e2780d87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3801697002"
+      }
+    },
+    {
+      "id": "3801550422",
+      "name": "Fanfare For The Common Man (Single Edit)",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/b/0/42bd1efb17c918f14226da291a49235b.mp3?hdnea=exp=1774859993~acl=/api/1/1/4/2/b/0/42bd1efb17c918f14226da291a49235b.mp3*~data=user_id=0,application_id=42~hmac=559ad7f50b20a974bcf29db74feb94e226441504feabad0c41af550497bb2f67",
+      "duration_ms": 179000,
+      "track_number": 2,
+      "album": {
+        "id": "904917562",
+        "name": "The Best of Emerson Lake & Palmer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf8964b81a0b49676131504cdc6d4e76/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf8964b81a0b49676131504cdc6d4e76/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cf8964b81a0b49676131504cdc6d4e76/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3801550422"
+      }
+    },
+    {
+      "id": "3783090552",
+      "name": "Lucky Man (Remastered 2012)",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/b/0/d5b7134383770ad705259f0ffe460e73.mp3?hdnea=exp=1774859993~acl=/api/1/1/d/5/b/0/d5b7134383770ad705259f0ffe460e73.mp3*~data=user_id=0,application_id=42~hmac=0f71f4140ba4084f0b5251ca6c180e85d655cfa5b781cd33cacc1245d645e99a",
+      "duration_ms": 277000,
+      "track_number": 3,
+      "album": {
+        "id": "900579712",
+        "name": "Emerson, Lake & Palmer (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9d4f5e8b3c58a23ac665766def98908/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9d4f5e8b3c58a23ac665766def98908/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9d4f5e8b3c58a23ac665766def98908/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3783090552"
+      }
+    },
+    {
+      "id": "3788337152",
+      "name": "The Hut of Baba Yaga, Pt. 2 (Part 2 / Live)",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/7/0/b3784378cfefb43b900d403a76c4a544.mp3?hdnea=exp=1774859993~acl=/api/1/1/b/3/7/0/b3784378cfefb43b900d403a76c4a544.mp3*~data=user_id=0,application_id=42~hmac=572f09f5c5e760d04d8aa4858fe1077a7c06ab0768968ddb0eb904277750ddde",
+      "duration_ms": 66000,
+      "track_number": 4,
+      "album": {
+        "id": "902136562",
+        "name": "Pictures At an Exhibition (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/996ccb39fb33a78fb9df8e8dbc4ae49b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/996ccb39fb33a78fb9df8e8dbc4ae49b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/996ccb39fb33a78fb9df8e8dbc4ae49b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788337152"
+      }
+    },
+    {
+      "id": "3788335922",
+      "name": "The Barbarian (Remastered 2012)",
+      "popularity": 20,
+      "preview_url": "",
+      "duration_ms": 273000,
+      "track_number": 5,
+      "album": {
+        "id": "902136332",
+        "name": "Emerson, Lake & Palmer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/caa0911fa537762525f338714853858a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/caa0911fa537762525f338714853858a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/caa0911fa537762525f338714853858a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788335922"
+      }
+    },
+    {
+      "id": "3788401252",
+      "name": "C'est La Vie (Remastered 2017)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/c/0/2cc3b0fc68d099f44e6d61eb9465968b.mp3?hdnea=exp=1774859993~acl=/api/1/1/2/c/c/0/2cc3b0fc68d099f44e6d61eb9465968b.mp3*~data=user_id=0,application_id=42~hmac=399bc8baec31d00d05f902b317fc91ceb08363355b90d1e26408f263c3f294be",
+      "duration_ms": 258000,
+      "track_number": 6,
+      "album": {
+        "id": "902147652",
+        "name": "Works (Vol. 1 / Remastered 2017)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70a0e7f569ff36e6bdc8c980947f5e6b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70a0e7f569ff36e6bdc8c980947f5e6b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70a0e7f569ff36e6bdc8c980947f5e6b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788401252"
+      }
+    },
+    {
+      "id": "3788337132",
+      "name": "The Hut of Baba Yaga, Pt. 1 (Live)",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/a/0/b4abba07a7ad026d77a3fde395489983.mp3?hdnea=exp=1774859993~acl=/api/1/1/b/4/a/0/b4abba07a7ad026d77a3fde395489983.mp3*~data=user_id=0,application_id=42~hmac=2c1d10a44f8472ca00bf76741bda0b9917ece30b7300dd572391436213a7ced7",
+      "duration_ms": 72000,
+      "track_number": 7,
+      "album": {
+        "id": "902136562",
+        "name": "Pictures At an Exhibition (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/996ccb39fb33a78fb9df8e8dbc4ae49b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/996ccb39fb33a78fb9df8e8dbc4ae49b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/996ccb39fb33a78fb9df8e8dbc4ae49b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788337132"
+      }
+    },
+    {
+      "id": "3788337142",
+      "name": "The Curse Of Baba Yaga (Live)",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/0/0/1202f351f9de4bd908810143dace7cfc.mp3?hdnea=exp=1774859993~acl=/api/1/1/1/2/0/0/1202f351f9de4bd908810143dace7cfc.mp3*~data=user_id=0,application_id=42~hmac=7a553eb88a53d9d218971fe482e78bc378db796a0edc669ebd6501560e86020a",
+      "duration_ms": 249000,
+      "track_number": 8,
+      "album": {
+        "id": "902136562",
+        "name": "Pictures At an Exhibition (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/996ccb39fb33a78fb9df8e8dbc4ae49b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/996ccb39fb33a78fb9df8e8dbc4ae49b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/996ccb39fb33a78fb9df8e8dbc4ae49b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788337142"
+      }
+    },
+    {
+      "id": "75926383",
+      "name": "Fanfare for the Common Man",
+      "popularity": 3,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/4/0/22403a9c12c601fbd4a073babbb25151.mp3?hdnea=exp=1774859993~acl=/api/1/1/2/2/4/0/22403a9c12c601fbd4a073babbb25151.mp3*~data=user_id=0,application_id=42~hmac=0cdc0ade3db257055d0052a0054ccc1d6d8ac2f7d567c70db69c669bd1cb0e31",
+      "duration_ms": 584000,
+      "track_number": 9,
+      "album": {
+        "id": "7524792",
+        "name": "Do You Wanna Play, Carl?: The Carl Palmer Anthology",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7c3e5e5a1bc0ae023271e06ffbcc9dd8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7c3e5e5a1bc0ae023271e06ffbcc9dd8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7c3e5e5a1bc0ae023271e06ffbcc9dd8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75926383"
+      }
+    },
+    {
+      "id": "3788336382",
+      "name": "The Only Way (Hymn) (Remastered 2012)",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/2/0/0c2d229a71f8021f362e8de33f4ca4db.mp3?hdnea=exp=1774859993~acl=/api/1/1/0/c/2/0/0c2d229a71f8021f362e8de33f4ca4db.mp3*~data=user_id=0,application_id=42~hmac=0a7caa7ea8e5e32ffda415e91d53b74be967a3c022dc59cc8231838674fef3b4",
+      "duration_ms": 226000,
+      "track_number": 10,
+      "album": {
+        "id": "902136412",
+        "name": "Tarkus",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6daa93e1e567abcc6a82cd949ecd3a35/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6daa93e1e567abcc6a82cd949ecd3a35/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6daa93e1e567abcc6a82cd949ecd3a35/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3612",
+          "name": "Emerson, Lake & Palmer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788336382"
+      }
+    }
+  ]
+}

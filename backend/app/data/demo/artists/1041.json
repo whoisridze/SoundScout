@@ -1,0 +1,32 @@
+{
+  "id": "1041",
+  "name": "Cocteau Twins",
+  "popularity": 12,
+  "followers": {
+    "total": 124597
+  },
+  "genres": [
+    "dream pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/3bdd3587258a3bf73502ff6c65c295ec/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/3bdd3587258a3bf73502ff6c65c295ec/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/3bdd3587258a3bf73502ff6c65c295ec/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1041"
+  },
+  "uri": "deezer:artist:1041"
+}

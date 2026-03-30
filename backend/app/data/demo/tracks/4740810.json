@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3031376021",
+      "name": "Dangerous (From The \"American Psycho\" Comic Series Soundtrack)",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/7/0/eb78a0cd935b655a33e30da1edd3b4bc.mp3?hdnea=exp=1774859924~acl=/api/1/1/e/b/7/0/eb78a0cd935b655a33e30da1edd3b4bc.mp3*~data=user_id=0,application_id=42~hmac=a3f78515be49e8b23e6e2e248e8b57f2b4230644a5cd216bcbbd2771ed6d65b4",
+      "duration_ms": 226000,
+      "track_number": 1,
+      "album": {
+        "id": "652251121",
+        "name": "American Psycho (From The \"American Psycho\" Comic Series Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11dd66ab04a1d913cb2d24f0c297148a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11dd66ab04a1d913cb2d24f0c297148a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11dd66ab04a1d913cb2d24f0c297148a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3031376021"
+      }
+    },
+    {
+      "id": "77796216",
+      "name": "Future Club",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/e/0/89e0c5f1d788c4e3f19ade1ca2519684.mp3?hdnea=exp=1774859924~acl=/api/1/1/8/9/e/0/89e0c5f1d788c4e3f19ade1ca2519684.mp3*~data=user_id=0,application_id=42~hmac=d13b232e97471fc1d7261979955bb9ddbb4089246e7a2eb9939c1facdf33f6a5",
+      "duration_ms": 289000,
+      "track_number": 2,
+      "album": {
+        "id": "7730566",
+        "name": "Dangerous Days",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0156c44f6e215698a6deca817c07fe5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0156c44f6e215698a6deca817c07fe5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0156c44f6e215698a6deca817c07fe5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/77796216"
+      }
+    },
+    {
+      "id": "95642450",
+      "name": "Technoir (feat. Noir Deco)",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/d/0/a0d328ebc56d7092a789a7e8bf7ac493.mp3?hdnea=exp=1774859924~acl=/api/1/1/a/0/d/0/a0d328ebc56d7092a789a7e8bf7ac493.mp3*~data=user_id=0,application_id=42~hmac=9a36e9ec49f2b59d574ddb16a2a9674268b51dc396f6d380fb795d99f88b7278",
+      "duration_ms": 279000,
+      "track_number": 3,
+      "album": {
+        "id": "9732496",
+        "name": "I Am the Night",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6334b4734583b07c82256e829f80cdc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6334b4734583b07c82256e829f80cdc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6334b4734583b07c82256e829f80cdc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/95642450"
+      }
+    },
+    {
+      "id": "121017054",
+      "name": "Death Squad",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/1/0/a81c331c8d837ba83eb56f13d0988769.mp3?hdnea=exp=1774859924~acl=/api/1/1/a/8/1/0/a81c331c8d837ba83eb56f13d0988769.mp3*~data=user_id=0,application_id=42~hmac=9fedae4f5f29655e837dd3081a6c1e404be15d9db45e456cce47a927c944e46b",
+      "duration_ms": 265000,
+      "track_number": 4,
+      "album": {
+        "id": "12638690",
+        "name": "The Uncanny Valley",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65b46897c1a71ded88d18c9f32e61af2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65b46897c1a71ded88d18c9f32e61af2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65b46897c1a71ded88d18c9f32e61af2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/121017054"
+      }
+    },
+    {
+      "id": "75642943",
+      "name": "Miami Disco",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/f/0/58f1aea26936afcc87938461e3b154d4.mp3?hdnea=exp=1774859924~acl=/api/1/1/5/8/f/0/58f1aea26936afcc87938461e3b154d4.mp3*~data=user_id=0,application_id=42~hmac=75d9170a476364011d8093875dff8046304473719f703a717b1e8f3a5a5d9e67",
+      "duration_ms": 271000,
+      "track_number": 5,
+      "album": {
+        "id": "7491979",
+        "name": "Sexualizer EP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ea675aca3330d55c7ad339995ff51efc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ea675aca3330d55c7ad339995ff51efc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ea675aca3330d55c7ad339995ff51efc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75642943"
+      }
+    },
+    {
+      "id": "3379315061",
+      "name": "Lady Moon",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/c/0/a6c2abe716f58a67e89c9e5dcfab3698.mp3?hdnea=exp=1774859924~acl=/api/1/1/a/6/c/0/a6c2abe716f58a67e89c9e5dcfab3698.mp3*~data=user_id=0,application_id=42~hmac=0b079df5dae7b0fe458a9967e433aa5905b14eb64907011d228349002eacfce7",
+      "duration_ms": 415000,
+      "track_number": 6,
+      "album": {
+        "id": "760889161",
+        "name": "Age of Aquarius",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbbceae3c55a7b6a44b74197a6bbc5d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbbceae3c55a7b6a44b74197a6bbc5d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbbceae3c55a7b6a44b74197a6bbc5d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3379315061"
+      }
+    },
+    {
+      "id": "121017068",
+      "name": "Assault",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/1/0/7a1daf4af37269cd1b731e92978c22a0.mp3?hdnea=exp=1774859924~acl=/api/1/1/7/a/1/0/7a1daf4af37269cd1b731e92978c22a0.mp3*~data=user_id=0,application_id=42~hmac=ca66e86c0867149f7b88a7e3cf2574f24147a774d059ea33b66f01ecfca3e09c",
+      "duration_ms": 248000,
+      "track_number": 7,
+      "album": {
+        "id": "12638690",
+        "name": "The Uncanny Valley",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65b46897c1a71ded88d18c9f32e61af2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65b46897c1a71ded88d18c9f32e61af2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/65b46897c1a71ded88d18c9f32e61af2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/121017068"
+      }
+    },
+    {
+      "id": "1388640142",
+      "name": "Excess",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/c/0/64c11fa2350a595e7e692a3e8ca494d4.mp3?hdnea=exp=1774859924~acl=/api/1/1/6/4/c/0/64c11fa2350a595e7e692a3e8ca494d4.mp3*~data=user_id=0,application_id=42~hmac=26d3a4c86da924a587f199066539e876a0723f531c9e0ddc7f8ffdb31672e09d",
+      "duration_ms": 277000,
+      "track_number": 8,
+      "album": {
+        "id": "233954462",
+        "name": "Excess",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35c1c5637aaf51ba166281f10fcd694c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35c1c5637aaf51ba166281f10fcd694c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35c1c5637aaf51ba166281f10fcd694c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1388640142"
+      }
+    },
+    {
+      "id": "75642940",
+      "name": "Meet Jimmy (feat. Le Cassette)",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/b/0/d6beab2f307f066ab47df40114afe9ca.mp3?hdnea=exp=1774859924~acl=/api/1/1/d/6/b/0/d6beab2f307f066ab47df40114afe9ca.mp3*~data=user_id=0,application_id=42~hmac=e4f1be17c54ae2ad615a1b508d27c2dde81c2b6e96de31e23960a0bfc337c384",
+      "duration_ms": 283000,
+      "track_number": 9,
+      "album": {
+        "id": "7491979",
+        "name": "Sexualizer EP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ea675aca3330d55c7ad339995ff51efc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ea675aca3330d55c7ad339995ff51efc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ea675aca3330d55c7ad339995ff51efc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75642940"
+      }
+    },
+    {
+      "id": "3379315091",
+      "name": "Mors Ultima Ratio",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/4/0/d2413ae07b5706686085f5db9f079fd2.mp3?hdnea=exp=1774859924~acl=/api/1/1/d/2/4/0/d2413ae07b5706686085f5db9f079fd2.mp3*~data=user_id=0,application_id=42~hmac=e72ea081028f6b7419198491fc0f38af20af66d703d217d994ad782b95e25d28",
+      "duration_ms": 307000,
+      "track_number": 10,
+      "album": {
+        "id": "760889161",
+        "name": "Age of Aquarius",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbbceae3c55a7b6a44b74197a6bbc5d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbbceae3c55a7b6a44b74197a6bbc5d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbbceae3c55a7b6a44b74197a6bbc5d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4740810",
+          "name": "Perturbator"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3379315091"
+      }
+    }
+  ]
+}

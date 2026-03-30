@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3434062771",
+      "name": "Bad As I Used To Be",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/7/0/037588eac1720093abd9b4f295371d4e.mp3?hdnea=exp=1774860036~acl=/api/1/1/0/3/7/0/037588eac1720093abd9b4f295371d4e.mp3*~data=user_id=0,application_id=42~hmac=438526c6924b15473ee89ef76e11f5b0c5010ef8b3794b2c6a5bd82c2b53d2de",
+      "duration_ms": 300000,
+      "track_number": 1,
+      "album": {
+        "id": "779244291",
+        "name": "F1 The Album (Cinematic Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04fc92712f724ceb3aef570fa09fed48/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04fc92712f724ceb3aef570fa09fed48/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04fc92712f724ceb3aef570fa09fed48/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3434062771"
+      }
+    },
+    {
+      "id": "2526331021",
+      "name": "Crosswind",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/b/0/aeb3d4fc0035fdd37bb5a60bdfbaa7db.mp3?hdnea=exp=1774860036~acl=/api/1/1/a/e/b/0/aeb3d4fc0035fdd37bb5a60bdfbaa7db.mp3*~data=user_id=0,application_id=42~hmac=994a1c70cf18f5e51f87e5109e20824e23f5ed20c3183d7c791e6d292fd83419",
+      "duration_ms": 204000,
+      "track_number": 2,
+      "album": {
+        "id": "508228921",
+        "name": "Higher",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d851d72898066941ada8d56ca8a13191/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d851d72898066941ada8d56ca8a13191/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d851d72898066941ada8d56ca8a13191/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2526331021"
+      }
+    },
+    {
+      "id": "98975170",
+      "name": "Tennessee Whiskey",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/6/0/126803e10fa06c8583e07e8f9fddb1b3.mp3?hdnea=exp=1774860036~acl=/api/1/1/1/2/6/0/126803e10fa06c8583e07e8f9fddb1b3.mp3*~data=user_id=0,application_id=42~hmac=c3dd5ac3397d8b1931b11035c70cbb89a3e154df8be5356b1b7803443a7f4fbb",
+      "duration_ms": 293000,
+      "track_number": 3,
+      "album": {
+        "id": "10127538",
+        "name": "Traveller",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dd028fd513eefb5993cf8fb5c46d576/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dd028fd513eefb5993cf8fb5c46d576/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dd028fd513eefb5993cf8fb5c46d576/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/98975170"
+      }
+    },
+    {
+      "id": "1133364452",
+      "name": "Cold",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/b/0/45b3b24b8430086580a007792bd9980e.mp3?hdnea=exp=1774860036~acl=/api/1/1/4/5/b/0/45b3b24b8430086580a007792bd9980e.mp3*~data=user_id=0,application_id=42~hmac=a181a996ec4b527a419675efd627bf2fe2d3bd3ffc03ee3d61061f18d41d61b5",
+      "duration_ms": 310000,
+      "track_number": 4,
+      "album": {
+        "id": "184472652",
+        "name": "Starting Over",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33f03482022375829ad680cd428dcc9e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33f03482022375829ad680cd428dcc9e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33f03482022375829ad680cd428dcc9e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1133364452"
+      }
+    },
+    {
+      "id": "2435093915",
+      "name": "Think I'm In Love With You",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/e/0/bde31bd289c86b2cd44febd52e4d6390.mp3?hdnea=exp=1774860036~acl=/api/1/1/b/d/e/0/bde31bd289c86b2cd44febd52e4d6390.mp3*~data=user_id=0,application_id=42~hmac=0cac181605910ad37d052249e6516349ac025d34b4364c7309ffc8a27508a41a",
+      "duration_ms": 223000,
+      "track_number": 5,
+      "album": {
+        "id": "482836865",
+        "name": "Think I’m In Love With You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d851d72898066941ada8d56ca8a13191/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d851d72898066941ada8d56ca8a13191/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d851d72898066941ada8d56ca8a13191/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2435093915"
+      }
+    },
+    {
+      "id": "707207482",
+      "name": "BLOW",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/7/0/4e7dfd3475004ac9ae1a43231ae45314.mp3?hdnea=exp=1774860036~acl=/api/1/1/4/e/7/0/4e7dfd3475004ac9ae1a43231ae45314.mp3*~data=user_id=0,application_id=42~hmac=655ad55ac195a1e2105c4d4b2c2a9d8beefea5b85c3f5969ca751e1b722785ed",
+      "duration_ms": 209000,
+      "track_number": 6,
+      "album": {
+        "id": "102484542",
+        "name": "BLOW",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/faf828874a2e23083e30f7d0fecc36e7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/faf828874a2e23083e30f7d0fecc36e7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/faf828874a2e23083e30f7d0fecc36e7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/707207482"
+      }
+    },
+    {
+      "id": "1133364552",
+      "name": "You Should Probably Leave",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/8/0/4189f533512b4fa217ae02d366eb4238.mp3?hdnea=exp=1774860036~acl=/api/1/1/4/1/8/0/4189f533512b4fa217ae02d366eb4238.mp3*~data=user_id=0,application_id=42~hmac=4a68c78b9660f0e609b86a542148106f4c1e402fadc7623d28e098669bc83ca0",
+      "duration_ms": 213000,
+      "track_number": 7,
+      "album": {
+        "id": "184472652",
+        "name": "Starting Over",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33f03482022375829ad680cd428dcc9e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33f03482022375829ad680cd428dcc9e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33f03482022375829ad680cd428dcc9e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1133364552"
+      }
+    },
+    {
+      "id": "1133364442",
+      "name": "Devil Always Made Me Think Twice",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/7/0/af742342e0f2035577524f23734c7daf.mp3?hdnea=exp=1774860036~acl=/api/1/1/a/f/7/0/af742342e0f2035577524f23734c7daf.mp3*~data=user_id=0,application_id=42~hmac=966445dfa648c7cefe4c14e3625d2ef96b70fac3ee9da25013e47b70050f3aac",
+      "duration_ms": 232000,
+      "track_number": 8,
+      "album": {
+        "id": "184472652",
+        "name": "Starting Over",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33f03482022375829ad680cd428dcc9e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33f03482022375829ad680cd428dcc9e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33f03482022375829ad680cd428dcc9e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1133364442"
+      }
+    },
+    {
+      "id": "3841740411",
+      "name": "Here",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/c/0/6cc20772ac5ce68e81655ff4754b2dbd.mp3?hdnea=exp=1774860036~acl=/api/1/1/6/c/c/0/6cc20772ac5ce68e81655ff4754b2dbd.mp3*~data=user_id=0,application_id=42~hmac=8a45a77e4c8b1b0f23f6013a304dfddf816994e24718a5243dffec619e575b81",
+      "duration_ms": 191000,
+      "track_number": 9,
+      "album": {
+        "id": "917962541",
+        "name": "Prizefighter",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/54baf010b36b9c44571749d15b8ce3d5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/54baf010b36b9c44571749d15b8ce3d5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/54baf010b36b9c44571749d15b8ce3d5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3841740411"
+      }
+    },
+    {
+      "id": "98975172",
+      "name": "Parachute",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/c/0/9fcbe94ccbdf61953ea075549adfa5dd.mp3?hdnea=exp=1774860036~acl=/api/1/1/9/f/c/0/9fcbe94ccbdf61953ea075549adfa5dd.mp3*~data=user_id=0,application_id=42~hmac=55c7c774317d6b1ee8dbf277ad281af9c3878d7284b3e00858eba964e3849c88",
+      "duration_ms": 253000,
+      "track_number": 10,
+      "album": {
+        "id": "10127538",
+        "name": "Traveller",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dd028fd513eefb5993cf8fb5c46d576/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dd028fd513eefb5993cf8fb5c46d576/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dd028fd513eefb5993cf8fb5c46d576/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "343290",
+          "name": "Chris Stapleton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/98975172"
+      }
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "471526",
+      "name": "Snarky Puppy",
+      "popularity": 8,
+      "followers": {
+        "total": 80301
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7e2d615395e8d77226a834a1dbc17c97/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7e2d615395e8d77226a834a1dbc17c97/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7e2d615395e8d77226a834a1dbc17c97/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/471526"
+      },
+      "uri": "deezer:artist:471526"
+    },
+    {
+      "id": "12358",
+      "name": "Pat Metheny",
+      "popularity": 23,
+      "followers": {
+        "total": 239945
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b0a501f1b6062829ee3f75dcc956211c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b0a501f1b6062829ee3f75dcc956211c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b0a501f1b6062829ee3f75dcc956211c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/12358"
+      },
+      "uri": "deezer:artist:12358"
+    },
+    {
+      "id": "1406",
+      "name": "Herbie Hancock",
+      "popularity": 42,
+      "followers": {
+        "total": 421761
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/afa7dfde3e193b870dd79bd4cedb5e03/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/afa7dfde3e193b870dd79bd4cedb5e03/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/afa7dfde3e193b870dd79bd4cedb5e03/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1406"
+      },
+      "uri": "deezer:artist:1406"
+    },
+    {
+      "id": "8568",
+      "name": "Chick Corea",
+      "popularity": 40,
+      "followers": {
+        "total": 401588
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/37e7e3554e2d97acace4ffff1455c2f4/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/37e7e3554e2d97acace4ffff1455c2f4/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/37e7e3554e2d97acace4ffff1455c2f4/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8568"
+      },
+      "uri": "deezer:artist:8568"
+    },
+    {
+      "id": "2569",
+      "name": "Weather Report",
+      "popularity": 6,
+      "followers": {
+        "total": 65305
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ee14d60ff151f9b3a49fc4479379d9cd/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ee14d60ff151f9b3a49fc4479379d9cd/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ee14d60ff151f9b3a49fc4479379d9cd/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2569"
+      },
+      "uri": "deezer:artist:2569"
+    },
+    {
+      "id": "72834",
+      "name": "Return to Forever",
+      "popularity": 1,
+      "followers": {
+        "total": 18928
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/97163ab15f1bde790cb16f2ba693e97d/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/97163ab15f1bde790cb16f2ba693e97d/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/97163ab15f1bde790cb16f2ba693e97d/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/72834"
+      },
+      "uri": "deezer:artist:72834"
+    },
+    {
+      "id": "15354",
+      "name": "Hiromi",
+      "popularity": 2,
+      "followers": {
+        "total": 24901
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/094d6838cd806acf3ec76a82765701f7/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/094d6838cd806acf3ec76a82765701f7/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/094d6838cd806acf3ec76a82765701f7/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/15354"
+      },
+      "uri": "deezer:artist:15354"
+    },
+    {
+      "id": "5196129",
+      "name": "Kamasi Washington",
+      "popularity": 3,
+      "followers": {
+        "total": 34313
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2a4cdcc6ef2d0f31e86c9143cb548cb9/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2a4cdcc6ef2d0f31e86c9143cb548cb9/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2a4cdcc6ef2d0f31e86c9143cb548cb9/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5196129"
+      },
+      "uri": "deezer:artist:5196129"
+    },
+    {
+      "id": "215702",
+      "name": "Robert Glasper",
+      "popularity": 4,
+      "followers": {
+        "total": 41068
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/64db3f897347fa383ec678cae51ae500/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/64db3f897347fa383ec678cae51ae500/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/64db3f897347fa383ec678cae51ae500/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/215702"
+      },
+      "uri": "deezer:artist:215702"
+    },
+    {
+      "id": "6563333",
+      "name": "Jacob Collier",
+      "popularity": 4,
+      "followers": {
+        "total": 46680
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6f96ea76cf63639f0031eae5e40f9d2b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6f96ea76cf63639f0031eae5e40f9d2b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6f96ea76cf63639f0031eae5e40f9d2b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/6563333"
+      },
+      "uri": "deezer:artist:6563333"
+    },
+    {
+      "id": "546520",
+      "name": "Thundercat",
+      "popularity": 5,
+      "followers": {
+        "total": 59418
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b2860b5439b003147cbe69c85135d484/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b2860b5439b003147cbe69c85135d484/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b2860b5439b003147cbe69c85135d484/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/546520"
+      },
+      "uri": "deezer:artist:546520"
+    },
+    {
+      "id": "1380184",
+      "name": "Casiopea",
+      "popularity": 1,
+      "followers": {
+        "total": 15396
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bf31874c67f448d151fa2f727dfba534/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bf31874c67f448d151fa2f727dfba534/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bf31874c67f448d151fa2f727dfba534/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1380184"
+      },
+      "uri": "deezer:artist:1380184"
+    },
+    {
+      "id": "452745",
+      "name": "T-Square",
+      "popularity": 32,
+      "followers": {
+        "total": 3228
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5b20d6978a278e47400cb3ec1b240174/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5b20d6978a278e47400cb3ec1b240174/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5b20d6978a278e47400cb3ec1b240174/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/452745"
+      },
+      "uri": "deezer:artist:452745"
+    },
+    {
+      "id": "10702",
+      "name": "Jaco Pastorius",
+      "popularity": 10,
+      "followers": {
+        "total": 103894
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1e2943797761144fe7f0830e01c495af/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1e2943797761144fe7f0830e01c495af/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1e2943797761144fe7f0830e01c495af/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10702"
+      },
+      "uri": "deezer:artist:10702"
+    },
+    {
+      "id": "15326",
+      "name": "John McLaughlin",
+      "popularity": 4,
+      "followers": {
+        "total": 45184
+      },
+      "genres": [
+        "jazz fusion"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a119adbadbe646448e20990dd18dd620/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a119adbadbe646448e20990dd18dd620/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a119adbadbe646448e20990dd18dd620/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/15326"
+      },
+      "uri": "deezer:artist:15326"
+    }
+  ]
+}

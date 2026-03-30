@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2244007917",
+      "name": "No More Lies",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/5/0/1059311b275d723c82d11103447f5b26.mp3?hdnea=exp=1774859917~acl=/api/1/1/1/0/5/0/1059311b275d723c82d11103447f5b26.mp3*~data=user_id=0,application_id=42~hmac=7d7f56bf8a22c6b923beafcd530e77f69d4c881d575b4643d3a419b1d61218d4",
+      "duration_ms": 327000,
+      "track_number": 1,
+      "album": {
+        "id": "431398627",
+        "name": "No More Lies",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74b551f4aface3158d468273275c2dc3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74b551f4aface3158d468273275c2dc3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74b551f4aface3158d468273275c2dc3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2244007917"
+      }
+    },
+    {
+      "id": "3885377231",
+      "name": "ThunderWave",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/e/0/cbe517a466e273698d4660af7d16f778.mp3?hdnea=exp=1774859917~acl=/api/1/1/c/b/e/0/cbe517a466e273698d4660af7d16f778.mp3*~data=user_id=0,application_id=42~hmac=6ad6871d1209e46feffa4cfcda4be7cfbe2b4fc8eb330dc87f5f951feba5a245",
+      "duration_ms": 194000,
+      "track_number": 2,
+      "album": {
+        "id": "934068821",
+        "name": "ThunderWave",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/127c04710ff81c0d136ae0f1a0c1cf5d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/127c04710ff81c0d136ae0f1a0c1cf5d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/127c04710ff81c0d136ae0f1a0c1cf5d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3885377231"
+      }
+    },
+    {
+      "id": "3842705521",
+      "name": "She Knows Too Much",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/2/0/48228a335784fc47578cc4fb33937bb2.mp3?hdnea=exp=1774859917~acl=/api/1/1/4/8/2/0/48228a335784fc47578cc4fb33937bb2.mp3*~data=user_id=0,application_id=42~hmac=8d55daad84391095ed60e2d87cc9a085542bbb7a3de041acc767e0a68cac0562",
+      "duration_ms": 213000,
+      "track_number": 3,
+      "album": {
+        "id": "918296991",
+        "name": "She Knows Too Much",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9629ae22129d0f106318540e9e88de5a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9629ae22129d0f106318540e9e88de5a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9629ae22129d0f106318540e9e88de5a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3842705521"
+      }
+    },
+    {
+      "id": "3794115742",
+      "name": "I Did This To Myself",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/3/0/bd3ba34ee69913be661ade58619aa10b.mp3?hdnea=exp=1774859917~acl=/api/1/1/b/d/3/0/bd3ba34ee69913be661ade58619aa10b.mp3*~data=user_id=0,application_id=42~hmac=f4a3405f24cf6e9bc62d034a052bb8395c3b93a288410438a4c02ca3c9da0252",
+      "duration_ms": 150000,
+      "track_number": 4,
+      "album": {
+        "id": "903754912",
+        "name": "I Did This To Myself",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9629ae22129d0f106318540e9e88de5a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9629ae22129d0f106318540e9e88de5a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9629ae22129d0f106318540e9e88de5a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3794115742"
+      }
+    },
+    {
+      "id": "140787083",
+      "name": "Them Changes",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/3/0/573f0c001e4458a9aa92839ba3cc6fe0.mp3?hdnea=exp=1774859917~acl=/api/1/1/5/7/3/0/573f0c001e4458a9aa92839ba3cc6fe0.mp3*~data=user_id=0,application_id=42~hmac=31ef3f71c62d89c78863a5f4f24f98a5adb10b58d72b5121c8f724a72b869c6c",
+      "duration_ms": 188000,
+      "track_number": 5,
+      "album": {
+        "id": "15174133",
+        "name": "Drunk",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7100c5d0e431f33cca4036583f829b97/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7100c5d0e431f33cca4036583f829b97/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7100c5d0e431f33cca4036583f829b97/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/140787083"
+      }
+    },
+    {
+      "id": "67178772",
+      "name": "Evangelion",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/4/0/594ce14c7ecba29ba05bc5dbf8d9bb44.mp3?hdnea=exp=1774859917~acl=/api/1/1/5/9/4/0/594ce14c7ecba29ba05bc5dbf8d9bb44.mp3*~data=user_id=0,application_id=42~hmac=dc4ff2959152152fa7cb7ddde891966e80bf70260e7b46f01c8b3ff473dae628",
+      "duration_ms": 140000,
+      "track_number": 6,
+      "album": {
+        "id": "6570142",
+        "name": "Apocalypse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/67178772"
+      }
+    },
+    {
+      "id": "67178771",
+      "name": "Lotus and the Jondy",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/2/0/78211b05dad532d3d6299730d47906b3.mp3?hdnea=exp=1774859917~acl=/api/1/1/7/8/2/0/78211b05dad532d3d6299730d47906b3.mp3*~data=user_id=0,application_id=42~hmac=ad12eb2447a5ab2c52ad988b38021848adfbc76332171c23644e14bca495c634",
+      "duration_ms": 292000,
+      "track_number": 7,
+      "album": {
+        "id": "6570142",
+        "name": "Apocalypse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/67178771"
+      }
+    },
+    {
+      "id": "849165492",
+      "name": "Black Qualls (Single Version)",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/8/0/818a9abf4c5b1b92a06ba222c6279dc3.mp3?hdnea=exp=1774859917~acl=/api/1/1/8/1/8/0/818a9abf4c5b1b92a06ba222c6279dc3.mp3*~data=user_id=0,application_id=42~hmac=9e07fb1d83becbc3711c0d6bf27f3c4b6124a824306dc52fc6c7aa27229aeaac",
+      "duration_ms": 196000,
+      "track_number": 8,
+      "album": {
+        "id": "125979692",
+        "name": "Black Qualls (Single Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/18581c68b63622ff3511cd6ef8cd0387/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/18581c68b63622ff3511cd6ef8cd0387/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/18581c68b63622ff3511cd6ef8cd0387/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/849165492"
+      }
+    },
+    {
+      "id": "67178773",
+      "name": "We'll Die",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/0/0/cd082de1fbbf5d51c5b0c7b192c7fb69.mp3?hdnea=exp=1774859917~acl=/api/1/1/c/d/0/0/cd082de1fbbf5d51c5b0c7b192c7fb69.mp3*~data=user_id=0,application_id=42~hmac=4e1fabb00a948080cbe66bedd90bf16474847b8bccb5e8d9d2e870b75b6304ac",
+      "duration_ms": 55000,
+      "track_number": 9,
+      "album": {
+        "id": "6570142",
+        "name": "Apocalypse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2840257d2b8563f39de976381779d29/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/67178773"
+      }
+    },
+    {
+      "id": "140787081",
+      "name": "Friend Zone",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/7/0/da752aaee5a9250e02ba89b2625b7d55.mp3?hdnea=exp=1774859917~acl=/api/1/1/d/a/7/0/da752aaee5a9250e02ba89b2625b7d55.mp3*~data=user_id=0,application_id=42~hmac=98f441998c8cd494e3e8b132b7cde41f769ef6e4ea038bcc96dfad48151779b8",
+      "duration_ms": 192000,
+      "track_number": 10,
+      "album": {
+        "id": "15174133",
+        "name": "Drunk",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7100c5d0e431f33cca4036583f829b97/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7100c5d0e431f33cca4036583f829b97/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7100c5d0e431f33cca4036583f829b97/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "546520",
+          "name": "Thundercat"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/140787081"
+      }
+    }
+  ]
+}

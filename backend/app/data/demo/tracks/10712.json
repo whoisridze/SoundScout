@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "10519531",
+      "name": "Silk Road (Live)",
+      "popularity": 3,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/5/0/215d52e0077d32a1a667ea200e271dd6.mp3?hdnea=exp=1774860095~acl=/api/1/1/2/1/5/0/215d52e0077d32a1a667ea200e271dd6.mp3*~data=user_id=0,application_id=42~hmac=c2c8a50a47ca4805ac06318dca6ff32b72545235e4d8cd60f233370cb46fdb49",
+      "duration_ms": 471000,
+      "track_number": 1,
+      "album": {
+        "id": "962892",
+        "name": "Daylight, Moonlight: Live in Yakushiji",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/48568a6f9f451f279d2d482c886c95bd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/48568a6f9f451f279d2d482c886c95bd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/48568a6f9f451f279d2d482c886c95bd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10519531"
+      }
+    },
+    {
+      "id": "3389493201",
+      "name": "Caravansary (Live) (2025 Remaster)",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/1/0/bb1e566a1439a599c7f16917b465796b.mp3?hdnea=exp=1774860095~acl=/api/1/1/b/b/1/0/bb1e566a1439a599c7f16917b465796b.mp3*~data=user_id=0,application_id=42~hmac=12328c08e21a2f07763d1ff43c493bd74f9e4876231e21859a5a84005e4ef8e8",
+      "duration_ms": 205000,
+      "track_number": 2,
+      "album": {
+        "id": "764105461",
+        "name": "An Enchanted Evening (Live) (2025 Deluxe Edition Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3389493201"
+      }
+    },
+    {
+      "id": "3389493191",
+      "name": "Kokoro (Live) (2025 Remaster)",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/d/0/ccdbf4f29bada50448555c713d08cb7f.mp3?hdnea=exp=1774860095~acl=/api/1/1/c/c/d/0/ccdbf4f29bada50448555c713d08cb7f.mp3*~data=user_id=0,application_id=42~hmac=8457d6e530586d1c14fe8dbda249c7c62e8f310c0f741fc3ef9aef7a5e551867",
+      "duration_ms": 828000,
+      "track_number": 3,
+      "album": {
+        "id": "764105461",
+        "name": "An Enchanted Evening (Live) (2025 Deluxe Edition Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3389493191"
+      }
+    },
+    {
+      "id": "3389493171",
+      "name": "Chant From The Heart (Live) (2025 Remaster)",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/d/0/19da11d4d6ea6b766d106d88d5f76c7f.mp3?hdnea=exp=1774860095~acl=/api/1/1/1/9/d/0/19da11d4d6ea6b766d106d88d5f76c7f.mp3*~data=user_id=0,application_id=42~hmac=01623437dd6bdb369c5880f96fd3795af22d4dc580733c00e05d133b5ca5f36a",
+      "duration_ms": 539000,
+      "track_number": 4,
+      "album": {
+        "id": "764105461",
+        "name": "An Enchanted Evening (Live) (2025 Deluxe Edition Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3389493171"
+      }
+    },
+    {
+      "id": "3389493211",
+      "name": "Fire (Live) (2025 Remaster)",
+      "popularity": 7,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/9/0/339223a83d5bd8b5c203a0b35e01e87c.mp3?hdnea=exp=1774860095~acl=/api/1/1/3/3/9/0/339223a83d5bd8b5c203a0b35e01e87c.mp3*~data=user_id=0,application_id=42~hmac=efd7e206c3b3920ced7dde8def91b7939aba016d832f8b1bdc02ebec15ff73a8",
+      "duration_ms": 600000,
+      "track_number": 5,
+      "album": {
+        "id": "764105461",
+        "name": "An Enchanted Evening (Live) (2025 Deluxe Edition Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3389493211"
+      }
+    },
+    {
+      "id": "3389493251",
+      "name": "Dance Of Sarasvati (Live) (2025 Remaster)",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/b/0/50b38f63044ffe884b360f2f2cc2a654.mp3?hdnea=exp=1774860095~acl=/api/1/1/5/0/b/0/50b38f63044ffe884b360f2f2cc2a654.mp3*~data=user_id=0,application_id=42~hmac=5803d011c0e28e7ef4a62bb934479860ba75fa59c0b4f3c5597be6f2c3fd9a82",
+      "duration_ms": 546000,
+      "track_number": 6,
+      "album": {
+        "id": "764105461",
+        "name": "An Enchanted Evening (Live) (2025 Deluxe Edition Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3389493251"
+      }
+    },
+    {
+      "id": "3389493291",
+      "name": "Winds Of Youth (Live) (2025 Remaster)",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/a/0/08a6b05dd9e20f339de92e944c824fb0.mp3?hdnea=exp=1774860095~acl=/api/1/1/0/8/a/0/08a6b05dd9e20f339de92e944c824fb0.mp3*~data=user_id=0,application_id=42~hmac=57255dbb62671e8b809b27376eef4175139493e3f0c97220433a0fea699e3b30",
+      "duration_ms": 892000,
+      "track_number": 7,
+      "album": {
+        "id": "764105461",
+        "name": "An Enchanted Evening (Live) (2025 Deluxe Edition Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3389493291"
+      }
+    },
+    {
+      "id": "3389493241",
+      "name": "Planet (Live) (2025 Remaster)",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/0/0/f90d849ff374a4196c3e34a0254dcbf9.mp3?hdnea=exp=1774860095~acl=/api/1/1/f/9/0/0/f90d849ff374a4196c3e34a0254dcbf9.mp3*~data=user_id=0,application_id=42~hmac=31af2f9f668181a466f1978f6449a568a8bc28040b29f37b68fc1e0bdedb771a",
+      "duration_ms": 120000,
+      "track_number": 8,
+      "album": {
+        "id": "764105461",
+        "name": "An Enchanted Evening (Live) (2025 Deluxe Edition Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3389493241"
+      }
+    },
+    {
+      "id": "3389493271",
+      "name": "Silk Road (Live) (2025 Remaster)",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/e/0/83eb8412473100107f5eef3466f37b6d.mp3?hdnea=exp=1774860095~acl=/api/1/1/8/3/e/0/83eb8412473100107f5eef3466f37b6d.mp3*~data=user_id=0,application_id=42~hmac=5c103c07ef6acd21975aaa03648a98257f49ddef3b78d1bedafd09b5c015172e",
+      "duration_ms": 480000,
+      "track_number": 9,
+      "album": {
+        "id": "764105461",
+        "name": "An Enchanted Evening (Live) (2025 Deluxe Edition Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3389493271"
+      }
+    },
+    {
+      "id": "3389493281",
+      "name": "Cosmic Love (Live) (2025 Remaster)",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/b/0/d0b4d2229b6d27a2d44a2778cc7289bc.mp3?hdnea=exp=1774860095~acl=/api/1/1/d/0/b/0/d0b4d2229b6d27a2d44a2778cc7289bc.mp3*~data=user_id=0,application_id=42~hmac=0cf4242764032ae9683a6225e580ce6f4044627c32c97b930145b30f373e705f",
+      "duration_ms": 621000,
+      "track_number": 10,
+      "album": {
+        "id": "764105461",
+        "name": "An Enchanted Evening (Live) (2025 Deluxe Edition Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e2995f9ded3c42f44b3d01e4a7844d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10712",
+          "name": "Kitaro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3389493281"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "566492922",
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/3/0/c13dd0a2fdbb66c76e910be48ca2db6f.mp3?hdnea=exp=1774859904~acl=/api/1/1/c/1/3/0/c13dd0a2fdbb66c76e910be48ca2db6f.mp3*~data=user_id=0,application_id=42~hmac=e81985709279e2f0dfff4ead9d00015455459bcc93038839a3a27d2298051331",
+      "duration_ms": 228000,
+      "track_number": 1,
+      "album": {
+        "id": "75308162",
+        "name": "ZEZE (feat. Travis Scott & Offset)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11f00344b1b905a7f1d438ea69d94161/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11f00344b1b905a7f1d438ea69d94161/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11f00344b1b905a7f1d438ea69d94161/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/566492922"
+      }
+    },
+    {
+      "id": "426553152",
+      "name": "Heart Mind",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/f/0/09f1587b57581a9b1946ecbd1a366608.mp3?hdnea=exp=1774859904~acl=/api/1/1/0/9/f/0/09f1587b57581a9b1946ecbd1a366608.mp3*~data=user_id=0,application_id=42~hmac=30a3e90437c7a8367f14a2d0a66dff0cc7ac0c824e18a04174f2d414982e2b99",
+      "duration_ms": 203000,
+      "track_number": 2,
+      "album": {
+        "id": "51322192",
+        "name": "FEMA (Finesse Elevate Motivate Achieve)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afcf69306556a71bc976c936325bdbfd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afcf69306556a71bc976c936325bdbfd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afcf69306556a71bc976c936325bdbfd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/426553152"
+      }
+    },
+    {
+      "id": "142413895",
+      "name": "Tunnel Vision",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/a/0/f4ab261116cc667d8f80c430e2792840.mp3?hdnea=exp=1774859904~acl=/api/1/1/f/4/a/0/f4ab261116cc667d8f80c430e2792840.mp3*~data=user_id=0,application_id=42~hmac=c5504b8b03520bb9af2dff1d92029d1417ec498417c04be6d59cae7a616dfe5d",
+      "duration_ms": 268000,
+      "track_number": 3,
+      "album": {
+        "id": "15395427",
+        "name": "Tunnel Vision",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21a6eb47d3326c2607564a09a7295da6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21a6eb47d3326c2607564a09a7295da6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21a6eb47d3326c2607564a09a7295da6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/142413895"
+      }
+    },
+    {
+      "id": "1589342062",
+      "name": "Love & War",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/8/0/5186d7a6657905363b0b1ad363118c4e.mp3?hdnea=exp=1774859904~acl=/api/1/1/5/1/8/0/5186d7a6657905363b0b1ad363118c4e.mp3*~data=user_id=0,application_id=42~hmac=93c78892f7ba163324f1cdfeff81b32dcc72b998bd6c2d6f21fc5e2e692acb0b",
+      "duration_ms": 239000,
+      "track_number": 4,
+      "album": {
+        "id": "280076242",
+        "name": "Love & War",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ac4946d63182294693d2e86c9e2a4d9f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ac4946d63182294693d2e86c9e2a4d9f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ac4946d63182294693d2e86c9e2a4d9f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1589342062"
+      }
+    },
+    {
+      "id": "553901882",
+      "name": "Wake Up in the Sky",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/5/0/745888af0be35e7939bd006d87341bbc.mp3?hdnea=exp=1774859904~acl=/api/1/1/7/4/5/0/745888af0be35e7939bd006d87341bbc.mp3*~data=user_id=0,application_id=42~hmac=f3768aa7e1f9c616cc11cfa45bc5a3901ab5556954ef1ab6f19edb1d343c52ed",
+      "duration_ms": 204000,
+      "track_number": 5,
+      "album": {
+        "id": "73028472",
+        "name": "Wake Up in the Sky",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93c37fa9c4aa86f5edac9fd0a3ab7b00/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93c37fa9c4aa86f5edac9fd0a3ab7b00/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/93c37fa9c4aa86f5edac9fd0a3ab7b00/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/553901882"
+      }
+    },
+    {
+      "id": "1766771607",
+      "name": "Silent Hill",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/3/0/e135a550862d744974a77627be406100.mp3?hdnea=exp=1774859904~acl=/api/1/1/e/1/3/0/e135a550862d744974a77627be406100.mp3*~data=user_id=0,application_id=42~hmac=a3cde90683323567fea20e9418d4189c73c6b794c6e5358eab21133017737009",
+      "duration_ms": 220000,
+      "track_number": 6,
+      "album": {
+        "id": "322019377",
+        "name": "Mr. Morale & The Big Steppers",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/412361ce41f0bd2595978dbf0e035ad3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/412361ce41f0bd2595978dbf0e035ad3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/412361ce41f0bd2595978dbf0e035ad3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1766771607"
+      }
+    },
+    {
+      "id": "2406399915",
+      "name": "HVN ON EARTH",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/9/0/b590e2fea4fad4744de96b7d6da426fe.mp3?hdnea=exp=1774859904~acl=/api/1/1/b/5/9/0/b590e2fea4fad4744de96b7d6da426fe.mp3*~data=user_id=0,application_id=42~hmac=7c48d755db6a007d4fd7ff8771c4aebd63916ae0e42b6d47a658296109c8b602",
+      "duration_ms": 189000,
+      "track_number": 7,
+      "album": {
+        "id": "475087755",
+        "name": "HVN ON EARTH",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ad4da41387fc4b0310b9945102f07272/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ad4da41387fc4b0310b9945102f07272/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ad4da41387fc4b0310b9945102f07272/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2406399915"
+      }
+    },
+    {
+      "id": "3867838911",
+      "name": "Enemies",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/a/0/6baa19b631dfcdb7c196fa8448fe36ad.mp3?hdnea=exp=1774859904~acl=/api/1/1/6/b/a/0/6baa19b631dfcdb7c196fa8448fe36ad.mp3*~data=user_id=0,application_id=42~hmac=b8ba75ebca950da873d157804ee113c5cabae127685fa85d46f6f6f006a6d159",
+      "duration_ms": 181000,
+      "track_number": 8,
+      "album": {
+        "id": "927486501",
+        "name": "Enemies",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e70feff4059c3d2d2fc996545d1419/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e70feff4059c3d2d2fc996545d1419/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64e70feff4059c3d2d2fc996545d1419/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3867838911"
+      }
+    },
+    {
+      "id": "394000142",
+      "name": "Transportin'",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/f/0/47f8fc80b35bc3b21a02edaf24915120.mp3?hdnea=exp=1774859904~acl=/api/1/1/4/7/f/0/47f8fc80b35bc3b21a02edaf24915120.mp3*~data=user_id=0,application_id=42~hmac=86f39cea1c5cca1f9de579f7906dbbe17993a0c5285f743513a632b9998df626",
+      "duration_ms": 169000,
+      "track_number": 9,
+      "album": {
+        "id": "46179942",
+        "name": "Project Baby 2: All Grown Up",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/424fb9f642df62279aeeb0eae321ec01/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/424fb9f642df62279aeeb0eae321ec01/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/424fb9f642df62279aeeb0eae321ec01/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/394000142"
+      }
+    },
+    {
+      "id": "430494012",
+      "name": "Roll in Peace (feat. XXXTENTACION)",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/5/0/135e50d43aee7a51a4d17df8f4bd5f4b.mp3?hdnea=exp=1774859904~acl=/api/1/1/1/3/5/0/135e50d43aee7a51a4d17df8f4bd5f4b.mp3*~data=user_id=0,application_id=42~hmac=05e07fd742c33bfb897e63baa9982ceabfb901ad1039bbbe791adb518979a7b1",
+      "duration_ms": 213000,
+      "track_number": 10,
+      "album": {
+        "id": "51915172",
+        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0a4271a85b9360da293225d1b8b274a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0a4271a85b9360da293225d1b8b274a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0a4271a85b9360da293225d1b8b274a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7260670",
+          "name": "Kodak Black"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/430494012"
+      }
+    }
+  ]
+}

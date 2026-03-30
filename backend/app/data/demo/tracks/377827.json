@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3474886161",
+      "name": "Pretty Crew",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/6/0/406f55d913fbd1519f2028c1c311efa1.mp3?hdnea=exp=1774860111~acl=/api/1/1/4/0/6/0/406f55d913fbd1519f2028c1c311efa1.mp3*~data=user_id=0,application_id=42~hmac=350a806dfc74a4e458b0e2184820957fed826ce23dc92b4890afbca0f45a36cd",
+      "duration_ms": 186000,
+      "track_number": 1,
+      "album": {
+        "id": "793098651",
+        "name": "Pretty Crew",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c07c2757656fe4f73a30233f2d27f5ff/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c07c2757656fe4f73a30233f2d27f5ff/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c07c2757656fe4f73a30233f2d27f5ff/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3474886161"
+      }
+    },
+    {
+      "id": "3869642561",
+      "name": "TEKTIME",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/a/0/fdad6915a17379448d901a029da73280.mp3?hdnea=exp=1774860111~acl=/api/1/1/f/d/a/0/fdad6915a17379448d901a029da73280.mp3*~data=user_id=0,application_id=42~hmac=01422306e2024a7b92e3401f47f1f0826d059e32161a3671ed8e48c34a9dfd38",
+      "duration_ms": 128000,
+      "track_number": 2,
+      "album": {
+        "id": "928113271",
+        "name": "FOR THE GIRLIES",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/549bcd39a9d3432a9b553b56a10d93dc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/549bcd39a9d3432a9b553b56a10d93dc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/549bcd39a9d3432a9b553b56a10d93dc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3869642561"
+      }
+    },
+    {
+      "id": "3848176151",
+      "name": "One Million Bees",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/3/0/bf36707785f88cb139a0a6e6951958ab.mp3?hdnea=exp=1774860111~acl=/api/1/1/b/f/3/0/bf36707785f88cb139a0a6e6951958ab.mp3*~data=user_id=0,application_id=42~hmac=a44d21139105d0f6442d43a0d38262639cc1a033b6fd051c652162f57c3dfdca",
+      "duration_ms": 204000,
+      "track_number": 3,
+      "album": {
+        "id": "920544491",
+        "name": "One Million Bees",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b837f7007bb8fde37e45ba27cd5d31ca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b837f7007bb8fde37e45ba27cd5d31ca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b837f7007bb8fde37e45ba27cd5d31ca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3848176151"
+      }
+    },
+    {
+      "id": "3804553492",
+      "name": "Chosen",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/c/0/dbce636a6a79697b0d9bd8a575414e43.mp3?hdnea=exp=1774860111~acl=/api/1/1/d/b/c/0/dbce636a6a79697b0d9bd8a575414e43.mp3*~data=user_id=0,application_id=42~hmac=84e0950ae93566530ffb468461e10ba8705c94115614e0800d451ec1c72e8b5a",
+      "duration_ms": 192000,
+      "track_number": 4,
+      "album": {
+        "id": "905622512",
+        "name": "Chosen",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eece1cb820b71f444714d5a5a600695e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eece1cb820b71f444714d5a5a600695e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eece1cb820b71f444714d5a5a600695e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3804553492"
+      }
+    },
+    {
+      "id": "3490647171",
+      "name": "Vex (feat. MIST & Popcaan)",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/a/0/baa9f667928d550f57e4ab8ac6a9de75.mp3?hdnea=exp=1774860111~acl=/api/1/1/b/a/a/0/baa9f667928d550f57e4ab8ac6a9de75.mp3*~data=user_id=0,application_id=42~hmac=285bd7ce5fe67939a2fae3ca3986b13561ca9411f272cd6e0f1e832c7b2cff33",
+      "duration_ms": 198000,
+      "track_number": 5,
+      "album": {
+        "id": "798911031",
+        "name": "RUDIM3NTAL",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7040bb5d6131ab806ca1d968b328054a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7040bb5d6131ab806ca1d968b328054a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7040bb5d6131ab806ca1d968b328054a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3490647171"
+      }
+    },
+    {
+      "id": "952026272",
+      "name": "Wine For Me",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/4/0/02454cb257fd1faabea40611ed84cae5.mp3?hdnea=exp=1774860111~acl=/api/1/1/0/2/4/0/02454cb257fd1faabea40611ed84cae5.mp3*~data=user_id=0,application_id=42~hmac=e3d9ffedf9b187b47fe7c184f6bbde898e16d6e0c281188db08912e7bf5b88fd",
+      "duration_ms": 189000,
+      "track_number": 6,
+      "album": {
+        "id": "146515732",
+        "name": "Forever",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f964c43946dc4486205f00b98a75176d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f964c43946dc4486205f00b98a75176d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f964c43946dc4486205f00b98a75176d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/952026272"
+      }
+    },
+    {
+      "id": "1041055612",
+      "name": "Like Royalty (feat. Popcaan)",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/6/0/f36cd1f21a416d78ae16b396daa12158.mp3?hdnea=exp=1774860111~acl=/api/1/1/f/3/6/0/f36cd1f21a416d78ae16b396daa12158.mp3*~data=user_id=0,application_id=42~hmac=42c8b52c44d5e6b0338e48bc004b3fe76d20cf7f97ebf1591d7af7c037880f42",
+      "duration_ms": 245000,
+      "track_number": 7,
+      "album": {
+        "id": "164790272",
+        "name": "Like Royalty (feat. Popcaan)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69d00129f6f54280c370b536bdbdbfc1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69d00129f6f54280c370b536bdbdbfc1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/69d00129f6f54280c370b536bdbdbfc1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1041055612"
+      }
+    },
+    {
+      "id": "2349470275",
+      "name": "We Caa Done (feat. Drake)",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/1/0/f712e45ca3cea6d354ab137febed32f0.mp3?hdnea=exp=1774860111~acl=/api/1/1/f/7/1/0/f712e45ca3cea6d354ab137febed32f0.mp3*~data=user_id=0,application_id=42~hmac=3d016b893a5dc8381151add9c0f7c5b7cf76f7d2ec8963cacac7f41d42525d8e",
+      "duration_ms": 245000,
+      "track_number": 8,
+      "album": {
+        "id": "459456725",
+        "name": "We Caa Done (feat. Drake)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c16bd02b8af7fb82bac87718c38abaf4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c16bd02b8af7fb82bac87718c38abaf4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c16bd02b8af7fb82bac87718c38abaf4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2349470275"
+      }
+    },
+    {
+      "id": "399864662",
+      "name": "Anytime",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/4/0/a44d9290f5348fc6b369101362b61e2a.mp3?hdnea=exp=1774860111~acl=/api/1/1/a/4/4/0/a44d9290f5348fc6b369101362b61e2a.mp3*~data=user_id=0,application_id=42~hmac=774c42348d924248902194039cf6611e8dd28570f2e98a99d1ade0d93923b1a8",
+      "duration_ms": 193000,
+      "track_number": 9,
+      "album": {
+        "id": "47054062",
+        "name": "Anytime",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fab7f2216dec2f225a8b8212e948359d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fab7f2216dec2f225a8b8212e948359d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fab7f2216dec2f225a8b8212e948359d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399864662"
+      }
+    },
+    {
+      "id": "1438732072",
+      "name": "Pool Party",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/c/0/3dc12611069e15d0a95f005cefdcd735.mp3?hdnea=exp=1774860111~acl=/api/1/1/3/d/c/0/3dc12611069e15d0a95f005cefdcd735.mp3*~data=user_id=0,application_id=42~hmac=fb8f9dd24e81d6a10ff31911d2de7f1e0532446cbf61dfe8b87661b9608dab47",
+      "duration_ms": 185000,
+      "track_number": 10,
+      "album": {
+        "id": "245616252",
+        "name": "Pool Party",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b47d906a292c99991eb274841111c4e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b47d906a292c99991eb274841111c4e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b47d906a292c99991eb274841111c4e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "377827",
+          "name": "Popcaan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1438732072"
+      }
+    }
+  ]
+}

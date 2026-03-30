@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "585704662",
+      "name": "Hallowed Be Thy Name (2015 Remaster)",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/f/0/14fc901ed2511063923251320daadf48.mp3?hdnea=exp=1774860022~acl=/api/1/1/1/4/f/0/14fc901ed2511063923251320daadf48.mp3*~data=user_id=0,application_id=42~hmac=fc0a79b04c80ce7e1ad452b5b039eacf35200666fa5cdd92d89c6f1ba3bac863",
+      "duration_ms": 431000,
+      "track_number": 1,
+      "album": {
+        "id": "78648022",
+        "name": "The Number of the Beast (2015 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed7d6130119c3a0afa60499ae8e9599/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed7d6130119c3a0afa60499ae8e9599/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed7d6130119c3a0afa60499ae8e9599/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585704662"
+      }
+    },
+    {
+      "id": "585608872",
+      "name": "Fear of the Dark (2015 Remaster)",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/b/0/7fb8c0d7e807e0b0c21b4c5f7cbba5a2.mp3?hdnea=exp=1774860022~acl=/api/1/1/7/f/b/0/7fb8c0d7e807e0b0c21b4c5f7cbba5a2.mp3*~data=user_id=0,application_id=42~hmac=6d6a6591a6de13a67bd07e5f7873d9f7929e61128c94c2b6299112bcfd1b4a6a",
+      "duration_ms": 438000,
+      "track_number": 2,
+      "album": {
+        "id": "78630952",
+        "name": "Fear of the Dark (2015 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f0a2bbd32cdc42b5bf13f3344797bf94/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f0a2bbd32cdc42b5bf13f3344797bf94/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f0a2bbd32cdc42b5bf13f3344797bf94/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585608872"
+      }
+    },
+    {
+      "id": "585608812",
+      "name": "Wasting Love (2015 Remaster)",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/4/0/6040b031bac949e7b94ea9749b9e4b58.mp3?hdnea=exp=1774860022~acl=/api/1/1/6/0/4/0/6040b031bac949e7b94ea9749b9e4b58.mp3*~data=user_id=0,application_id=42~hmac=823dc03ecab43fdc55cc828a8130df9fcff836712add230424f8f42c741a2af7",
+      "duration_ms": 351000,
+      "track_number": 3,
+      "album": {
+        "id": "78630952",
+        "name": "Fear of the Dark (2015 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f0a2bbd32cdc42b5bf13f3344797bf94/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f0a2bbd32cdc42b5bf13f3344797bf94/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f0a2bbd32cdc42b5bf13f3344797bf94/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585608812"
+      }
+    },
+    {
+      "id": "585704542",
+      "name": "The Trooper (2015 Remaster)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/4/0/e14fcd40ed4db13193cc1ef50595c4a5.mp3?hdnea=exp=1774860022~acl=/api/1/1/e/1/4/0/e14fcd40ed4db13193cc1ef50595c4a5.mp3*~data=user_id=0,application_id=42~hmac=d99c07904db09541f17da8bdf44da6a3ca19805812b05a5a6df23a13afea3e63",
+      "duration_ms": 252000,
+      "track_number": 4,
+      "album": {
+        "id": "78648012",
+        "name": "Piece of Mind (2015 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f606b39b6ef26c7dbcf69efaebc8f97/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f606b39b6ef26c7dbcf69efaebc8f97/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f606b39b6ef26c7dbcf69efaebc8f97/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585704542"
+      }
+    },
+    {
+      "id": "585704632",
+      "name": "The Number of the Beast (2015 Remaster)",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/8/0/5481986f74cb3a44838c0e2785d76c65.mp3?hdnea=exp=1774860022~acl=/api/1/1/5/4/8/0/5481986f74cb3a44838c0e2785d76c65.mp3*~data=user_id=0,application_id=42~hmac=acefd3338fd88e3472cdc278cd70f9488c4f1d2772d12a33e367478bcc7248a3",
+      "duration_ms": 290000,
+      "track_number": 5,
+      "album": {
+        "id": "78648022",
+        "name": "The Number of the Beast (2015 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed7d6130119c3a0afa60499ae8e9599/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed7d6130119c3a0afa60499ae8e9599/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed7d6130119c3a0afa60499ae8e9599/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585704632"
+      }
+    },
+    {
+      "id": "585864322",
+      "name": "Heaven Can Wait (2015 Remaster)",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/7/0/247ea62a62ce3e59438e81d772275d70.mp3?hdnea=exp=1774860022~acl=/api/1/1/2/4/7/0/247ea62a62ce3e59438e81d772275d70.mp3*~data=user_id=0,application_id=42~hmac=057431c2dabc9a01e9a5f314ce82f0792c71789f861d09417b0534b56a0b8539",
+      "duration_ms": 443000,
+      "track_number": 6,
+      "album": {
+        "id": "78675632",
+        "name": "Somewhere in Time (2015 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed45df196ced0e018b9a8f99cdd79012/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed45df196ced0e018b9a8f99cdd79012/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed45df196ced0e018b9a8f99cdd79012/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585864322"
+      }
+    },
+    {
+      "id": "585864362",
+      "name": "Alexander the Great (356-323 B.C.) (2015 Remaster)",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/c/0/a0cd275ba56e4ce5a464bf5bffd645a8.mp3?hdnea=exp=1774860022~acl=/api/1/1/a/0/c/0/a0cd275ba56e4ce5a464bf5bffd645a8.mp3*~data=user_id=0,application_id=42~hmac=f3513ae69ea7ff15942ca6c18d805ec3453ae46233c5951644aad2aa68ada026",
+      "duration_ms": 517000,
+      "track_number": 7,
+      "album": {
+        "id": "78675632",
+        "name": "Somewhere in Time (2015 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed45df196ced0e018b9a8f99cdd79012/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed45df196ced0e018b9a8f99cdd79012/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed45df196ced0e018b9a8f99cdd79012/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585864362"
+      }
+    },
+    {
+      "id": "106462958",
+      "name": "The Book of Souls",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/1/0/e61d03cdd403e110140e3b418efb0409.mp3?hdnea=exp=1774860022~acl=/api/1/1/e/6/1/0/e61d03cdd403e110140e3b418efb0409.mp3*~data=user_id=0,application_id=42~hmac=fadfca4e1b447acc7d3f53c6127338f54258be868c7d6c131c305591a0ef2f7f",
+      "duration_ms": 627000,
+      "track_number": 8,
+      "album": {
+        "id": "11102328",
+        "name": "The Book of Souls",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2143a76503ffa8a555cf0c95b7b435c9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2143a76503ffa8a555cf0c95b7b435c9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2143a76503ffa8a555cf0c95b7b435c9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/106462958"
+      }
+    },
+    {
+      "id": "585604442",
+      "name": "Prowler (2015 Remaster)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/c/0/94c27432d4fab7dcf5313e6152db4d48.mp3?hdnea=exp=1774860022~acl=/api/1/1/9/4/c/0/94c27432d4fab7dcf5313e6152db4d48.mp3*~data=user_id=0,application_id=42~hmac=49af7e22042253f65403dbe55caffc927460344b4a225db6a771de0ecfc47ac0",
+      "duration_ms": 235000,
+      "track_number": 9,
+      "album": {
+        "id": "78630352",
+        "name": "Iron Maiden (2015 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63e115578d6b7087fcca3de8502de1d5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63e115578d6b7087fcca3de8502de1d5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63e115578d6b7087fcca3de8502de1d5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585604442"
+      }
+    },
+    {
+      "id": "585704602",
+      "name": "Children of the Damned (2015 Remaster)",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/c/0/c4c57d68ebab21e820476bee76be347a.mp3?hdnea=exp=1774860022~acl=/api/1/1/c/4/c/0/c4c57d68ebab21e820476bee76be347a.mp3*~data=user_id=0,application_id=42~hmac=702d907f5108f2e8b63ec602bb6a0aa5f6304b53339c682369e4dd09e623d054",
+      "duration_ms": 275000,
+      "track_number": 10,
+      "album": {
+        "id": "78648022",
+        "name": "The Number of the Beast (2015 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed7d6130119c3a0afa60499ae8e9599/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed7d6130119c3a0afa60499ae8e9599/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ed7d6130119c3a0afa60499ae8e9599/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "931",
+          "name": "Iron Maiden"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585704602"
+      }
+    }
+  ]
+}

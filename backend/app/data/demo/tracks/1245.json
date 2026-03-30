@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "395723882",
+      "name": "The Heart from Your Hate",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/6/0/29667528addf763aa35311aa42443c0c.mp3?hdnea=exp=1774860030~acl=/api/1/1/2/9/6/0/29667528addf763aa35311aa42443c0c.mp3*~data=user_id=0,application_id=42~hmac=b9d11c6386837fcded839baf7278750ed96c934b9dca8b1e8107c3264a0f3cea",
+      "duration_ms": 244000,
+      "track_number": 1,
+      "album": {
+        "id": "46454462",
+        "name": "The Heart from Your Hate",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d0f1c66fa8e8a7485268b3c5485a4a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d0f1c66fa8e8a7485268b3c5485a4a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d0f1c66fa8e8a7485268b3c5485a4a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/395723882"
+      }
+    },
+    {
+      "id": "105981990",
+      "name": "Until the World Goes Cold",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/b/0/5eb6f5cea0377a87083ed29d7835dd65.mp3?hdnea=exp=1774860030~acl=/api/1/1/5/e/b/0/5eb6f5cea0377a87083ed29d7835dd65.mp3*~data=user_id=0,application_id=42~hmac=834ab8814040b4e8bfc485f6a36c5a06873de7270bafa28853089620ad296da0",
+      "duration_ms": 321000,
+      "track_number": 2,
+      "album": {
+        "id": "11046850",
+        "name": "Until the World Goes Cold",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37f8ef3db287adf0e1241b12b719dc40/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37f8ef3db287adf0e1241b12b719dc40/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37f8ef3db287adf0e1241b12b719dc40/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/105981990"
+      }
+    },
+    {
+      "id": "13100214",
+      "name": "Inception of the End",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/1/0/451244dba9b27e752298a01f08780956.mp3?hdnea=exp=1774860030~acl=/api/1/1/4/5/1/0/451244dba9b27e752298a01f08780956.mp3*~data=user_id=0,application_id=42~hmac=341618cdbc0f8f81abd70c9722bf4081fd60b477faffdaf39416443175783e4d",
+      "duration_ms": 228000,
+      "track_number": 3,
+      "album": {
+        "id": "1202354",
+        "name": "In Waves (Special Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9327a238660d066c36638e70f60b49ae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9327a238660d066c36638e70f60b49ae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9327a238660d066c36638e70f60b49ae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13100214"
+      }
+    },
+    {
+      "id": "847140",
+      "name": "Pull Harder on the Strings of Your Martyr",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/6/0/b76b0e7248a4a9d4281bfd54c835e075.mp3?hdnea=exp=1774860030~acl=/api/1/1/b/7/6/0/b76b0e7248a4a9d4281bfd54c835e075.mp3*~data=user_id=0,application_id=42~hmac=21cc83a32d2210f8e18cd0fe5c0053d8bd5d08457a7e1ec500a51a963cabac83",
+      "duration_ms": 291000,
+      "track_number": 4,
+      "album": {
+        "id": "97419",
+        "name": "Ascendancy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b0b8432d88807f31366c21208c8db66/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b0b8432d88807f31366c21208c8db66/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b0b8432d88807f31366c21208c8db66/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/847140"
+      }
+    },
+    {
+      "id": "937088602",
+      "name": "Bleed Into Me",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/0/0/dc04120b5fb06f24f084cb8b1844586f.mp3?hdnea=exp=1774860030~acl=/api/1/1/d/c/0/0/dc04120b5fb06f24f084cb8b1844586f.mp3*~data=user_id=0,application_id=42~hmac=f8db0ab9223c2e5b70c77a085c9b941a5c4f0ca429c6695b3f06fb956a17738f",
+      "duration_ms": 228000,
+      "track_number": 5,
+      "album": {
+        "id": "143334442",
+        "name": "What The Dead Men Say",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94f0968b7bfd1db8eeac5833fea8294b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94f0968b7bfd1db8eeac5833fea8294b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94f0968b7bfd1db8eeac5833fea8294b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/937088602"
+      }
+    },
+    {
+      "id": "1497369022",
+      "name": "The Phalanx",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/5/0/4954bdc3a8e97b43735e3e9e8133a24a.mp3?hdnea=exp=1774860030~acl=/api/1/1/4/9/5/0/4954bdc3a8e97b43735e3e9e8133a24a.mp3*~data=user_id=0,application_id=42~hmac=09cc08465b0d148f244e70e830a8a9fc4b979c78971124045a0945f7086222f5",
+      "duration_ms": 435000,
+      "track_number": 6,
+      "album": {
+        "id": "259652022",
+        "name": "In The Court Of The Dragon",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be7a40bcbb0143997a4661ff7131fbd3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be7a40bcbb0143997a4661ff7131fbd3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be7a40bcbb0143997a4661ff7131fbd3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1497369022"
+      }
+    },
+    {
+      "id": "417068372",
+      "name": "Beyond Oblivion",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/7/0/b275d49fddab4fa06b2abe8fc946cd3b.mp3?hdnea=exp=1774860030~acl=/api/1/1/b/2/7/0/b275d49fddab4fa06b2abe8fc946cd3b.mp3*~data=user_id=0,application_id=42~hmac=1fd81aa02b9c55ccad4590b2c712b8159278890069365305e9ea5c019c559ac0",
+      "duration_ms": 316000,
+      "track_number": 7,
+      "album": {
+        "id": "49808902",
+        "name": "The Sin and the Sentence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d0f1c66fa8e8a7485268b3c5485a4a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d0f1c66fa8e8a7485268b3c5485a4a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d0f1c66fa8e8a7485268b3c5485a4a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/417068372"
+      }
+    },
+    {
+      "id": "886142212",
+      "name": "Catastrophist",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/1/0/671b50789bb94ee6f34e2f486fc0a53e.mp3?hdnea=exp=1774860030~acl=/api/1/1/6/7/1/0/671b50789bb94ee6f34e2f486fc0a53e.mp3*~data=user_id=0,application_id=42~hmac=8c25f208f57beb0ff8347dcc74749a9e1583253a37cc9b6bc1ba5d7f14f8e7d3",
+      "duration_ms": 388000,
+      "track_number": 8,
+      "album": {
+        "id": "133216062",
+        "name": "Catastrophist",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94f0968b7bfd1db8eeac5833fea8294b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94f0968b7bfd1db8eeac5833fea8294b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94f0968b7bfd1db8eeac5833fea8294b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/886142212"
+      }
+    },
+    {
+      "id": "937088632",
+      "name": "Scattering The Ashes",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/9/0/f7941921d3d5e534ee4e7e231a489733.mp3?hdnea=exp=1774860030~acl=/api/1/1/f/7/9/0/f7941921d3d5e534ee4e7e231a489733.mp3*~data=user_id=0,application_id=42~hmac=a8c09f7a568e8ad8e53cb8ee31d6ca8e5713efd3ed5da82b9f87fd36a3656956",
+      "duration_ms": 204000,
+      "track_number": 9,
+      "album": {
+        "id": "143334442",
+        "name": "What The Dead Men Say",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94f0968b7bfd1db8eeac5833fea8294b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94f0968b7bfd1db8eeac5833fea8294b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94f0968b7bfd1db8eeac5833fea8294b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/937088632"
+      }
+    },
+    {
+      "id": "417068362",
+      "name": "The Sin and the Sentence",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/2/0/5d24db265b2c1f009918d1b00e37915c.mp3?hdnea=exp=1774860030~acl=/api/1/1/5/d/2/0/5d24db265b2c1f009918d1b00e37915c.mp3*~data=user_id=0,application_id=42~hmac=20dc0cc90b41073b426a410ac451761f5e3d0533dd34e50b6f701c33f3b47920",
+      "duration_ms": 349000,
+      "track_number": 10,
+      "album": {
+        "id": "49808902",
+        "name": "The Sin and the Sentence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d0f1c66fa8e8a7485268b3c5485a4a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d0f1c66fa8e8a7485268b3c5485a4a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d0f1c66fa8e8a7485268b3c5485a4a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1245",
+          "name": "Trivium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/417068362"
+      }
+    }
+  ]
+}

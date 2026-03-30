@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3086954731",
+      "name": "Qué Pasaría...",
+      "popularity": 92,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/0/0/010683b8892a4a169a3d1934792c41f6.mp3?hdnea=exp=1774860014~acl=/api/1/1/0/1/0/0/010683b8892a4a169a3d1934792c41f6.mp3*~data=user_id=0,application_id=42~hmac=de02a58c586415ac7b3b0aa4ca84996dbf409a3be04d257b5d635a718b7474d1",
+      "duration_ms": 191000,
+      "track_number": 1,
+      "album": {
+        "id": "668910861",
+        "name": "Cosa Nuestra",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0d8fa0d1fc73fa9a95facfa53f39222/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0d8fa0d1fc73fa9a95facfa53f39222/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0d8fa0d1fc73fa9a95facfa53f39222/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3086954731"
+      }
+    },
+    {
+      "id": "2725148591",
+      "name": "Santa",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/b/0/8ebcb44f7900b1a20dc8e31d2507fba2.mp3?hdnea=exp=1774860014~acl=/api/1/1/8/e/b/0/8ebcb44f7900b1a20dc8e31d2507fba2.mp3*~data=user_id=0,application_id=42~hmac=7b6c7d585de133233305f6f4c16152ec7046cc7744d88fd9c97dde398e95ea6b",
+      "duration_ms": 192000,
+      "track_number": 2,
+      "album": {
+        "id": "565722141",
+        "name": "Santa",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/965eeb50245f3178580ac5bda885e56b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/965eeb50245f3178580ac5bda885e56b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/965eeb50245f3178580ac5bda885e56b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2725148591"
+      }
+    },
+    {
+      "id": "3879862701",
+      "name": "PONGO",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/6/0/cc6676666011bb35ca8b599914e6164f.mp3?hdnea=exp=1774860014~acl=/api/1/1/c/c/6/0/cc6676666011bb35ca8b599914e6164f.mp3*~data=user_id=0,application_id=42~hmac=3a158c7ebe8d0ade4af4162543dc5100af99e1f7fba3633f6849f440c8ff88df",
+      "duration_ms": 192000,
+      "track_number": 3,
+      "album": {
+        "id": "931991361",
+        "name": "PONGO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c375742fde996cc7328543e51b42f4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c375742fde996cc7328543e51b42f4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c375742fde996cc7328543e51b42f4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3879862701"
+      }
+    },
+    {
+      "id": "2352913965",
+      "name": "DILUVIO",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/0/0/b7020330acee6a5f628fbf5650ba9009.mp3?hdnea=exp=1774860014~acl=/api/1/1/b/7/0/0/b7020330acee6a5f628fbf5650ba9009.mp3*~data=user_id=0,application_id=42~hmac=4863acc9ecc92e2fe1fce74dfaea38466cd4d5bf64073bcca2076f3ca85a7337",
+      "duration_ms": 197000,
+      "track_number": 4,
+      "album": {
+        "id": "460518515",
+        "name": "PLAYA SATURNO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00e071a1d8e65037e37e38c3ff673ef0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00e071a1d8e65037e37e38c3ff673ef0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00e071a1d8e65037e37e38c3ff673ef0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2352913965"
+      }
+    },
+    {
+      "id": "1718098247",
+      "name": "Te Felicito",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/b/0/22b8a5609f8440da2e26ad3c3a8f4ab0.mp3?hdnea=exp=1774860014~acl=/api/1/1/2/2/b/0/22b8a5609f8440da2e26ad3c3a8f4ab0.mp3*~data=user_id=0,application_id=42~hmac=174f81280c511c51ac83084d36db5f371ec84aaf6e8865ffd641cffdf4b01aac",
+      "duration_ms": 172000,
+      "track_number": 5,
+      "album": {
+        "id": "310478997",
+        "name": "Te Felicito",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28f42c9a3641c18d5cbdd4c5561ecc2a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28f42c9a3641c18d5cbdd4c5561ecc2a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28f42c9a3641c18d5cbdd4c5561ecc2a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1718098247"
+      }
+    },
+    {
+      "id": "3569808591",
+      "name": "CONTRABANDO",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/4/0/0f4cdfebe80848bfbb6be1179d469e8a.mp3?hdnea=exp=1774860014~acl=/api/1/1/0/f/4/0/0f4cdfebe80848bfbb6be1179d469e8a.mp3*~data=user_id=0,application_id=42~hmac=0fcdcf01b4ce3ee13f1a375b4c6488a6603c47fb66bf0c35594bd26a19a5b2f9",
+      "duration_ms": 176000,
+      "track_number": 6,
+      "album": {
+        "id": "826365121",
+        "name": "Cosa Nuestra: Capítulo 0",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17126f1338dfb9743ccf1b54b2c7ab2b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3569808591"
+      }
+    },
+    {
+      "id": "2200304477",
+      "name": "VAMPIROS",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/9/0/dd91cd2f29495ded4ff9091ffda8a179.mp3?hdnea=exp=1774860014~acl=/api/1/1/d/d/9/0/dd91cd2f29495ded4ff9091ffda8a179.mp3*~data=user_id=0,application_id=42~hmac=83b01862585209a38f56008a366ded3cde31f9ed06b7f5662f0cd3a4b80b831a",
+      "duration_ms": 176000,
+      "track_number": 7,
+      "album": {
+        "id": "419715397",
+        "name": "RR",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/47be3894ae3c7fb4d5e86167eed8cbcd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/47be3894ae3c7fb4d5e86167eed8cbcd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/47be3894ae3c7fb4d5e86167eed8cbcd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2200304477"
+      }
+    },
+    {
+      "id": "3086954711",
+      "name": "Cosa Nuestra",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/0/0/5f01205b15e304e7f40762947ab5eded.mp3?hdnea=exp=1774860014~acl=/api/1/1/5/f/0/0/5f01205b15e304e7f40762947ab5eded.mp3*~data=user_id=0,application_id=42~hmac=89514a59f9b624be6d4fcb397ad496f0e867e7fb955611661392f08f66a8478a",
+      "duration_ms": 261000,
+      "track_number": 8,
+      "album": {
+        "id": "668910861",
+        "name": "Cosa Nuestra",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0d8fa0d1fc73fa9a95facfa53f39222/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0d8fa0d1fc73fa9a95facfa53f39222/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0d8fa0d1fc73fa9a95facfa53f39222/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3086954711"
+      }
+    },
+    {
+      "id": "1370066842",
+      "name": "Todo De Ti",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/a/0/3ba5a4ddf058e58c87bb193fe73761a5.mp3?hdnea=exp=1774860014~acl=/api/1/1/3/b/a/0/3ba5a4ddf058e58c87bb193fe73761a5.mp3*~data=user_id=0,application_id=42~hmac=b037d0cb034627c72eaf0743fa31a4e993079de85b948cdea8db693704996e37",
+      "duration_ms": 203000,
+      "track_number": 9,
+      "album": {
+        "id": "229571852",
+        "name": "Todo De Ti",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7167a61f54a62c453f4d99ee59c151a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7167a61f54a62c453f4d99ee59c151a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7167a61f54a62c453f4d99ee59c151a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1370066842"
+      }
+    },
+    {
+      "id": "3539564361",
+      "name": "GuabanSexxx",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/a/0/fdaa56aff2bc397652ba0d0fb42e2453.mp3?hdnea=exp=1774860014~acl=/api/1/1/f/d/a/0/fdaa56aff2bc397652ba0d0fb42e2453.mp3*~data=user_id=0,application_id=42~hmac=8abd511ebdcc41d1ebe46a442e973be3de565fcad2bab6f83f65aa3aed1320cf",
+      "duration_ms": 160000,
+      "track_number": 10,
+      "album": {
+        "id": "815615341",
+        "name": "GuabanSexxx",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fa778ac4add18c93977fcae56d32798/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fa778ac4add18c93977fcae56d32798/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fa778ac4add18c93977fcae56d32798/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11289472",
+          "name": "Rauw Alejandro"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3539564361"
+      }
+    }
+  ]
+}

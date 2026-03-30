@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "64633510",
+      "name": "Doused",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/e/0/edeb6b58788cbde6d20d581920a24cfa.mp3?hdnea=exp=1774859896~acl=/api/1/1/e/d/e/0/edeb6b58788cbde6d20d581920a24cfa.mp3*~data=user_id=0,application_id=42~hmac=c1f604b7652302c5d50bec65db03402b33763196f6bc1e1872050db4f4425147",
+      "duration_ms": 223000,
+      "track_number": 1,
+      "album": {
+        "id": "6332024",
+        "name": "Oshin",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/120ba9edcbf6785427808c49ed5c68cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/120ba9edcbf6785427808c49ed5c68cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/120ba9edcbf6785427808c49ed5c68cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64633510"
+      }
+    },
+    {
+      "id": "2677806142",
+      "name": "Soul-net",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/3/0/3433af5bceae191d08e5d4e545bcfd5d.mp3?hdnea=exp=1774859896~acl=/api/1/1/3/4/3/0/3433af5bceae191d08e5d4e545bcfd5d.mp3*~data=user_id=0,application_id=42~hmac=113a0c74247a7b42db50f2487cb15927364bda8e910d05c1b2b2494c2e1d12bc",
+      "duration_ms": 264000,
+      "track_number": 2,
+      "album": {
+        "id": "552538152",
+        "name": "Soul-net",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ef196f67149a7da3fe6f0e3b4fb7a09/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ef196f67149a7da3fe6f0e3b4fb7a09/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ef196f67149a7da3fe6f0e3b4fb7a09/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2677806142"
+      }
+    },
+    {
+      "id": "734156392",
+      "name": "Blankenship",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/c/0/22c98530955aaeb502c0e68dcfd07ef9.mp3?hdnea=exp=1774859896~acl=/api/1/1/2/2/c/0/22c98530955aaeb502c0e68dcfd07ef9.mp3*~data=user_id=0,application_id=42~hmac=ca4e5c7d8f21ee049589ffbb6add8927b52a0d4d2ebc1c0c0e7adcfc4d1da75c",
+      "duration_ms": 236000,
+      "track_number": 3,
+      "album": {
+        "id": "107832022",
+        "name": "Deceiver",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b553d0d58de03b4f255b3e2787428281/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b553d0d58de03b4f255b3e2787428281/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b553d0d58de03b4f255b3e2787428281/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/734156392"
+      }
+    },
+    {
+      "id": "64633499",
+      "name": "(Druun)",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/f/0/fef1171f5e42d5f00b0d8aacdbceedb0.mp3?hdnea=exp=1774859896~acl=/api/1/1/f/e/f/0/fef1171f5e42d5f00b0d8aacdbceedb0.mp3*~data=user_id=0,application_id=42~hmac=47a0718a9458765047b6114df343e316194e7c6e61a02d4bd90ba8f6db4b33c0",
+      "duration_ms": 128000,
+      "track_number": 4,
+      "album": {
+        "id": "6332024",
+        "name": "Oshin",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/120ba9edcbf6785427808c49ed5c68cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/120ba9edcbf6785427808c49ed5c68cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/120ba9edcbf6785427808c49ed5c68cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64633499"
+      }
+    },
+    {
+      "id": "3744263092",
+      "name": "Frog In Boiling Water (Live From Hell / 2025)",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/0/0/c70fa692209a28c4ad2b30383e4775f7.mp3?hdnea=exp=1774859896~acl=/api/1/1/c/7/0/0/c70fa692209a28c4ad2b30383e4775f7.mp3*~data=user_id=0,application_id=42~hmac=67f8231dfdeaf5b093e3b2601fc36f62911ee4949badbfbb1086754546fc607e",
+      "duration_ms": 235000,
+      "track_number": 5,
+      "album": {
+        "id": "886676372",
+        "name": "Boiled Alive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/06120bc5d5219ad89d238f9ec1235c55/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/06120bc5d5219ad89d238f9ec1235c55/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/06120bc5d5219ad89d238f9ec1235c55/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3744263092"
+      }
+    },
+    {
+      "id": "116863652",
+      "name": "Under the Sun",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/a/0/90a6e45df34b027fd4196e30656c250d.mp3?hdnea=exp=1774859896~acl=/api/1/1/9/0/a/0/90a6e45df34b027fd4196e30656c250d.mp3*~data=user_id=0,application_id=42~hmac=e2d78661443db9f7b8f91445cf4183cefe963bec369730a72c5d868d515d7896",
+      "duration_ms": 227000,
+      "track_number": 6,
+      "album": {
+        "id": "12107420",
+        "name": "Is the Is Are",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b29acdcbc81ccf1809cccada4f3b94b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b29acdcbc81ccf1809cccada4f3b94b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b29acdcbc81ccf1809cccada4f3b94b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/116863652"
+      }
+    },
+    {
+      "id": "734156362",
+      "name": "Lorelei",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/6/0/7a64209be98cc0977f5d7c0aff9f7f37.mp3?hdnea=exp=1774859896~acl=/api/1/1/7/a/6/0/7a64209be98cc0977f5d7c0aff9f7f37.mp3*~data=user_id=0,application_id=42~hmac=e91bc2406869c3ee5bb7fc5afa5fb77e23df62a3dff8e9e5a7825913d254e877",
+      "duration_ms": 238000,
+      "track_number": 7,
+      "album": {
+        "id": "107832022",
+        "name": "Deceiver",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b553d0d58de03b4f255b3e2787428281/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b553d0d58de03b4f255b3e2787428281/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b553d0d58de03b4f255b3e2787428281/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/734156362"
+      }
+    },
+    {
+      "id": "734156302",
+      "name": "Between Tides",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/2/0/1820550c3c852c672eda367da07acacf.mp3?hdnea=exp=1774859896~acl=/api/1/1/1/8/2/0/1820550c3c852c672eda367da07acacf.mp3*~data=user_id=0,application_id=42~hmac=8a5a410f459f0e207de65d813f7f8ba852035c703abe4f21356947ad88498420",
+      "duration_ms": 283000,
+      "track_number": 8,
+      "album": {
+        "id": "107832022",
+        "name": "Deceiver",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b553d0d58de03b4f255b3e2787428281/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b553d0d58de03b4f255b3e2787428281/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b553d0d58de03b4f255b3e2787428281/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/734156302"
+      }
+    },
+    {
+      "id": "64633503",
+      "name": "How Long Have You Known",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/a/0/dda5cc2ed13b4e77ae7eb61999abf544.mp3?hdnea=exp=1774859896~acl=/api/1/1/d/d/a/0/dda5cc2ed13b4e77ae7eb61999abf544.mp3*~data=user_id=0,application_id=42~hmac=853349d124432906daebef4197bb0a497b4a55a5e60baa3fc272b5c78c36eeb9",
+      "duration_ms": 213000,
+      "track_number": 9,
+      "album": {
+        "id": "6332024",
+        "name": "Oshin",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/120ba9edcbf6785427808c49ed5c68cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/120ba9edcbf6785427808c49ed5c68cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/120ba9edcbf6785427808c49ed5c68cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64633503"
+      }
+    },
+    {
+      "id": "2710745992",
+      "name": "Everyone Out",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/d/0/2bd6a85341fa114f91b433ab05285502.mp3?hdnea=exp=1774859896~acl=/api/1/1/2/b/d/0/2bd6a85341fa114f91b433ab05285502.mp3*~data=user_id=0,application_id=42~hmac=5acf7215fdda138b475d5cb54a37fb3f8c31fdca9f60853b4d01cb99c45cbf0b",
+      "duration_ms": 292000,
+      "track_number": 10,
+      "album": {
+        "id": "561963172",
+        "name": "Everyone Out",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ef196f67149a7da3fe6f0e3b4fb7a09/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ef196f67149a7da3fe6f0e3b4fb7a09/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ef196f67149a7da3fe6f0e3b4fb7a09/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2699111",
+          "name": "DIIV"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2710745992"
+      }
+    }
+  ]
+}

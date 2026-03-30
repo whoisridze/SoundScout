@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "12074521",
+      "name": "Gayatri Mantra",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/8/0/af87cadcb0443f7939fbf5f2e6e805a0.mp3?hdnea=exp=1774860104~acl=/api/1/1/a/f/8/0/af87cadcb0443f7939fbf5f2e6e805a0.mp3*~data=user_id=0,application_id=42~hmac=4d0dffae4a5d0ca81a4ba083c64c6df94ee4c4b00ed8eda3ce07d2238621234a",
+      "duration_ms": 589000,
+      "track_number": 1,
+      "album": {
+        "id": "1107821",
+        "name": "The Essence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/457b797a86deedddacc42164dcb25ee0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/457b797a86deedddacc42164dcb25ee0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/457b797a86deedddacc42164dcb25ee0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/12074521"
+      }
+    },
+    {
+      "id": "63699870",
+      "name": "Gayatri Mantra (feat. Manose) (Live)",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/7/0/5b7186a3f7aeb74e6f05530d342b55c0.mp3?hdnea=exp=1774860104~acl=/api/1/1/5/b/7/0/5b7186a3f7aeb74e6f05530d342b55c0.mp3*~data=user_id=0,application_id=42~hmac=659bc0caa28a3c1e231ebff255e4fc2fb436d2e0cef7ce15e9953fb22ac42a1c",
+      "duration_ms": 499000,
+      "track_number": 2,
+      "album": {
+        "id": "6257153",
+        "name": "In Concert",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/326563ac5dd0fe231cf167c1ea711ab1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/326563ac5dd0fe231cf167c1ea711ab1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/326563ac5dd0fe231cf167c1ea711ab1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63699870"
+      }
+    },
+    {
+      "id": "3358070791",
+      "name": "Ide Were Were (Revisited)",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/3/0/8e31bdfe78bc6592db76d91d89928eff.mp3?hdnea=exp=1774860104~acl=/api/1/1/8/e/3/0/8e31bdfe78bc6592db76d91d89928eff.mp3*~data=user_id=0,application_id=42~hmac=70f7f130bcab47d62fa9437a8f42895f83d9c3f8d700b3c4da91ac8e909082a9",
+      "duration_ms": 364000,
+      "track_number": 3,
+      "album": {
+        "id": "753779771",
+        "name": "The Inevitable Blossoming of the Heart",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7b9591d25b6579067a3572aeed41830f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7b9591d25b6579067a3572aeed41830f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7b9591d25b6579067a3572aeed41830f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3358070791"
+      }
+    },
+    {
+      "id": "14014203",
+      "name": "Jai Radha Madhav",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/9/0/ae9cb0e6f16342bd971bab6a35ed4105.mp3?hdnea=exp=1774860104~acl=/api/1/1/a/e/9/0/ae9cb0e6f16342bd971bab6a35ed4105.mp3*~data=user_id=0,application_id=42~hmac=3a916f987a81e75b30105f4bc4ac8998f523b17245da30d04f8c0b106b47d02b",
+      "duration_ms": 384000,
+      "track_number": 4,
+      "album": {
+        "id": "1284013",
+        "name": "Love Is Space",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4fa71ca24b9735f144311c5d5df006cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4fa71ca24b9735f144311c5d5df006cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4fa71ca24b9735f144311c5d5df006cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14014203"
+      }
+    },
+    {
+      "id": "1102469082",
+      "name": "Lokah Samasta",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/c/0/36cac35ea1feb89d1ca5267086219b86.mp3?hdnea=exp=1774860104~acl=/api/1/1/3/6/c/0/36cac35ea1feb89d1ca5267086219b86.mp3*~data=user_id=0,application_id=42~hmac=52c048e2ca2be0ea0592d4f60980dac7ab9266d842f8ac3cafdd22fe69e91ada",
+      "duration_ms": 616000,
+      "track_number": 5,
+      "album": {
+        "id": "178202132",
+        "name": "Deva Premal - the Essential Collection (1998 - 2020) - Volume 1 - 3",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92b2b8955e46ad00ce11b298ea4862ab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92b2b8955e46ad00ce11b298ea4862ab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92b2b8955e46ad00ce11b298ea4862ab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1102469082"
+      }
+    },
+    {
+      "id": "12074522",
+      "name": "Om Asatoma",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/b/0/76b58c9fc9a99f907c0a772399bad92f.mp3?hdnea=exp=1774860104~acl=/api/1/1/7/6/b/0/76b58c9fc9a99f907c0a772399bad92f.mp3*~data=user_id=0,application_id=42~hmac=1b91df950e155090d0d78846ec9badda563b6a878c4154f32bd602363e02f5cf",
+      "duration_ms": 143000,
+      "track_number": 6,
+      "album": {
+        "id": "1107821",
+        "name": "The Essence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/457b797a86deedddacc42164dcb25ee0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/457b797a86deedddacc42164dcb25ee0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/457b797a86deedddacc42164dcb25ee0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/12074522"
+      }
+    },
+    {
+      "id": "64217069",
+      "name": "Part III",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/d/0/1bdb9f37c604a4657646c912556487a1.mp3?hdnea=exp=1774860104~acl=/api/1/1/1/b/d/0/1bdb9f37c604a4657646c912556487a1.mp3*~data=user_id=0,application_id=42~hmac=5e60b7c4fbca6470337987ff056f22318501681acdebc07322f1f3fe8cd5028c",
+      "duration_ms": 762000,
+      "track_number": 7,
+      "album": {
+        "id": "6291948",
+        "name": "Deva Premal Sings The Moola Mantra",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df77f26acf7086c8d3cc583ee7f5bd03/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df77f26acf7086c8d3cc583ee7f5bd03/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df77f26acf7086c8d3cc583ee7f5bd03/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64217069"
+      }
+    },
+    {
+      "id": "64217067",
+      "name": "Part I",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/6/0/f16ed64e00ec0564e0d0e758cd18a85e.mp3?hdnea=exp=1774860104~acl=/api/1/1/f/1/6/0/f16ed64e00ec0564e0d0e758cd18a85e.mp3*~data=user_id=0,application_id=42~hmac=5e317cc35bc3d8df44af0a35134daf271a701d1645ff498c0b36ce8b80f5b367",
+      "duration_ms": 943000,
+      "track_number": 8,
+      "album": {
+        "id": "6291948",
+        "name": "Deva Premal Sings The Moola Mantra",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df77f26acf7086c8d3cc583ee7f5bd03/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df77f26acf7086c8d3cc583ee7f5bd03/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df77f26acf7086c8d3cc583ee7f5bd03/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64217067"
+      }
+    },
+    {
+      "id": "77462106",
+      "name": "Om Sahana Vavatu (Shanti Mantra)",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/5/0/8a5ea5eacd07185e9c24556d9c1a0c8a.mp3?hdnea=exp=1774860104~acl=/api/1/1/8/a/5/0/8a5ea5eacd07185e9c24556d9c1a0c8a.mp3*~data=user_id=0,application_id=42~hmac=094d1fa72324cb26444c4da21e9a21c870e759e5afd5504d0403a4e11974d2ac",
+      "duration_ms": 123000,
+      "track_number": 9,
+      "album": {
+        "id": "7697504",
+        "name": "Mantras for Life",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4780c12f11326b9e51022c3be588f26a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4780c12f11326b9e51022c3be588f26a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4780c12f11326b9e51022c3be588f26a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/77462106"
+      }
+    },
+    {
+      "id": "1864651237",
+      "name": "Om Durga (Protection)",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/2/0/2720ce894fb2e27fbfb35e4f8aca6a45.mp3?hdnea=exp=1774860104~acl=/api/1/1/2/7/2/0/2720ce894fb2e27fbfb35e4f8aca6a45.mp3*~data=user_id=0,application_id=42~hmac=99be350f6f204195f668047a73b7f337929a63316934679520260355194d9f94",
+      "duration_ms": 278000,
+      "track_number": 10,
+      "album": {
+        "id": "345948947",
+        "name": "Timeless",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/beacecfb98305cc924cd5293a4a37cd4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/beacecfb98305cc924cd5293a4a37cd4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/beacecfb98305cc924cd5293a4a37cd4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "462875",
+          "name": "Deva Premal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1864651237"
+      }
+    }
+  ]
+}

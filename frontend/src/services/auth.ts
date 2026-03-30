@@ -2,7 +2,7 @@ import axios from "axios";
 import api from "./api";
 import type { AuthTokens, User, LoginCredentials, RegisterRequest } from "@/types";
 
-const API_URL = "/api/v1/auth";
+const API_URL = `${import.meta.env.VITE_API_URL || "/api/v1"}/auth`;
 
 const TOKEN_KEY = "soundscout_access_token";
 const REFRESH_TOKEN_KEY = "soundscout_refresh_token";

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3027362581",
+      "name": "§6",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/2/0/012304cf26e3bbe35480a0cc72a4f763.mp3?hdnea=exp=1774859990~acl=/api/1/1/0/1/2/0/012304cf26e3bbe35480a0cc72a4f763.mp3*~data=user_id=0,application_id=42~hmac=072b16ac9238c2e5641ad1421d5d93fa464ce63be35a7ddab70a9d96e1d5c610",
+      "duration_ms": 363000,
+      "track_number": 1,
+      "album": {
+        "id": "651190931",
+        "name": "The Last Will And Testament",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eab4cae9cbc07f1886fe4843c3776ca8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eab4cae9cbc07f1886fe4843c3776ca8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eab4cae9cbc07f1886fe4843c3776ca8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3027362581"
+      }
+    },
+    {
+      "id": "2075208957",
+      "name": "Credence",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/5/0/8c5e1c2e25dabc58bd3830e7ef36bca0.mp3?hdnea=exp=1774859990~acl=/api/1/1/8/c/5/0/8c5e1c2e25dabc58bd3830e7ef36bca0.mp3*~data=user_id=0,application_id=42~hmac=72a554394a02a38d3112abd78adab78744c6afb6e58106a90c75e3388957b556",
+      "duration_ms": 326000,
+      "track_number": 2,
+      "album": {
+        "id": "387799227",
+        "name": "My Arms, Your Hearse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a25346a367f18dd757cac8fa7e7c9edf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a25346a367f18dd757cac8fa7e7c9edf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a25346a367f18dd757cac8fa7e7c9edf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2075208957"
+      }
+    },
+    {
+      "id": "3027362561",
+      "name": "§4",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/8/0/438c7999a92cbd3445ba3021816d957b.mp3?hdnea=exp=1774859990~acl=/api/1/1/4/3/8/0/438c7999a92cbd3445ba3021816d957b.mp3*~data=user_id=0,application_id=42~hmac=4cdd25b9a16c6042d2c24f2486e49ea316836382b70ed2da89a569e551a90614",
+      "duration_ms": 420000,
+      "track_number": 3,
+      "album": {
+        "id": "651190931",
+        "name": "The Last Will And Testament",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eab4cae9cbc07f1886fe4843c3776ca8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eab4cae9cbc07f1886fe4843c3776ca8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eab4cae9cbc07f1886fe4843c3776ca8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3027362561"
+      }
+    },
+    {
+      "id": "549195",
+      "name": "In My Time of Need",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/0/0/7a0e72aafa66dadab421a9a79f88b160.mp3?hdnea=exp=1774859990~acl=/api/1/1/7/a/0/0/7a0e72aafa66dadab421a9a79f88b160.mp3*~data=user_id=0,application_id=42~hmac=2f23d00bb961b92786f570b01e322a6d60648ad4ce25f8373cb0b7efa3eb818a",
+      "duration_ms": 350000,
+      "track_number": 4,
+      "album": {
+        "id": "72266",
+        "name": "Damnation",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aba252a27f21306679c7fe03a24fc6eb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aba252a27f21306679c7fe03a24fc6eb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aba252a27f21306679c7fe03a24fc6eb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/549195"
+      }
+    },
+    {
+      "id": "3065249161",
+      "name": "Era",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/6/0/c76610425d82ae6651e48c37919ff23d.mp3?hdnea=exp=1774859990~acl=/api/1/1/c/7/6/0/c76610425d82ae6651e48c37919ff23d.mp3*~data=user_id=0,application_id=42~hmac=c8469e19ef1ff21adf2c8f835c66c3293813fb6965aa7079b03c8ea216fcc5cc",
+      "duration_ms": 341000,
+      "track_number": 5,
+      "album": {
+        "id": "663030391",
+        "name": "Sorceress",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/407752d6ea6c6eef06c38e0d833284bb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/407752d6ea6c6eef06c38e0d833284bb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/407752d6ea6c6eef06c38e0d833284bb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3065249161"
+      }
+    },
+    {
+      "id": "3065249101",
+      "name": "Will O the Wisp",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/4/0/6345adc4562a5c1cdd644d6c4b7e2669.mp3?hdnea=exp=1774859990~acl=/api/1/1/6/3/4/0/6345adc4562a5c1cdd644d6c4b7e2669.mp3*~data=user_id=0,application_id=42~hmac=15cbd6459ddffd853749328ab9f382643e21033e0bdb6b86cd3a930361b0c15f",
+      "duration_ms": 307000,
+      "track_number": 6,
+      "album": {
+        "id": "663030391",
+        "name": "Sorceress",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/407752d6ea6c6eef06c38e0d833284bb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/407752d6ea6c6eef06c38e0d833284bb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/407752d6ea6c6eef06c38e0d833284bb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3065249101"
+      }
+    },
+    {
+      "id": "847130",
+      "name": "Ghost of Perdition",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/5/0/aa5940ef91715c78e0d1b763e5a3d1e0.mp3?hdnea=exp=1774859990~acl=/api/1/1/a/a/5/0/aa5940ef91715c78e0d1b763e5a3d1e0.mp3*~data=user_id=0,application_id=42~hmac=01fd2a6a69151c63648c28260fedbe3b088d10eefeff059499c172f1e3ea1bb1",
+      "duration_ms": 629000,
+      "track_number": 7,
+      "album": {
+        "id": "97418",
+        "name": "Ghost Reveries",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c90b84355cf73343658bf100ca2b26da/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c90b84355cf73343658bf100ca2b26da/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c90b84355cf73343658bf100ca2b26da/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/847130"
+      }
+    },
+    {
+      "id": "824983",
+      "name": "Burden",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/5/0/ea5b8f83f2f3c980dedb9c10e31676a1.mp3?hdnea=exp=1774859990~acl=/api/1/1/e/a/5/0/ea5b8f83f2f3c980dedb9c10e31676a1.mp3*~data=user_id=0,application_id=42~hmac=64810d5fc52e8f18ad75c832c35fae528da87a093fcf8d06320cfb9db4cede29",
+      "duration_ms": 461000,
+      "track_number": 8,
+      "album": {
+        "id": "95467",
+        "name": "Watershed",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90df8b696cd1bbb26f4324fd84dbc4b4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90df8b696cd1bbb26f4324fd84dbc4b4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90df8b696cd1bbb26f4324fd84dbc4b4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/824983"
+      }
+    },
+    {
+      "id": "110147868",
+      "name": "Deliverance",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/c/0/c4c50e24b9727723dcc40663e0d660da.mp3?hdnea=exp=1774859990~acl=/api/1/1/c/4/c/0/c4c50e24b9727723dcc40663e0d660da.mp3*~data=user_id=0,application_id=42~hmac=47e26818a30711f690378f5d9d92835308e49a350c23834ecd73efff72f3608f",
+      "duration_ms": 816000,
+      "track_number": 9,
+      "album": {
+        "id": "11471752",
+        "name": "Deliverance",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/135c400b4fcf94f2d3daf29ed65eec77/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/135c400b4fcf94f2d3daf29ed65eec77/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/135c400b4fcf94f2d3daf29ed65eec77/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/110147868"
+      }
+    },
+    {
+      "id": "5638733",
+      "name": "The Drapery Falls",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/f/0/7ff000fdcd30975f3de39619b10c7910.mp3?hdnea=exp=1774859990~acl=/api/1/1/7/f/f/0/7ff000fdcd30975f3de39619b10c7910.mp3*~data=user_id=0,application_id=42~hmac=f235498a49faa328270915908163836961f5f06e381a7978069488e0e6aface2",
+      "duration_ms": 654000,
+      "track_number": 10,
+      "album": {
+        "id": "514820",
+        "name": "Blackwater Park",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5035a736541117065e2d2388d1ca75c6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5035a736541117065e2d2388d1ca75c6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5035a736541117065e2d2388d1ca75c6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2814",
+          "name": "Opeth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5638733"
+      }
+    }
+  ]
+}

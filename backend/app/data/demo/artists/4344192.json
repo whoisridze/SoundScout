@@ -1,0 +1,32 @@
+{
+  "id": "4344192",
+  "name": "Gunna",
+  "popularity": 70,
+  "followers": {
+    "total": 700757
+  },
+  "genres": [
+    "trap"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f6ae30d19f7e865c79b070de2087bd96/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f6ae30d19f7e865c79b070de2087bd96/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f6ae30d19f7e865c79b070de2087bd96/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/4344192"
+  },
+  "uri": "deezer:artist:4344192"
+}

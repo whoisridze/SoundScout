@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "4331",
+      "name": "Ludovico Einaudi",
+      "popularity": 99,
+      "followers": {
+        "total": 1424784
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5aa391abaca4189309ca0087a2fed4e2/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5aa391abaca4189309ca0087a2fed4e2/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5aa391abaca4189309ca0087a2fed4e2/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4331"
+      },
+      "uri": "deezer:artist:4331"
+    },
+    {
+      "id": "98985",
+      "name": "Yiruma",
+      "popularity": 18,
+      "followers": {
+        "total": 180259
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3dc6f1df901db03cd5b4efaedc79857b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3dc6f1df901db03cd5b4efaedc79857b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3dc6f1df901db03cd5b4efaedc79857b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/98985"
+      },
+      "uri": "deezer:artist:98985"
+    },
+    {
+      "id": "1935",
+      "name": "Hans Zimmer",
+      "popularity": 99,
+      "followers": {
+        "total": 2114523
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1bd0b9f7a3cf12e01bdcc26fa69673f7/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1bd0b9f7a3cf12e01bdcc26fa69673f7/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1bd0b9f7a3cf12e01bdcc26fa69673f7/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1935"
+      },
+      "uri": "deezer:artist:1935"
+    },
+    {
+      "id": "6690",
+      "name": "Max Richter",
+      "popularity": 44,
+      "followers": {
+        "total": 445614
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5fb82c9b42f1200c5b2dffed432cf6dc/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5fb82c9b42f1200c5b2dffed432cf6dc/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5fb82c9b42f1200c5b2dffed432cf6dc/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/6690"
+      },
+      "uri": "deezer:artist:6690"
+    },
+    {
+      "id": "277491",
+      "name": "Ólafur Arnalds",
+      "popularity": 17,
+      "followers": {
+        "total": 179792
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/39c599372c3484a872a160243da08f09/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/39c599372c3484a872a160243da08f09/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/39c599372c3484a872a160243da08f09/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/277491"
+      },
+      "uri": "deezer:artist:277491"
+    },
+    {
+      "id": "332318",
+      "name": "Nils Frahm",
+      "popularity": 9,
+      "followers": {
+        "total": 95116
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/23e6f653cf36eece69c64a6dbf8e39df/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/23e6f653cf36eece69c64a6dbf8e39df/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/23e6f653cf36eece69c64a6dbf8e39df/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/332318"
+      },
+      "uri": "deezer:artist:332318"
+    },
+    {
+      "id": "58960",
+      "name": "Yo-Yo Ma",
+      "popularity": 45,
+      "followers": {
+        "total": 450882
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/98feb07cbd68e42a0bd92b0a4b611f69/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/98feb07cbd68e42a0bd92b0a4b611f69/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/98feb07cbd68e42a0bd92b0a4b611f69/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/58960"
+      },
+      "uri": "deezer:artist:58960"
+    },
+    {
+      "id": "152366",
+      "name": "Lang Lang",
+      "popularity": 81,
+      "followers": {
+        "total": 814320
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e14b44c874c5d93900467f69be04330f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e14b44c874c5d93900467f69be04330f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e14b44c874c5d93900467f69be04330f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/152366"
+      },
+      "uri": "deezer:artist:152366"
+    },
+    {
+      "id": "8728",
+      "name": "André Rieu",
+      "popularity": 26,
+      "followers": {
+        "total": 269808
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/af0da3cc392232db26b06e6415411a7f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/af0da3cc392232db26b06e6415411a7f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/af0da3cc392232db26b06e6415411a7f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8728"
+      },
+      "uri": "deezer:artist:8728"
+    },
+    {
+      "id": "1234785",
+      "name": "2CELLOS",
+      "popularity": 20,
+      "followers": {
+        "total": 208123
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/de35ad6a3cb26ed98d3ff3017be4840d/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/de35ad6a3cb26ed98d3ff3017be4840d/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/de35ad6a3cb26ed98d3ff3017be4840d/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1234785"
+      },
+      "uri": "deezer:artist:1234785"
+    },
+    {
+      "id": "3779331",
+      "name": "Lindsey Stirling",
+      "popularity": 57,
+      "followers": {
+        "total": 577527
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/084865604dde59bc71d658460b90ee55/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/084865604dde59bc71d658460b90ee55/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/084865604dde59bc71d658460b90ee55/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3779331"
+      },
+      "uri": "deezer:artist:3779331"
+    },
+    {
+      "id": "1616371",
+      "name": "The Piano Guys",
+      "popularity": 39,
+      "followers": {
+        "total": 397034
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ce4a105fdebe0744b6137dc7eb8a6ca9/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ce4a105fdebe0744b6137dc7eb8a6ca9/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ce4a105fdebe0744b6137dc7eb8a6ca9/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1616371"
+      },
+      "uri": "deezer:artist:1616371"
+    },
+    {
+      "id": "1536",
+      "name": "Ennio Morricone",
+      "popularity": 67,
+      "followers": {
+        "total": 677275
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5c185197d4a6b59d44fa048dec47be24/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5c185197d4a6b59d44fa048dec47be24/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5c185197d4a6b59d44fa048dec47be24/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1536"
+      },
+      "uri": "deezer:artist:1536"
+    },
+    {
+      "id": "805",
+      "name": "John Williams",
+      "popularity": 88,
+      "followers": {
+        "total": 881725
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c8d4ccc1362f096e14fd9d599cade457/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c8d4ccc1362f096e14fd9d599cade457/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c8d4ccc1362f096e14fd9d599cade457/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/805"
+      },
+      "uri": "deezer:artist:805"
+    },
+    {
+      "id": "66582",
+      "name": "Joe Hisaishi",
+      "popularity": 12,
+      "followers": {
+        "total": 122299
+      },
+      "genres": [
+        "classical"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/36888ac751dca690993fba08fc7afb5d/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/36888ac751dca690993fba08fc7afb5d/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/36888ac751dca690993fba08fc7afb5d/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/66582"
+      },
+      "uri": "deezer:artist:66582"
+    }
+  ]
+}

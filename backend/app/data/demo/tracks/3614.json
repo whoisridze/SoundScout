@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2305654",
+      "name": "We Are The World (Live)",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/5/0/995b640ce5160e526b7ed50ee0cc450c.mp3?hdnea=exp=1774859963~acl=/api/1/1/9/9/5/0/995b640ce5160e526b7ed50ee0cc450c.mp3*~data=user_id=0,application_id=42~hmac=5eac3f9d419a6bca10b0ce0f2fa6731e12b5db6741ed08fa48cfc0fd8a70cebe",
+      "duration_ms": 353000,
+      "track_number": 1,
+      "album": {
+        "id": "229744",
+        "name": "Pavarotti & Friends For The Children Of Guatemala And Kosovo (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c37197575ec97d68c2b45b8278e53171/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c37197575ec97d68c2b45b8278e53171/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c37197575ec97d68c2b45b8278e53171/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2305654"
+      }
+    },
+    {
+      "id": "538698692",
+      "name": "The Thrill Is Gone",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/5/0/345a462834b448fd76c5deaa78b8f453.mp3?hdnea=exp=1774859963~acl=/api/1/1/3/4/5/0/345a462834b448fd76c5deaa78b8f453.mp3*~data=user_id=0,application_id=42~hmac=3b92b6cc7bc249cd68c06ffb6d6dd988983a76a58a40b11c6e8eaf9ec0dcca07",
+      "duration_ms": 325000,
+      "track_number": 2,
+      "album": {
+        "id": "70206312",
+        "name": "Completely Well",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a01e85774ccfb1bda013c7a4a535125b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a01e85774ccfb1bda013c7a4a535125b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a01e85774ccfb1bda013c7a4a535125b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/538698692"
+      }
+    },
+    {
+      "id": "2319257",
+      "name": "Chains And Things",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/c/0/d1cd7698f9afea268a5bddba2d7b919a.mp3?hdnea=exp=1774859963~acl=/api/1/1/d/1/c/0/d1cd7698f9afea268a5bddba2d7b919a.mp3*~data=user_id=0,application_id=42~hmac=d13e5f816762cadecdb9f02be8ca90428fc7c466991410bbe675e6c8c17d29c0",
+      "duration_ms": 292000,
+      "track_number": 3,
+      "album": {
+        "id": "230972",
+        "name": "Indianola Mississippi Seeds",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1c81857413668f14b9a9048b7979a80/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1c81857413668f14b9a9048b7979a80/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1c81857413668f14b9a9048b7979a80/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2319257"
+      }
+    },
+    {
+      "id": "2253499437",
+      "name": "Three O'Clock Blues",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/f/0/ebf60db3c8a158c6b8f3ebfcfdb2c27d.mp3?hdnea=exp=1774859963~acl=/api/1/1/e/b/f/0/ebf60db3c8a158c6b8f3ebfcfdb2c27d.mp3*~data=user_id=0,application_id=42~hmac=22b0bf9d89a076f704519c8f28b04fe80e32879d73e2b18316d266ab2b8a3158",
+      "duration_ms": 516000,
+      "track_number": 4,
+      "album": {
+        "id": "433761157",
+        "name": "Riding With The King (20th Anniversary Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa0690ec64d80bd63f108aa933329dd9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa0690ec64d80bd63f108aa933329dd9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa0690ec64d80bd63f108aa933329dd9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2253499437"
+      }
+    },
+    {
+      "id": "2253499407",
+      "name": "Ten Long Years",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/8/0/4283e166bfd43f5df948398222d4c40a.mp3?hdnea=exp=1774859963~acl=/api/1/1/4/2/8/0/4283e166bfd43f5df948398222d4c40a.mp3*~data=user_id=0,application_id=42~hmac=34d3a4eed9127aec175f043532f915255d8ad5996eafdd08b283c3cd1e9400ea",
+      "duration_ms": 280000,
+      "track_number": 5,
+      "album": {
+        "id": "433761157",
+        "name": "Riding With The King (20th Anniversary Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa0690ec64d80bd63f108aa933329dd9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa0690ec64d80bd63f108aa933329dd9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa0690ec64d80bd63f108aa933329dd9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2253499407"
+      }
+    },
+    {
+      "id": "2176600",
+      "name": "The Thrill Is Gone",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/c/0/f7cfbd52a5a5c19496613289487d5096.mp3?hdnea=exp=1774859963~acl=/api/1/1/f/7/c/0/f7cfbd52a5a5c19496613289487d5096.mp3*~data=user_id=0,application_id=42~hmac=2f9e114248bceb3ba682d69e5471a13f03723d5a1bf203946eed7990c4a8a94d",
+      "duration_ms": 303000,
+      "track_number": 6,
+      "album": {
+        "id": "217765",
+        "name": "B.B. King & Friends - 80",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9169e1d4cc762357a05adce9f18a0b49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9169e1d4cc762357a05adce9f18a0b49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9169e1d4cc762357a05adce9f18a0b49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2176600"
+      }
+    },
+    {
+      "id": "2176604",
+      "name": "All Over Again",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/f/0/54fbd0e591813245259a0dc911cdb403.mp3?hdnea=exp=1774859963~acl=/api/1/1/5/4/f/0/54fbd0e591813245259a0dc911cdb403.mp3*~data=user_id=0,application_id=42~hmac=bc824edc5ecff545cefe348ea5e235469c5a989d2d6e1d75c34adbfc8185d335",
+      "duration_ms": 295000,
+      "track_number": 7,
+      "album": {
+        "id": "217765",
+        "name": "B.B. King & Friends - 80",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9169e1d4cc762357a05adce9f18a0b49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9169e1d4cc762357a05adce9f18a0b49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9169e1d4cc762357a05adce9f18a0b49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2176604"
+      }
+    },
+    {
+      "id": "16702367",
+      "name": "Lucille",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/c/0/d6ce81cb529f29398a8f690d75151424.mp3?hdnea=exp=1774859963~acl=/api/1/1/d/6/c/0/d6ce81cb529f29398a8f690d75151424.mp3*~data=user_id=0,application_id=42~hmac=9c8e51cf466a717d06052a9c60e4ebe2d782a2d5a342ebbc9435f7ecd3ea1a53",
+      "duration_ms": 613000,
+      "track_number": 8,
+      "album": {
+        "id": "1564939",
+        "name": "Lucille",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a21c156d6600a5badf6a2c131af71c62/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a21c156d6600a5badf6a2c131af71c62/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a21c156d6600a5badf6a2c131af71c62/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/16702367"
+      }
+    },
+    {
+      "id": "347363401",
+      "name": "When Love Comes To Town",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/e/0/72e11de60cfd15142b5d323d19c6afcd.mp3?hdnea=exp=1774859963~acl=/api/1/1/7/2/e/0/72e11de60cfd15142b5d323d19c6afcd.mp3*~data=user_id=0,application_id=42~hmac=dbe9b19b764a8e969f501ed06887d8a669b0396d0b09bd287b605546b0a0a056",
+      "duration_ms": 254000,
+      "track_number": 9,
+      "album": {
+        "id": "39558181",
+        "name": "The Best Of 1980-1990 & B-Sides",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/76c4322b0ea4ab5ed1e3a9f7d3208e28/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/76c4322b0ea4ab5ed1e3a9f7d3208e28/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/76c4322b0ea4ab5ed1e3a9f7d3208e28/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/347363401"
+      }
+    },
+    {
+      "id": "2253499467",
+      "name": "Worried Life Blues",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/9/0/a392bd0738f885460a18e5bb50f1496c.mp3?hdnea=exp=1774859963~acl=/api/1/1/a/3/9/0/a392bd0738f885460a18e5bb50f1496c.mp3*~data=user_id=0,application_id=42~hmac=09ee558e8f9974d54dcd196ee011086791dbe7026c844da45743177d877ed964",
+      "duration_ms": 265000,
+      "track_number": 10,
+      "album": {
+        "id": "433761157",
+        "name": "Riding With The King (20th Anniversary Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa0690ec64d80bd63f108aa933329dd9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa0690ec64d80bd63f108aa933329dd9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aa0690ec64d80bd63f108aa933329dd9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3614",
+          "name": "B.B. King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2253499467"
+      }
+    }
+  ]
+}

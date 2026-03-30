@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2354707745",
+      "name": "Super Shy",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/e/0/46e205218d4d25f9af579053ccbb6b1a.mp3?hdnea=exp=1774859950~acl=/api/1/1/4/6/e/0/46e205218d4d25f9af579053ccbb6b1a.mp3*~data=user_id=0,application_id=42~hmac=148c505a0f39af7ad9db8cfd4b8a1cccdcc7cf67a685fb8c9e9f5c2c5daae16e",
+      "duration_ms": 154000,
+      "track_number": 1,
+      "album": {
+        "id": "460978815",
+        "name": "NewJeans 'Super Shy'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2354707745"
+      }
+    },
+    {
+      "id": "3496410431",
+      "name": "GODS",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/9/0/2c9eb4919f29732dee05699413bd7329.mp3?hdnea=exp=1774859950~acl=/api/1/1/2/c/9/0/2c9eb4919f29732dee05699413bd7329.mp3*~data=user_id=0,application_id=42~hmac=4611294c9bfbf8670ffbf8f689a2541e473ca909c977bcc21334819b47b6b22d",
+      "duration_ms": 220000,
+      "track_number": 2,
+      "album": {
+        "id": "800956561",
+        "name": "GODS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2da83f667965683428b9aecaab159771/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2da83f667965683428b9aecaab159771/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2da83f667965683428b9aecaab159771/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3496410431"
+      }
+    },
+    {
+      "id": "2853677102",
+      "name": "Supernatural",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/5/0/445a8b49ece14936196a166ff6f7ea0e.mp3?hdnea=exp=1774859950~acl=/api/1/1/4/4/5/0/445a8b49ece14936196a166ff6f7ea0e.mp3*~data=user_id=0,application_id=42~hmac=cf206ce1337ebf5d70b15cf4c6b9576429915976c6d1e95a58ab4840e1d46923",
+      "duration_ms": 191000,
+      "track_number": 3,
+      "album": {
+        "id": "603668362",
+        "name": "Supernatural",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/826894f2ec39ae1eea620eddecdcf6b7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/826894f2ec39ae1eea620eddecdcf6b7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/826894f2ec39ae1eea620eddecdcf6b7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2853677102"
+      }
+    },
+    {
+      "id": "2071104987",
+      "name": "Ditto",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/1/0/fd1999b460a553a071f744e70fc035fd.mp3?hdnea=exp=1774859950~acl=/api/1/1/f/d/1/0/fd1999b460a553a071f744e70fc035fd.mp3*~data=user_id=0,application_id=42~hmac=abe8ab5763de5590affce3046746160cbaf61807d129245300dbe459c8e8cacb",
+      "duration_ms": 185000,
+      "track_number": 4,
+      "album": {
+        "id": "386961317",
+        "name": "Ditto",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89073b58a3ce20e32384f246b92f1c76/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89073b58a3ce20e32384f246b92f1c76/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89073b58a3ce20e32384f246b92f1c76/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2071104987"
+      }
+    },
+    {
+      "id": "2373775175",
+      "name": "ASAP",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/4/0/1245317e7b47e5ce2d0c6dbed8bbd999.mp3?hdnea=exp=1774859950~acl=/api/1/1/1/2/4/0/1245317e7b47e5ce2d0c6dbed8bbd999.mp3*~data=user_id=0,application_id=42~hmac=88e7f8a46cda7e484aace957da2e0310360ca054f797dff8296fb838683a3d3e",
+      "duration_ms": 134000,
+      "track_number": 5,
+      "album": {
+        "id": "466106885",
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2373775175"
+      }
+    },
+    {
+      "id": "2853677112",
+      "name": "Right Now",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/1/0/b41e18cd80b96515465bffc627785866.mp3?hdnea=exp=1774859950~acl=/api/1/1/b/4/1/0/b41e18cd80b96515465bffc627785866.mp3*~data=user_id=0,application_id=42~hmac=edeae4fa40ab9f494b6b93249c0174c52541a2189fecd14fbaecf438c966a8dd",
+      "duration_ms": 160000,
+      "track_number": 6,
+      "album": {
+        "id": "603668362",
+        "name": "Supernatural",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/826894f2ec39ae1eea620eddecdcf6b7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/826894f2ec39ae1eea620eddecdcf6b7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/826894f2ec39ae1eea620eddecdcf6b7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2853677112"
+      }
+    },
+    {
+      "id": "1843514387",
+      "name": "Attention",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/9/0/919aab1029b77ae570a204443de4446c.mp3?hdnea=exp=1774859950~acl=/api/1/1/9/1/9/0/919aab1029b77ae570a204443de4446c.mp3*~data=user_id=0,application_id=42~hmac=de09db9900994ce1fba313267a716d4aefe22ff387009521254e16e5a3f13dab",
+      "duration_ms": 180000,
+      "track_number": 7,
+      "album": {
+        "id": "340450917",
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1843514387"
+      }
+    },
+    {
+      "id": "2373775125",
+      "name": "New Jeans",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/4/0/e049dcc4456307a9d3bceae97bc10cd1.mp3?hdnea=exp=1774859950~acl=/api/1/1/e/0/4/0/e049dcc4456307a9d3bceae97bc10cd1.mp3*~data=user_id=0,application_id=42~hmac=34cfa8a3747c2b7645da20c336131a57bbf3a181e5c6a20988f8dd39279a9d79",
+      "duration_ms": 108000,
+      "track_number": 8,
+      "album": {
+        "id": "466106885",
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2373775125"
+      }
+    },
+    {
+      "id": "2813349912",
+      "name": "Bubble Gum",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/e/0/9ce94a65d437f21637974071d7106c0a.mp3?hdnea=exp=1774859950~acl=/api/1/1/9/c/e/0/9ce94a65d437f21637974071d7106c0a.mp3*~data=user_id=0,application_id=42~hmac=73cec70ad6dc4ef5340c4086ec15afa238e9cef2c1290e0a552bccdbb70154c0",
+      "duration_ms": 200000,
+      "track_number": 9,
+      "album": {
+        "id": "590448302",
+        "name": "How Sweet",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/586eb9f8e98f13c7be5c1835ae1e168d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/586eb9f8e98f13c7be5c1835ae1e168d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/586eb9f8e98f13c7be5c1835ae1e168d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2813349912"
+      }
+    },
+    {
+      "id": "2088671947",
+      "name": "OMG",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/8/0/a1842b7c2a9f6985426fd5a2ab3598ff.mp3?hdnea=exp=1774859950~acl=/api/1/1/a/1/8/0/a1842b7c2a9f6985426fd5a2ab3598ff.mp3*~data=user_id=0,application_id=42~hmac=10b2f827c0d38c64b3d02c9c667d041e9a6bb645e7d452a85de83d396bdcb5a5",
+      "duration_ms": 212000,
+      "track_number": 10,
+      "album": {
+        "id": "391299827",
+        "name": "NewJeans 'OMG'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/98bdcf64ff375c5066f53021e74244ce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/98bdcf64ff375c5066f53021e74244ce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/98bdcf64ff375c5066f53021e74244ce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "178008437",
+          "name": "NewJeans"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2088671947"
+      }
+    }
+  ]
+}

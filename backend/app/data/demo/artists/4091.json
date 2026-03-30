@@ -1,0 +1,32 @@
+{
+  "id": "4091",
+  "name": "Susan Tedeschi",
+  "popularity": 2,
+  "followers": {
+    "total": 23962
+  },
+  "genres": [
+    "blues"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/fa34a71de17942a3125f927de1481f1f/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/fa34a71de17942a3125f927de1481f1f/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/fa34a71de17942a3125f927de1481f1f/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/4091"
+  },
+  "uri": "deezer:artist:4091"
+}

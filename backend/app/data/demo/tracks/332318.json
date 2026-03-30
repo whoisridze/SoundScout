@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "625675912",
+      "name": "Familiar",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/4/0/f84bc31f1dfbece8a1eca20cc254149b.mp3?hdnea=exp=1774860062~acl=/api/1/1/f/8/4/0/f84bc31f1dfbece8a1eca20cc254149b.mp3*~data=user_id=0,application_id=42~hmac=3ba9d5ee2d378dbfdc72700fc2f7b191b60a4011e879f6abbfd4a3990036f9de",
+      "duration_ms": 338000,
+      "track_number": 1,
+      "album": {
+        "id": "85955322",
+        "name": "Spaces",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/625675912"
+      }
+    },
+    {
+      "id": "626025972",
+      "name": "20:17",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/3/0/4c3a6c0d8ae0bc9b07a6257c1e5abd3c.mp3?hdnea=exp=1774860062~acl=/api/1/1/4/c/3/0/4c3a6c0d8ae0bc9b07a6257c1e5abd3c.mp3*~data=user_id=0,application_id=42~hmac=e804f2b19e5540177cd140f5a67bc632925e54d3433b6b8e3c31fd73705dadc1",
+      "duration_ms": 354000,
+      "track_number": 2,
+      "album": {
+        "id": "86026302",
+        "name": "Trance Frendz",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8cf170b8887adadee0099e3a8c98a41e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8cf170b8887adadee0099e3a8c98a41e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8cf170b8887adadee0099e3a8c98a41e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/626025972"
+      }
+    },
+    {
+      "id": "1115227652",
+      "name": "#2",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/c/0/18c3afcfa33c9332d177d34cbf98ce8a.mp3?hdnea=exp=1774860062~acl=/api/1/1/1/8/c/0/18c3afcfa33c9332d177d34cbf98ce8a.mp3*~data=user_id=0,application_id=42~hmac=8c45a34d43650f3f1a6f91bdc10d008cef7eb9ff311e394cdc46e02ca49b141e",
+      "duration_ms": 645000,
+      "track_number": 3,
+      "album": {
+        "id": "180803042",
+        "name": "Tripping with Nils Frahm",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/842709ad784100a82244503103bd5e8d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/842709ad784100a82244503103bd5e8d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/842709ad784100a82244503103bd5e8d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1115227652"
+      }
+    },
+    {
+      "id": "625675852",
+      "name": "An Aborted Beginning",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/f/0/59f9ecbbb1e53e60a69da4150cdd4cce.mp3?hdnea=exp=1774860062~acl=/api/1/1/5/9/f/0/59f9ecbbb1e53e60a69da4150cdd4cce.mp3*~data=user_id=0,application_id=42~hmac=c8ea40f17d3efa11b6bd516742022da5f06dc1ba072cd6282b5653b2a46a574d",
+      "duration_ms": 94000,
+      "track_number": 4,
+      "album": {
+        "id": "85955322",
+        "name": "Spaces",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/625675852"
+      }
+    },
+    {
+      "id": "1245236012",
+      "name": "Because This Must Be",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/1/0/591b7e66cf82417475d149b8a1414f3b.mp3?hdnea=exp=1774860062~acl=/api/1/1/5/9/1/0/591b7e66cf82417475d149b8a1414f3b.mp3*~data=user_id=0,application_id=42~hmac=84b28d76c92c4e799800694884c16588ebbfdede3813cc85c0d97c67e89b7550",
+      "duration_ms": 165000,
+      "track_number": 5,
+      "album": {
+        "id": "207896572",
+        "name": "Graz",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a348bb48e7f387720b89a2837636d02d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a348bb48e7f387720b89a2837636d02d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a348bb48e7f387720b89a2837636d02d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1245236012"
+      }
+    },
+    {
+      "id": "625675962",
+      "name": "Unter – Tristana – Ambre",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/0/0/ab0f3604da1863478ec5c7f4f2d81cfc.mp3?hdnea=exp=1774860062~acl=/api/1/1/a/b/0/0/ab0f3604da1863478ec5c7f4f2d81cfc.mp3*~data=user_id=0,application_id=42~hmac=14f2e61b16d8bc2b0dfb1ffd2b3e50ce9bc508ed6f6240446aaa91b586886db9",
+      "duration_ms": 702000,
+      "track_number": 6,
+      "album": {
+        "id": "85955322",
+        "name": "Spaces",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56d8bf1bf33d44404278f46cd994f778/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/625675962"
+      }
+    },
+    {
+      "id": "1186005892",
+      "name": "Because This Must Be",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/6/0/3d6569b37332507b321ea603f6cc1d6c.mp3?hdnea=exp=1774860062~acl=/api/1/1/3/d/6/0/3d6569b37332507b321ea603f6cc1d6c.mp3*~data=user_id=0,application_id=42~hmac=642da01b4af5767530ec6a426dde4332789650ba37b70521063c275e3e94808c",
+      "duration_ms": 165000,
+      "track_number": 7,
+      "album": {
+        "id": "194871812",
+        "name": "Because This Must Be",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/31d230b495f1534bdad4c72ddff26d97/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/31d230b495f1534bdad4c72ddff26d97/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/31d230b495f1534bdad4c72ddff26d97/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1186005892"
+      }
+    },
+    {
+      "id": "626071502",
+      "name": "You",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/3/0/c63944ee7a17784d9f4660842ca7d61d.mp3?hdnea=exp=1774860062~acl=/api/1/1/c/6/3/0/c63944ee7a17784d9f4660842ca7d61d.mp3*~data=user_id=0,application_id=42~hmac=795d32407c3a28bbdab482b55a49d1e1e1e2a13804004b1233e08bdc97f38352",
+      "duration_ms": 186000,
+      "track_number": 8,
+      "album": {
+        "id": "86033952",
+        "name": "Screws",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3604d0f1dd606946f05cfa715797d8e8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3604d0f1dd606946f05cfa715797d8e8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3604d0f1dd606946f05cfa715797d8e8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/626071502"
+      }
+    },
+    {
+      "id": "1115227602",
+      "name": "Sunson",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/7/0/0b773d35114e5f88fa09f2559f192add.mp3?hdnea=exp=1774860062~acl=/api/1/1/0/b/7/0/0b773d35114e5f88fa09f2559f192add.mp3*~data=user_id=0,application_id=42~hmac=6ba33c7a7b3922f5cd05f2c5683d67b96f9aadd5d2b53602897ff8047bbc694b",
+      "duration_ms": 665000,
+      "track_number": 9,
+      "album": {
+        "id": "180803042",
+        "name": "Tripping with Nils Frahm",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/842709ad784100a82244503103bd5e8d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/842709ad784100a82244503103bd5e8d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/842709ad784100a82244503103bd5e8d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1115227602"
+      }
+    },
+    {
+      "id": "625967392",
+      "name": "Sunson",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/a/0/efa1f042bf9c875bd6f6b4f00da5a0ed.mp3?hdnea=exp=1774860062~acl=/api/1/1/e/f/a/0/efa1f042bf9c875bd6f6b4f00da5a0ed.mp3*~data=user_id=0,application_id=42~hmac=1a781119bea119c1547c987131791910bcc41ed3130e86f84c697b5f680aac12",
+      "duration_ms": 550000,
+      "track_number": 10,
+      "album": {
+        "id": "86017202",
+        "name": "All Melody",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be6a6a947aeb715545b7aff34e95fd64/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be6a6a947aeb715545b7aff34e95fd64/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be6a6a947aeb715545b7aff34e95fd64/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "332318",
+          "name": "Nils Frahm"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/625967392"
+      }
+    }
+  ]
+}

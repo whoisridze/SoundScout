@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "83841464",
+      "name": "Riptide",
+      "popularity": 92,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0ccc7edbfc49aac9bd8a5bdb1f1266f.mp3?hdnea=exp=1774860052~acl=/api/1/1/f/0/c/0/f0ccc7edbfc49aac9bd8a5bdb1f1266f.mp3*~data=user_id=0,application_id=42~hmac=c1d4a60295c7fddbe952a8c9cd56dcb31babd743fcfe91d0e9663db84cc825f2",
+      "duration_ms": 204000,
+      "track_number": 1,
+      "album": {
+        "id": "8435920",
+        "name": "Dream Your Life Away",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/83841464"
+      }
+    },
+    {
+      "id": "3526741591",
+      "name": "Divine Feelings",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/4/0/8b452803f46be9e2a94d32a569b0764e.mp3?hdnea=exp=1774860052~acl=/api/1/1/8/b/4/0/8b452803f46be9e2a94d32a569b0764e.mp3*~data=user_id=0,application_id=42~hmac=3b8cdd5bbc41996e0b2fb4a2c87ff1fad572bebb9c585bb7073c23053e04e0b8",
+      "duration_ms": 208000,
+      "track_number": 2,
+      "album": {
+        "id": "811195531",
+        "name": "Divine Feelings",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4debdec660bb047d54e44e88450e6496/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4debdec660bb047d54e44e88450e6496/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4debdec660bb047d54e44e88450e6496/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3526741591"
+      }
+    },
+    {
+      "id": "2221806127",
+      "name": "Everybody Needs Someone",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/0/0/160f313675c902a25d04813526631108.mp3?hdnea=exp=1774860052~acl=/api/1/1/1/6/0/0/160f313675c902a25d04813526631108.mp3*~data=user_id=0,application_id=42~hmac=e8bdab2a52fb00e9cd2a239a52518474d040c4316a825cbe58cebd4e48d9d281",
+      "duration_ms": 178000,
+      "track_number": 3,
+      "album": {
+        "id": "425338467",
+        "name": "Everybody Needs Someone",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef899935b08b7103059f69ef88200814/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef899935b08b7103059f69ef88200814/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef899935b08b7103059f69ef88200814/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2221806127"
+      }
+    },
+    {
+      "id": "83841460",
+      "name": "Mess Is Mine",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/c/0/3cce92ecd98fed552018a81a26707377.mp3?hdnea=exp=1774860052~acl=/api/1/1/3/c/c/0/3cce92ecd98fed552018a81a26707377.mp3*~data=user_id=0,application_id=42~hmac=33437bc6c077d316b5909d8f635bcc4b4d9ab26abb78233aeb412e4f4de95e74",
+      "duration_ms": 223000,
+      "track_number": 4,
+      "album": {
+        "id": "8435920",
+        "name": "Dream Your Life Away",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/83841460"
+      }
+    },
+    {
+      "id": "462252552",
+      "name": "We're Going Home",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/7/0/237d7a3ef0a99b823882eb24842c4311.mp3?hdnea=exp=1774860052~acl=/api/1/1/2/3/7/0/237d7a3ef0a99b823882eb24842c4311.mp3*~data=user_id=0,application_id=42~hmac=ac6a2a8b300015e9d7d21e617d4783e5d2d6f32610ca1b26e0f5b1b6d641e266",
+      "duration_ms": 206000,
+      "track_number": 5,
+      "album": {
+        "id": "57101162",
+        "name": "Nation of Two",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/382144f485ac08e35e970777ae9a5420/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/382144f485ac08e35e970777ae9a5420/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/382144f485ac08e35e970777ae9a5420/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/462252552"
+      }
+    },
+    {
+      "id": "1365910912",
+      "name": "Missing Piece",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/3/0/2e393656b071756ceb60a2278d3787d7.mp3?hdnea=exp=1774860052~acl=/api/1/1/2/e/3/0/2e393656b071756ceb60a2278d3787d7.mp3*~data=user_id=0,application_id=42~hmac=cc51a9f9209b33005e8d387045928247c436c70728de9a05c93c3c67730c5203",
+      "duration_ms": 217000,
+      "track_number": 6,
+      "album": {
+        "id": "228449382",
+        "name": "Missing Piece",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70c127bb65cb90394ea2b33409a7cdf3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70c127bb65cb90394ea2b33409a7cdf3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70c127bb65cb90394ea2b33409a7cdf3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1365910912"
+      }
+    },
+    {
+      "id": "83841472",
+      "name": "Georgia",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/b/0/9ab78f3804ca85ba36fc6e7a7f10ffa0.mp3?hdnea=exp=1774860052~acl=/api/1/1/9/a/b/0/9ab78f3804ca85ba36fc6e7a7f10ffa0.mp3*~data=user_id=0,application_id=42~hmac=f705156ff25fe25d3637e09dafc363031b0619619d06817b39d3721c15535614",
+      "duration_ms": 230000,
+      "track_number": 7,
+      "album": {
+        "id": "8435920",
+        "name": "Dream Your Life Away",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3f67e81d134e4036fd2e68a062210c4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/83841472"
+      }
+    },
+    {
+      "id": "3697426672",
+      "name": "Fascination in the Dark (Acoustic)",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/5/0/2c502a575526db512e76003de45ea11f.mp3?hdnea=exp=1774860052~acl=/api/1/1/2/c/5/0/2c502a575526db512e76003de45ea11f.mp3*~data=user_id=0,application_id=42~hmac=157b7650123dc64ff2be2db17449d771fed10bfe6c078b46ce47d6bec56b06d7",
+      "duration_ms": 135000,
+      "track_number": 8,
+      "album": {
+        "id": "870704552",
+        "name": "Fascination in the Dark (Acoustic)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ff9f0a8be61e3be5f31e5c2d5d36625/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ff9f0a8be61e3be5f31e5c2d5d36625/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ff9f0a8be61e3be5f31e5c2d5d36625/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3697426672"
+      }
+    },
+    {
+      "id": "380507791",
+      "name": "Lay It on Me",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/d/0/cbdda8d94e3aab852da6ca0545a09f86.mp3?hdnea=exp=1774860052~acl=/api/1/1/c/b/d/0/cbdda8d94e3aab852da6ca0545a09f86.mp3*~data=user_id=0,application_id=42~hmac=234d2fce4b9701ccb3f0e153001e53b9dcb85742b7ac5392fc89c0c8990ea238",
+      "duration_ms": 214000,
+      "track_number": 9,
+      "album": {
+        "id": "44177791",
+        "name": "Lay It on Me",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1327ff1e2dfbd462acd44cf0cb5fd8d2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1327ff1e2dfbd462acd44cf0cb5fd8d2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1327ff1e2dfbd462acd44cf0cb5fd8d2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/380507791"
+      }
+    },
+    {
+      "id": "1688158177",
+      "name": "Clarity",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/c/0/02c7345959f4cc330bb7bf3892f58101.mp3?hdnea=exp=1774860052~acl=/api/1/1/0/2/c/0/02c7345959f4cc330bb7bf3892f58101.mp3*~data=user_id=0,application_id=42~hmac=12d161a95ee939f626e604cbf713423c5db494ea3c37082aff97b9769e700edc",
+      "duration_ms": 227000,
+      "track_number": 10,
+      "album": {
+        "id": "303544687",
+        "name": "Clarity",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7aedb5d19802c6a512f69d2b191e64e4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7aedb5d19802c6a512f69d2b191e64e4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7aedb5d19802c6a512f69d2b191e64e4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4768525",
+          "name": "Vance Joy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1688158177"
+      }
+    }
+  ]
+}

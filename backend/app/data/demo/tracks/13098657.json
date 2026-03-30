@@ -1,0 +1,84 @@
+{
+  "tracks": [
+    {
+      "id": "1555651702",
+      "name": "Súbelo",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/7/0/777eef4178eba3e77a5a8a76b79ccdde.mp3?hdnea=exp=1774860016~acl=/api/1/1/7/7/7/0/777eef4178eba3e77a5a8a76b79ccdde.mp3*~data=user_id=0,application_id=42~hmac=0bca5de6613c1812f2619d89b30cad282f0d86e2902d62466f77e24f5f47229d",
+      "duration_ms": 239000,
+      "track_number": 1,
+      "album": {
+        "id": "273141262",
+        "name": "Súbelo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d340a311bc24d0ce0cd9634a73bdeba/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d340a311bc24d0ce0cd9634a73bdeba/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d340a311bc24d0ce0cd9634a73bdeba/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13098657",
+          "name": "Jhay Cortez"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1555651702"
+      }
+    },
+    {
+      "id": "770747792",
+      "name": "A Tu Manera [CORBATA]",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/e/0/9bea113d5438cd1bee4b7f060c0646cc.mp3?hdnea=exp=1774860016~acl=/api/1/1/9/b/e/0/9bea113d5438cd1bee4b7f060c0646cc.mp3*~data=user_id=0,application_id=42~hmac=f75b964a359b59c728dbc44e67645eaa8106c71d609a2ed1e03b67b62e04c371",
+      "duration_ms": 174000,
+      "track_number": 2,
+      "album": {
+        "id": "114075182",
+        "name": "A Tu Manera [CORBATA]",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/207c28a4f0ac65e1c0cf2d109f154f66/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/207c28a4f0ac65e1c0cf2d109f154f66/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/207c28a4f0ac65e1c0cf2d109f154f66/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "13098657",
+          "name": "Jhay Cortez"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/770747792"
+      }
+    }
+  ]
+}

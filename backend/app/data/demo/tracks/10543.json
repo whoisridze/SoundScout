@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "401526032",
+      "name": "Lonesome Highway",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/4/0/05469e337253d96172222e77114fe1ce.mp3?hdnea=exp=1774859965~acl=/api/1/1/0/5/4/0/05469e337253d96172222e77114fe1ce.mp3*~data=user_id=0,application_id=42~hmac=5c1a656063b1e73c6e9cb9d0f247c167fc1878395f1d452719cf3ceee84847d0",
+      "duration_ms": 319000,
+      "track_number": 1,
+      "album": {
+        "id": "47310432",
+        "name": "Wheels Within Wheels",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96c30a36f706757a2865a0c8e07d0e84/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96c30a36f706757a2865a0c8e07d0e84/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/96c30a36f706757a2865a0c8e07d0e84/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/401526032"
+      }
+    },
+    {
+      "id": "419903692",
+      "name": "A Million Miles Away (Live From Cork City Hall)",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/2/0/ab226e11a1b3391ecfd0d158bc28f058.mp3?hdnea=exp=1774859965~acl=/api/1/1/a/b/2/0/ab226e11a1b3391ecfd0d158bc28f058.mp3*~data=user_id=0,application_id=42~hmac=12aa2b981734b3ced9699b7dade5052c4df2f2e97483a77f042155a4273ff436",
+      "duration_ms": 558000,
+      "track_number": 2,
+      "album": {
+        "id": "50246592",
+        "name": "Irish Tour '74 (Live / 40th Anniversary Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9caa1d81837731fd54b5d15a204faa0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9caa1d81837731fd54b5d15a204faa0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9caa1d81837731fd54b5d15a204faa0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/419903692"
+      }
+    },
+    {
+      "id": "471575272",
+      "name": "A Million Miles Away",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/5/0/745a8f230cc625ab2b4be7765ed46a25.mp3?hdnea=exp=1774859965~acl=/api/1/1/7/4/5/0/745a8f230cc625ab2b4be7765ed46a25.mp3*~data=user_id=0,application_id=42~hmac=2ba3302338e61bf8179e770f3265bf22177d6fce4f7349c9a9f91cc8e9f6b311",
+      "duration_ms": 415000,
+      "track_number": 3,
+      "album": {
+        "id": "58735692",
+        "name": "Tattoo (Remastered 2017)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fcb8df5d57dda1269a063553a5f1b8d1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fcb8df5d57dda1269a063553a5f1b8d1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fcb8df5d57dda1269a063553a5f1b8d1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/471575272"
+      }
+    },
+    {
+      "id": "471580022",
+      "name": "I'm Not Awake Yet",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/d/0/ccd87be8d6bfc10026f7138a89885388.mp3?hdnea=exp=1774859965~acl=/api/1/1/c/c/d/0/ccd87be8d6bfc10026f7138a89885388.mp3*~data=user_id=0,application_id=42~hmac=b13b45a8c2ebe5966e5e38d4bf13a6c70c0f02fba3872d4ab1ed12a5494e40dc",
+      "duration_ms": 334000,
+      "track_number": 4,
+      "album": {
+        "id": "58736522",
+        "name": "Deuce (Remastered 2017)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/797a029b811aa13e4b1205ce84634ab0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/797a029b811aa13e4b1205ce84634ab0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/797a029b811aa13e4b1205ce84634ab0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/471580022"
+      }
+    },
+    {
+      "id": "471597552",
+      "name": "Philby",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/8/0/8d8a1ad167eb26a0cd16407419752bf7.mp3?hdnea=exp=1774859965~acl=/api/1/1/8/d/8/0/8d8a1ad167eb26a0cd16407419752bf7.mp3*~data=user_id=0,application_id=42~hmac=7428d3f82c70f4963b9907b682662039a709719a388e70ee646ac7a2c1addcf4",
+      "duration_ms": 227000,
+      "track_number": 5,
+      "album": {
+        "id": "58738892",
+        "name": "Top Priority (Remastered 2017)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/41cfe12cb2cb49d7a6028f3f08906059/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/41cfe12cb2cb49d7a6028f3f08906059/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/41cfe12cb2cb49d7a6028f3f08906059/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/471597552"
+      }
+    },
+    {
+      "id": "471592302",
+      "name": "I Fall Apart",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/8/0/8486dc60377ea2a325fada8d79d7d0a9.mp3?hdnea=exp=1774859965~acl=/api/1/1/8/4/8/0/8486dc60377ea2a325fada8d79d7d0a9.mp3*~data=user_id=0,application_id=42~hmac=faef99cd9cb89b13d38752818ed2711c5cccefc73ab0c1b44feb374d152633cd",
+      "duration_ms": 310000,
+      "track_number": 6,
+      "album": {
+        "id": "58738212",
+        "name": "Rory Gallagher (Remastered 2017)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2fe5f544fb368c4f1f9b5066942ea64/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2fe5f544fb368c4f1f9b5066942ea64/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b2fe5f544fb368c4f1f9b5066942ea64/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/471592302"
+      }
+    },
+    {
+      "id": "471586192",
+      "name": "Shadow Play",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a715c4f0596f1efc31121667946abd74.mp3?hdnea=exp=1774859965~acl=/api/1/1/a/7/1/0/a715c4f0596f1efc31121667946abd74.mp3*~data=user_id=0,application_id=42~hmac=5d98f7e0d973df49c82d4011e940941e18863195ccfaea21a80039871fbae4f3",
+      "duration_ms": 283000,
+      "track_number": 7,
+      "album": {
+        "id": "58737412",
+        "name": "Photo Finish (Remastered 2017)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60e8b89b69d60da0abe23ae42a4990ee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60e8b89b69d60da0abe23ae42a4990ee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60e8b89b69d60da0abe23ae42a4990ee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/471586192"
+      }
+    },
+    {
+      "id": "471589532",
+      "name": "Heaven's Gate",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/5/0/1954885aeb235bd40957c88d2d9e3b03.mp3?hdnea=exp=1774859965~acl=/api/1/1/1/9/5/0/1954885aeb235bd40957c88d2d9e3b03.mp3*~data=user_id=0,application_id=42~hmac=74013f874d5818cd317fd61fe256fae4fdfd80418c25a05dba9792573724e00c",
+      "duration_ms": 309000,
+      "track_number": 8,
+      "album": {
+        "id": "58737912",
+        "name": "Fresh Evidence (Remastered 2017)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d0024badf3566186ff651da10d54276/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d0024badf3566186ff651da10d54276/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d0024badf3566186ff651da10d54276/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/471589532"
+      }
+    },
+    {
+      "id": "471579342",
+      "name": "Easy Come, Easy Go",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/1/0/481da0bf4f3f29d09ff2bd9f16cf5732.mp3?hdnea=exp=1774859965~acl=/api/1/1/4/8/1/0/481da0bf4f3f29d09ff2bd9f16cf5732.mp3*~data=user_id=0,application_id=42~hmac=bcaaf12b485de1ea0253533d1c241cf96ad7e4ed48af3ec9e77d6a026ddbfc75",
+      "duration_ms": 307000,
+      "track_number": 9,
+      "album": {
+        "id": "58736402",
+        "name": "Jinx (Remastered 2017)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/52e15f5c42cffa3af17ab209acb0728a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/52e15f5c42cffa3af17ab209acb0728a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/52e15f5c42cffa3af17ab209acb0728a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/471579342"
+      }
+    },
+    {
+      "id": "471590742",
+      "name": "Moonchild",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/f/0/bbff3f7fb4b9879fbe65e53fc16b6a97.mp3?hdnea=exp=1774859965~acl=/api/1/1/b/b/f/0/bbff3f7fb4b9879fbe65e53fc16b6a97.mp3*~data=user_id=0,application_id=42~hmac=ee2bfeceb451c42e852ca641867dfcc590068cb1e00e273e3105f102611b1b7c",
+      "duration_ms": 286000,
+      "track_number": 10,
+      "album": {
+        "id": "58738082",
+        "name": "Calling Card (Remastered 2017)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01b2cdc44243a9a8a1aa93fdb93408cf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01b2cdc44243a9a8a1aa93fdb93408cf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01b2cdc44243a9a8a1aa93fdb93408cf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "10543",
+          "name": "Rory Gallagher"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/471590742"
+      }
+    }
+  ]
+}

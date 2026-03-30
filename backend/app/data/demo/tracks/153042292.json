@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3853730971",
+      "name": "BLACKHOLE",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/5/0/505b0902f1fc0c1b47dad5d95135f8da.mp3?hdnea=exp=1774859955~acl=/api/1/1/5/0/5/0/505b0902f1fc0c1b47dad5d95135f8da.mp3*~data=user_id=0,application_id=42~hmac=e325f7e4285fb13b33a5aa5e051de152f7d4b080f234fe8e565995440c2de88c",
+      "duration_ms": 194000,
+      "track_number": 1,
+      "album": {
+        "id": "922384711",
+        "name": "REVIVE+",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/531d5883b0ead12e235cd4ce40e6258d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/531d5883b0ead12e235cd4ce40e6258d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/531d5883b0ead12e235cd4ce40e6258d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3853730971"
+      }
+    },
+    {
+      "id": "3823100291",
+      "name": "BANG BANG",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/c/0/55c52d10451cf27cbc830e0672adcab4.mp3?hdnea=exp=1774859955~acl=/api/1/1/5/5/c/0/55c52d10451cf27cbc830e0672adcab4.mp3*~data=user_id=0,application_id=42~hmac=850fc4e80ad68e03f721fdd3041232263654f4879306553786274bdbaac127da",
+      "duration_ms": 178000,
+      "track_number": 2,
+      "album": {
+        "id": "911580611",
+        "name": "BANG BANG",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2698f3ef04f6e290967c082e26b2e833/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2698f3ef04f6e290967c082e26b2e833/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2698f3ef04f6e290967c082e26b2e833/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3823100291"
+      }
+    },
+    {
+      "id": "3178649911",
+      "name": "ATTITUDE",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/2/0/9429c12a5574d7e9962dd90fab21dea1.mp3?hdnea=exp=1774859955~acl=/api/1/1/9/4/2/0/9429c12a5574d7e9962dd90fab21dea1.mp3*~data=user_id=0,application_id=42~hmac=53b2578e29589f6b4a8b59e963186ea5ba5e093a92f50f8ec8e3ad633681e242",
+      "duration_ms": 194000,
+      "track_number": 3,
+      "album": {
+        "id": "695536931",
+        "name": "IVE EMPATHY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f7458688225f11986080e72e2a5825a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f7458688225f11986080e72e2a5825a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f7458688225f11986080e72e2a5825a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3178649911"
+      }
+    },
+    {
+      "id": "3069037841",
+      "name": "Supernova Love",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/d/0/61d8d08b2ff22501e9232f78da889e0c.mp3?hdnea=exp=1774859955~acl=/api/1/1/6/1/d/0/61d8d08b2ff22501e9232f78da889e0c.mp3*~data=user_id=0,application_id=42~hmac=b5edc4cdd7701a1d73c17bbc29b46f950657a5afefbd5377484d0fff996bdf60",
+      "duration_ms": 200000,
+      "track_number": 4,
+      "album": {
+        "id": "664117321",
+        "name": "Supernova Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c5960cac02ec6a7c122d03d601ace2a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c5960cac02ec6a7c122d03d601ace2a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c5960cac02ec6a7c122d03d601ace2a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3069037841"
+      }
+    },
+    {
+      "id": "3520921381",
+      "name": "XOXZ",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/4/0/a046774e8fa845b4fa7f78d23277b006.mp3?hdnea=exp=1774859955~acl=/api/1/1/a/0/4/0/a046774e8fa845b4fa7f78d23277b006.mp3*~data=user_id=0,application_id=42~hmac=c53ecdc463b8647fce19883e4ced15627e5c4cd191ae5119695d9e1f45f811b5",
+      "duration_ms": 154000,
+      "track_number": 5,
+      "album": {
+        "id": "809153181",
+        "name": "IVE SECRET",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/abe84c2775e53f45a78884c1fa415b37/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/abe84c2775e53f45a78884c1fa415b37/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/abe84c2775e53f45a78884c1fa415b37/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3520921381"
+      }
+    },
+    {
+      "id": "2749285321",
+      "name": "WOW",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/9/0/5b99fcbd0fe24e79f49048b158438f0f.mp3?hdnea=exp=1774859955~acl=/api/1/1/5/b/9/0/5b99fcbd0fe24e79f49048b158438f0f.mp3*~data=user_id=0,application_id=42~hmac=c6b5ec936659bd1b2c9202c978b37bc2fda6272897fa28992bb0d52c19a47b49",
+      "duration_ms": 178000,
+      "track_number": 6,
+      "album": {
+        "id": "572768281",
+        "name": "IVE SWITCH",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c830dc6ea5be692c75abd6b685765dc8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c830dc6ea5be692c75abd6b685765dc8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c830dc6ea5be692c75abd6b685765dc8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2749285321"
+      }
+    },
+    {
+      "id": "2492511201",
+      "name": "Baddie",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/8/0/4e8130641ccf9b0c28c5d70d748a2b8c.mp3?hdnea=exp=1774859955~acl=/api/1/1/4/e/8/0/4e8130641ccf9b0c28c5d70d748a2b8c.mp3*~data=user_id=0,application_id=42~hmac=9ac6253bb2608fae9414c96d22aa09c3b8a519d0b06416df8fc3ba2ca6351459",
+      "duration_ms": 154000,
+      "track_number": 7,
+      "album": {
+        "id": "498449191",
+        "name": "I'VE MINE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/53ffeacdb50ddf50aa42c37a1f33debf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/53ffeacdb50ddf50aa42c37a1f33debf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/53ffeacdb50ddf50aa42c37a1f33debf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2492511201"
+      }
+    },
+    {
+      "id": "3853731071",
+      "name": "In Your Heart (REI Solo)",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/b/0/1ab4cade59c9344fbc08760c579f29d9.mp3?hdnea=exp=1774859955~acl=/api/1/1/1/a/b/0/1ab4cade59c9344fbc08760c579f29d9.mp3*~data=user_id=0,application_id=42~hmac=a2e4ec537ac8078deab99dc99104083b753e55e5500e647e9145867d64e144c6",
+      "duration_ms": 123000,
+      "track_number": 8,
+      "album": {
+        "id": "922384711",
+        "name": "REVIVE+",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/531d5883b0ead12e235cd4ce40e6258d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/531d5883b0ead12e235cd4ce40e6258d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/531d5883b0ead12e235cd4ce40e6258d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3853731071"
+      }
+    },
+    {
+      "id": "3069037851",
+      "name": "Supernova Love (Extended Mix)",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/4/0/6042d6d9d549f9fe4ee3c591f1261eaa.mp3?hdnea=exp=1774859955~acl=/api/1/1/6/0/4/0/6042d6d9d549f9fe4ee3c591f1261eaa.mp3*~data=user_id=0,application_id=42~hmac=f5521c3baeebd27153de6a27316e5031531b64cfcdfafee9a425af62b226288d",
+      "duration_ms": 263000,
+      "track_number": 9,
+      "album": {
+        "id": "664117321",
+        "name": "Supernova Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c5960cac02ec6a7c122d03d601ace2a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c5960cac02ec6a7c122d03d601ace2a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c5960cac02ec6a7c122d03d601ace2a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3069037851"
+      }
+    },
+    {
+      "id": "3153143521",
+      "name": "REBEL HEART",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/0/0/9004707f9ea7f551766d9b0e6028dee0.mp3?hdnea=exp=1774859955~acl=/api/1/1/9/0/0/0/9004707f9ea7f551766d9b0e6028dee0.mp3*~data=user_id=0,application_id=42~hmac=82e698c292ead0d9e8ec39f311729910455d4d93f6c6bb21b3f1aad4c7a1a464",
+      "duration_ms": 188000,
+      "track_number": 10,
+      "album": {
+        "id": "686773881",
+        "name": "REBEL HEART",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbd0646499694b1b974acaa2f2a28d87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbd0646499694b1b974acaa2f2a28d87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbd0646499694b1b974acaa2f2a28d87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "153042292",
+          "name": "IVE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3153143521"
+      }
+    }
+  ]
+}

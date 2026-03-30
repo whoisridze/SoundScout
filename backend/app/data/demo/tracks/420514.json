@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1133715432",
+      "name": "Emotion feat. Wild Nothing",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/5/0/ec58648dc404ff8d8b3b9122945de3a5.mp3?hdnea=exp=1774859893~acl=/api/1/1/e/c/5/0/ec58648dc404ff8d8b3b9122945de3a5.mp3*~data=user_id=0,application_id=42~hmac=1b4186bdb2b1e5182a936c4bb67f5c890226d8170c3f52ea783446598b0ac626",
+      "duration_ms": 245000,
+      "track_number": 1,
+      "album": {
+        "id": "184538422",
+        "name": "Emotion feat. Wild Nothing",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7b5640bab88e0c21b3932f7da8403f19/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7b5640bab88e0c21b3932f7da8403f19/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7b5640bab88e0c21b3932f7da8403f19/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1133715432"
+      }
+    },
+    {
+      "id": "69000438",
+      "name": "Paradise",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/d/0/06db68feb6fb4363381ce7d028cf155a.mp3?hdnea=exp=1774859893~acl=/api/1/1/0/6/d/0/06db68feb6fb4363381ce7d028cf155a.mp3*~data=user_id=0,application_id=42~hmac=dfe2b4bb4dbec006c584660c660dac61677f8c072bfa9ab3769b4c8537e3786a",
+      "duration_ms": 330000,
+      "track_number": 2,
+      "album": {
+        "id": "6760788",
+        "name": "Nocturne",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a08bb81a5f6173c4ca9b36185054813/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a08bb81a5f6173c4ca9b36185054813/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a08bb81a5f6173c4ca9b36185054813/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69000438"
+      }
+    },
+    {
+      "id": "815031972",
+      "name": "Dizziness",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/6/0/78608340ff143a52246d0de5224c0b23.mp3?hdnea=exp=1774859893~acl=/api/1/1/7/8/6/0/78608340ff143a52246d0de5224c0b23.mp3*~data=user_id=0,application_id=42~hmac=0191d7df739ce7bf564039d96d6c077d94cc9bdfb091e2c638737f92ea343c64",
+      "duration_ms": 252000,
+      "track_number": 3,
+      "album": {
+        "id": "120182212",
+        "name": "Laughing Gas",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef5101889a352f585bcbebb99f5399cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef5101889a352f585bcbebb99f5399cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef5101889a352f585bcbebb99f5399cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/815031972"
+      }
+    },
+    {
+      "id": "501759062",
+      "name": "Letting Go",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/3/0/4a35773c63cd7d94b0640d174c327610.mp3?hdnea=exp=1774859893~acl=/api/1/1/4/a/3/0/4a35773c63cd7d94b0640d174c327610.mp3*~data=user_id=0,application_id=42~hmac=e572d38e6a507a97f0679c1360a1050b812cbf265bc541a23848b29516bbab97",
+      "duration_ms": 221000,
+      "track_number": 4,
+      "album": {
+        "id": "63901022",
+        "name": "Letting Go",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b3e165bab493e20a3ca9c462f36d259/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b3e165bab493e20a3ca9c462f36d259/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b3e165bab493e20a3ca9c462f36d259/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/501759062"
+      }
+    },
+    {
+      "id": "65248509",
+      "name": "Our Composition Book",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/b/0/27bea77227a8f926675df0bf4d697571.mp3?hdnea=exp=1774859893~acl=/api/1/1/2/7/b/0/27bea77227a8f926675df0bf4d697571.mp3*~data=user_id=0,application_id=42~hmac=abb0c36ce23faf13c57ba0b25c5a0bc5faaaf01363942454d9dcde4fdadbe25c",
+      "duration_ms": 228000,
+      "track_number": 5,
+      "album": {
+        "id": "6395414",
+        "name": "Gemini",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60aa0518090e6c1168ee29e0ef0e1b7b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60aa0518090e6c1168ee29e0ef0e1b7b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60aa0518090e6c1168ee29e0ef0e1b7b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65248509"
+      }
+    },
+    {
+      "id": "65248508",
+      "name": "Chinatown",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/c/0/b4c8cba4c397d8eea7324417e3b03e34.mp3?hdnea=exp=1774859893~acl=/api/1/1/b/4/c/0/b4c8cba4c397d8eea7324417e3b03e34.mp3*~data=user_id=0,application_id=42~hmac=a77da378990dd4068b097e1bb87691985940c1dde0d4740f293facb1cdf51551",
+      "duration_ms": 199000,
+      "track_number": 6,
+      "album": {
+        "id": "6395414",
+        "name": "Gemini",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60aa0518090e6c1168ee29e0ef0e1b7b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60aa0518090e6c1168ee29e0ef0e1b7b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60aa0518090e6c1168ee29e0ef0e1b7b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65248508"
+      }
+    },
+    {
+      "id": "67278200",
+      "name": "Ride",
+      "popularity": 4,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/9/0/5591df64c736b0508440209b7e3b907c.mp3?hdnea=exp=1774859893~acl=/api/1/1/5/5/9/0/5591df64c736b0508440209b7e3b907c.mp3*~data=user_id=0,application_id=42~hmac=4848ee6f4252bb750e33bebc989db8c0be0b915b8592e2d2a6c0cb6f3d87c4b8",
+      "duration_ms": 205000,
+      "track_number": 7,
+      "album": {
+        "id": "6579340",
+        "name": "Empty Estate",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fad02b6d6106d3c60fab349092019b3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fad02b6d6106d3c60fab349092019b3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fad02b6d6106d3c60fab349092019b3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/67278200"
+      }
+    },
+    {
+      "id": "64633695",
+      "name": "Golden Haze",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/b/0/4bb9dde017fcb9d142ccffa66653f1e4.mp3?hdnea=exp=1774859893~acl=/api/1/1/4/b/b/0/4bb9dde017fcb9d142ccffa66653f1e4.mp3*~data=user_id=0,application_id=42~hmac=0e8276210486b2109229604d93650df193779bb1e57706c610d1245d61f45737",
+      "duration_ms": 206000,
+      "track_number": 8,
+      "album": {
+        "id": "6332046",
+        "name": "Golden Haze",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bea84b4af43188cd2b9d65702c784639/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bea84b4af43188cd2b9d65702c784639/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bea84b4af43188cd2b9d65702c784639/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/64633695"
+      }
+    },
+    {
+      "id": "69000431",
+      "name": "Shadow",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/5/0/775f4609a64391c166090359f9b65b30.mp3?hdnea=exp=1774859893~acl=/api/1/1/7/7/5/0/775f4609a64391c166090359f9b65b30.mp3*~data=user_id=0,application_id=42~hmac=56c0cf24d9ade1bb4a9cbb17fb2336f777e5842a62e06eefe850952ee549bf98",
+      "duration_ms": 258000,
+      "track_number": 9,
+      "album": {
+        "id": "6760788",
+        "name": "Nocturne",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a08bb81a5f6173c4ca9b36185054813/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a08bb81a5f6173c4ca9b36185054813/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a08bb81a5f6173c4ca9b36185054813/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69000431"
+      }
+    },
+    {
+      "id": "605300462",
+      "name": "Blue Wings",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/6/0/906b8301a8524d8736e6d4252895ab78.mp3?hdnea=exp=1774859893~acl=/api/1/1/9/0/6/0/906b8301a8524d8736e6d4252895ab78.mp3*~data=user_id=0,application_id=42~hmac=9c3577f5be6e32a90a83852113b952dbc5ead6935d60052de1c7601333ba1765",
+      "duration_ms": 226000,
+      "track_number": 10,
+      "album": {
+        "id": "81932242",
+        "name": "Blue Wings",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/efed1fab4e4d2c2e5a3abf24518501bf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/efed1fab4e4d2c2e5a3abf24518501bf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/efed1fab4e4d2c2e5a3abf24518501bf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "420514",
+          "name": "Wild Nothing"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/605300462"
+      }
+    }
+  ]
+}

@@ -24,7 +24,7 @@ export default function AdminUsers() {
   const [debouncedSearch, setDebouncedSearch] = useState("");
   const [deleteTarget, setDeleteTarget] = useState<{ id: string; username: string } | null>(null);
   const [toastMsg, setToastMsg] = useState("");
-  const debounceRef = useRef<ReturnType<typeof setTimeout>>();
+  const debounceRef = useRef<ReturnType<typeof setTimeout>>(undefined);
 
   const { data, isLoading, isError, error, refetch } = useAdminUsers(page, debouncedSearch || undefined);
   const updateUser = useAdminUpdateUser();

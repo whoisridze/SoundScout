@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3023298391",
+      "name": "The Second Waltz (Op. 99a)",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/6/0/1c6f7e91ca314558141a89a546d80c2e.mp3?hdnea=exp=1774860065~acl=/api/1/1/1/c/6/0/1c6f7e91ca314558141a89a546d80c2e.mp3*~data=user_id=0,application_id=42~hmac=f6792f85e3c0e182ef175ed721612ea369b34c5def5c391a8405b1b0058cfd31",
+      "duration_ms": 222000,
+      "track_number": 1,
+      "album": {
+        "id": "649985871",
+        "name": "My Music - My World - The Very Best Of",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3023298391"
+      }
+    },
+    {
+      "id": "3656706392",
+      "name": "Voilà (Live)",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/4/0/a745dc08d1a90fe8441c4c3db338e38c.mp3?hdnea=exp=1774860065~acl=/api/1/1/a/7/4/0/a745dc08d1a90fe8441c4c3db338e38c.mp3*~data=user_id=0,application_id=42~hmac=4c7d34739ee731fbd317ce4521c35d0f73811b9a47c8a5205a2888d3ed64de4b",
+      "duration_ms": 310000,
+      "track_number": 2,
+      "album": {
+        "id": "856671902",
+        "name": "Voilà (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a71bb998a154fe2c37f461f664972b20/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a71bb998a154fe2c37f461f664972b20/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a71bb998a154fe2c37f461f664972b20/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3656706392"
+      }
+    },
+    {
+      "id": "3023308471",
+      "name": "And the Waltz Goes On",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/0/0/4908c8c35c240279c63dea4334770dcd.mp3?hdnea=exp=1774860065~acl=/api/1/1/4/9/0/0/4908c8c35c240279c63dea4334770dcd.mp3*~data=user_id=0,application_id=42~hmac=ae049447a59eb0a5f1cb79ee5da648c2889e36e823f031bd04702113734a89ee",
+      "duration_ms": 356000,
+      "track_number": 3,
+      "album": {
+        "id": "649989091",
+        "name": "And the Waltz Goes On",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58682e60616e3e86317d9e1c6713c06c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58682e60616e3e86317d9e1c6713c06c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58682e60616e3e86317d9e1c6713c06c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3023308471"
+      }
+    },
+    {
+      "id": "3023323081",
+      "name": "Memory (From \"Cats\")",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/7/0/3973df7d2ac468266740fe68b694b4c4.mp3?hdnea=exp=1774860065~acl=/api/1/1/3/9/7/0/3973df7d2ac468266740fe68b694b4c4.mp3*~data=user_id=0,application_id=42~hmac=50cc724b2ae7c71fb3925af2192301c287c907878786f25ff9df2602f3b23a28",
+      "duration_ms": 252000,
+      "track_number": 4,
+      "album": {
+        "id": "649995471",
+        "name": "Falling in Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9925eebcfbad4229e069818a368a0a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9925eebcfbad4229e069818a368a0a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9925eebcfbad4229e069818a368a0a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3023323081"
+      }
+    },
+    {
+      "id": "3024905981",
+      "name": "Blue Spanish Eyes",
+      "popularity": 8,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/c/0/99c94eb6bb7ae31bf696d50385026f95.mp3?hdnea=exp=1774860065~acl=/api/1/1/9/9/c/0/99c94eb6bb7ae31bf696d50385026f95.mp3*~data=user_id=0,application_id=42~hmac=bece0316b33db72ee6cb57536292ee225be859cf1c14f8e060da0ffba3d39b3b",
+      "duration_ms": 214000,
+      "track_number": 5,
+      "album": {
+        "id": "650475441",
+        "name": "Romantic Paradise",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2ead63f99a72ffcae9d9acb119373e3c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2ead63f99a72ffcae9d9acb119373e3c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2ead63f99a72ffcae9d9acb119373e3c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3024905981"
+      }
+    },
+    {
+      "id": "3023298451",
+      "name": "The Rose",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/b/0/57b9da01e584bcdc18c3f569f5231cf6.mp3?hdnea=exp=1774860065~acl=/api/1/1/5/7/b/0/57b9da01e584bcdc18c3f569f5231cf6.mp3*~data=user_id=0,application_id=42~hmac=95102b44dd953073cfec3b06f6c554ea98779dda8eaac4337916a748a061a6ab",
+      "duration_ms": 216000,
+      "track_number": 6,
+      "album": {
+        "id": "649985871",
+        "name": "My Music - My World - The Very Best Of",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3023298451"
+      }
+    },
+    {
+      "id": "3023298431",
+      "name": "Les Patineurs",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/a/0/30a5625ba85aac665b1b3e8a121056c3.mp3?hdnea=exp=1774860065~acl=/api/1/1/3/0/a/0/30a5625ba85aac665b1b3e8a121056c3.mp3*~data=user_id=0,application_id=42~hmac=0817b7d6dd96a858e472530489f0de060f5bdceaa6f4406ac9cdcf63f8864272",
+      "duration_ms": 347000,
+      "track_number": 7,
+      "album": {
+        "id": "649985871",
+        "name": "My Music - My World - The Very Best Of",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3023298431"
+      }
+    },
+    {
+      "id": "3023298441",
+      "name": "Ballade pour Adeline",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55fe6a832f88d20dc368758fd2f35df9.mp3?hdnea=exp=1774860065~acl=/api/1/1/5/5/f/0/55fe6a832f88d20dc368758fd2f35df9.mp3*~data=user_id=0,application_id=42~hmac=7eb738ff5aa8da0ec90b94d4b0b07aef37119d14dd34fa853d1f90a3ffe3c784",
+      "duration_ms": 174000,
+      "track_number": 8,
+      "album": {
+        "id": "649985871",
+        "name": "My Music - My World - The Very Best Of",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3023298441"
+      }
+    },
+    {
+      "id": "3023298691",
+      "name": "Ave Maria (Based on Bach’s Prelude in C Major, BWV 846)",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/a/0/a0ab53a5fa0943e527cdc687b098c923.mp3?hdnea=exp=1774860065~acl=/api/1/1/a/0/a/0/a0ab53a5fa0943e527cdc687b098c923.mp3*~data=user_id=0,application_id=42~hmac=55951cd2fa65beed71df06fe8fc977aa17acbceb33aa86752e9816875b7f83ee",
+      "duration_ms": 168000,
+      "track_number": 9,
+      "album": {
+        "id": "649985871",
+        "name": "My Music - My World - The Very Best Of",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3023298691"
+      }
+    },
+    {
+      "id": "3023298671",
+      "name": "Greensleeves",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b797e690e97fe5fb046657dd1786cf5c.mp3?hdnea=exp=1774860065~acl=/api/1/1/b/7/9/0/b797e690e97fe5fb046657dd1786cf5c.mp3*~data=user_id=0,application_id=42~hmac=b4dc707498f0d2f5e22a6e0f89341613a2450997a99d650e189780b0396330ea",
+      "duration_ms": 174000,
+      "track_number": 10,
+      "album": {
+        "id": "649985871",
+        "name": "My Music - My World - The Very Best Of",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82f6cc418871a035c670d3030c57635d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8728",
+          "name": "André Rieu"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3023298671"
+      }
+    }
+  ]
+}

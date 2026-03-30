@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1425937972",
+      "name": "Volando (Remix)",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d71691ce9f1c912ba82375d03686c55a.mp3?hdnea=exp=1774860015~acl=/api/1/1/d/7/1/0/d71691ce9f1c912ba82375d03686c55a.mp3*~data=user_id=0,application_id=42~hmac=32403076051d3684265dad2165ed9ff1b384323f714976dc0aff9b41e6fd09fe",
+      "duration_ms": 273000,
+      "track_number": 1,
+      "album": {
+        "id": "242452202",
+        "name": "Volando (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b73f1ec1b7493093ee6fb3cd39b47096/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b73f1ec1b7493093ee6fb3cd39b47096/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b73f1ec1b7493093ee6fb3cd39b47096/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1425937972"
+      }
+    },
+    {
+      "id": "1484103082",
+      "name": "Una Nota",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/a/0/24a097badc841b949130ee6872119dce.mp3?hdnea=exp=1774860015~acl=/api/1/1/2/4/a/0/24a097badc841b949130ee6872119dce.mp3*~data=user_id=0,application_id=42~hmac=98e03cbe316291bc23cb349e39143e079cca19dc0b9be5b4eadf6cb727836712",
+      "duration_ms": 171000,
+      "track_number": 2,
+      "album": {
+        "id": "256304072",
+        "name": "JOSE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/47f2a0c032c6eb5bbaed7fe833424e1c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/47f2a0c032c6eb5bbaed7fe833424e1c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/47f2a0c032c6eb5bbaed7fe833424e1c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1484103082"
+      }
+    },
+    {
+      "id": "1742009147",
+      "name": "Desde Mis Ojos (Remix)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/7/0/7876bd2f76363f5608992f05bd2edaf5.mp3?hdnea=exp=1774860015~acl=/api/1/1/7/8/7/0/7876bd2f76363f5608992f05bd2edaf5.mp3*~data=user_id=0,application_id=42~hmac=aed088df4e29a2a67962daf7f591460c3a5a61bf0c046335ef958895bfefdb27",
+      "duration_ms": 223000,
+      "track_number": 3,
+      "album": {
+        "id": "316274147",
+        "name": "Desde Mis Ojos (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d33ed33fea5cd737e72d6babf11ee700/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d33ed33fea5cd737e72d6babf11ee700/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d33ed33fea5cd737e72d6babf11ee700/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1742009147"
+      }
+    },
+    {
+      "id": "875511852",
+      "name": "Ignorantes",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/c/0/b7c2dbc8cfef323663e44bada952ecbd.mp3?hdnea=exp=1774860015~acl=/api/1/1/b/7/c/0/b7c2dbc8cfef323663e44bada952ecbd.mp3*~data=user_id=0,application_id=42~hmac=8ec0bf1c51b381870b5c1c82f5f2e1b81027290979812a55a9e6b1e704451edc",
+      "duration_ms": 210000,
+      "track_number": 4,
+      "album": {
+        "id": "131378112",
+        "name": "Ignorantes",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba3ce011358de2c69afe354f1974870b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba3ce011358de2c69afe354f1974870b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba3ce011358de2c69afe354f1974870b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/875511852"
+      }
+    },
+    {
+      "id": "1551467372",
+      "name": "Borracho",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/d/0/6ed7fe03742d966583727b63b9b68527.mp3?hdnea=exp=1774860015~acl=/api/1/1/6/e/d/0/6ed7fe03742d966583727b63b9b68527.mp3*~data=user_id=0,application_id=42~hmac=bdcc87c78e5ac92799e45f18d45ec1291478f20c2e11325b717747e95796a349",
+      "duration_ms": 219000,
+      "track_number": 5,
+      "album": {
+        "id": "272349232",
+        "name": "Borracho",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90caee19101ab573f84c018ebed38188/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90caee19101ab573f84c018ebed38188/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90caee19101ab573f84c018ebed38188/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1551467372"
+      }
+    },
+    {
+      "id": "750918872",
+      "name": "Si Te Vas",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/9/0/3b999327765c8fabd798c0ff210703b8.mp3?hdnea=exp=1774860015~acl=/api/1/1/3/b/9/0/3b999327765c8fabd798c0ff210703b8.mp3*~data=user_id=0,application_id=42~hmac=334f54d8ee2cf73e2837c1367cbd61e109ae0ab5006608b1d74a3ed948640a52",
+      "duration_ms": 204000,
+      "track_number": 6,
+      "album": {
+        "id": "110556592",
+        "name": "Si Te Vas",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7577cd072d3be5fbb999abc9fa8349ee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7577cd072d3be5fbb999abc9fa8349ee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7577cd072d3be5fbb999abc9fa8349ee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/750918872"
+      }
+    },
+    {
+      "id": "2154046567",
+      "name": "DAÑAMOS LA AMISTAD",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/1/0/2c1aba23aa6b2dad1f0cdb47c4803b49.mp3?hdnea=exp=1774860015~acl=/api/1/1/2/c/1/0/2c1aba23aa6b2dad1f0cdb47c4803b49.mp3*~data=user_id=0,application_id=42~hmac=a6533a4cd6cb021aa32c5f6ab922d0e4d44806b72db8fc45f8da5f86f3f7a26d",
+      "duration_ms": 174000,
+      "track_number": 7,
+      "album": {
+        "id": "408659277",
+        "name": "MAÑANA SERÁ BONITO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/608e6114bb1e0a7f3a512538d7bd9248/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/608e6114bb1e0a7f3a512538d7bd9248/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/608e6114bb1e0a7f3a512538d7bd9248/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2154046567"
+      }
+    },
+    {
+      "id": "946113412",
+      "name": "Relación",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/0/0/7c080b769230aefa6d808319d8c2c041.mp3?hdnea=exp=1774860015~acl=/api/1/1/7/c/0/0/7c080b769230aefa6d808319d8c2c041.mp3*~data=user_id=0,application_id=42~hmac=118594cf80e1e99f42b66d9b21e7db4c13574be758ccbe9392f2a80774f75c1b",
+      "duration_ms": 184000,
+      "track_number": 8,
+      "album": {
+        "id": "145225722",
+        "name": "1 of 1",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/695df7c49bc03e76f7fbedd521b912b4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/695df7c49bc03e76f7fbedd521b912b4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/695df7c49bc03e76f7fbedd521b912b4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/946113412"
+      }
+    },
+    {
+      "id": "791449242",
+      "name": "Atrévete",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/5/0/6a50d908556d13e33f916f4b84f2c6cc.mp3?hdnea=exp=1774860015~acl=/api/1/1/6/a/5/0/6a50d908556d13e33f916f4b84f2c6cc.mp3*~data=user_id=0,application_id=42~hmac=3a39521bde599a1cac93f11594296a2762ea50c8838240f5460ec84e161ed622",
+      "duration_ms": 198000,
+      "track_number": 9,
+      "album": {
+        "id": "116943052",
+        "name": "Intimo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9617b74ba1f29473e01ef5fa73d0fb7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9617b74ba1f29473e01ef5fa73d0fb7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9617b74ba1f29473e01ef5fa73d0fb7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/791449242"
+      }
+    },
+    {
+      "id": "2714132532",
+      "name": "LA RANGER (feat. Myke Towers)",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/a/0/faac78d951c726a7bded6cdcf7614b09.mp3?hdnea=exp=1774860015~acl=/api/1/1/f/a/a/0/faac78d951c726a7bded6cdcf7614b09.mp3*~data=user_id=0,application_id=42~hmac=391184e9e3475039ac89762ef69c9d327267cd95894a1c1709fb53575f7e640a",
+      "duration_ms": 229000,
+      "track_number": 10,
+      "album": {
+        "id": "562789662",
+        "name": "The Academy: Segunda Misión",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0fa93ae33b015f434f99d1d0d2030f46/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0fa93ae33b015f434f99d1d0d2030f46/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0fa93ae33b015f434f99d1d0d2030f46/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5412407",
+          "name": "Sech"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2714132532"
+      }
+    }
+  ]
+}

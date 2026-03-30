@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3708365292",
+      "name": "Never Grow Old",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/4/0/3a424225f10cfc62ce0d9f4d3880266b.mp3?hdnea=exp=1774860086~acl=/api/1/1/3/a/4/0/3a424225f10cfc62ce0d9f4d3880266b.mp3*~data=user_id=0,application_id=42~hmac=cfd40127967c3b9c18465ab626861e744fa227ec90ec2694087bac625b38ff6e",
+      "duration_ms": 213000,
+      "track_number": 1,
+      "album": {
+        "id": "874660562",
+        "name": "HiGHWAY TO HEAVEN",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0bd3ed9284f47f3a018bce2b6759b6cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0bd3ed9284f47f3a018bce2b6759b6cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0bd3ed9284f47f3a018bce2b6759b6cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3708365292"
+      }
+    },
+    {
+      "id": "930753",
+      "name": "Les yeux pour pleurer",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/a/0/a0a0b6ab6cb0df886845e28ee2654d7d.mp3?hdnea=exp=1774860086~acl=/api/1/1/a/0/a/0/a0a0b6ab6cb0df886845e28ee2654d7d.mp3*~data=user_id=0,application_id=42~hmac=5d5160e3f9b7f1ba21d5400cfedd4dc42f4051d4913b04bad0e764a57d7e60ee",
+      "duration_ms": 189000,
+      "track_number": 2,
+      "album": {
+        "id": "104747",
+        "name": "A Force De Prier",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3951ad9102bb6af84812d3b03cfa58bb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3951ad9102bb6af84812d3b03cfa58bb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3951ad9102bb6af84812d3b03cfa58bb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/930753"
+      }
+    },
+    {
+      "id": "931358",
+      "name": "Chanter la vie",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/0/0/070a1de71b3f1bb42288483f461f01c2.mp3?hdnea=exp=1774860086~acl=/api/1/1/0/7/0/0/070a1de71b3f1bb42288483f461f01c2.mp3*~data=user_id=0,application_id=42~hmac=8fe14099e039bc69644e9d778539514c5c3746609a42cafbe145f8a02b7b0132",
+      "duration_ms": 285000,
+      "track_number": 3,
+      "album": {
+        "id": "104806",
+        "name": "Quand On Revient",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a749efe6c1dfe092a6ec680149d0fc7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a749efe6c1dfe092a6ec680149d0fc7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a749efe6c1dfe092a6ec680149d0fc7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/931358"
+      }
+    },
+    {
+      "id": "2319548",
+      "name": "Guten Morgen Sonnenschein",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/2/0/b826d7bb229b46d86f98969f1ba7b173.mp3?hdnea=exp=1774860086~acl=/api/1/1/b/8/2/0/b826d7bb229b46d86f98969f1ba7b173.mp3*~data=user_id=0,application_id=42~hmac=46f747232f8a4534fcc13a94441e17cc643b1a6ef1dcc90c4a77b755b1b08088",
+      "duration_ms": 155000,
+      "track_number": 4,
+      "album": {
+        "id": "231003",
+        "name": "Ich Hab Gelacht Ich Hab Geweint",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1cf79be45cbb451931313bf467e88ab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1cf79be45cbb451931313bf467e88ab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b1cf79be45cbb451931313bf467e88ab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2319548"
+      }
+    },
+    {
+      "id": "930886",
+      "name": "Le temps des cerises",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/a/0/62aa23be22cacd4f277b6afd1333bab6.mp3?hdnea=exp=1774860086~acl=/api/1/1/6/2/a/0/62aa23be22cacd4f277b6afd1333bab6.mp3*~data=user_id=0,application_id=42~hmac=b44dbe4820dac8a227cd799d9f225fdd81c41026393bb45d503e82f10706b83d",
+      "duration_ms": 183000,
+      "track_number": 5,
+      "album": {
+        "id": "104758",
+        "name": "Le Jour Ou La Colombe / Chants De Mon Pays",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44927bc7c0ad96c82207eec4590e634f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44927bc7c0ad96c82207eec4590e634f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44927bc7c0ad96c82207eec4590e634f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/930886"
+      }
+    },
+    {
+      "id": "993490",
+      "name": "Irene (Erene)",
+      "popularity": 7,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/4/0/7c47d0dd2673af88e1d8a1288317eecd.mp3?hdnea=exp=1774860086~acl=/api/1/1/7/c/4/0/7c47d0dd2673af88e1d8a1288317eecd.mp3*~data=user_id=0,application_id=42~hmac=322a1d0849dccb04e564160e35609479feae04520dad169effbb074788983af1",
+      "duration_ms": 154000,
+      "track_number": 6,
+      "album": {
+        "id": "110250",
+        "name": "The Art Of A Legend",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/368e155276a333ecaf545ef120c6ceb4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/368e155276a333ecaf545ef120c6ceb4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/368e155276a333ecaf545ef120c6ceb4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/993490"
+      }
+    },
+    {
+      "id": "93115008",
+      "name": "L'amour en héritage",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/a/0/d8afcba1fc42a55c941e8a10fecbe847.mp3?hdnea=exp=1774860086~acl=/api/1/1/d/8/a/0/d8afcba1fc42a55c941e8a10fecbe847.mp3*~data=user_id=0,application_id=42~hmac=8494a2e00a3c1f99d981a1b8ec32288d8b6b613df3b93db5ec3f4ab40b0949f5",
+      "duration_ms": 265000,
+      "track_number": 7,
+      "album": {
+        "id": "9455714",
+        "name": "L'amour en héritage (Bande originale de la série télévisée RTL - Antenne 2)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f10c3d67ee052546a8028749ceb811c7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f10c3d67ee052546a8028749ceb811c7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f10c3d67ee052546a8028749ceb811c7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/93115008"
+      }
+    },
+    {
+      "id": "3019576211",
+      "name": "Quand on s'aime",
+      "popularity": 8,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/5/0/64534d02128af1f30c3e75b2f889cba5.mp3?hdnea=exp=1774860086~acl=/api/1/1/6/4/5/0/64534d02128af1f30c3e75b2f889cba5.mp3*~data=user_id=0,application_id=42~hmac=5c4ea0b38ef1585ce45e974ed60ec99403c6ed19531c5ff860e28fbad145f407",
+      "duration_ms": 227000,
+      "track_number": 8,
+      "album": {
+        "id": "649032961",
+        "name": "90e anniversaire",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d502cdd3f5a3d04d80d6b1a76e08145/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d502cdd3f5a3d04d80d6b1a76e08145/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d502cdd3f5a3d04d80d6b1a76e08145/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3019576211"
+      }
+    },
+    {
+      "id": "3019577071",
+      "name": "La Paloma",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/9/0/6c937238872cb6766ee35c8db69b15a8.mp3?hdnea=exp=1774860086~acl=/api/1/1/6/c/9/0/6c937238872cb6766ee35c8db69b15a8.mp3*~data=user_id=0,application_id=42~hmac=70dc248e5503d97fe61c529b44c39a04a628e4827e93985fd4be0859d18fe394",
+      "duration_ms": 255000,
+      "track_number": 9,
+      "album": {
+        "id": "649033161",
+        "name": "90 Cumpleaños",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90a33934aa24b4c691d80fe5f8a1cb06/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90a33934aa24b4c691d80fe5f8a1cb06/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90a33934aa24b4c691d80fe5f8a1cb06/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3019577071"
+      }
+    },
+    {
+      "id": "6682778",
+      "name": "Albinoni: Adagio (D'Après L'Adagio Albinoni)",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/8/0/6d8432043f5585938beb619f56f84341.mp3?hdnea=exp=1774860086~acl=/api/1/1/6/d/8/0/6d8432043f5585938beb619f56f84341.mp3*~data=user_id=0,application_id=42~hmac=745a2eece1ac817a374554d8e5c975cb18c5e88f0364e68f62be185148f79d64",
+      "duration_ms": 270000,
+      "track_number": 10,
+      "album": {
+        "id": "617801",
+        "name": "My Classical Favourites",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81721c79b999044f593a862659a1c001/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81721c79b999044f593a862659a1c001/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81721c79b999044f593a862659a1c001/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7140",
+          "name": "Nana Mouskouri"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/6682778"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "3612",
+  "name": "Emerson, Lake & Palmer",
+  "popularity": 13,
+  "followers": {
+    "total": 132978
+  },
+  "genres": [
+    "progressive rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c839501d721d4bf43c567fe16a2967e6/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c839501d721d4bf43c567fe16a2967e6/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/c839501d721d4bf43c567fe16a2967e6/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/3612"
+  },
+  "uri": "deezer:artist:3612"
+}

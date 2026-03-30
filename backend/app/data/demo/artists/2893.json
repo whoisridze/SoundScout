@@ -1,0 +1,32 @@
+{
+  "id": "2893",
+  "name": "Marillion",
+  "popularity": 12,
+  "followers": {
+    "total": 129238
+  },
+  "genres": [
+    "progressive rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b217962d86a5dbb6d0371e20bd3ce9d8/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b217962d86a5dbb6d0371e20bd3ce9d8/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b217962d86a5dbb6d0371e20bd3ce9d8/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2893"
+  },
+  "uri": "deezer:artist:2893"
+}

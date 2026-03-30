@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1475929112",
+      "name": "wintersadness",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/9/0/f09141a32d85060b1adc2b7ffe9a04db.mp3?hdnea=exp=1774859977~acl=/api/1/1/f/0/9/0/f09141a32d85060b1adc2b7ffe9a04db.mp3*~data=user_id=0,application_id=42~hmac=4893fdb38af4354aa2394eba66b618f826bcb4e8670fbc794dac4e5ad05719e4",
+      "duration_ms": 64000,
+      "track_number": 1,
+      "album": {
+        "id": "254441752",
+        "name": "Gentle Boy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1475929112"
+      }
+    },
+    {
+      "id": "1475929122",
+      "name": "my new love",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/c/0/8fc6c13b8781a20cc4a5891970cf9049.mp3?hdnea=exp=1774859977~acl=/api/1/1/8/f/c/0/8fc6c13b8781a20cc4a5891970cf9049.mp3*~data=user_id=0,application_id=42~hmac=1416336c2f144cd10d2d3f88101eec345fce54a07530297de93fc02821291177",
+      "duration_ms": 65000,
+      "track_number": 2,
+      "album": {
+        "id": "254441752",
+        "name": "Gentle Boy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1475929122"
+      }
+    },
+    {
+      "id": "1475929092",
+      "name": "i love being with you",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/d/0/1dde792995efe676b9e938f2b0d6040c.mp3?hdnea=exp=1774859977~acl=/api/1/1/1/d/d/0/1dde792995efe676b9e938f2b0d6040c.mp3*~data=user_id=0,application_id=42~hmac=7ecd208472c38100287f53a57ff374624834eb87767295f83c368bb6f69548a2",
+      "duration_ms": 96000,
+      "track_number": 3,
+      "album": {
+        "id": "254441752",
+        "name": "Gentle Boy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1475929092"
+      }
+    },
+    {
+      "id": "2140712317",
+      "name": "i used to be so in love",
+      "popularity": 8,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/f/0/96f434a12a3b95427024e6d937c28843.mp3?hdnea=exp=1774859977~acl=/api/1/1/9/6/f/0/96f434a12a3b95427024e6d937c28843.mp3*~data=user_id=0,application_id=42~hmac=784347915ed4021963e624b14fb219edefffcbf23f0bdb598e57dd9156ca40ab",
+      "duration_ms": 123000,
+      "track_number": 4,
+      "album": {
+        "id": "405128557",
+        "name": "don't make me cry",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/542db37b7160a9f4d88ee6e89e792d1a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/542db37b7160a9f4d88ee6e89e792d1a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/542db37b7160a9f4d88ee6e89e792d1a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2140712317"
+      }
+    },
+    {
+      "id": "1475943912",
+      "name": "we used to talk every night",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/6/0/5e674e49bf079ac5b8c1742c7fc4f90a.mp3?hdnea=exp=1774859977~acl=/api/1/1/5/e/6/0/5e674e49bf079ac5b8c1742c7fc4f90a.mp3*~data=user_id=0,application_id=42~hmac=0e1fb7b8c1178bed6270dbc98d5c8c278e03b5c95627f97a9d7f97aacf396d91",
+      "duration_ms": 122000,
+      "track_number": 5,
+      "album": {
+        "id": "254445712",
+        "name": "time off",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fac8636de5096782d47997178913c546/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fac8636de5096782d47997178913c546/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fac8636de5096782d47997178913c546/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1475943912"
+      }
+    },
+    {
+      "id": "2444431485",
+      "name": "this girl",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/9/0/5b9b3b52961532d86d69d1e0d86af3c9.mp3?hdnea=exp=1774859977~acl=/api/1/1/5/b/9/0/5b9b3b52961532d86d69d1e0d86af3c9.mp3*~data=user_id=0,application_id=42~hmac=837bdc7e38023005e411ccee7c2a826fbd55c0c9653263391b4f4107933a2dbc",
+      "duration_ms": 122000,
+      "track_number": 6,
+      "album": {
+        "id": "485313405",
+        "name": "Gentle Boy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81e865d6a29852f5b8bb8fbc67cba4a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81e865d6a29852f5b8bb8fbc67cba4a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81e865d6a29852f5b8bb8fbc67cba4a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2444431485"
+      }
+    },
+    {
+      "id": "2444431515",
+      "name": "morning bump",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/f/0/98f58608f00fe90e2f949fb5ef1f5d81.mp3?hdnea=exp=1774859977~acl=/api/1/1/9/8/f/0/98f58608f00fe90e2f949fb5ef1f5d81.mp3*~data=user_id=0,application_id=42~hmac=61ff4bfb3be1571447f5e45210f071d00088aa579a9c06009acdf275cb4c53b0",
+      "duration_ms": 78000,
+      "track_number": 7,
+      "album": {
+        "id": "485313405",
+        "name": "Gentle Boy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81e865d6a29852f5b8bb8fbc67cba4a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81e865d6a29852f5b8bb8fbc67cba4a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81e865d6a29852f5b8bb8fbc67cba4a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2444431515"
+      }
+    },
+    {
+      "id": "1475938172",
+      "name": "affogato",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/f/0/12f36ddc16ce6eaa0ca76a863682138e.mp3?hdnea=exp=1774859977~acl=/api/1/1/1/2/f/0/12f36ddc16ce6eaa0ca76a863682138e.mp3*~data=user_id=0,application_id=42~hmac=bb17ec200c37f47e44f44d14fdee1fd4e353c54e6d3d0c23cec3b997cafaf13f",
+      "duration_ms": 169000,
+      "track_number": 8,
+      "album": {
+        "id": "254443832",
+        "name": "everything all at once",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ca1b0a38e3f6270c1ea4d9818b86083c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ca1b0a38e3f6270c1ea4d9818b86083c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ca1b0a38e3f6270c1ea4d9818b86083c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1475938172"
+      }
+    },
+    {
+      "id": "3694697422",
+      "name": "im in your walls",
+      "popularity": 4,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/d/0/6bdf5f312993fd048e0e06fde3f21cd1.mp3?hdnea=exp=1774859977~acl=/api/1/1/6/b/d/0/6bdf5f312993fd048e0e06fde3f21cd1.mp3*~data=user_id=0,application_id=42~hmac=4b586b5dae9783e9a103ab08dcb7e87cdb2bbf5508cf678855b6f70bbba44bdc",
+      "duration_ms": 96000,
+      "track_number": 9,
+      "album": {
+        "id": "869699882",
+        "name": "im in your walls",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f3b1beaa8a1d9ee161be7c6b97e75d8c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f3b1beaa8a1d9ee161be7c6b97e75d8c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f3b1beaa8a1d9ee161be7c6b97e75d8c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3694697422"
+      }
+    },
+    {
+      "id": "1475929032",
+      "name": "av",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/8/0/a68060f078ab29c57565c069b69e8618.mp3?hdnea=exp=1774859977~acl=/api/1/1/a/6/8/0/a68060f078ab29c57565c069b69e8618.mp3*~data=user_id=0,application_id=42~hmac=2a3e969d9584bf1a46df80e0edd09551e19becfa6cdbb45e512945350911b5f2",
+      "duration_ms": 73000,
+      "track_number": 10,
+      "album": {
+        "id": "254441752",
+        "name": "Gentle Boy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ab21ae484ca35a87e7dce087c8a71ce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12516376",
+          "name": "Elijah Who"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1475929032"
+      }
+    }
+  ]
+}

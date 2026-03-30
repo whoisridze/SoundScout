@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "510165272",
+      "name": "Street Fighter Mas",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/8/0/cc876fdfb12c50d0817235e72c390161.mp3?hdnea=exp=1774859915~acl=/api/1/1/c/c/8/0/cc876fdfb12c50d0817235e72c390161.mp3*~data=user_id=0,application_id=42~hmac=707d6e0e1708522257d9e2979a00ce3061e04d38b34af6fee72695516e3ec200",
+      "duration_ms": 358000,
+      "track_number": 1,
+      "album": {
+        "id": "65318772",
+        "name": "Heaven and Earth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2a768f05e2d9ed368e27c12b54caf79/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2a768f05e2d9ed368e27c12b54caf79/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2a768f05e2d9ed368e27c12b54caf79/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/510165272"
+      }
+    },
+    {
+      "id": "2700264532",
+      "name": "Dream State",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/1/0/9111a7573d03aa8ed15aba999534cb94.mp3?hdnea=exp=1774859915~acl=/api/1/1/9/1/1/0/9111a7573d03aa8ed15aba999534cb94.mp3*~data=user_id=0,application_id=42~hmac=12cbcc734bd296c7558a5fbdf5ab0a35645fc1b2cfca42a8f2a813fae1fe413f",
+      "duration_ms": 519000,
+      "track_number": 2,
+      "album": {
+        "id": "559275872",
+        "name": "Dream State",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74938b947a971077f97010b18bdcbbb3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74938b947a971077f97010b18bdcbbb3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74938b947a971077f97010b18bdcbbb3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2700264532"
+      }
+    },
+    {
+      "id": "407500202",
+      "name": "Desire",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/3/0/ab3ccb6b9f788d189933f86c2916dc19.mp3?hdnea=exp=1774859915~acl=/api/1/1/a/b/3/0/ab3ccb6b9f788d189933f86c2916dc19.mp3*~data=user_id=0,application_id=42~hmac=2b8e54da35a99a735fc3c517d18fe88ca5497b4df8c74ac01bcb3e187ab1f497",
+      "duration_ms": 276000,
+      "track_number": 3,
+      "album": {
+        "id": "48267472",
+        "name": "Harmony of Difference",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1c3eb858ac92f3c9e4001f47ca6e2e8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1c3eb858ac92f3c9e4001f47ca6e2e8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1c3eb858ac92f3c9e4001f47ca6e2e8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/407500202"
+      }
+    },
+    {
+      "id": "509859942",
+      "name": "The Secret of Jinsinson",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/c/0/5fc0315ca6b604ce58972c8fecbb811a.mp3?hdnea=exp=1774859915~acl=/api/1/1/5/f/c/0/5fc0315ca6b604ce58972c8fecbb811a.mp3*~data=user_id=0,application_id=42~hmac=0b974104a8e7c2cdf8f74ebe2bc225b6ac8dd0bc78c3e10a3b880654b2dba930",
+      "duration_ms": 487000,
+      "track_number": 4,
+      "album": {
+        "id": "65263842",
+        "name": "The Choice",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ad29f5a43a669c0d292deaf15ef1de8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ad29f5a43a669c0d292deaf15ef1de8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ad29f5a43a669c0d292deaf15ef1de8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/509859942"
+      }
+    },
+    {
+      "id": "953791112",
+      "name": "Shot Out Of A Cannon",
+      "popularity": 5,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/c/0/c3c86ce831b194a369811c4459d4e956.mp3?hdnea=exp=1774859915~acl=/api/1/1/c/3/c/0/c3c86ce831b194a369811c4459d4e956.mp3*~data=user_id=0,application_id=42~hmac=87f49a612f9b1c03167f67df83912bfcef51d170fe31d095795a8ee3f0b68c33",
+      "duration_ms": 72000,
+      "track_number": 5,
+      "album": {
+        "id": "146923622",
+        "name": "Becoming (Music from the Netflix Original Documentary)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b03077f4859c1fbb86f0d68ebf662a8c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b03077f4859c1fbb86f0d68ebf662a8c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b03077f4859c1fbb86f0d68ebf662a8c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/953791112"
+      }
+    },
+    {
+      "id": "96918052",
+      "name": "Change of the Guard",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/7/0/f07a82f2c85e0b471a780dc1eefbbc23.mp3?hdnea=exp=1774859915~acl=/api/1/1/f/0/7/0/f07a82f2c85e0b471a780dc1eefbbc23.mp3*~data=user_id=0,application_id=42~hmac=45c1e1e541503fe833743212235bc1d8815ceb9cd7c1f944efdd03f2ff1d899c",
+      "duration_ms": 736000,
+      "track_number": 6,
+      "album": {
+        "id": "9865160",
+        "name": "The Epic",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0828af74d2577b1ec52cd3a2965b826b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0828af74d2577b1ec52cd3a2965b826b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0828af74d2577b1ec52cd3a2965b826b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/96918052"
+      }
+    },
+    {
+      "id": "407500252",
+      "name": "Truth",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/a/0/6fa9441f60325d425dfab9bc8546d24e.mp3?hdnea=exp=1774859915~acl=/api/1/1/6/f/a/0/6fa9441f60325d425dfab9bc8546d24e.mp3*~data=user_id=0,application_id=42~hmac=01515e4fdbf088bd3c352154ca3df6f45552d236d11c7e9909341ceb28177b1f",
+      "duration_ms": 810000,
+      "track_number": 7,
+      "album": {
+        "id": "48267472",
+        "name": "Harmony of Difference",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1c3eb858ac92f3c9e4001f47ca6e2e8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1c3eb858ac92f3c9e4001f47ca6e2e8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1c3eb858ac92f3c9e4001f47ca6e2e8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/407500252"
+      }
+    },
+    {
+      "id": "2746842531",
+      "name": "The Garden Path",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/1/0/df1e748139fb21ababeff47947aa7f8d.mp3?hdnea=exp=1774859915~acl=/api/1/1/d/f/1/0/df1e748139fb21ababeff47947aa7f8d.mp3*~data=user_id=0,application_id=42~hmac=deb26c288828056bf5d50f889e7c4d1bff95549c9d85efef7320d1caf1a49892",
+      "duration_ms": 400000,
+      "track_number": 8,
+      "album": {
+        "id": "572058591",
+        "name": "Fearless Movement",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74938b947a971077f97010b18bdcbbb3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74938b947a971077f97010b18bdcbbb3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74938b947a971077f97010b18bdcbbb3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2746842531"
+      }
+    },
+    {
+      "id": "96918080",
+      "name": "Clair de Lune",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/a/0/40a86b85c5a2dda80b4bb94ff4f70a33.mp3?hdnea=exp=1774859915~acl=/api/1/1/4/0/a/0/40a86b85c5a2dda80b4bb94ff4f70a33.mp3*~data=user_id=0,application_id=42~hmac=debf0e02771a1431a9f8373dbd29539f1548ce84992b4190f26aaf67590a1f55",
+      "duration_ms": 667000,
+      "track_number": 9,
+      "album": {
+        "id": "9865160",
+        "name": "The Epic",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0828af74d2577b1ec52cd3a2965b826b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0828af74d2577b1ec52cd3a2965b826b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0828af74d2577b1ec52cd3a2965b826b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/96918080"
+      }
+    },
+    {
+      "id": "992621302",
+      "name": "Sleepless Nights",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/3/0/fc325125c2bbf2d4679c9820b4795fd2.mp3?hdnea=exp=1774859915~acl=/api/1/1/f/c/3/0/fc325125c2bbf2d4679c9820b4795fd2.mp3*~data=user_id=0,application_id=42~hmac=879aab985a9b5b5c736646b7fee1361a9966a7db3938c3d5afe4ad6125c9f0f9",
+      "duration_ms": 179000,
+      "track_number": 10,
+      "album": {
+        "id": "154880922",
+        "name": "Dinner Party",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4502739b6e04260237c851f3ba743503/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4502739b6e04260237c851f3ba743503/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4502739b6e04260237c851f3ba743503/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5196129",
+          "name": "Kamasi Washington"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/992621302"
+      }
+    }
+  ]
+}

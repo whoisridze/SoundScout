@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3141577271",
+      "name": "Orlando in Love",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/1/0/ea1f5f8df64699b99655354c0d6f21b3.mp3?hdnea=exp=1774859891~acl=/api/1/1/e/a/1/0/ea1f5f8df64699b99655354c0d6f21b3.mp3*~data=user_id=0,application_id=42~hmac=c87ff8270e130f662446ba44897984497c9a2089c39f48ba3ce1d1f7953ab925",
+      "duration_ms": 145000,
+      "track_number": 1,
+      "album": {
+        "id": "683592681",
+        "name": "For Melancholy Brunettes (& sad women)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce2dfd62ea2cfe389c88ee84060d496f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce2dfd62ea2cfe389c88ee84060d496f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce2dfd62ea2cfe389c88ee84060d496f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3141577271"
+      }
+    },
+    {
+      "id": "1468879702",
+      "name": "Redsee (Day)",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/0/0/670d7aa4287286035ac10ad96f706acf.mp3?hdnea=exp=1774859891~acl=/api/1/1/6/7/0/0/670d7aa4287286035ac10ad96f706acf.mp3*~data=user_id=0,application_id=42~hmac=15d07ebed2b1bba70d0d60157057842ef884803c5515b79398369367903c2282",
+      "duration_ms": 229000,
+      "track_number": 2,
+      "album": {
+        "id": "252775142",
+        "name": "Sable (Original Video Game Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1468879702"
+      }
+    },
+    {
+      "id": "1468879572",
+      "name": "Eccria (Night)",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/5/0/9452ff7bb8fd0d381a609b791d0cc2cb.mp3?hdnea=exp=1774859891~acl=/api/1/1/9/4/5/0/9452ff7bb8fd0d381a609b791d0cc2cb.mp3*~data=user_id=0,application_id=42~hmac=f919b58cbbc92b88e7bc6a7e68f08dd5443e6e4c03c153f4ea625c84a89f1256",
+      "duration_ms": 215000,
+      "track_number": 3,
+      "album": {
+        "id": "252775142",
+        "name": "Sable (Original Video Game Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1468879572"
+      }
+    },
+    {
+      "id": "1468879672",
+      "name": "Hakoa (Night)",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/e/0/50ec729701371346da7f4f7e420fc154.mp3?hdnea=exp=1774859891~acl=/api/1/1/5/0/e/0/50ec729701371346da7f4f7e420fc154.mp3*~data=user_id=0,application_id=42~hmac=46dab6dc5930d6c5d9a88671e2e2e597c92ab67744c0ca265d9d14df380674f8",
+      "duration_ms": 280000,
+      "track_number": 4,
+      "album": {
+        "id": "252775142",
+        "name": "Sable (Original Video Game Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1468879672"
+      }
+    },
+    {
+      "id": "1468879742",
+      "name": "Machinist's Theme",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/2/0/d929dcf0fa90e89e5dd3894056a49766.mp3?hdnea=exp=1774859891~acl=/api/1/1/d/9/2/0/d929dcf0fa90e89e5dd3894056a49766.mp3*~data=user_id=0,application_id=42~hmac=a8403ba746fcb94d90c85fb6a3e5b8714f1d932601b79c846e93eb5114c92a1e",
+      "duration_ms": 181000,
+      "track_number": 5,
+      "album": {
+        "id": "252775142",
+        "name": "Sable (Original Video Game Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1468879742"
+      }
+    },
+    {
+      "id": "1257797152",
+      "name": "Be Sweet",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/7/0/977afa740b5dfe5e00ff8757b128c127.mp3?hdnea=exp=1774859891~acl=/api/1/1/9/7/7/0/977afa740b5dfe5e00ff8757b128c127.mp3*~data=user_id=0,application_id=42~hmac=d54e583a219b0e754fcd18737ec25cf7269689929cb241dbd67ed7581940c439",
+      "duration_ms": 195000,
+      "track_number": 6,
+      "album": {
+        "id": "210814152",
+        "name": "Jubilee",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f0d5207d075adb652643a29ae8851e7b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f0d5207d075adb652643a29ae8851e7b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f0d5207d075adb652643a29ae8851e7b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1257797152"
+      }
+    },
+    {
+      "id": "1468879522",
+      "name": "Glider (from \"Sable\" Original Video Game Soundtrack)",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/b/0/1ab4605ce5ecef2287a7265eb3788f11.mp3?hdnea=exp=1774859891~acl=/api/1/1/1/a/b/0/1ab4605ce5ecef2287a7265eb3788f11.mp3*~data=user_id=0,application_id=42~hmac=d732e77d7c088bc11805e77fdd9687d8eba426e2d139bf9f2e340e872fb68af0",
+      "duration_ms": 171000,
+      "track_number": 7,
+      "album": {
+        "id": "252775142",
+        "name": "Sable (Original Video Game Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1468879522"
+      }
+    },
+    {
+      "id": "1468879622",
+      "name": "Beetle's Nest",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/1/0/fa13a52bc5a681cf9aafec93cbd30810.mp3?hdnea=exp=1774859891~acl=/api/1/1/f/a/1/0/fa13a52bc5a681cf9aafec93cbd30810.mp3*~data=user_id=0,application_id=42~hmac=712976b939c903ef935f5854f0569671a7022b792a38af690fcfb1fcd4deb7fa",
+      "duration_ms": 208000,
+      "track_number": 8,
+      "album": {
+        "id": "252775142",
+        "name": "Sable (Original Video Game Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1468879622"
+      }
+    },
+    {
+      "id": "1468879802",
+      "name": "Burnt Oak Station (Day)",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d34a704842e1392e8d2939c6240ae5e8.mp3?hdnea=exp=1774859891~acl=/api/1/1/d/3/4/0/d34a704842e1392e8d2939c6240ae5e8.mp3*~data=user_id=0,application_id=42~hmac=d5c827571cd9cb81a4754ec01ec36e99bfbf4629d5e7f59cf1952c869fcee763",
+      "duration_ms": 192000,
+      "track_number": 9,
+      "album": {
+        "id": "252775142",
+        "name": "Sable (Original Video Game Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f817a9a129447189c9bd89f0522a51a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1468879802"
+      }
+    },
+    {
+      "id": "126131301",
+      "name": "Everybody Wants to Love You",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/1/0/0f127fa48de278c51d867a94b171773e.mp3?hdnea=exp=1774859891~acl=/api/1/1/0/f/1/0/0f127fa48de278c51d867a94b171773e.mp3*~data=user_id=0,application_id=42~hmac=f8a298e05aa907daf1a8ffec0e13f7860f7330a0584b2efe0553b5f48a7bcf0f",
+      "duration_ms": 132000,
+      "track_number": 10,
+      "album": {
+        "id": "13277025",
+        "name": "Psychopomp",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b225d2f53b4e5c4102e070691303c415/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b225d2f53b4e5c4102e070691303c415/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b225d2f53b4e5c4102e070691303c415/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9541274",
+          "name": "Japanese Breakfast"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/126131301"
+      }
+    }
+  ]
+}

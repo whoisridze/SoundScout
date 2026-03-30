@@ -1,0 +1,32 @@
+{
+  "id": "11594063",
+  "name": "bsd.u",
+  "popularity": 19,
+  "followers": {
+    "total": 1953
+  },
+  "genres": [
+    "lo-fi beats"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8b825589bb080af1daa2c0c34b335f30/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8b825589bb080af1daa2c0c34b335f30/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8b825589bb080af1daa2c0c34b335f30/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/11594063"
+  },
+  "uri": "deezer:artist:11594063"
+}

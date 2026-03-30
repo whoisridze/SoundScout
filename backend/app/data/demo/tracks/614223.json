@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1411181832",
+      "name": "Pepas",
+      "popularity": 96,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/a/0/2dae9a42ff4cf95f5fe860e3cc3d319e.mp3?hdnea=exp=1774860012~acl=/api/1/1/2/d/a/0/2dae9a42ff4cf95f5fe860e3cc3d319e.mp3*~data=user_id=0,application_id=42~hmac=f85d6ca7b2ee1b24f67e469eea92339eff69138af0071d5408fbc9118ca5bded",
+      "duration_ms": 287000,
+      "track_number": 1,
+      "album": {
+        "id": "238972342",
+        "name": "Pepas",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b88acc901e3beff139b5b4eea025802/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b88acc901e3beff139b5b4eea025802/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b88acc901e3beff139b5b4eea025802/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1411181832"
+      }
+    },
+    {
+      "id": "645583792",
+      "name": "On My Way",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/c/0/a9cf320ef32bb89370dad691a56abf99.mp3?hdnea=exp=1774860012~acl=/api/1/1/a/9/c/0/a9cf320ef32bb89370dad691a56abf99.mp3*~data=user_id=0,application_id=42~hmac=d8a5cfb5f92af9d33109dcb6cb0e2be175c45d8f2dc162835bb748dbd80a5f44",
+      "duration_ms": 193000,
+      "track_number": 2,
+      "album": {
+        "id": "89766992",
+        "name": "On My Way",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cfc6d9793a6d36ffa98ce6a19cf02acb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cfc6d9793a6d36ffa98ce6a19cf02acb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cfc6d9793a6d36ffa98ce6a19cf02acb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/645583792"
+      }
+    },
+    {
+      "id": "1509573372",
+      "name": "Pepas (Tiësto Remix)",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/7/0/2c701832cd7018811a502f27d33148fe.mp3?hdnea=exp=1774860012~acl=/api/1/1/2/c/7/0/2c701832cd7018811a502f27d33148fe.mp3*~data=user_id=0,application_id=42~hmac=30bc4ea5b9e61ac44192f8d2b89e228ca1646721c5c80f26d3e534c78f5481ad",
+      "duration_ms": 223000,
+      "track_number": 3,
+      "album": {
+        "id": "262589332",
+        "name": "Pepas (Tiësto Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de8e75006a9d16efa4ebe40cc1299317/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de8e75006a9d16efa4ebe40cc1299317/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de8e75006a9d16efa4ebe40cc1299317/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1509573372"
+      }
+    },
+    {
+      "id": "3630340632",
+      "name": "Honguito",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/4/0/6b429941150a0dd56eec5d71ee58258c.mp3?hdnea=exp=1774860012~acl=/api/1/1/6/b/4/0/6b429941150a0dd56eec5d71ee58258c.mp3*~data=user_id=0,application_id=42~hmac=d3c6568ea1764594d86288aff46fd091daac50e4ffb61e60e8f2b8639bf5ddee",
+      "duration_ms": 162000,
+      "track_number": 4,
+      "album": {
+        "id": "847560802",
+        "name": "Honguito",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9ac833c2911572356c9c133c07cb2ab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9ac833c2911572356c9c133c07cb2ab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f9ac833c2911572356c9c133c07cb2ab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3630340632"
+      }
+    },
+    {
+      "id": "668529022",
+      "name": "La Cartera",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/1/0/0710cc92dfe3b926d05cde5026b94cc6.mp3?hdnea=exp=1774860012~acl=/api/1/1/0/7/1/0/0710cc92dfe3b926d05cde5026b94cc6.mp3*~data=user_id=0,application_id=42~hmac=d5420c4c525bef30da3aebbfb1e75a2fcd5f4357a2ba43ed82b26a73c8c5b874",
+      "duration_ms": 290000,
+      "track_number": 5,
+      "album": {
+        "id": "94288902",
+        "name": "Gangalee",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd1790963e42ed18d832abd978a17b9b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd1790963e42ed18d832abd978a17b9b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd1790963e42ed18d832abd978a17b9b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/668529022"
+      }
+    },
+    {
+      "id": "1513555532",
+      "name": "Pepas (Robin Schulz Remix)",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/e/0/c1ef60ee390e747c8d5ef577a44a23b1.mp3?hdnea=exp=1774860012~acl=/api/1/1/c/1/e/0/c1ef60ee390e747c8d5ef577a44a23b1.mp3*~data=user_id=0,application_id=42~hmac=6665f9308a8d991839b180dd131a78e329ac43c2d5a8310f4e6c9fedb4991b69",
+      "duration_ms": 280000,
+      "track_number": 6,
+      "album": {
+        "id": "263636572",
+        "name": "Pepas (Robin Schulz Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b5a625228546fadcbc2798924160260b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b5a625228546fadcbc2798924160260b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b5a625228546fadcbc2798924160260b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1513555532"
+      }
+    },
+    {
+      "id": "562886212",
+      "name": "Calma (Remix)",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/e/0/b7e58ebb1bbd96432385103d15ef981e.mp3?hdnea=exp=1774860012~acl=/api/1/1/b/7/e/0/b7e58ebb1bbd96432385103d15ef981e.mp3*~data=user_id=0,application_id=42~hmac=4715262540a6df8d16796fbedc4d3e30f01878d3152835643912d80c08031968",
+      "duration_ms": 238000,
+      "track_number": 7,
+      "album": {
+        "id": "74622972",
+        "name": "Calma (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7fff2082621c6f4c6a183f3955d617b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7fff2082621c6f4c6a183f3955d617b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7fff2082621c6f4c6a183f3955d617b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/562886212"
+      }
+    },
+    {
+      "id": "1500495762",
+      "name": "Pepas",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/9/0/2c9cc787a0fff205c8067bea505dd2ef.mp3?hdnea=exp=1774860012~acl=/api/1/1/2/c/9/0/2c9cc787a0fff205c8067bea505dd2ef.mp3*~data=user_id=0,application_id=42~hmac=56f43eaafcf6080832346143820b5cc28975c36e2fd91429162c699cacc798cf",
+      "duration_ms": 264000,
+      "track_number": 8,
+      "album": {
+        "id": "260408522",
+        "name": "Pepas",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/07a233e11bfbfa578fdb4283676c5833/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/07a233e11bfbfa578fdb4283676c5833/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/07a233e11bfbfa578fdb4283676c5833/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1500495762"
+      }
+    },
+    {
+      "id": "3843662811",
+      "name": "Ojos Cafe",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/d/0/26d1eb3d3cf36f7762e8ffdce65193b6.mp3?hdnea=exp=1774860012~acl=/api/1/1/2/6/d/0/26d1eb3d3cf36f7762e8ffdce65193b6.mp3*~data=user_id=0,application_id=42~hmac=367333f87eddc59021de7628cb47634f727eaab25fe65d414c22065294d54614",
+      "duration_ms": 198000,
+      "track_number": 9,
+      "album": {
+        "id": "918626641",
+        "name": "Ojos Cafe",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/698e04edc1c13aa81d40e583b6263526/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/698e04edc1c13aa81d40e583b6263526/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/698e04edc1c13aa81d40e583b6263526/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3843662811"
+      }
+    },
+    {
+      "id": "2343383245",
+      "name": "Santorini",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/f/0/30f0922f765aae9ee9137513b41e3e67.mp3?hdnea=exp=1774860012~acl=/api/1/1/3/0/f/0/30f0922f765aae9ee9137513b41e3e67.mp3*~data=user_id=0,application_id=42~hmac=1133385cd1b1414bac062f8f3848556a4f5b828b1e8aa187ba122c5efb5c01d4",
+      "duration_ms": 160000,
+      "track_number": 10,
+      "album": {
+        "id": "457921695",
+        "name": "Santorini",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/037102157b9bb7c2ce3c3c19c4ee9e9f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/037102157b9bb7c2ce3c3c19c4ee9e9f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/037102157b9bb7c2ce3c3c19c4ee9e9f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "614223",
+          "name": "Farruko"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2343383245"
+      }
+    }
+  ]
+}

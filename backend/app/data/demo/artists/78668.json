@@ -1,0 +1,32 @@
+{
+  "id": "78668",
+  "name": "Bon Iver",
+  "popularity": 54,
+  "followers": {
+    "total": 540305
+  },
+  "genres": [
+    "indie folk"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6edd41ee3cd3005077e07647242fb238/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6edd41ee3cd3005077e07647242fb238/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6edd41ee3cd3005077e07647242fb238/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/78668"
+  },
+  "uri": "deezer:artist:78668"
+}

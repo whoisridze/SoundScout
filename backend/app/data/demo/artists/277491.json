@@ -1,0 +1,32 @@
+{
+  "id": "277491",
+  "name": "Ólafur Arnalds",
+  "popularity": 17,
+  "followers": {
+    "total": 179792
+  },
+  "genres": [
+    "classical"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/39c599372c3484a872a160243da08f09/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/39c599372c3484a872a160243da08f09/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/39c599372c3484a872a160243da08f09/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/277491"
+  },
+  "uri": "deezer:artist:277491"
+}

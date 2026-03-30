@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3911920921",
+      "name": "Country And She Knows It",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/a/0/10a5b648f635ddbe2e1ef1c357dc3d37.mp3?hdnea=exp=1774860038~acl=/api/1/1/1/0/a/0/10a5b648f635ddbe2e1ef1c357dc3d37.mp3*~data=user_id=0,application_id=42~hmac=87b95473ce2757b2ef6207fbf685861b853084387d55494eef19131f9b408179",
+      "duration_ms": 174000,
+      "track_number": 1,
+      "album": {
+        "id": "943732841",
+        "name": "Country And She Knows It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37fdabe7f69a4fa7c59d425007dd8c9f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37fdabe7f69a4fa7c59d425007dd8c9f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/37fdabe7f69a4fa7c59d425007dd8c9f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3911920921"
+      }
+    },
+    {
+      "id": "656666962",
+      "name": "Knockin' Boots",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/1/0/d012c1c641c8d0251c062b07c6bc53a0.mp3?hdnea=exp=1774860038~acl=/api/1/1/d/0/1/0/d012c1c641c8d0251c062b07c6bc53a0.mp3*~data=user_id=0,application_id=42~hmac=584c6cce3c71f7ca54984a9f134149d6dc90e11568d382dd191361b38308f322",
+      "duration_ms": 199000,
+      "track_number": 2,
+      "album": {
+        "id": "91876752",
+        "name": "Knockin' Boots",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d119b021c020e5e77ef190054586592/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d119b021c020e5e77ef190054586592/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d119b021c020e5e77ef190054586592/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/656666962"
+      }
+    },
+    {
+      "id": "2970841721",
+      "name": "Country Song Came On",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/9/0/de9c7e3861eee8927fa30ca302cbaaa6.mp3?hdnea=exp=1774860038~acl=/api/1/1/d/e/9/0/de9c7e3861eee8927fa30ca302cbaaa6.mp3*~data=user_id=0,application_id=42~hmac=eb3ed4dc5ec92936292127f80a0a77aae74ec147e3570484b4f62927c4010f8b",
+      "duration_ms": 234000,
+      "track_number": 3,
+      "album": {
+        "id": "636156601",
+        "name": "Country Song Came On",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe0fc38d06fb20e610980a57ff03096d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe0fc38d06fb20e610980a57ff03096d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe0fc38d06fb20e610980a57ff03096d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2970841721"
+      }
+    },
+    {
+      "id": "3117456341",
+      "name": "Georgia Ways",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/3/0/3b35685310f2b31eb1d61012140b46f3.mp3?hdnea=exp=1774860038~acl=/api/1/1/3/b/3/0/3b35685310f2b31eb1d61012140b46f3.mp3*~data=user_id=0,application_id=42~hmac=38e3a32a389af272afbb223b31db6dc5616aad3ff84ab36354a14e98c1b6df28",
+      "duration_ms": 169000,
+      "track_number": 4,
+      "album": {
+        "id": "676928351",
+        "name": "Georgia Ways",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c145abea79bc9a45c2eb0ae64fa6201/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c145abea79bc9a45c2eb0ae64fa6201/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c145abea79bc9a45c2eb0ae64fa6201/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3117456341"
+      }
+    },
+    {
+      "id": "69417633",
+      "name": "That's My Kind Of Night",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/7/0/fd762ab24ecfbbca970ff555b773ad6a.mp3?hdnea=exp=1774860038~acl=/api/1/1/f/d/7/0/fd762ab24ecfbbca970ff555b773ad6a.mp3*~data=user_id=0,application_id=42~hmac=435ae5432bbed1c58bf77506fa10d76552262b11b0d9c79bee2e7edae3722540",
+      "duration_ms": 190000,
+      "track_number": 5,
+      "album": {
+        "id": "6804532",
+        "name": "Crash My Party",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d40b1b9232463702490ccc73549a99ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d40b1b9232463702490ccc73549a99ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d40b1b9232463702490ccc73549a99ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69417633"
+      }
+    },
+    {
+      "id": "3788189012",
+      "name": "The Only Way I Know",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/b/0/1cb998037fa25e61ae027a246ec00dd0.mp3?hdnea=exp=1774860038~acl=/api/1/1/1/c/b/0/1cb998037fa25e61ae027a246ec00dd0.mp3*~data=user_id=0,application_id=42~hmac=453fad5b25df740c3ea2e71cae09dc43608807fbea1359d43e0e114d9a5f3cb6",
+      "duration_ms": 193000,
+      "track_number": 6,
+      "album": {
+        "id": "902095592",
+        "name": "Night Train",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1b64033b70c9eb21ec637b67da3ee8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1b64033b70c9eb21ec637b67da3ee8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1b64033b70c9eb21ec637b67da3ee8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788189012"
+      }
+    },
+    {
+      "id": "3003836171",
+      "name": "But I Got A Beer In My Hand",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/1/0/f411feac737bb910962d7f824ca9c101.mp3?hdnea=exp=1774860038~acl=/api/1/1/f/4/1/0/f411feac737bb910962d7f824ca9c101.mp3*~data=user_id=0,application_id=42~hmac=6a593ae23a2ddcf726c385cb6ebba2bdae7c053b1ee059a3bb647a37e208654c",
+      "duration_ms": 176000,
+      "track_number": 7,
+      "album": {
+        "id": "645686431",
+        "name": "Mind Of A Country Boy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe0fc38d06fb20e610980a57ff03096d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe0fc38d06fb20e610980a57ff03096d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe0fc38d06fb20e610980a57ff03096d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3003836171"
+      }
+    },
+    {
+      "id": "3841779291",
+      "name": "Word On The Street",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/6/0/f66444ac42c118854edaae562b0cef35.mp3?hdnea=exp=1774860038~acl=/api/1/1/f/6/6/0/f66444ac42c118854edaae562b0cef35.mp3*~data=user_id=0,application_id=42~hmac=c8494fb832656853c6dc98e603b61fe03c98324ed1660f3080bf3222db7939d8",
+      "duration_ms": 176000,
+      "track_number": 8,
+      "album": {
+        "id": "917974391",
+        "name": "Word On The Street",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/295a394785fd255dc25968561d82a1b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/295a394785fd255dc25968561d82a1b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/295a394785fd255dc25968561d82a1b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3841779291"
+      }
+    },
+    {
+      "id": "69417641",
+      "name": "Play It Again",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/d/0/12dd631816d883bd8f66751997cf343c.mp3?hdnea=exp=1774860038~acl=/api/1/1/1/2/d/0/12dd631816d883bd8f66751997cf343c.mp3*~data=user_id=0,application_id=42~hmac=7b5b243d666170dcaeee9ed42dc9909e1c5b6dc0c8bddc620f4352e1ac567041",
+      "duration_ms": 226000,
+      "track_number": 9,
+      "album": {
+        "id": "6804532",
+        "name": "Crash My Party",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d40b1b9232463702490ccc73549a99ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d40b1b9232463702490ccc73549a99ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d40b1b9232463702490ccc73549a99ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69417641"
+      }
+    },
+    {
+      "id": "3003836131",
+      "name": "Mind Of A Country Boy",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/6/0/ba67c595fc6feb877a3bb75038dbd325.mp3?hdnea=exp=1774860038~acl=/api/1/1/b/a/6/0/ba67c595fc6feb877a3bb75038dbd325.mp3*~data=user_id=0,application_id=42~hmac=912796288c06429372cd625f8289f902cdd1e92dc9c711e370ffbc312efa4bdd",
+      "duration_ms": 196000,
+      "track_number": 10,
+      "album": {
+        "id": "645686431",
+        "name": "Mind Of A Country Boy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe0fc38d06fb20e610980a57ff03096d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe0fc38d06fb20e610980a57ff03096d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe0fc38d06fb20e610980a57ff03096d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "242132",
+          "name": "Luke Bryan"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3003836131"
+      }
+    }
+  ]
+}

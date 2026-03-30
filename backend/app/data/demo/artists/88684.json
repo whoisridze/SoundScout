@@ -1,0 +1,32 @@
+{
+  "id": "88684",
+  "name": "EXO",
+  "popularity": 42,
+  "followers": {
+    "total": 429951
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f2fa89ff99805404c7443bed2bcc3c71/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f2fa89ff99805404c7443bed2bcc3c71/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f2fa89ff99805404c7443bed2bcc3c71/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/88684"
+  },
+  "uri": "deezer:artist:88684"
+}

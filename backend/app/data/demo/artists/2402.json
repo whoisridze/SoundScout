@@ -1,0 +1,32 @@
+{
+  "id": "2402",
+  "name": "Enigma",
+  "popularity": 18,
+  "followers": {
+    "total": 186384
+  },
+  "genres": [
+    "new age"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/612f4aa2899cccdd0bb06ec53f14bee5/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/612f4aa2899cccdd0bb06ec53f14bee5/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/612f4aa2899cccdd0bb06ec53f14bee5/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2402"
+  },
+  "uri": "deezer:artist:2402"
+}

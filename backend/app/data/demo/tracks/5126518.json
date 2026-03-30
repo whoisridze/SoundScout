@@ -1,0 +1,44 @@
+{
+  "tracks": [
+    {
+      "id": "1770669517",
+      "name": "Good Boy Gone Bad (Unpopular Theory Remix)",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/e/0/2aeb8cfe273f96e769136a8d4e46731d.mp3?hdnea=exp=1774859957~acl=/api/1/1/2/a/e/0/2aeb8cfe273f96e769136a8d4e46731d.mp3*~data=user_id=0,application_id=42~hmac=3c11a9c9136e8cee5d23b82acefbc40fe973e458edecd14389aac32db91a0297",
+      "duration_ms": 206000,
+      "track_number": 1,
+      "album": {
+        "id": "322966807",
+        "name": "Good Boy Gone Bad (Unpopular Theory Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b13983cddfb5fe9e541276e3c61c43ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b13983cddfb5fe9e541276e3c61c43ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b13983cddfb5fe9e541276e3c61c43ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5126518",
+          "name": "TXT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1770669517"
+      }
+    }
+  ]
+}

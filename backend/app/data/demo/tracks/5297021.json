@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2846442802",
+      "name": "Si Antes Te Hubiera Conocido",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/9/0/449439df1ef7bf86774b8f8bf174a566.mp3?hdnea=exp=1774859941~acl=/api/1/1/4/4/9/0/449439df1ef7bf86774b8f8bf174a566.mp3*~data=user_id=0,application_id=42~hmac=232825ddd402ec8196957fd98415a3e935ced848ac588bd169c353c5438d669d",
+      "duration_ms": 196000,
+      "track_number": 1,
+      "album": {
+        "id": "601338932",
+        "name": "Si Antes Te Hubiera Conocido",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d2d13e0170f7eccc31f6b1038a870d5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d2d13e0170f7eccc31f6b1038a870d5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d2d13e0170f7eccc31f6b1038a870d5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2846442802"
+      }
+    },
+    {
+      "id": "3376766301",
+      "name": "LATINA FOREVA",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/4/0/5248c0d4033b64bb5b77cd86dccc14f3.mp3?hdnea=exp=1774859941~acl=/api/1/1/5/2/4/0/5248c0d4033b64bb5b77cd86dccc14f3.mp3*~data=user_id=0,application_id=42~hmac=5a76b660f6d35297af4d4b8a1a829aac55be8b95cb5b130d99fc175b2f96e5f6",
+      "duration_ms": 161000,
+      "track_number": 2,
+      "album": {
+        "id": "760121901",
+        "name": "LATINA FOREVA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee95227854ac22d0df05838f5fcce9cf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee95227854ac22d0df05838f5fcce9cf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ee95227854ac22d0df05838f5fcce9cf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3376766301"
+      }
+    },
+    {
+      "id": "2154046487",
+      "name": "TQG",
+      "popularity": 87,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/9/0/729d065be2ce753a25b193f487283285.mp3?hdnea=exp=1774859941~acl=/api/1/1/7/2/9/0/729d065be2ce753a25b193f487283285.mp3*~data=user_id=0,application_id=42~hmac=1a0d25591bb30155538f10e104eef86632387439c9de10fa126a8f88cb4b8c0a",
+      "duration_ms": 199000,
+      "track_number": 3,
+      "album": {
+        "id": "408659277",
+        "name": "MAÑANA SERÁ BONITO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/608e6114bb1e0a7f3a512538d7bd9248/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/608e6114bb1e0a7f3a512538d7bd9248/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/608e6114bb1e0a7f3a512538d7bd9248/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2154046487"
+      }
+    },
+    {
+      "id": "3421452581",
+      "name": "Verano Rosa",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/f/0/7dff40dafcd200a3bec44573e4a5ded1.mp3?hdnea=exp=1774859941~acl=/api/1/1/7/d/f/0/7dff40dafcd200a3bec44573e4a5ded1.mp3*~data=user_id=0,application_id=42~hmac=59d2fab94637c2a80313c66cf9381e2fbec7ac00380ee07bd953d18d8269c3ba",
+      "duration_ms": 210000,
+      "track_number": 4,
+      "album": {
+        "id": "774864691",
+        "name": "Tropicoqueta",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfdc0e8f03e705b41e54b699485607f8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfdc0e8f03e705b41e54b699485607f8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfdc0e8f03e705b41e54b699485607f8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3421452581"
+      }
+    },
+    {
+      "id": "714210042",
+      "name": "China",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/4/0/c042c8d32a0252bb683d8964bd5a19fc.mp3?hdnea=exp=1774859941~acl=/api/1/1/c/0/4/0/c042c8d32a0252bb683d8964bd5a19fc.mp3*~data=user_id=0,application_id=42~hmac=2ea4044e705f93acb7f8cfafe7556d5833cf49daaf1fd5efe94efeb818fd7a46",
+      "duration_ms": 301000,
+      "track_number": 5,
+      "album": {
+        "id": "104037352",
+        "name": "China",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9792592cb08a52adafe49e0d93c5c177/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9792592cb08a52adafe49e0d93c5c177/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9792592cb08a52adafe49e0d93c5c177/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/714210042"
+      }
+    },
+    {
+      "id": "671255752",
+      "name": "Mi Mala (feat. Becky G, Leslie Grace & Lali)",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/3/0/b63135945912e6ebf7b6c5d537b62af1.mp3?hdnea=exp=1774859941~acl=/api/1/1/b/6/3/0/b63135945912e6ebf7b6c5d537b62af1.mp3*~data=user_id=0,application_id=42~hmac=d7c1a2b208d774c344b85750b86274ba1e8cbb081dcfa88b0c9268d851b87270",
+      "duration_ms": 256000,
+      "track_number": 6,
+      "album": {
+        "id": "94883942",
+        "name": "Para Aventuras y Curiosidades",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39c2e427d0c3068e205037218f8cb666/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39c2e427d0c3068e205037218f8cb666/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39c2e427d0c3068e205037218f8cb666/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/671255752"
+      }
+    },
+    {
+      "id": "2403815945",
+      "name": "QLONA",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/f/0/50fa52da19dc81ec09f283151ce4bdb8.mp3?hdnea=exp=1774859941~acl=/api/1/1/5/0/f/0/50fa52da19dc81ec09f283151ce4bdb8.mp3*~data=user_id=0,application_id=42~hmac=72acc814daa6da0f2e01c4e801e2acb9e889f26530e8896935e39001897d6034",
+      "duration_ms": 172000,
+      "track_number": 7,
+      "album": {
+        "id": "474422645",
+        "name": "MAÑANA SERÁ BONITO (BICHOTA SEASON)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eacb2df2f49b1e67266ed70c8debd8d3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eacb2df2f49b1e67266ed70c8debd8d3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eacb2df2f49b1e67266ed70c8debd8d3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2403815945"
+      }
+    },
+    {
+      "id": "1444099622",
+      "name": "Don't Be Shy",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/9/0/809ad15101483cec49f186ee10d5952e.mp3?hdnea=exp=1774859941~acl=/api/1/1/8/0/9/0/809ad15101483cec49f186ee10d5952e.mp3*~data=user_id=0,application_id=42~hmac=6bbdca2bf4b132d4ff932f9523d5bcc86a51664f98ada602de9bb3e54dc96e29",
+      "duration_ms": 140000,
+      "track_number": 8,
+      "album": {
+        "id": "246960022",
+        "name": "Don't Be Shy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9dd3aa63cfaa8dc25a4c211dbb5c6fe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9dd3aa63cfaa8dc25a4c211dbb5c6fe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9dd3aa63cfaa8dc25a4c211dbb5c6fe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1444099622"
+      }
+    },
+    {
+      "id": "1721634237",
+      "name": "PROVENZA",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/e/0/7fe9845244c7cd381e233d5698aef03f.mp3?hdnea=exp=1774859941~acl=/api/1/1/7/f/e/0/7fe9845244c7cd381e233d5698aef03f.mp3*~data=user_id=0,application_id=42~hmac=82c662d684b6b672f873d1e7267dca0083fd5f583ad434ba9d655c428964a048",
+      "duration_ms": 209000,
+      "track_number": 9,
+      "album": {
+        "id": "311152297",
+        "name": "PROVENZA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6468d5adca0eb6d157f42a309b6e6b2e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6468d5adca0eb6d157f42a309b6e6b2e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6468d5adca0eb6d157f42a309b6e6b2e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1721634237"
+      }
+    },
+    {
+      "id": "3421452471",
+      "name": "Ivonny Bonita",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/1/0/d01f0f43c7436f991b5d518f777b04b7.mp3?hdnea=exp=1774859941~acl=/api/1/1/d/0/1/0/d01f0f43c7436f991b5d518f777b04b7.mp3*~data=user_id=0,application_id=42~hmac=47bcaf2c45aa24a7ca67bb6a1fba85a6da982c8aee4e708764bbf23c9e8a4663",
+      "duration_ms": 222000,
+      "track_number": 10,
+      "album": {
+        "id": "774864691",
+        "name": "Tropicoqueta",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfdc0e8f03e705b41e54b699485607f8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfdc0e8f03e705b41e54b699485607f8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfdc0e8f03e705b41e54b699485607f8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5297021",
+          "name": "KAROL G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3421452471"
+      }
+    }
+  ]
+}

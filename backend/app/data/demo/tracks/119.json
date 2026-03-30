@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1483825212",
+      "name": "Enter Sandman (Remastered 2021)",
+      "popularity": 92,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/0/0/c70d7e81abc196d915aadd1e7489a75a.mp3?hdnea=exp=1774860021~acl=/api/1/1/c/7/0/0/c70d7e81abc196d915aadd1e7489a75a.mp3*~data=user_id=0,application_id=42~hmac=9c08b17c66161539930fd179fa2b4b65074d81e59220e02a37587367d397791d",
+      "duration_ms": 331000,
+      "track_number": 1,
+      "album": {
+        "id": "256250622",
+        "name": "Metallica (Remastered 2021)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1483825212"
+      }
+    },
+    {
+      "id": "1483825282",
+      "name": "Nothing Else Matters (Remastered 2021)",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/9/0/d897487b8b86e39b13d94a5ad5996cbc.mp3?hdnea=exp=1774860021~acl=/api/1/1/d/8/9/0/d897487b8b86e39b13d94a5ad5996cbc.mp3*~data=user_id=0,application_id=42~hmac=2c68f791e12d7b58b12efe3874201d6627515d80f1b59aad71d06b2fb66fbe9f",
+      "duration_ms": 389000,
+      "track_number": 2,
+      "album": {
+        "id": "256250622",
+        "name": "Metallica (Remastered 2021)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1483825282"
+      }
+    },
+    {
+      "id": "1483825242",
+      "name": "The Unforgiven (Remastered 2021)",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/b/0/4eb02f5e0bfadf2222115936f96a2568.mp3?hdnea=exp=1774860021~acl=/api/1/1/4/e/b/0/4eb02f5e0bfadf2222115936f96a2568.mp3*~data=user_id=0,application_id=42~hmac=ca3ad2650c8dbdae1a70799ed246376a3d07437bdc7b65dd0300e7dd762ecebe",
+      "duration_ms": 385000,
+      "track_number": 3,
+      "album": {
+        "id": "256250622",
+        "name": "Metallica (Remastered 2021)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1483825242"
+      }
+    },
+    {
+      "id": "136338504",
+      "name": "For Whom The Bell Tolls (Remastered)",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/b/0/0bb6d64b1d012282138969da040cd4bb.mp3?hdnea=exp=1774860021~acl=/api/1/1/0/b/b/0/0bb6d64b1d012282138969da040cd4bb.mp3*~data=user_id=0,application_id=42~hmac=3b569c7b8f066fcc07b97828c942b298a48079a83f5a09f5cb44909f5a51cf20",
+      "duration_ms": 310000,
+      "track_number": 4,
+      "album": {
+        "id": "14581762",
+        "name": "Ride The Lightning (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d5f397660c6ec7a445f386edac05b9e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d5f397660c6ec7a445f386edac05b9e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d5f397660c6ec7a445f386edac05b9e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/136338504"
+      }
+    },
+    {
+      "id": "575867572",
+      "name": "One",
+      "popularity": 81,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/6/0/4b644cbb29fc415e3215eb8a66e886b8.mp3?hdnea=exp=1774860021~acl=/api/1/1/4/b/6/0/4b644cbb29fc415e3215eb8a66e886b8.mp3*~data=user_id=0,application_id=42~hmac=bd0ca81ada8b9e0289167ad2276a21cea077b2f2a82b1c1d01074d3be963cfcc",
+      "duration_ms": 446000,
+      "track_number": 5,
+      "album": {
+        "id": "76955902",
+        "name": "…And Justice for All (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce293de53f905a3ce444062ec5242d53/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce293de53f905a3ce444062ec5242d53/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce293de53f905a3ce444062ec5242d53/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/575867572"
+      }
+    },
+    {
+      "id": "136338506",
+      "name": "Fade To Black (Remastered)",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/1/0/dc1e3cac719c5177bb5538cab01b2484.mp3?hdnea=exp=1774860021~acl=/api/1/1/d/c/1/0/dc1e3cac719c5177bb5538cab01b2484.mp3*~data=user_id=0,application_id=42~hmac=e80044261411279e60e832aced8ed325f42098b2b0b667bf8a471659fb6dd580",
+      "duration_ms": 417000,
+      "track_number": 6,
+      "album": {
+        "id": "14581762",
+        "name": "Ride The Lightning (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d5f397660c6ec7a445f386edac05b9e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d5f397660c6ec7a445f386edac05b9e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6d5f397660c6ec7a445f386edac05b9e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/136338506"
+      }
+    },
+    {
+      "id": "424565232",
+      "name": "Master Of Puppets",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/e/0/7dee9f3fe45b02061a324bc8f3904d1b.mp3?hdnea=exp=1774860021~acl=/api/1/1/7/d/e/0/7dee9f3fe45b02061a324bc8f3904d1b.mp3*~data=user_id=0,application_id=42~hmac=09646ea91416fb0fa81ce9e626c5c23569a449e62e3c9e1f20609e8111ef8eaf",
+      "duration_ms": 515000,
+      "track_number": 7,
+      "album": {
+        "id": "51001312",
+        "name": "Master Of Puppets (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/291e2af9295ca885b154eee75dfa0432/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/291e2af9295ca885b154eee75dfa0432/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/291e2af9295ca885b154eee75dfa0432/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/424565232"
+      }
+    },
+    {
+      "id": "1483825222",
+      "name": "Sad But True (Remastered 2021)",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/a/0/bda19c416c89536a258feaeea2c713a8.mp3?hdnea=exp=1774860021~acl=/api/1/1/b/d/a/0/bda19c416c89536a258feaeea2c713a8.mp3*~data=user_id=0,application_id=42~hmac=da4e931f38788ca2e637a8ab681af47e59a119f1031200e94f6651008bce39e4",
+      "duration_ms": 324000,
+      "track_number": 8,
+      "album": {
+        "id": "256250622",
+        "name": "Metallica (Remastered 2021)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f2093c9d25852c8f1937ae5a47b99a6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1483825222"
+      }
+    },
+    {
+      "id": "2114517",
+      "name": "The Unforgiven II",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/1/0/8115c5dcc113c1705ecf5e838bb3d689.mp3?hdnea=exp=1774860021~acl=/api/1/1/8/1/1/0/8115c5dcc113c1705ecf5e838bb3d689.mp3*~data=user_id=0,application_id=42~hmac=e1e6fff94e664168f4d8285d9cda98a92ecec7b1ee6c0c9f9a1880933c88d34c",
+      "duration_ms": 396000,
+      "track_number": 9,
+      "album": {
+        "id": "212388",
+        "name": "Reload",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5bfc696a447f419d14b94ad348c2d91c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5bfc696a447f419d14b94ad348c2d91c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5bfc696a447f419d14b94ad348c2d91c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2114517"
+      }
+    },
+    {
+      "id": "136332702",
+      "name": "Seek & Destroy (Remastered)",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/0/0/e606263a5008a32f07387b44f284ddf0.mp3?hdnea=exp=1774860021~acl=/api/1/1/e/6/0/0/e606263a5008a32f07387b44f284ddf0.mp3*~data=user_id=0,application_id=42~hmac=0b01f766dc3cbcc6ff63efaeae41d9b1ff160de232eaa79b229298e29f963489",
+      "duration_ms": 415000,
+      "track_number": 10,
+      "album": {
+        "id": "14581190",
+        "name": "Kill 'Em All (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f6d4ff72804ee17684a9b7b79a906898/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f6d4ff72804ee17684a9b7b79a906898/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f6d4ff72804ee17684a9b7b79a906898/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "119",
+          "name": "Metallica"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/136332702"
+      }
+    }
+  ]
+}

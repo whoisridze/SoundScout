@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1203751432",
+      "name": "Hyperthermic / Accelerate",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/3/0/fa3aa8bb2c8f1a48ef1b3068cd24fcc9.mp3?hdnea=exp=1774860027~acl=/api/1/1/f/a/3/0/fa3aa8bb2c8f1a48ef1b3068cd24fcc9.mp3*~data=user_id=0,application_id=42~hmac=6f92bf2c26268b5d4c934fc7189c7d7dcf7e120ff4f3d43cc61bbe48cdbacd90",
+      "duration_ms": 244000,
+      "track_number": 1,
+      "album": {
+        "id": "198961742",
+        "name": "Lamb of God (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a2d80d767d895553167829a697ce4081/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a2d80d767d895553167829a697ce4081/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a2d80d767d895553167829a697ce4081/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1203751432"
+      }
+    },
+    {
+      "id": "3895517321",
+      "name": "Into Oblivion",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/f/0/19fbbb1ead51243d08b9c9261c33e699.mp3?hdnea=exp=1774860027~acl=/api/1/1/1/9/f/0/19fbbb1ead51243d08b9c9261c33e699.mp3*~data=user_id=0,application_id=42~hmac=fa366e5f77b351926c6ac730e0c83db555e975d796e3de13d96648db13d6b9ea",
+      "duration_ms": 214000,
+      "track_number": 2,
+      "album": {
+        "id": "937875661",
+        "name": "Into Oblivion",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/442707165bccd70a1be87d82f8f779ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/442707165bccd70a1be87d82f8f779ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/442707165bccd70a1be87d82f8f779ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3895517321"
+      }
+    },
+    {
+      "id": "2470234785",
+      "name": "Evidence",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/9/0/b3910d4da1e98f5ff4ae63bd098fb6da.mp3?hdnea=exp=1774860027~acl=/api/1/1/b/3/9/0/b3910d4da1e98f5ff4ae63bd098fb6da.mp3*~data=user_id=0,application_id=42~hmac=5e2f5f11d25b6f56c15921142cdc872869bbf70570f1d082b3af7d2da58343cc",
+      "duration_ms": 230000,
+      "track_number": 3,
+      "album": {
+        "id": "492397145",
+        "name": "Evidence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b6ed0349e5cff46af6e8694b7d76acf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b6ed0349e5cff46af6e8694b7d76acf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b6ed0349e5cff46af6e8694b7d76acf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2470234785"
+      }
+    },
+    {
+      "id": "660101212",
+      "name": "Culling",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/e/0/94e9fba9f61d9137849d9e70b99d7110.mp3?hdnea=exp=1774860027~acl=/api/1/1/9/4/e/0/94e9fba9f61d9137849d9e70b99d7110.mp3*~data=user_id=0,application_id=42~hmac=d0fa8715c9de375113abcb0f8f1a3cbac194304328bf3070e46ab9cc978fd517",
+      "duration_ms": 212000,
+      "track_number": 4,
+      "album": {
+        "id": "92558502",
+        "name": "The Duke",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ab62605eaf30dbfa6d25b573954ded7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ab62605eaf30dbfa6d25b573954ded7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ab62605eaf30dbfa6d25b573954ded7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/660101212"
+      }
+    },
+    {
+      "id": "1768907957",
+      "name": "To The Grave",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/6/0/426be1ed2eeb18de0add24e6903dccd6.mp3?hdnea=exp=1774860027~acl=/api/1/1/4/2/6/0/426be1ed2eeb18de0add24e6903dccd6.mp3*~data=user_id=0,application_id=42~hmac=632ebfbcfc5b766cb19525c07435326ca2b3c08e8ec957556f2aa6be9e0f300d",
+      "duration_ms": 223000,
+      "track_number": 5,
+      "album": {
+        "id": "322536267",
+        "name": "Omens",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b6ed0349e5cff46af6e8694b7d76acf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b6ed0349e5cff46af6e8694b7d76acf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b6ed0349e5cff46af6e8694b7d76acf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1768907957"
+      }
+    },
+    {
+      "id": "651400762",
+      "name": "Still Echoes",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/6/0/0567f423b06fa13d0ae21a930643189b.mp3?hdnea=exp=1774860027~acl=/api/1/1/0/5/6/0/0567f423b06fa13d0ae21a930643189b.mp3*~data=user_id=0,application_id=42~hmac=8e546171ade530bb7782f8a984512f999de0501e4592d1fb0f24e0887f08e86d",
+      "duration_ms": 262000,
+      "track_number": 6,
+      "album": {
+        "id": "90881552",
+        "name": "VII: Sturm und Drang",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/651400762"
+      }
+    },
+    {
+      "id": "3895517361",
+      "name": "El Vacío",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/a/0/2fa3d49a52fce29c66ff2944edef3223.mp3?hdnea=exp=1774860027~acl=/api/1/1/2/f/a/0/2fa3d49a52fce29c66ff2944edef3223.mp3*~data=user_id=0,application_id=42~hmac=2e842bed69588667eebc382bc2512bfe4b41e7e771c64fc6e050bb832ae6b9e8",
+      "duration_ms": 257000,
+      "track_number": 7,
+      "album": {
+        "id": "937875661",
+        "name": "Into Oblivion",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/442707165bccd70a1be87d82f8f779ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/442707165bccd70a1be87d82f8f779ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/442707165bccd70a1be87d82f8f779ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3895517361"
+      }
+    },
+    {
+      "id": "651400772",
+      "name": "Erase This",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/1/0/771d7fabcd78e8e771b86b3b18d02d76.mp3?hdnea=exp=1774860027~acl=/api/1/1/7/7/1/0/771d7fabcd78e8e771b86b3b18d02d76.mp3*~data=user_id=0,application_id=42~hmac=3450ab154a59bae49dfb822e3388ca4e148e44d287ad91cc9a065b895f8b73db",
+      "duration_ms": 308000,
+      "track_number": 8,
+      "album": {
+        "id": "90881552",
+        "name": "VII: Sturm und Drang",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/651400772"
+      }
+    },
+    {
+      "id": "651400792",
+      "name": "Embers",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/8/0/ce8d67a7ef6e1b13b9fef8c19af4cdd4.mp3?hdnea=exp=1774860027~acl=/api/1/1/c/e/8/0/ce8d67a7ef6e1b13b9fef8c19af4cdd4.mp3*~data=user_id=0,application_id=42~hmac=634e26675dea87b88e4bd2b1cd82f68fd41fd74ec76e7ebba223c67650f8500e",
+      "duration_ms": 296000,
+      "track_number": 9,
+      "album": {
+        "id": "90881552",
+        "name": "VII: Sturm und Drang",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/651400792"
+      }
+    },
+    {
+      "id": "651400802",
+      "name": "Footprints",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/1/0/bc10cd074abd23b56297ad4e21b42fc8.mp3?hdnea=exp=1774860027~acl=/api/1/1/b/c/1/0/bc10cd074abd23b56297ad4e21b42fc8.mp3*~data=user_id=0,application_id=42~hmac=5bdab9a10e43b00659418a94c4572dd14a91873b203d522b792a2256a7b22e86",
+      "duration_ms": 264000,
+      "track_number": 10,
+      "album": {
+        "id": "90881552",
+        "name": "VII: Sturm und Drang",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e418d1517e4ce005ba0daeb190c6bb5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2216",
+          "name": "Lamb of God"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/651400802"
+      }
+    }
+  ]
+}

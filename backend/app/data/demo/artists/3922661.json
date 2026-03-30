@@ -1,0 +1,32 @@
+{
+  "id": "3922661",
+  "name": "Mora",
+  "popularity": 23,
+  "followers": {
+    "total": 230509
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f44bb8e98463bc41d195c63c43768701/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f44bb8e98463bc41d195c63c43768701/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f44bb8e98463bc41d195c63c43768701/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/3922661"
+  },
+  "uri": "deezer:artist:3922661"
+}

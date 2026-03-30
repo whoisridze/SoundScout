@@ -1,0 +1,32 @@
+{
+  "id": "69959",
+  "name": "Keb' Mo'",
+  "popularity": 9,
+  "followers": {
+    "total": 99292
+  },
+  "genres": [
+    "blues"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e4228c8314012b7c3906e52b14480644/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e4228c8314012b7c3906e52b14480644/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e4228c8314012b7c3906e52b14480644/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/69959"
+  },
+  "uri": "deezer:artist:69959"
+}

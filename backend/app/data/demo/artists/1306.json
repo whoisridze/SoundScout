@@ -1,0 +1,32 @@
+{
+  "id": "1306",
+  "name": "Mazzy Star",
+  "popularity": 9,
+  "followers": {
+    "total": 99171
+  },
+  "genres": [
+    "dream pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/ca49f4fe2bd553aad0d0fa9dac2616e3/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/ca49f4fe2bd553aad0d0fa9dac2616e3/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/ca49f4fe2bd553aad0d0fa9dac2616e3/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1306"
+  },
+  "uri": "deezer:artist:1306"
+}

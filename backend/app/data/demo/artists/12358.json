@@ -1,0 +1,32 @@
+{
+  "id": "12358",
+  "name": "Pat Metheny",
+  "popularity": 23,
+  "followers": {
+    "total": 239945
+  },
+  "genres": [
+    "jazz fusion"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b0a501f1b6062829ee3f75dcc956211c/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b0a501f1b6062829ee3f75dcc956211c/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b0a501f1b6062829ee3f75dcc956211c/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/12358"
+  },
+  "uri": "deezer:artist:12358"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5602350",
+  "name": "Timecop1983",
+  "popularity": 92,
+  "followers": {
+    "total": 9227
+  },
+  "genres": [
+    "synthwave"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/30af480ade1bb7186c35168ea332a502/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/30af480ade1bb7186c35168ea332a502/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/30af480ade1bb7186c35168ea332a502/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5602350"
+  },
+  "uri": "deezer:artist:5602350"
+}

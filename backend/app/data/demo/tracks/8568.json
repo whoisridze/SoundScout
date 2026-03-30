@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1073809402",
+      "name": "Chopin: Prelude Op. 28 #4 (Live in Paris / 2018)",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/0/0/b00075594fadbd437d7118bf7fb3840c.mp3?hdnea=exp=1774859911~acl=/api/1/1/b/0/0/0/b00075594fadbd437d7118bf7fb3840c.mp3*~data=user_id=0,application_id=42~hmac=c27ba2e4d9ff9ea686ce8d4019b9ec97e6d74c4168c6494c7684a6bd388a5a71",
+      "duration_ms": 254000,
+      "track_number": 1,
+      "album": {
+        "id": "171923622",
+        "name": "Plays",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7c8bd1a4af8d33ff55f5603f6befa6ec/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7c8bd1a4af8d33ff55f5603f6befa6ec/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7c8bd1a4af8d33ff55f5603f6befa6ec/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1073809402"
+      }
+    },
+    {
+      "id": "1161410",
+      "name": "Return To Forever",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/f/0/6cf9ab0003d2bc7374a98b897dc557a0.mp3?hdnea=exp=1774859911~acl=/api/1/1/6/c/f/0/6cf9ab0003d2bc7374a98b897dc557a0.mp3*~data=user_id=0,application_id=42~hmac=34d5dce50268abb10888a8a751ea69cd098f4d072d19eaa2553957c77eb3fe88",
+      "duration_ms": 726000,
+      "track_number": 2,
+      "album": {
+        "id": "124358",
+        "name": "Return To Forever",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/49dea9e7c8a29537370e5bf2fc035b81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/49dea9e7c8a29537370e5bf2fc035b81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/49dea9e7c8a29537370e5bf2fc035b81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1161410"
+      }
+    },
+    {
+      "id": "3124606",
+      "name": "Pannonica",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/2/0/be21d1158425a7e7a7ca973324cc8311.mp3?hdnea=exp=1774859911~acl=/api/1/1/b/e/2/0/be21d1158425a7e7a7ca973324cc8311.mp3*~data=user_id=0,application_id=42~hmac=83ba05539b819c23c448618116d815b1f2ddcd00aa4b0a973876c7e433059ec4",
+      "duration_ms": 178000,
+      "track_number": 3,
+      "album": {
+        "id": "301411",
+        "name": "The Best Of Chick Corea",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da8923a99c3a35159c39a09d8a05ec4a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da8923a99c3a35159c39a09d8a05ec4a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da8923a99c3a35159c39a09d8a05ec4a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3124606"
+      }
+    },
+    {
+      "id": "2303536",
+      "name": "Friends",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/2/0/09213c02b3e9ab36705405bfa52502ec.mp3?hdnea=exp=1774859911~acl=/api/1/1/0/9/2/0/09213c02b3e9ab36705405bfa52502ec.mp3*~data=user_id=0,application_id=42~hmac=ffc73f00be7f3839cc8624a374c4ca5fe9a77ea9b8b30b68e228dea47ae693b9",
+      "duration_ms": 569000,
+      "track_number": 4,
+      "album": {
+        "id": "229547",
+        "name": "Friends",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6a45ab8ebee2422fb102f49dbeb7629/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6a45ab8ebee2422fb102f49dbeb7629/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c6a45ab8ebee2422fb102f49dbeb7629/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2303536"
+      }
+    },
+    {
+      "id": "765799792",
+      "name": "Work (Live)",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/f/0/41f21212b8e99fb48f4ea83ee41ae660.mp3?hdnea=exp=1774859911~acl=/api/1/1/4/1/f/0/41f21212b8e99fb48f4ea83ee41ae660.mp3*~data=user_id=0,application_id=42~hmac=9e88101b1cfb5d53c040b2caf45af10e8ec10b4a510ce6e5cf67fb769184189f",
+      "duration_ms": 294000,
+      "track_number": 5,
+      "album": {
+        "id": "113016732",
+        "name": "Trilogy 2 (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/474d82d02d3016c4639b5587977f80f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/474d82d02d3016c4639b5587977f80f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/474d82d02d3016c4639b5587977f80f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/765799792"
+      }
+    },
+    {
+      "id": "2542300",
+      "name": "Spain",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/9/0/ef919bc028429fb0a3a071bf615bafca.mp3?hdnea=exp=1774859911~acl=/api/1/1/e/f/9/0/ef919bc028429fb0a3a071bf615bafca.mp3*~data=user_id=0,application_id=42~hmac=24d4fbe8025de59865f7ea23b0d1c9a8d44d4919ee7fd30b65cbb3247dd99a2a",
+      "duration_ms": 590000,
+      "track_number": 6,
+      "album": {
+        "id": "249112",
+        "name": "Verve Jazz Masters 3: Chick Corea",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c017a1497088a7697fe3b2d8420443ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2542300"
+      }
+    },
+    {
+      "id": "3067582",
+      "name": "Armando's Rhumba",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/6/0/3c66a69c04055d298e76fe884770363c.mp3?hdnea=exp=1774859911~acl=/api/1/1/3/c/6/0/3c66a69c04055d298e76fe884770363c.mp3*~data=user_id=0,application_id=42~hmac=c113df85dbf15fac4494d08e6fef3dd1be0edf15ec68f9321c5ca470a5b375f0",
+      "duration_ms": 319000,
+      "track_number": 7,
+      "album": {
+        "id": "297326",
+        "name": "My Spanish Heart",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8999c5fda635255c6ac9f7cad29a787d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8999c5fda635255c6ac9f7cad29a787d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8999c5fda635255c6ac9f7cad29a787d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3067582"
+      }
+    },
+    {
+      "id": "2436177",
+      "name": "Spain (Composite Alternative Take)",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/f/0/1cfcea971ebb43fb53529bf4b53b9ea3.mp3?hdnea=exp=1774859911~acl=/api/1/1/1/c/f/0/1cfcea971ebb43fb53529bf4b53b9ea3.mp3*~data=user_id=0,application_id=42~hmac=1febf6c37842b5d68b05c80f3317a010cb6025498d73f62493dd354d8963fb95",
+      "duration_ms": 328000,
+      "track_number": 8,
+      "album": {
+        "id": "239959",
+        "name": "Light As A Feather (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94599975749cfc26de0aa9cac491a1b2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94599975749cfc26de0aa9cac491a1b2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94599975749cfc26de0aa9cac491a1b2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2436177"
+      }
+    },
+    {
+      "id": "3067583",
+      "name": "Prelude To El Bozo",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/8/0/6b8cb76583f9f0c1254324a5bf8b955d.mp3?hdnea=exp=1774859911~acl=/api/1/1/6/b/8/0/6b8cb76583f9f0c1254324a5bf8b955d.mp3*~data=user_id=0,application_id=42~hmac=d42bd1d13fe2d113982d73780dc09f95338551208eec201f9e581ac6f9c8cf76",
+      "duration_ms": 94000,
+      "track_number": 9,
+      "album": {
+        "id": "297326",
+        "name": "My Spanish Heart",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8999c5fda635255c6ac9f7cad29a787d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8999c5fda635255c6ac9f7cad29a787d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8999c5fda635255c6ac9f7cad29a787d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3067583"
+      }
+    },
+    {
+      "id": "892685",
+      "name": "Bésame Mamá (Live / Jackie Gleason Theatre / Miami, Florida)",
+      "popularity": 8,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/f/0/e0f562a5095eeea850a2fae95282b687.mp3?hdnea=exp=1774859911~acl=/api/1/1/e/0/f/0/e0f562a5095eeea850a2fae95282b687.mp3*~data=user_id=0,application_id=42~hmac=5dabe59eda817345a0f6938d1c222cf87204f46d4460cdbd248c0be5f87c4da4",
+      "duration_ms": 329000,
+      "track_number": 10,
+      "album": {
+        "id": "101124",
+        "name": "Jazz Moods: Cha Cha Party",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3dc56832b79a385353f9d4fec82a7f62/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3dc56832b79a385353f9d4fec82a7f62/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3dc56832b79a385353f9d4fec82a7f62/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8568",
+          "name": "Chick Corea"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/892685"
+      }
+    }
+  ]
+}

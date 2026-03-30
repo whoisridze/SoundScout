@@ -1,0 +1,32 @@
+{
+  "id": "113547672",
+  "name": "aespa",
+  "popularity": 42,
+  "followers": {
+    "total": 429677
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e16c3049f89ed842cabd0662012c2d33/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e16c3049f89ed842cabd0662012c2d33/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e16c3049f89ed842cabd0662012c2d33/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/113547672"
+  },
+  "uri": "deezer:artist:113547672"
+}

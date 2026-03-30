@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1791441107",
+      "name": "Out In The Middle",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/c/0/37c4ade87f58ed4a7010c7b4e1d8bde8.mp3?hdnea=exp=1774860040~acl=/api/1/1/3/7/c/0/37c4ade87f58ed4a7010c7b4e1d8bde8.mp3*~data=user_id=0,application_id=42~hmac=4728800d89b2339d76aa5275a7a3e5a131f3f72317bc279a16c09bf81712058a",
+      "duration_ms": 166000,
+      "track_number": 1,
+      "album": {
+        "id": "327485007",
+        "name": "Out In The Middle",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dd5e2ceca4b273f911a43b1871e06919/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dd5e2ceca4b273f911a43b1871e06919/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dd5e2ceca4b273f911a43b1871e06919/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1791441107"
+      }
+    },
+    {
+      "id": "61752355",
+      "name": "Just A Fool",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/f/0/fbf930afef4508fca17681054b8eaf87.mp3?hdnea=exp=1774860040~acl=/api/1/1/f/b/f/0/fbf930afef4508fca17681054b8eaf87.mp3*~data=user_id=0,application_id=42~hmac=dec7f27fd744c070a8abe40eb3b28cfb6f8c7b15d1e01055d9e2600716ea9ab0",
+      "duration_ms": 253000,
+      "track_number": 2,
+      "album": {
+        "id": "6053829",
+        "name": "Lotus (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afc1ee3133f77e16e0d7a293870913a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afc1ee3133f77e16e0d7a293870913a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afc1ee3133f77e16e0d7a293870913a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/61752355"
+      }
+    },
+    {
+      "id": "654789872",
+      "name": "God's Country",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/b/0/b3b3fa541f478b4137ee06c7a757bd66.mp3?hdnea=exp=1774860040~acl=/api/1/1/b/3/b/0/b3b3fa541f478b4137ee06c7a757bd66.mp3*~data=user_id=0,application_id=42~hmac=3c4a16a13b56547e63af29745847078dde68292993870f4fef643b0535302627",
+      "duration_ms": 205000,
+      "track_number": 3,
+      "album": {
+        "id": "91554622",
+        "name": "God's Country",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/88001bc9b6c3b24aa08b1953f46d6517/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/88001bc9b6c3b24aa08b1953f46d6517/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/88001bc9b6c3b24aa08b1953f46d6517/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/654789872"
+      }
+    },
+    {
+      "id": "3448561331",
+      "name": "New Country (feat. Blake Shelton)",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/1/0/b813d8d6960881be7aff9978bdbffa92.mp3?hdnea=exp=1774860040~acl=/api/1/1/b/8/1/0/b813d8d6960881be7aff9978bdbffa92.mp3*~data=user_id=0,application_id=42~hmac=023d44af73144dd83571861512f4961f20cda932a725c17b0b894e95dd7d1189",
+      "duration_ms": 198000,
+      "track_number": 4,
+      "album": {
+        "id": "784193431",
+        "name": "I WANT MY LOVED ONES TO GO WITH ME",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/02f0ba2e1561436682a97b261b013e4b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/02f0ba2e1561436682a97b261b013e4b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/02f0ba2e1561436682a97b261b013e4b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3448561331"
+      }
+    },
+    {
+      "id": "3788135802",
+      "name": "Stay Country or Die Tryin’",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/e/0/9ae1b89db49eaaee793b049a7ae3a430.mp3?hdnea=exp=1774860040~acl=/api/1/1/9/a/e/0/9ae1b89db49eaaee793b049a7ae3a430.mp3*~data=user_id=0,application_id=42~hmac=61f189faa0bd0cb4989f6ce674c0945dbb4fe5fca52efcff94f1a30869cc1b93",
+      "duration_ms": 221000,
+      "track_number": 5,
+      "album": {
+        "id": "902082152",
+        "name": "For Recreational Use Only",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c45c34a4073da2f2fea399210e8de9ac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c45c34a4073da2f2fea399210e8de9ac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c45c34a4073da2f2fea399210e8de9ac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788135802"
+      }
+    },
+    {
+      "id": "3801683912",
+      "name": "Texas",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/c/0/f5ce9e2f940236f12db809496adc5e6a.mp3?hdnea=exp=1774860040~acl=/api/1/1/f/5/c/0/f5ce9e2f940236f12db809496adc5e6a.mp3*~data=user_id=0,application_id=42~hmac=965fbd600936ff180819e4eafbdf92150bdccbac3b0a919b3accc8951381280d",
+      "duration_ms": 170000,
+      "track_number": 6,
+      "album": {
+        "id": "904927992",
+        "name": "Texas",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3e901e5a4f17e8212b707b33a687fa95/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3e901e5a4f17e8212b707b33a687fa95/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3e901e5a4f17e8212b707b33a687fa95/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3801683912"
+      }
+    },
+    {
+      "id": "3088943571",
+      "name": "Purple Irises",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/0/0/83014b54124b9a416337d563e68fe738.mp3?hdnea=exp=1774860040~acl=/api/1/1/8/3/0/0/83014b54124b9a416337d563e68fe738.mp3*~data=user_id=0,application_id=42~hmac=fb1a818550dcb0e5d845e49a2b9d319717e15ff0225009ec45c563bcb461c832",
+      "duration_ms": 224000,
+      "track_number": 7,
+      "album": {
+        "id": "669381581",
+        "name": "Bouquet",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39a4ca0d11a5955bcc49baee21329aa6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39a4ca0d11a5955bcc49baee21329aa6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39a4ca0d11a5955bcc49baee21329aa6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3088943571"
+      }
+    },
+    {
+      "id": "3788135862",
+      "name": "Hangin’ On (feat. Gwen Stefani)",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/5/0/44551661cbda93d0f38fd7a2111022bc.mp3?hdnea=exp=1774860040~acl=/api/1/1/4/4/5/0/44551661cbda93d0f38fd7a2111022bc.mp3*~data=user_id=0,application_id=42~hmac=550270ef881589c5f2732d8273d7891118ddab4c64fbe02d4a700e42a3f0822e",
+      "duration_ms": 206000,
+      "track_number": 8,
+      "album": {
+        "id": "902082152",
+        "name": "For Recreational Use Only",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c45c34a4073da2f2fea399210e8de9ac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c45c34a4073da2f2fea399210e8de9ac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c45c34a4073da2f2fea399210e8de9ac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788135862"
+      }
+    },
+    {
+      "id": "828852632",
+      "name": "Came Here to Forget",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/6/0/936c51e4b186496fd28364f7e739bfaa.mp3?hdnea=exp=1774860040~acl=/api/1/1/9/3/6/0/936c51e4b186496fd28364f7e739bfaa.mp3*~data=user_id=0,application_id=42~hmac=1ca11291d29b3ed4bbd295b27c25ba29728bae1e0f07927f771787486cb83534",
+      "duration_ms": 221000,
+      "track_number": 9,
+      "album": {
+        "id": "122413912",
+        "name": "Fully Loaded: God's Country",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b08972f4aaafc6165c5ee478e0df3acb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b08972f4aaafc6165c5ee478e0df3acb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b08972f4aaafc6165c5ee478e0df3acb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/828852632"
+      }
+    },
+    {
+      "id": "5271896",
+      "name": "The Baby",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/c/0/ddcd598f15c040d0d33fb2349ee0343a.mp3?hdnea=exp=1774860040~acl=/api/1/1/d/d/c/0/ddcd598f15c040d0d33fb2349ee0343a.mp3*~data=user_id=0,application_id=42~hmac=1ee59b62ec0f02985a7e3c29954ec84ce2d8b143627d8d0829765788c1f189d8",
+      "duration_ms": 234000,
+      "track_number": 10,
+      "album": {
+        "id": "483598",
+        "name": "The Dreamer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f55fb59503a4a84c58c797f64bfe50de/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f55fb59503a4a84c58c797f64bfe50de/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f55fb59503a4a84c58c797f64bfe50de/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8638",
+          "name": "Blake Shelton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5271896"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "49280302",
+  "name": "ATEEZ",
+  "popularity": 64,
+  "followers": {
+    "total": 640245
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/86bb7445e1dbb82abb7c60cf094cb4fb/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/86bb7445e1dbb82abb7c60cf094cb4fb/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/86bb7445e1dbb82abb7c60cf094cb4fb/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/49280302"
+  },
+  "uri": "deezer:artist:49280302"
+}

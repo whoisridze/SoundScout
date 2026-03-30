@@ -1,0 +1,485 @@
+{
+  "items": [
+    {
+      "id": "1182",
+      "name": "Arctic Monkeys",
+      "popularity": 99,
+      "followers": {
+        "total": 4869919
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6c03e4c7c36800897fd468633286db24/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6c03e4c7c36800897fd468633286db24/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6c03e4c7c36800897fd468633286db24/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1182"
+      },
+      "uri": "deezer:artist:1182"
+    },
+    {
+      "id": "134790",
+      "name": "Tame Impala",
+      "popularity": 99,
+      "followers": {
+        "total": 1062454
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/134790"
+      },
+      "uri": "deezer:artist:134790"
+    },
+    {
+      "id": "569",
+      "name": "The Strokes",
+      "popularity": 99,
+      "followers": {
+        "total": 1705554
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/88e8ecd06aae5cd69d414af57a67f339/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/88e8ecd06aae5cd69d414af57a67f339/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/88e8ecd06aae5cd69d414af57a67f339/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/569"
+      },
+      "uri": "deezer:artist:569"
+    },
+    {
+      "id": "399",
+      "name": "Radiohead",
+      "popularity": 99,
+      "followers": {
+        "total": 4006016
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/96b688020014a21cb80a0268b90287f5/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/96b688020014a21cb80a0268b90287f5/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/96b688020014a21cb80a0268b90287f5/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/399"
+      },
+      "uri": "deezer:artist:399"
+    },
+    {
+      "id": "1201",
+      "name": "Arcade Fire",
+      "popularity": 71,
+      "followers": {
+        "total": 712780
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0703e8e50373d950c7523869352a83c9/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0703e8e50373d950c7523869352a83c9/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0703e8e50373d950c7523869352a83c9/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1201"
+      },
+      "uri": "deezer:artist:1201"
+    },
+    {
+      "id": "75781",
+      "name": "Vampire Weekend",
+      "popularity": 46,
+      "followers": {
+        "total": 468818
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e3492e6ca995cb06a09831a00e944ecf/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e3492e6ca995cb06a09831a00e944ecf/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e3492e6ca995cb06a09831a00e944ecf/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/75781"
+      },
+      "uri": "deezer:artist:75781"
+    },
+    {
+      "id": "2483",
+      "name": "The Black Keys",
+      "popularity": 99,
+      "followers": {
+        "total": 1081369
+      },
+      "genres": [
+        "indie rock",
+        "blues rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3b27055c39125c3e3133a595990e86a1/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3b27055c39125c3e3133a595990e86a1/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3b27055c39125c3e3133a595990e86a1/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2483"
+      },
+      "uri": "deezer:artist:2483"
+    },
+    {
+      "id": "1606315",
+      "name": "alt-J",
+      "popularity": 59,
+      "followers": {
+        "total": 599322
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8978b7d51d532e30a2aa619c82f42540/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8978b7d51d532e30a2aa619c82f42540/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8978b7d51d532e30a2aa619c82f42540/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1606315"
+      },
+      "uri": "deezer:artist:1606315"
+    },
+    {
+      "id": "417037",
+      "name": "Foster the People",
+      "popularity": 99,
+      "followers": {
+        "total": 1106030
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fe79e60f3beec07d6ab8bd6b3bf033e0/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fe79e60f3beec07d6ab8bd6b3bf033e0/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fe79e60f3beec07d6ab8bd6b3bf033e0/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/417037"
+      },
+      "uri": "deezer:artist:417037"
+    },
+    {
+      "id": "173612",
+      "name": "Two Door Cinema Club",
+      "popularity": 60,
+      "followers": {
+        "total": 601932
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fdda4a6426606458b5ad22d5cf4a7f24/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fdda4a6426606458b5ad22d5cf4a7f24/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/fdda4a6426606458b5ad22d5cf4a7f24/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/173612"
+      },
+      "uri": "deezer:artist:173612"
+    },
+    {
+      "id": "69627",
+      "name": "MGMT",
+      "popularity": 99,
+      "followers": {
+        "total": 1185926
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0260c3e6e76812d73f50719292985f01/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0260c3e6e76812d73f50719292985f01/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0260c3e6e76812d73f50719292985f01/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/69627"
+      },
+      "uri": "deezer:artist:69627"
+    },
+    {
+      "id": "897",
+      "name": "The Killers",
+      "popularity": 99,
+      "followers": {
+        "total": 2209036
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/979d671d4b391bc07747bd1569e51997/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/979d671d4b391bc07747bd1569e51997/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/979d671d4b391bc07747bd1569e51997/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/897"
+      },
+      "uri": "deezer:artist:897"
+    },
+    {
+      "id": "1652",
+      "name": "Interpol",
+      "popularity": 47,
+      "followers": {
+        "total": 471012
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ca11e5724bfd7be68c0db67ee474bc9f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ca11e5724bfd7be68c0db67ee474bc9f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ca11e5724bfd7be68c0db67ee474bc9f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1652"
+      },
+      "uri": "deezer:artist:1652"
+    },
+    {
+      "id": "383",
+      "name": "Death Cab for Cutie",
+      "popularity": 19,
+      "followers": {
+        "total": 196453
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3f44f1d9518985b54ecdaf08994ce027/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3f44f1d9518985b54ecdaf08994ce027/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3f44f1d9518985b54ecdaf08994ce027/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/383"
+      },
+      "uri": "deezer:artist:383"
+    },
+    {
+      "id": "1237",
+      "name": "Modest Mouse",
+      "popularity": 17,
+      "followers": {
+        "total": 177194
+      },
+      "genres": [
+        "indie rock"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/38bfaafbc55e3e691b2830c47df29aff/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/38bfaafbc55e3e691b2830c47df29aff/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/38bfaafbc55e3e691b2830c47df29aff/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1237"
+      },
+      "uri": "deezer:artist:1237"
+    }
+  ]
+}

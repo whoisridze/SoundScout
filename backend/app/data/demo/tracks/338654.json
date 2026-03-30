@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "835295992",
+      "name": "Psycho",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/1/0/8a1c49541de098e3f1a0cde53aa75e0f.mp3?hdnea=exp=1774859952~acl=/api/1/1/8/a/1/0/8a1c49541de098e3f1a0cde53aa75e0f.mp3*~data=user_id=0,application_id=42~hmac=b32def1b227750aab90c6811e35f51939f5a09a6e87bed927efef4f0b0c7d3dc",
+      "duration_ms": 210000,
+      "track_number": 1,
+      "album": {
+        "id": "123575232",
+        "name": "‘The ReVe Festival’ Finale",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/029b5afe1180dfbe53c284154634c50a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/029b5afe1180dfbe53c284154634c50a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/029b5afe1180dfbe53c284154634c50a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/835295992"
+      }
+    },
+    {
+      "id": "2846707732",
+      "name": "Cosmic",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/3/0/bd33a679572b08951c690a218ef82bad.mp3?hdnea=exp=1774859952~acl=/api/1/1/b/d/3/0/bd33a679572b08951c690a218ef82bad.mp3*~data=user_id=0,application_id=42~hmac=e5e5333b462854cd17dcc40b3dc98937ad41b9cf4d769775c9aea5ec973b0ff8",
+      "duration_ms": 225000,
+      "track_number": 2,
+      "album": {
+        "id": "601433262",
+        "name": "Cosmic",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7031325f5693a709234aef2d5fb924ba/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7031325f5693a709234aef2d5fb924ba/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7031325f5693a709234aef2d5fb924ba/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2846707732"
+      }
+    },
+    {
+      "id": "1684801307",
+      "name": "In My Dreams",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/a/0/f7ae35a2003a5186666713ce7cd029dc.mp3?hdnea=exp=1774859952~acl=/api/1/1/f/7/a/0/f7ae35a2003a5186666713ce7cd029dc.mp3*~data=user_id=0,application_id=42~hmac=9c13d9aa8768c966c957da637ec652457ff83fa22a574f223dafea435e790348",
+      "duration_ms": 204000,
+      "track_number": 3,
+      "album": {
+        "id": "302732827",
+        "name": "‘The ReVe Festival 2022 - Feel My Rhythm’",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05555a792b23e273b65aaf5d8c3abf3a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05555a792b23e273b65aaf5d8c3abf3a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05555a792b23e273b65aaf5d8c3abf3a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1684801307"
+      }
+    },
+    {
+      "id": "728143942",
+      "name": "피카부 Peek-A-Boo",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/f/0/46f2331214f7510dc4a6b14e4cb1d4d0.mp3?hdnea=exp=1774859952~acl=/api/1/1/4/6/f/0/46f2331214f7510dc4a6b14e4cb1d4d0.mp3*~data=user_id=0,application_id=42~hmac=170560cfddc7eab68491e06b26520c7bd3cb825384d15bca7be296a395fa8c61",
+      "duration_ms": 189000,
+      "track_number": 4,
+      "album": {
+        "id": "106746252",
+        "name": "The Perfect Red Velvet - The 2nd Album Repackage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ccbd6b1ce7a44d4f15af601be6009295/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ccbd6b1ce7a44d4f15af601be6009295/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ccbd6b1ce7a44d4f15af601be6009295/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728143942"
+      }
+    },
+    {
+      "id": "728731772",
+      "name": "행복(Happiness)",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/5/0/2152779443fa4e68bd6162071fd756f9.mp3?hdnea=exp=1774859952~acl=/api/1/1/2/1/5/0/2152779443fa4e68bd6162071fd756f9.mp3*~data=user_id=0,application_id=42~hmac=90fe2733ecb07d1ba605cec4797df644c8b8048a299eb6c4aea065ca8a7ef2a8",
+      "duration_ms": 220000,
+      "track_number": 5,
+      "album": {
+        "id": "106879832",
+        "name": "행복 Happiness",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86bc474934e6cdd584a26a09e55ec4a1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86bc474934e6cdd584a26a09e55ec4a1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86bc474934e6cdd584a26a09e55ec4a1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728731772"
+      }
+    },
+    {
+      "id": "728092462",
+      "name": "러시안 룰렛 Russian Roulette",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/6/0/b66252bed39ca8ebf68119d3739f8655.mp3?hdnea=exp=1774859952~acl=/api/1/1/b/6/6/0/b66252bed39ca8ebf68119d3739f8655.mp3*~data=user_id=0,application_id=42~hmac=e9f7bf997451ac665941237c771aff53abd591fb31a26031e1a8efb6767d6ab9",
+      "duration_ms": 211000,
+      "track_number": 6,
+      "album": {
+        "id": "106732192",
+        "name": "Russian Roulette - The 3rd Mini Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e26d9443309f860a6775d50946c4766/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e26d9443309f860a6775d50946c4766/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e26d9443309f860a6775d50946c4766/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728092462"
+      }
+    },
+    {
+      "id": "2027345957",
+      "name": "Birthday",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/c/0/63c0af820d3eb2df9903af1da01d711e.mp3?hdnea=exp=1774859952~acl=/api/1/1/6/3/c/0/63c0af820d3eb2df9903af1da01d711e.mp3*~data=user_id=0,application_id=42~hmac=6cd90f1d9862257ce4d09180cd637aac2d398a34ed6bb42ccdc87cb5f5cc9f24",
+      "duration_ms": 216000,
+      "track_number": 7,
+      "album": {
+        "id": "377980687",
+        "name": "‘The ReVe Festival 2022 - Birthday’",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d79ff610d0ebde288479141b10cdf35a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d79ff610d0ebde288479141b10cdf35a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d79ff610d0ebde288479141b10cdf35a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2027345957"
+      }
+    },
+    {
+      "id": "2027345967",
+      "name": "BYE BYE",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/f/0/7ffa900d89a6300fb9196b7b926bd310.mp3?hdnea=exp=1774859952~acl=/api/1/1/7/f/f/0/7ffa900d89a6300fb9196b7b926bd310.mp3*~data=user_id=0,application_id=42~hmac=aa2c504a3c1ab0218f01db3d364e3ab7dca9ae3becd21747ee775f2665ad03b5",
+      "duration_ms": 196000,
+      "track_number": 8,
+      "album": {
+        "id": "377980687",
+        "name": "‘The ReVe Festival 2022 - Birthday’",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d79ff610d0ebde288479141b10cdf35a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d79ff610d0ebde288479141b10cdf35a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d79ff610d0ebde288479141b10cdf35a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2027345967"
+      }
+    },
+    {
+      "id": "728157542",
+      "name": "빨간 맛 Red Flavor",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/3/0/013774524d4b792fd16ca69447494c12.mp3?hdnea=exp=1774859952~acl=/api/1/1/0/1/3/0/013774524d4b792fd16ca69447494c12.mp3*~data=user_id=0,application_id=42~hmac=c53df5a60f1f5dc2f06a23d445356a2a40fcad91567a083982ffc9db7fe81205",
+      "duration_ms": 191000,
+      "track_number": 9,
+      "album": {
+        "id": "106749292",
+        "name": "The Red Summer - Summer Mini Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e88e8dc3c161fa5945d869eddaf94716/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e88e8dc3c161fa5945d869eddaf94716/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e88e8dc3c161fa5945d869eddaf94716/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728157542"
+      }
+    },
+    {
+      "id": "728552672",
+      "name": "Dumb Dumb",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/2/0/7d239af7ce7d26a651595841ccfefa61.mp3?hdnea=exp=1774859952~acl=/api/1/1/7/d/2/0/7d239af7ce7d26a651595841ccfefa61.mp3*~data=user_id=0,application_id=42~hmac=8b75865819e6251c44bd268119be6612de3f354f5f0b0e664ab1f4e75961a896",
+      "duration_ms": 202000,
+      "track_number": 10,
+      "album": {
+        "id": "106840332",
+        "name": "The Red - The 1st Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57fbde5dead4ee0aebf20ce3b2c2d268/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57fbde5dead4ee0aebf20ce3b2c2d268/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57fbde5dead4ee0aebf20ce3b2c2d268/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "338654",
+          "name": "Red Velvet"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/728552672"
+      }
+    }
+  ]
+}

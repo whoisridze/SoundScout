@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2291815525",
+      "name": "Monster in Paradise (feat. Milkie Way, Dave Lombardo, Tyler Bates)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/c/0/b9cbcc148fdabad21ec71da917d3bfca.mp3?hdnea=exp=1774859926~acl=/api/1/1/b/9/c/0/b9cbcc148fdabad21ec71da917d3bfca.mp3*~data=user_id=0,application_id=42~hmac=892e2902889ca21e1c75f55b8414c478aac6677d2e1aace642609b193c6414ca",
+      "duration_ms": 330000,
+      "track_number": 1,
+      "album": {
+        "id": "443768075",
+        "name": "Unicorn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2291815525"
+      }
+    },
+    {
+      "id": "2971889461",
+      "name": "Stronger (Gunship Remix)",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/9/0/0f988269988158d7ec4ce99b0bc06c7e.mp3?hdnea=exp=1774859926~acl=/api/1/1/0/f/9/0/0f988269988158d7ec4ce99b0bc06c7e.mp3*~data=user_id=0,application_id=42~hmac=bcea3076941a20b61afed72f7eb87bf3440c65002790e7df618f53171ae3903c",
+      "duration_ms": 287000,
+      "track_number": 2,
+      "album": {
+        "id": "636337811",
+        "name": "Stronger (Gunship Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2020fc7502a28d2e6abbf95441d2453/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2020fc7502a28d2e6abbf95441d2453/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2020fc7502a28d2e6abbf95441d2453/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2971889461"
+      }
+    },
+    {
+      "id": "2291815575",
+      "name": "Blood for the Blood God (feat. HEALTH)",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/2/0/42209d1cd194407145970faeda0cfce7.mp3?hdnea=exp=1774859926~acl=/api/1/1/4/2/2/0/42209d1cd194407145970faeda0cfce7.mp3*~data=user_id=0,application_id=42~hmac=35ed93998b360b260c9443b8de9bf2e0a762e3f13d37bd15a0fbbc9bd21f96d4",
+      "duration_ms": 246000,
+      "track_number": 3,
+      "album": {
+        "id": "443768075",
+        "name": "Unicorn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2291815575"
+      }
+    },
+    {
+      "id": "100992204",
+      "name": "Tech Noir",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/6/0/086643922d3014e84299050eddddf2ed.mp3?hdnea=exp=1774859926~acl=/api/1/1/0/8/6/0/086643922d3014e84299050eddddf2ed.mp3*~data=user_id=0,application_id=42~hmac=2b2881337cbb7a41ee819b267e9a1fc9f8b151cc4cfa8f1f5d96ed3f64eedb9c",
+      "duration_ms": 297000,
+      "track_number": 4,
+      "album": {
+        "id": "10482032",
+        "name": "GUNSHIP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08cda059a110943292b0597559f52ac9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08cda059a110943292b0597559f52ac9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08cda059a110943292b0597559f52ac9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/100992204"
+      }
+    },
+    {
+      "id": "954262422",
+      "name": "Time After Time (Instrumental)",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/f/0/d3f91296dcb1fdcc71af064bfde7d50f.mp3?hdnea=exp=1774859926~acl=/api/1/1/d/3/f/0/d3f91296dcb1fdcc71af064bfde7d50f.mp3*~data=user_id=0,application_id=42~hmac=2664f6f3f9e53086ce4ea1d25048e4499bb36ad40862717ceff9fdf969f92b9b",
+      "duration_ms": 243000,
+      "track_number": 5,
+      "album": {
+        "id": "147034072",
+        "name": "Dark All Day (Instrumentals)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/454bf933e21dcc24c361f1e80c15a349/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/454bf933e21dcc24c361f1e80c15a349/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/454bf933e21dcc24c361f1e80c15a349/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/954262422"
+      }
+    },
+    {
+      "id": "3848426591",
+      "name": "Tell Me When the World Stops Ending",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/f/0/41fcc0308a065c66a2b3d19b71726f5a.mp3?hdnea=exp=1774859926~acl=/api/1/1/4/1/f/0/41fcc0308a065c66a2b3d19b71726f5a.mp3*~data=user_id=0,application_id=42~hmac=d317f3e943702a31f931217f7b9e94fdba9ff920becda43eadcd144085d1ce8a",
+      "duration_ms": 251000,
+      "track_number": 6,
+      "album": {
+        "id": "920647961",
+        "name": "Tell Me When the World Stops Ending",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7101954d613817031b5ce02950fba0ec/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7101954d613817031b5ce02950fba0ec/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7101954d613817031b5ce02950fba0ec/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3848426591"
+      }
+    },
+    {
+      "id": "2291816275",
+      "name": "DooM Dance (feat. Carpenter Brut, Gavin Rossdale)",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/3/0/ae3594a54953569ccd0296cf09d0b262.mp3?hdnea=exp=1774859926~acl=/api/1/1/a/e/3/0/ae3594a54953569ccd0296cf09d0b262.mp3*~data=user_id=0,application_id=42~hmac=ffce6773b496e581395bcd21188b7d7487fec04cf2f7eaae2c275f504809546a",
+      "duration_ms": 216000,
+      "track_number": 7,
+      "album": {
+        "id": "443768215",
+        "name": "DooM Dance (feat. Carpenter Brut, Gavin Rossdale)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a08c4f9f30139d9cb590e4988bb43f80/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a08c4f9f30139d9cb590e4988bb43f80/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a08c4f9f30139d9cb590e4988bb43f80/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2291816275"
+      }
+    },
+    {
+      "id": "2291815595",
+      "name": "Ghost (feat. Power Glove)",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/3/0/113b855a7ae66526d7291773258ecac5.mp3?hdnea=exp=1774859926~acl=/api/1/1/1/1/3/0/113b855a7ae66526d7291773258ecac5.mp3*~data=user_id=0,application_id=42~hmac=c0e886b9e4df1a1fe4c44559ff1ba35a4ed6d7dbe0d0fa8a8b1f3fc6b9de456e",
+      "duration_ms": 262000,
+      "track_number": 8,
+      "album": {
+        "id": "443768075",
+        "name": "Unicorn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2291815595"
+      }
+    },
+    {
+      "id": "2291815585",
+      "name": "Weaponised Love",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/f/0/63f95bafc82a60c6716b6f7049e25be0.mp3?hdnea=exp=1774859926~acl=/api/1/1/6/3/f/0/63f95bafc82a60c6716b6f7049e25be0.mp3*~data=user_id=0,application_id=42~hmac=789ada11a4ac42081167ee7cd4bf25413493cb12e975261090f392c39ae64262",
+      "duration_ms": 188000,
+      "track_number": 9,
+      "album": {
+        "id": "443768075",
+        "name": "Unicorn",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5577fe82f074bbbcc382523209ed432e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2291815585"
+      }
+    },
+    {
+      "id": "1140977152",
+      "name": "Dark All Day (Power Glove Remix)",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/3/0/3b3b93fbaa3f5389a6d6a00feac115e0.mp3?hdnea=exp=1774859926~acl=/api/1/1/3/b/3/0/3b3b93fbaa3f5389a6d6a00feac115e0.mp3*~data=user_id=0,application_id=42~hmac=0b0b0342a637717b69706defd38afed31312e237ef69189b8af02badeaabf56f",
+      "duration_ms": 308000,
+      "track_number": 10,
+      "album": {
+        "id": "186094762",
+        "name": "The Drone Racing League",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/254da80c54f5347e75f7cfb60027ed15/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/254da80c54f5347e75f7cfb60027ed15/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/254da80c54f5347e75f7cfb60027ed15/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7856702",
+          "name": "Gunship"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1140977152"
+      }
+    }
+  ]
+}

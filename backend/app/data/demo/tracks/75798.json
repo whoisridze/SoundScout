@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "82715364",
+      "name": "Skyfall",
+      "popularity": 95,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/6/0/e26bc2264f5f33f2587b0f5cc0b3b54e.mp3?hdnea=exp=1774860085~acl=/api/1/1/e/2/6/0/e26bc2264f5f33f2587b0f5cc0b3b54e.mp3*~data=user_id=0,application_id=42~hmac=c551fc9dc7e72256d4bffdfde10f15ae637c33f33825288b7cf69dbca6b7439f",
+      "duration_ms": 286000,
+      "track_number": 1,
+      "album": {
+        "id": "8307448",
+        "name": "Skyfall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81e6d7baa7f47b804704922412e7a014/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81e6d7baa7f47b804704922412e7a014/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/81e6d7baa7f47b804704922412e7a014/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/82715364"
+      }
+    },
+    {
+      "id": "138545995",
+      "name": "Hello",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/a/0/f0a110b02db34fd1968d862e2aec800d.mp3?hdnea=exp=1774860085~acl=/api/1/1/f/0/a/0/f0a110b02db34fd1968d862e2aec800d.mp3*~data=user_id=0,application_id=42~hmac=2f56fb07e7c2d82ab90e99d0f122193db55f5a6e1d871294ef969c7a3708b8f7",
+      "duration_ms": 295000,
+      "track_number": 2,
+      "album": {
+        "id": "14880539",
+        "name": "25",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/138545995"
+      }
+    },
+    {
+      "id": "8086130",
+      "name": "Set Fire to the Rain",
+      "popularity": 93,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/d/0/89d33940ac8fd32e481a6f7ac7fa891a.mp3?hdnea=exp=1774860085~acl=/api/1/1/8/9/d/0/89d33940ac8fd32e481a6f7ac7fa891a.mp3*~data=user_id=0,application_id=42~hmac=dde3d87c2861f713a367819c673d27e9f5f3c5b6063b962ea8e71b6e5ed6c94f",
+      "duration_ms": 242000,
+      "track_number": 3,
+      "album": {
+        "id": "746059",
+        "name": "21",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/8086130"
+      }
+    },
+    {
+      "id": "8086126",
+      "name": "Rolling in the Deep",
+      "popularity": 93,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/7/0/d87d2d1789c1b4d96992d8079a29360b.mp3?hdnea=exp=1774860085~acl=/api/1/1/d/8/7/0/d87d2d1789c1b4d96992d8079a29360b.mp3*~data=user_id=0,application_id=42~hmac=492ebedd848de8786c7bdb659fa8ed112c9ea68f3035ef7d920060cbbfcc0e26",
+      "duration_ms": 228000,
+      "track_number": 4,
+      "album": {
+        "id": "746059",
+        "name": "21",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/8086126"
+      }
+    },
+    {
+      "id": "1522223672",
+      "name": "Easy On Me",
+      "popularity": 92,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/0/0/bd0cab61ff8ce6402747fe852fc37815.mp3?hdnea=exp=1774860085~acl=/api/1/1/b/d/0/0/bd0cab61ff8ce6402747fe852fc37815.mp3*~data=user_id=0,application_id=42~hmac=0db9eba00e34af3a2c4544c81b4e1e6b21a6ce1750595a5de516753d00c3a81e",
+      "duration_ms": 224000,
+      "track_number": 5,
+      "album": {
+        "id": "265655342",
+        "name": "Easy On Me",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1522223672"
+      }
+    },
+    {
+      "id": "1557137132",
+      "name": "Oh My God",
+      "popularity": 84,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/6/0/6f67a5073a9aa6a3c94c817aa4f49d5e.mp3?hdnea=exp=1774860085~acl=/api/1/1/6/f/6/0/6f67a5073a9aa6a3c94c817aa4f49d5e.mp3*~data=user_id=0,application_id=42~hmac=86f68b1a222ca07999bde93e69a9d29634b305b9054b5909cbf2fbfd8d2ac55d",
+      "duration_ms": 225000,
+      "track_number": 6,
+      "album": {
+        "id": "273425942",
+        "name": "30",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a87ee7c212c7b0f9ae687c378f260324/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1557137132"
+      }
+    },
+    {
+      "id": "138546009",
+      "name": "Love In The Dark",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/9/0/4c923e85c6ac875af1237c135c4e69d8.mp3?hdnea=exp=1774860085~acl=/api/1/1/4/c/9/0/4c923e85c6ac875af1237c135c4e69d8.mp3*~data=user_id=0,application_id=42~hmac=39c3f8bc4426b85fe564005303e003b31acd652a40714f2e030c54f7a37968b9",
+      "duration_ms": 285000,
+      "track_number": 7,
+      "album": {
+        "id": "14880539",
+        "name": "25",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/138546009"
+      }
+    },
+    {
+      "id": "8086135",
+      "name": "Lovesong",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/a/0/59a13a394852f873470c7c76c435b208.mp3?hdnea=exp=1774860085~acl=/api/1/1/5/9/a/0/59a13a394852f873470c7c76c435b208.mp3*~data=user_id=0,application_id=42~hmac=eb663075d1686c2bced6dc0f3fc7e7b1877e468fc25aa8b6b45442ebb2f8a776",
+      "duration_ms": 316000,
+      "track_number": 8,
+      "album": {
+        "id": "746059",
+        "name": "21",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc1ce848d830ecc93521be5a78350364/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/8086135"
+      }
+    },
+    {
+      "id": "138546011",
+      "name": "Million Years Ago",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/a/0/64a03e4c3c8341978fc1932c17c0581f.mp3?hdnea=exp=1774860085~acl=/api/1/1/6/4/a/0/64a03e4c3c8341978fc1932c17c0581f.mp3*~data=user_id=0,application_id=42~hmac=93f92883e3be71b7042d6a946ad3cb5ceee552b7bfc1f9411fe5d84f2bb5bb2f",
+      "duration_ms": 227000,
+      "track_number": 9,
+      "album": {
+        "id": "14880539",
+        "name": "25",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/138546011"
+      }
+    },
+    {
+      "id": "138546001",
+      "name": "When We Were Young",
+      "popularity": 81,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/6/0/d163465fa20f22c7adbbc542e0dd63b9.mp3?hdnea=exp=1774860085~acl=/api/1/1/d/1/6/0/d163465fa20f22c7adbbc542e0dd63b9.mp3*~data=user_id=0,application_id=42~hmac=06345f4fdf02723e3813b82c764e4cc2dd1623fb4970c8edf4597020ad7ce905",
+      "duration_ms": 290000,
+      "track_number": 10,
+      "album": {
+        "id": "14880539",
+        "name": "25",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaeadce7932a97533fe495881d2fcd7a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75798",
+          "name": "Adele"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/138546001"
+      }
+    }
+  ]
+}

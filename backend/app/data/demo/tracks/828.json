@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2814112",
+      "name": "Pull Me Under",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/d/0/c8df1e9ad47801ca7cb41347e13676a9.mp3?hdnea=exp=1774859989~acl=/api/1/1/c/8/d/0/c8df1e9ad47801ca7cb41347e13676a9.mp3*~data=user_id=0,application_id=42~hmac=177060e7287946c1f5722f2a7e8f5b2f14aff11f07745f638cfb4422db601ce9",
+      "duration_ms": 493000,
+      "track_number": 1,
+      "album": {
+        "id": "273337",
+        "name": "Images and Words",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9196b533b89da9f7fbcc3c6c860615ea/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9196b533b89da9f7fbcc3c6c860615ea/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9196b533b89da9f7fbcc3c6c860615ea/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2814112"
+      }
+    },
+    {
+      "id": "660481",
+      "name": "Forsaken",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/b/0/b7bec31c9f3b37225323052337e4fbba.mp3?hdnea=exp=1774859989~acl=/api/1/1/b/7/b/0/b7bec31c9f3b37225323052337e4fbba.mp3*~data=user_id=0,application_id=42~hmac=ef1c59f2b2ed00f2ae430a20c1eed98202a8debb61721cb7888fddf0cfb27966",
+      "duration_ms": 335000,
+      "track_number": 2,
+      "album": {
+        "id": "80216",
+        "name": "Systematic Chaos",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6e9a0d57b7cf5d9eb9d82826216f50a0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6e9a0d57b7cf5d9eb9d82826216f50a0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6e9a0d57b7cf5d9eb9d82826216f50a0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/660481"
+      }
+    },
+    {
+      "id": "671527",
+      "name": "As I Am",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/f/0/e4fe8aad566b319d9619b95ebdf87100.mp3?hdnea=exp=1774859989~acl=/api/1/1/e/4/f/0/e4fe8aad566b319d9619b95ebdf87100.mp3*~data=user_id=0,application_id=42~hmac=e2558ef57105cd1d4389056d0961d6688fc75a82699e6750896afcf06091dddd",
+      "duration_ms": 467000,
+      "track_number": 3,
+      "album": {
+        "id": "81368",
+        "name": "Train of Thought",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ecb447b71eb17dea3e9e74fc5a9477c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ecb447b71eb17dea3e9e74fc5a9477c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ecb447b71eb17dea3e9e74fc5a9477c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/671527"
+      }
+    },
+    {
+      "id": "3603372",
+      "name": "Scene Five: Through Her Eyes",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/6/0/ed6f7ffc9f77129080c232bceac939b9.mp3?hdnea=exp=1774859989~acl=/api/1/1/e/d/6/0/ed6f7ffc9f77129080c232bceac939b9.mp3*~data=user_id=0,application_id=42~hmac=7185a427d8e8b5a08e58ae6dcde67bacf53046929554e9436872a2b31cba94ce",
+      "duration_ms": 329000,
+      "track_number": 4,
+      "album": {
+        "id": "340032",
+        "name": "Metropolis, Pt. 2: Scenes from a Memory",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3603372"
+      }
+    },
+    {
+      "id": "3199604771",
+      "name": "Bend the Clock",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/b/0/4eb4b8c7a0fa9a8321029d1c568818f3.mp3?hdnea=exp=1774859989~acl=/api/1/1/4/e/b/0/4eb4b8c7a0fa9a8321029d1c568818f3.mp3*~data=user_id=0,application_id=42~hmac=c3c654aa2a9bbe98e6e4f9f3e0e81f73acfc42f6bd4b9b5c33e1d3f733376931",
+      "duration_ms": 444000,
+      "track_number": 5,
+      "album": {
+        "id": "702027981",
+        "name": "Parasomnia",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e238857de027080281ecd2e24c8f4d1d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e238857de027080281ecd2e24c8f4d1d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e238857de027080281ecd2e24c8f4d1d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3199604771"
+      }
+    },
+    {
+      "id": "3603370",
+      "name": "Scene Three: II. Fatal Tragedy",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/6/0/ee6b2063ef00252cc7fed12bc6e56eb3.mp3?hdnea=exp=1774859989~acl=/api/1/1/e/e/6/0/ee6b2063ef00252cc7fed12bc6e56eb3.mp3*~data=user_id=0,application_id=42~hmac=3f220a6533534f0ebebea2a786a46b44d5af657ecbcd1e6ee0cdc5069e07c0b8",
+      "duration_ms": 409000,
+      "track_number": 6,
+      "album": {
+        "id": "340032",
+        "name": "Metropolis, Pt. 2: Scenes from a Memory",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3603370"
+      }
+    },
+    {
+      "id": "3603374",
+      "name": "Scene Seven: I. The Dance of Eternity",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/a/0/a0a698bfe5794839bf6fa053c7f12acb.mp3?hdnea=exp=1774859989~acl=/api/1/1/a/0/a/0/a0a698bfe5794839bf6fa053c7f12acb.mp3*~data=user_id=0,application_id=42~hmac=3a092336d515e35648113f31591a603c614d708488c310f2c9f9caaa5b29b9a1",
+      "duration_ms": 373000,
+      "track_number": 7,
+      "album": {
+        "id": "340032",
+        "name": "Metropolis, Pt. 2: Scenes from a Memory",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3603374"
+      }
+    },
+    {
+      "id": "4087218",
+      "name": "Caught in a Web",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/3/0/6a30c1ec91dab8540c8a95488fee1f6c.mp3?hdnea=exp=1774859989~acl=/api/1/1/6/a/3/0/6a30c1ec91dab8540c8a95488fee1f6c.mp3*~data=user_id=0,application_id=42~hmac=c820bd204277474add40de14dd54002a1acd58e3223fcea0df35fcde51a8bc7d",
+      "duration_ms": 328000,
+      "track_number": 8,
+      "album": {
+        "id": "381173",
+        "name": "Awake",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75ea79b3ee7e16f17c9ffa80051162f0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75ea79b3ee7e16f17c9ffa80051162f0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75ea79b3ee7e16f17c9ffa80051162f0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4087218"
+      }
+    },
+    {
+      "id": "3603373",
+      "name": "Scene Six: Home",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/d/0/2dd0ad3476d80b4dad2707b1933b796b.mp3?hdnea=exp=1774859989~acl=/api/1/1/2/d/d/0/2dd0ad3476d80b4dad2707b1933b796b.mp3*~data=user_id=0,application_id=42~hmac=8ac28a1c66f91df0f28df563939cb0cda6aa0e5e8a1bf28504ba5cb27b43668f",
+      "duration_ms": 773000,
+      "track_number": 9,
+      "album": {
+        "id": "340032",
+        "name": "Metropolis, Pt. 2: Scenes from a Memory",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/905657207afd412aa435e35bcd2693f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3603373"
+      }
+    },
+    {
+      "id": "70535430",
+      "name": "The Enemy Inside",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/9/0/6e9647caebc4e497a869bafcff79b3d2.mp3?hdnea=exp=1774859989~acl=/api/1/1/6/e/9/0/6e9647caebc4e497a869bafcff79b3d2.mp3*~data=user_id=0,application_id=42~hmac=9383df05c38a5ef23d75356bac1a42381866cf8ce1c0dfaac8236dabaafe73d1",
+      "duration_ms": 377000,
+      "track_number": 10,
+      "album": {
+        "id": "6924053",
+        "name": "Dream Theater",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2edcaf809212ef43bc6f4f643bec3d26/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2edcaf809212ef43bc6f4f643bec3d26/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2edcaf809212ef43bc6f4f643bec3d26/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "828",
+          "name": "Dream Theater"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70535430"
+      }
+    }
+  ]
+}

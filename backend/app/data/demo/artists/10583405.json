@@ -1,0 +1,32 @@
+{
+  "id": "10583405",
+  "name": "Bad Bunny",
+  "popularity": 99,
+  "followers": {
+    "total": 7674796
+  },
+  "genres": [
+    "latin pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/45aaf836629158d714432ae37e552ee7/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/45aaf836629158d714432ae37e552ee7/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/45aaf836629158d714432ae37e552ee7/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/10583405"
+  },
+  "uri": "deezer:artist:10583405"
+}

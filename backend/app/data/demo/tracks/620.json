@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2171224",
+      "name": "At Last",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/d/0/a1d0a9c9c56a2aa462c54e9ff4d6ea12.mp3?hdnea=exp=1774860074~acl=/api/1/1/a/1/d/0/a1d0a9c9c56a2aa462c54e9ff4d6ea12.mp3*~data=user_id=0,application_id=42~hmac=a992a968a086e0387937773c26e2449d74ded5194105c81aaeb44f74ffe5573f",
+      "duration_ms": 180000,
+      "track_number": 1,
+      "album": {
+        "id": "217268",
+        "name": "At Last!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2171224"
+      }
+    },
+    {
+      "id": "2171221",
+      "name": "A Sunday Kind Of Love",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/f/0/84f3cf6e4c4b7274b5fee9f33b7131d6.mp3?hdnea=exp=1774860074~acl=/api/1/1/8/4/f/0/84f3cf6e4c4b7274b5fee9f33b7131d6.mp3*~data=user_id=0,application_id=42~hmac=bc7de2208f3fa170d60016d030c40b0d04f71b9a9219d40fc0e8d7803695774d",
+      "duration_ms": 196000,
+      "track_number": 2,
+      "album": {
+        "id": "217268",
+        "name": "At Last!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2171221"
+      }
+    },
+    {
+      "id": "3984685",
+      "name": "I'd Rather Go Blind",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/1/0/4518654a1a96f6cfa4f29f23bf16a908.mp3?hdnea=exp=1774860074~acl=/api/1/1/4/5/1/0/4518654a1a96f6cfa4f29f23bf16a908.mp3*~data=user_id=0,application_id=42~hmac=637e24547a628b268b5a481bef33e7a02e5529ed6718f8a000c437fb08c10950",
+      "duration_ms": 153000,
+      "track_number": 3,
+      "album": {
+        "id": "372279",
+        "name": "Gospel Blues",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f259bfde4d54157e38936961eecdc91/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f259bfde4d54157e38936961eecdc91/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f259bfde4d54157e38936961eecdc91/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3984685"
+      }
+    },
+    {
+      "id": "967154",
+      "name": "Miss You",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/9/0/779b3ad645c54adde45b2c17e5fbb86a.mp3?hdnea=exp=1774860074~acl=/api/1/1/7/7/9/0/779b3ad645c54adde45b2c17e5fbb86a.mp3*~data=user_id=0,application_id=42~hmac=b388a694f1c5b4d38b166eedc5821101fd2160d22bb072282901bdf320f3a029",
+      "duration_ms": 360000,
+      "track_number": 4,
+      "album": {
+        "id": "108207",
+        "name": "Matriarch Of The Blues",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a386ea6d93bab193653486b59b80a60/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a386ea6d93bab193653486b59b80a60/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a386ea6d93bab193653486b59b80a60/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/967154"
+      }
+    },
+    {
+      "id": "548875752",
+      "name": "Fire",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/c/3/0/5c3242dc8963f23f096d83f87747ce9c.mp3?hdnea=exp=1774860074~acl=/api/1/1/5/c/3/0/5c3242dc8963f23f096d83f87747ce9c.mp3*~data=user_id=0,application_id=42~hmac=c13c48c66aec2e97ba453081556accaae025b4f6806915609a4865bf34990412",
+      "duration_ms": 142000,
+      "track_number": 5,
+      "album": {
+        "id": "72092242",
+        "name": "Tell Mama: The Complete Muscle Shoals Sessions (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b95ab60c1fc978e18652779e8626690/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b95ab60c1fc978e18652779e8626690/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b95ab60c1fc978e18652779e8626690/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/548875752"
+      }
+    },
+    {
+      "id": "2171223",
+      "name": "I Just Want To Make Love To You (Single Version)",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/a/0/7eac7e626b8ca9adcbaa227a6c3df039.mp3?hdnea=exp=1774860074~acl=/api/1/1/7/e/a/0/7eac7e626b8ca9adcbaa227a6c3df039.mp3*~data=user_id=0,application_id=42~hmac=dab8d6ce3388b3ce2a558e5e66c14d65be8d528923f49255ec8e53c70a488e70",
+      "duration_ms": 183000,
+      "track_number": 6,
+      "album": {
+        "id": "217268",
+        "name": "At Last!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2171223"
+      }
+    },
+    {
+      "id": "548863312",
+      "name": "Something's Got A Hold On Me",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/5/0/bb58ef32bdac5e781ec4529f3d8a457c.mp3?hdnea=exp=1774860074~acl=/api/1/1/b/b/5/0/bb58ef32bdac5e781ec4529f3d8a457c.mp3*~data=user_id=0,application_id=42~hmac=6775896c8102e04b84d3e1608dffa01024e3f545eb1dc6a1441625bda3af59ed",
+      "duration_ms": 166000,
+      "track_number": 7,
+      "album": {
+        "id": "72090552",
+        "name": "20th Century Masters: The Millennium Collection: Best Of Etta James (Reissue)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d30f31cd5adb2a7e8c7a899619af28d9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d30f31cd5adb2a7e8c7a899619af28d9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d30f31cd5adb2a7e8c7a899619af28d9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/548863312"
+      }
+    },
+    {
+      "id": "2171226",
+      "name": "Stormy Weather",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/a/0/e0a3971cb756d9f26bade8bb0aa86f06.mp3?hdnea=exp=1774860074~acl=/api/1/1/e/0/a/0/e0a3971cb756d9f26bade8bb0aa86f06.mp3*~data=user_id=0,application_id=42~hmac=c8cd88e70a88f158ca3defe3085e46bcfeb95102c1e8f1d855d70680da1723f1",
+      "duration_ms": 187000,
+      "track_number": 8,
+      "album": {
+        "id": "217268",
+        "name": "At Last!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2171226"
+      }
+    },
+    {
+      "id": "2171220",
+      "name": "Trust In Me",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/f/0/fefcf7d3d001a62af741365fbc6e8db7.mp3?hdnea=exp=1774860074~acl=/api/1/1/f/e/f/0/fefcf7d3d001a62af741365fbc6e8db7.mp3*~data=user_id=0,application_id=42~hmac=48bab0eb9d60023ef38e90b6552c75767bdee69a160d1f204e6a86f313a2fcd9",
+      "duration_ms": 178000,
+      "track_number": 9,
+      "album": {
+        "id": "217268",
+        "name": "At Last!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/793a7368c289b642ed327f92414d097f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2171220"
+      }
+    },
+    {
+      "id": "490386882",
+      "name": "Tell Mama",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/b/0/12bb4a11a5252c8830db0d4b3b2cba29.mp3?hdnea=exp=1774860074~acl=/api/1/1/1/2/b/0/12bb4a11a5252c8830db0d4b3b2cba29.mp3*~data=user_id=0,application_id=42~hmac=e4add447fa6a5f3ffb0c20944f774b3f1f6b8563c3885fa15cc440ef394ada9e",
+      "duration_ms": 141000,
+      "track_number": 10,
+      "album": {
+        "id": "62000012",
+        "name": "Tell Mama",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c03ece7d6f29fb691fca351b190fbf32/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c03ece7d6f29fb691fca351b190fbf32/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c03ece7d6f29fb691fca351b190fbf32/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "620",
+          "name": "Etta James"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/490386882"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1425937972",
+      "name": "Volando (Remix)",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/1/0/d71691ce9f1c912ba82375d03686c55a.mp3?hdnea=exp=1774860018~acl=/api/1/1/d/7/1/0/d71691ce9f1c912ba82375d03686c55a.mp3*~data=user_id=0,application_id=42~hmac=e6dc80f5cc22d8535cf7637e64ce7b46644ecffecefbfa09aad3480f21276efa",
+      "duration_ms": 273000,
+      "track_number": 1,
+      "album": {
+        "id": "242452202",
+        "name": "Volando (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b73f1ec1b7493093ee6fb3cd39b47096/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b73f1ec1b7493093ee6fb3cd39b47096/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b73f1ec1b7493093ee6fb3cd39b47096/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1425937972"
+      }
+    },
+    {
+      "id": "3345133651",
+      "name": "DROGA",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/8/0/f08c352430dc3ae0022462a159f3a442.mp3?hdnea=exp=1774860018~acl=/api/1/1/f/0/8/0/f08c352430dc3ae0022462a159f3a442.mp3*~data=user_id=0,application_id=42~hmac=b277292ebbeb9524bcad5f77dec7b1cd907fa150a29c8fa94c50c7138c56d402",
+      "duration_ms": 222000,
+      "track_number": 2,
+      "album": {
+        "id": "749460251",
+        "name": "LO MISMO DE SIEMPRE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44e85c6297e4b37127a97779714db5df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44e85c6297e4b37127a97779714db5df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44e85c6297e4b37127a97779714db5df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3345133651"
+      }
+    },
+    {
+      "id": "2424042495",
+      "name": "REINA",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/c/0/84c8fc7a0d2769b42ddad51d574932c7.mp3?hdnea=exp=1774860018~acl=/api/1/1/8/4/c/0/84c8fc7a0d2769b42ddad51d574932c7.mp3*~data=user_id=0,application_id=42~hmac=564415a523e8b91f65ecd9d62fa3b927f5ac61378416d14d459c16e66eeea099",
+      "duration_ms": 211000,
+      "track_number": 3,
+      "album": {
+        "id": "479824215",
+        "name": "ESTRELLA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e68252ef53f5b405606ac9029c650120/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e68252ef53f5b405606ac9029c650120/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e68252ef53f5b405606ac9029c650120/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2424042495"
+      }
+    },
+    {
+      "id": "1230480982",
+      "name": "Tuyo",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/9/0/df993335678048f6d980ec7821bc9181.mp3?hdnea=exp=1774860018~acl=/api/1/1/d/f/9/0/df993335678048f6d980ec7821bc9181.mp3*~data=user_id=0,application_id=42~hmac=ccdb3348415ddff7a0f4ee0656991aa00d6cab5882d7b5062825c83eddfce703",
+      "duration_ms": 269000,
+      "track_number": 4,
+      "album": {
+        "id": "204708222",
+        "name": "Primer Dia de Clases",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aeb6974f7292b35f4617720d530a3351/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aeb6974f7292b35f4617720d530a3351/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aeb6974f7292b35f4617720d530a3351/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1230480982"
+      }
+    },
+    {
+      "id": "2747636891",
+      "name": "Textos Fríos",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/f/0/2bfb7e9e9c888ddfdb1badab6d3cb71f.mp3?hdnea=exp=1774860018~acl=/api/1/1/2/b/f/0/2bfb7e9e9c888ddfdb1badab6d3cb71f.mp3*~data=user_id=0,application_id=42~hmac=6f43ba2f5d8b8f1544c246ca8e660dd0194ec994b046ea02aae6b95e965d70c1",
+      "duration_ms": 258000,
+      "track_number": 5,
+      "album": {
+        "id": "572281511",
+        "name": "Música Buena Para Días Malos",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f3593fb3036904074068e225a1fcb62/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f3593fb3036904074068e225a1fcb62/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f3593fb3036904074068e225a1fcb62/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2747636891"
+      }
+    },
+    {
+      "id": "2496106391",
+      "name": "HIBIKI",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/4/0/ee4b6b1702f38b7457c66394edd475be.mp3?hdnea=exp=1774860018~acl=/api/1/1/e/e/4/0/ee4b6b1702f38b7457c66394edd475be.mp3*~data=user_id=0,application_id=42~hmac=ceabf4f5bf5b03420af2911cb8d9616f6108c8eb1d131c6f74c7a4fe61c6f790",
+      "duration_ms": 208000,
+      "track_number": 6,
+      "album": {
+        "id": "499463651",
+        "name": "nadie sabe lo que va a pasar mañana",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2496106391"
+      }
+    },
+    {
+      "id": "1230481042",
+      "name": "Te Conoci Perriando",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/5/0/0f5e9f89d4c15b841355bb10586028bf.mp3?hdnea=exp=1774860018~acl=/api/1/1/0/f/5/0/0f5e9f89d4c15b841355bb10586028bf.mp3*~data=user_id=0,application_id=42~hmac=dfe8252bee0bc8b9d6b958f105c932c9bbde51191d24f5a17dfd91336e51942f",
+      "duration_ms": 190000,
+      "track_number": 7,
+      "album": {
+        "id": "204708222",
+        "name": "Primer Dia de Clases",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aeb6974f7292b35f4617720d530a3351/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aeb6974f7292b35f4617720d530a3351/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aeb6974f7292b35f4617720d530a3351/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1230481042"
+      }
+    },
+    {
+      "id": "1704442207",
+      "name": "2010",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/1/0/4b1c5a9ef6c6db949889bab9c2ad0d7d.mp3?hdnea=exp=1774860018~acl=/api/1/1/4/b/1/0/4b1c5a9ef6c6db949889bab9c2ad0d7d.mp3*~data=user_id=0,application_id=42~hmac=20508f5faf0298a8bac97e59d8f34a0488031146c8048db0eb01877c8e3208bd",
+      "duration_ms": 171000,
+      "track_number": 8,
+      "album": {
+        "id": "307365987",
+        "name": "MICRODOSIS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0385ddab0f03acd721ba2620d122d80a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0385ddab0f03acd721ba2620d122d80a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0385ddab0f03acd721ba2620d122d80a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1704442207"
+      }
+    },
+    {
+      "id": "3345133631",
+      "name": "TEMA DE JORY",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/7/0/e1745f7a2e42382aeffe15ac7ecbdf10.mp3?hdnea=exp=1774860018~acl=/api/1/1/e/1/7/0/e1745f7a2e42382aeffe15ac7ecbdf10.mp3*~data=user_id=0,application_id=42~hmac=945eb22bea10848b6520a28d69e2de0e803e812d8a6894890578ea6a8d33530d",
+      "duration_ms": 239000,
+      "track_number": 9,
+      "album": {
+        "id": "749460251",
+        "name": "LO MISMO DE SIEMPRE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44e85c6297e4b37127a97779714db5df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44e85c6297e4b37127a97779714db5df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44e85c6297e4b37127a97779714db5df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3345133631"
+      }
+    },
+    {
+      "id": "1981818727",
+      "name": "APA",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/5/0/58590e4938bbff356f6dcab37e2a5a57.mp3?hdnea=exp=1774860018~acl=/api/1/1/5/8/5/0/58590e4938bbff356f6dcab37e2a5a57.mp3*~data=user_id=0,application_id=42~hmac=3ab89b1c2cd1b3b8ba9c8c0b41e48b37d7ebe9086ee78b5807d063d888183922",
+      "duration_ms": 199000,
+      "track_number": 10,
+      "album": {
+        "id": "369351957",
+        "name": "PARAÍSO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1bf2a443d594d066367f30f35c273049/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1bf2a443d594d066367f30f35c273049/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1bf2a443d594d066367f30f35c273049/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3922661",
+          "name": "Mora"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1981818727"
+      }
+    }
+  ]
+}

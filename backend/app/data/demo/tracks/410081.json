@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1130616822",
+      "name": "Rust (From \"Hillbilly Elegy\" Soundtrack)",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/8/0/df8752b569e24a0193eae4cddf66cbac.mp3?hdnea=exp=1774859967~acl=/api/1/1/d/f/8/0/df8752b569e24a0193eae4cddf66cbac.mp3*~data=user_id=0,application_id=42~hmac=a77161b03a834f6bcacd20418a6ebe478927d0698ad2afdd42e9a62d0636a604",
+      "duration_ms": 165000,
+      "track_number": 1,
+      "album": {
+        "id": "183835042",
+        "name": "Hillbilly Elegy (Music from the Netflix Film)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f3007592211e0dd6f07c1b23c0ae220/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f3007592211e0dd6f07c1b23c0ae220/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f3007592211e0dd6f07c1b23c0ae220/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1130616822"
+      }
+    },
+    {
+      "id": "1139648532",
+      "name": "On The Road Again (Live)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25f5bfb9def948c6fbe40f31c5e780b8.mp3?hdnea=exp=1774859967~acl=/api/1/1/2/5/f/0/25f5bfb9def948c6fbe40f31c5e780b8.mp3*~data=user_id=0,application_id=42~hmac=1f30be8c0722312724d7391a20eb315b072501c08b797584e4bee1afcb9f29f1",
+      "duration_ms": 156000,
+      "track_number": 2,
+      "album": {
+        "id": "185800942",
+        "name": "On The Road Again (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1139648532"
+      }
+    },
+    {
+      "id": "1957590987",
+      "name": "Mulholland",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/0/0/cd080e4333596393a45a8a0966e6523e.mp3?hdnea=exp=1774859967~acl=/api/1/1/c/d/0/0/cd080e4333596393a45a8a0966e6523e.mp3*~data=user_id=0,application_id=42~hmac=e392ba4bf3757c02a3a5a70f6fb398ca94ef40a02be1915c17b72afa2b9ed8a9",
+      "duration_ms": 277000,
+      "track_number": 3,
+      "album": {
+        "id": "364917967",
+        "name": "Mulholland",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/36fbca8e11233481fb350cc38f5461b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/36fbca8e11233481fb350cc38f5461b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/36fbca8e11233481fb350cc38f5461b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1957590987"
+      }
+    },
+    {
+      "id": "3873551051",
+      "name": "Keep Your Lamp Trimmed And Burning",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/c/0/51c07433d2bda5975b21487e7d1cd667.mp3?hdnea=exp=1774859967~acl=/api/1/1/5/1/c/0/51c07433d2bda5975b21487e7d1cd667.mp3*~data=user_id=0,application_id=42~hmac=d5423e6ec44243692fab606e6fc1cd159acb2dcc882251db285154532ae1c2da",
+      "duration_ms": 192000,
+      "track_number": 4,
+      "album": {
+        "id": "929630881",
+        "name": "God Don't Never Change: The Songs Of Blind Willie Johnson",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ec8c723b5e4706af8ba41bd53374117b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ec8c723b5e4706af8ba41bd53374117b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ec8c723b5e4706af8ba41bd53374117b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3873551051"
+      }
+    },
+    {
+      "id": "78516850",
+      "name": "Will The Circle Be Unbroken (Live)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/9/0/8e98a19b74d8e15aaeadd43be531d5a7.mp3?hdnea=exp=1774859967~acl=/api/1/1/8/e/9/0/8e98a19b74d8e15aaeadd43be531d5a7.mp3*~data=user_id=0,application_id=42~hmac=fdec5d010343e746f030ead2c1a298a9f2425350a61b1cb61af44084580e3dec",
+      "duration_ms": 537000,
+      "track_number": 5,
+      "album": {
+        "id": "7810057",
+        "name": "All My Friends: Celebrating The Songs & Voice Of Gregg Allman",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7584314ea05e1fe310972bbb0315fbb8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7584314ea05e1fe310972bbb0315fbb8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7584314ea05e1fe310972bbb0315fbb8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/78516850"
+      }
+    },
+    {
+      "id": "1165098232",
+      "name": "Always On My Mind (Live)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/f/0/d0fe77ff68ccb27fc29eae42ef0b3a17.mp3?hdnea=exp=1774859967~acl=/api/1/1/d/0/f/0/d0fe77ff68ccb27fc29eae42ef0b3a17.mp3*~data=user_id=0,application_id=42~hmac=47b80210cca664e7d60c2ed1f4169c68cd4da485e4e03a796f0f9d1c6fcfcbcd",
+      "duration_ms": 233000,
+      "track_number": 6,
+      "album": {
+        "id": "190815832",
+        "name": "Willie Nelson American Outlaw (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1165098232"
+      }
+    },
+    {
+      "id": "1130616872",
+      "name": "Resignation (From \"Hillbilly Elegy\" Soundtrack)",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/6/0/2e635e16f572e68cec3ca4b564b83638.mp3?hdnea=exp=1774859967~acl=/api/1/1/2/e/6/0/2e635e16f572e68cec3ca4b564b83638.mp3*~data=user_id=0,application_id=42~hmac=eb3e5ee3958722a1ff9c728fd9a9542246de6b29e31c39bfef085f53df6a2b97",
+      "duration_ms": 121000,
+      "track_number": 7,
+      "album": {
+        "id": "183835042",
+        "name": "Hillbilly Elegy (Music from the Netflix Film)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f3007592211e0dd6f07c1b23c0ae220/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f3007592211e0dd6f07c1b23c0ae220/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0f3007592211e0dd6f07c1b23c0ae220/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1130616872"
+      }
+    },
+    {
+      "id": "3535132031",
+      "name": "To Know You Is To Love You",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/f/0/8afa255cce87286f9f926f0562bde3fb.mp3?hdnea=exp=1774859967~acl=/api/1/1/8/a/f/0/8afa255cce87286f9f926f0562bde3fb.mp3*~data=user_id=0,application_id=42~hmac=829781b667acb18fdb7073973c14861c57113c870b480bf6d7c62e383ae13943",
+      "duration_ms": 330000,
+      "track_number": 8,
+      "album": {
+        "id": "814008451",
+        "name": "B.B. King's Blues Summit 100",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45ab465c8545dac4f8043aa8d0b16741/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45ab465c8545dac4f8043aa8d0b16741/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45ab465c8545dac4f8043aa8d0b16741/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3535132031"
+      }
+    },
+    {
+      "id": "1165098272",
+      "name": "Roll Me Up and Smoke Me When I Die (Live)",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/e/0/01e5e5ad22cdfa63685b326e70c65596.mp3?hdnea=exp=1774859967~acl=/api/1/1/0/1/e/0/01e5e5ad22cdfa63685b326e70c65596.mp3*~data=user_id=0,application_id=42~hmac=a34c853b571fb9dcae8c0d102cf54481922e170763b09c2df5aa7f481985ac4f",
+      "duration_ms": 134000,
+      "track_number": 9,
+      "album": {
+        "id": "190815832",
+        "name": "Willie Nelson American Outlaw (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1165098272"
+      }
+    },
+    {
+      "id": "87767811",
+      "name": "Mississippi Kid",
+      "popularity": 7,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/3/0/8a3200062c4666a6cd83838153dbdeb7.mp3?hdnea=exp=1774859967~acl=/api/1/1/8/a/3/0/8a3200062c4666a6cd83838153dbdeb7.mp3*~data=user_id=0,application_id=42~hmac=94e88e742659fe85a935bf87cd4026ac9e830db132310169fa0ae4c2e1563530",
+      "duration_ms": 196000,
+      "track_number": 10,
+      "album": {
+        "id": "8861963",
+        "name": "Rock & Roll Time",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0849debe048c655a35e0a2c5dd66c818/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0849debe048c655a35e0a2c5dd66c818/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0849debe048c655a35e0a2c5dd66c818/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "410081",
+          "name": "Derek Trucks"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/87767811"
+      }
+    }
+  ]
+}

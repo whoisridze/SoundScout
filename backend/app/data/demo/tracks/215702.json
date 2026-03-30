@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "436230462",
+      "name": "So Beautiful (Live At Capitol Studios / 2014)",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/8/0/e780a0ef0925de460aaa5b0d3d819ce4.mp3?hdnea=exp=1774859915~acl=/api/1/1/e/7/8/0/e780a0ef0925de460aaa5b0d3d819ce4.mp3*~data=user_id=0,application_id=42~hmac=75c9e4fb57397bc9351ff4a3b4829de2793e5cb115e9b0b0ac6e0c6057c5b472",
+      "duration_ms": 459000,
+      "track_number": 1,
+      "album": {
+        "id": "52723572",
+        "name": "Covered (The Robert Glasper Trio Recorded Live At Capitol Studios)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be3bbf4a8b2758b98de2a801b554fc7b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be3bbf4a8b2758b98de2a801b554fc7b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be3bbf4a8b2758b98de2a801b554fc7b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/436230462"
+      }
+    },
+    {
+      "id": "3509403551",
+      "name": "AJ’s Vibe",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/0/0/be09e30ab60cdf52a39e5816a17d6657.mp3?hdnea=exp=1774859915~acl=/api/1/1/b/e/0/0/be09e30ab60cdf52a39e5816a17d6657.mp3*~data=user_id=0,application_id=42~hmac=06327f69b58d31a89eb20176127a59fcc32d40c37f8c5a6eb03bda6332c73b7c",
+      "duration_ms": 375000,
+      "track_number": 2,
+      "album": {
+        "id": "805192631",
+        "name": "Code Derivation",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b1750adef24d90384d18c16725b51c1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b1750adef24d90384d18c16725b51c1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b1750adef24d90384d18c16725b51c1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3509403551"
+      }
+    },
+    {
+      "id": "1952719637",
+      "name": "Why We Speak",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/1/0/791e7ca9bf198b55aba2109848d7efdd.mp3?hdnea=exp=1774859915~acl=/api/1/1/7/9/1/0/791e7ca9bf198b55aba2109848d7efdd.mp3*~data=user_id=0,application_id=42~hmac=d9c3b10ad20924b756141efaa8753704dc2e8ada5ce093c5fa62c1df2392e914",
+      "duration_ms": 379000,
+      "track_number": 3,
+      "album": {
+        "id": "364071617",
+        "name": "Black Radio III (Supreme Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c3bf690a5e98e05328ea8be22e1be58f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c3bf690a5e98e05328ea8be22e1be58f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c3bf690a5e98e05328ea8be22e1be58f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1952719637"
+      }
+    },
+    {
+      "id": "2076499837",
+      "name": "Michael Sees Mae",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/7/0/227f25d8e2ee2e9793f27df435c54769.mp3?hdnea=exp=1774859915~acl=/api/1/1/2/2/7/0/227f25d8e2ee2e9793f27df435c54769.mp3*~data=user_id=0,application_id=42~hmac=3fd612ce26a5a200393c5094fdbdb6fe2828ecb37bfb8467935720190059afb0",
+      "duration_ms": 75000,
+      "track_number": 4,
+      "album": {
+        "id": "388244667",
+        "name": "The Photograph (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f38f9cf6f60ad40a8915bfbd27323132/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f38f9cf6f60ad40a8915bfbd27323132/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f38f9cf6f60ad40a8915bfbd27323132/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2076499837"
+      }
+    },
+    {
+      "id": "2945548041",
+      "name": "To You (feat. Robert Glasper, Emi Secrest)",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/6/0/aa698c5f68e51f2981306c5ac89e0ba9.mp3?hdnea=exp=1774859915~acl=/api/1/1/a/a/6/0/aa698c5f68e51f2981306c5ac89e0ba9.mp3*~data=user_id=0,application_id=42~hmac=6be7a2a8bc0ec4f92733c7b1a64e179684ef9e86d9dfa967a023843bd06b9799",
+      "duration_ms": 236000,
+      "track_number": 5,
+      "album": {
+        "id": "628891641",
+        "name": "Ravenite Social Club",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7476871ed3cd793f1a24a73c7e3282f4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7476871ed3cd793f1a24a73c7e3282f4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7476871ed3cd793f1a24a73c7e3282f4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2945548041"
+      }
+    },
+    {
+      "id": "436230472",
+      "name": "The Worst (Live At Capitol Studios / 2014)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/2/0/cc2a59b30d05823d061fcad5d1973959.mp3?hdnea=exp=1774859915~acl=/api/1/1/c/c/2/0/cc2a59b30d05823d061fcad5d1973959.mp3*~data=user_id=0,application_id=42~hmac=e45bf82b831e9380fbfa7b331ee0f439cdd4a5d62f2a4acbf317fada922ef260",
+      "duration_ms": 321000,
+      "track_number": 6,
+      "album": {
+        "id": "52723572",
+        "name": "Covered (The Robert Glasper Trio Recorded Live At Capitol Studios)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be3bbf4a8b2758b98de2a801b554fc7b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be3bbf4a8b2758b98de2a801b554fc7b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be3bbf4a8b2758b98de2a801b554fc7b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/436230472"
+      }
+    },
+    {
+      "id": "992621302",
+      "name": "Sleepless Nights",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/3/0/fc325125c2bbf2d4679c9820b4795fd2.mp3?hdnea=exp=1774859915~acl=/api/1/1/f/c/3/0/fc325125c2bbf2d4679c9820b4795fd2.mp3*~data=user_id=0,application_id=42~hmac=879aab985a9b5b5c736646b7fee1361a9966a7db3938c3d5afe4ad6125c9f0f9",
+      "duration_ms": 179000,
+      "track_number": 7,
+      "album": {
+        "id": "154880922",
+        "name": "Dinner Party",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4502739b6e04260237c851f3ba743503/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4502739b6e04260237c851f3ba743503/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4502739b6e04260237c851f3ba743503/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/992621302"
+      }
+    },
+    {
+      "id": "992621352",
+      "name": "Freeze Tag",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/3/0/c33f2cba1363168072a54d4a1a1ca9d3.mp3?hdnea=exp=1774859915~acl=/api/1/1/c/3/3/0/c33f2cba1363168072a54d4a1a1ca9d3.mp3*~data=user_id=0,application_id=42~hmac=d07cf43951339178909d70e0c4d4dc2cb8202cada47a7854575f69b13a93d726",
+      "duration_ms": 191000,
+      "track_number": 8,
+      "album": {
+        "id": "154880922",
+        "name": "Dinner Party",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4502739b6e04260237c851f3ba743503/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4502739b6e04260237c851f3ba743503/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4502739b6e04260237c851f3ba743503/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/992621352"
+      }
+    },
+    {
+      "id": "2223739617",
+      "name": "Breathe",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/c/0/50c453f323c7a00dc65789cfd97f241d.mp3?hdnea=exp=1774859915~acl=/api/1/1/5/0/c/0/50c453f323c7a00dc65789cfd97f241d.mp3*~data=user_id=0,application_id=42~hmac=cae07a19f745cd8446d3d9e2a4e423a716577c4496c750ba466d48398733b198",
+      "duration_ms": 189000,
+      "track_number": 9,
+      "album": {
+        "id": "425900657",
+        "name": "Enigmatic Society",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f807443e7a859e93a6ca6723cd032e48/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f807443e7a859e93a6ca6723cd032e48/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f807443e7a859e93a6ca6723cd032e48/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2223739617"
+      }
+    },
+    {
+      "id": "1949446417",
+      "name": "Therapy pt. 2",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/e/0/bfea000543a6e3070692c79f0ae9689a.mp3?hdnea=exp=1774859915~acl=/api/1/1/b/f/e/0/bfea000543a6e3070692c79f0ae9689a.mp3*~data=user_id=0,application_id=42~hmac=e6ad2eb6fe6750c5f8f4fe03aea6e8bf266484057ee9b39f07d4257b4d043ad3",
+      "duration_ms": 202000,
+      "track_number": 10,
+      "album": {
+        "id": "363497797",
+        "name": "Therapy pt. 2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c3bf690a5e98e05328ea8be22e1be58f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c3bf690a5e98e05328ea8be22e1be58f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c3bf690a5e98e05328ea8be22e1be58f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "215702",
+          "name": "Robert Glasper"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1949446417"
+      }
+    }
+  ]
+}

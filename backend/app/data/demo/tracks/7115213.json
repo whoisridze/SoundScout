@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3147239941",
+      "name": "MUTED",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/0/0/c60ac455e0e2a46eafeca6c7e003f2d3.mp3?hdnea=exp=1774859976~acl=/api/1/1/c/6/0/0/c60ac455e0e2a46eafeca6c7e003f2d3.mp3*~data=user_id=0,application_id=42~hmac=77939caad66c772103630fd9451f3be64ebb79253dc5f3c42e201eb797511bb3",
+      "duration_ms": 116000,
+      "track_number": 1,
+      "album": {
+        "id": "685310921",
+        "name": "MUTED",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/adec17da1f5a0d9b57301b3a1935ff79/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/adec17da1f5a0d9b57301b3a1935ff79/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/adec17da1f5a0d9b57301b3a1935ff79/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3147239941"
+      }
+    },
+    {
+      "id": "2988352821",
+      "name": "Drizzle",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/0/0/c60afa86a4fc66d597e7fccd4c160f84.mp3?hdnea=exp=1774859976~acl=/api/1/1/c/6/0/0/c60afa86a4fc66d597e7fccd4c160f84.mp3*~data=user_id=0,application_id=42~hmac=d969ba4066d6a92922d8360f8d25e78c097d868b6ba50c476ff5e8d9d0917edf",
+      "duration_ms": 124000,
+      "track_number": 2,
+      "album": {
+        "id": "641385381",
+        "name": "Drizzle",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/850a7eb49580f4b2f77ab86040d0e842/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/850a7eb49580f4b2f77ab86040d0e842/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/850a7eb49580f4b2f77ab86040d0e842/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2988352821"
+      }
+    },
+    {
+      "id": "1775938757",
+      "name": "Satoshi",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/b/0/7db207aff3f355238de8a9ac5e6e51b9.mp3?hdnea=exp=1774859976~acl=/api/1/1/7/d/b/0/7db207aff3f355238de8a9ac5e6e51b9.mp3*~data=user_id=0,application_id=42~hmac=53001d83fa5b683b98850d678aa72ad656eceed6ca6305295151c5834ed8a95e",
+      "duration_ms": 145000,
+      "track_number": 3,
+      "album": {
+        "id": "324040257",
+        "name": "Waking Dreams",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/77386d6838a08c5084aa4a219a90b6e9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/77386d6838a08c5084aa4a219a90b6e9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/77386d6838a08c5084aa4a219a90b6e9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1775938757"
+      }
+    },
+    {
+      "id": "3105174171",
+      "name": "AURA",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/6/0/6e6df3e5783c91bb135e549e456d32f8.mp3?hdnea=exp=1774859976~acl=/api/1/1/6/e/6/0/6e6df3e5783c91bb135e549e456d32f8.mp3*~data=user_id=0,application_id=42~hmac=06845b1bec067e355bb7da9f647844de114d54a9ba8a95eef17f97cdaa0d37e0",
+      "duration_ms": 129000,
+      "track_number": 4,
+      "album": {
+        "id": "673580571",
+        "name": "Caller Unknown",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffcebc6d72b3d75e933374b7616cbbaf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffcebc6d72b3d75e933374b7616cbbaf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ffcebc6d72b3d75e933374b7616cbbaf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3105174171"
+      }
+    },
+    {
+      "id": "962679772",
+      "name": "everything you say",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/0/0/3d06d0dc03ee40f63ee9a5c6ce1f19e1.mp3?hdnea=exp=1774859976~acl=/api/1/1/3/d/0/0/3d06d0dc03ee40f63ee9a5c6ce1f19e1.mp3*~data=user_id=0,application_id=42~hmac=b402e8ce582875a7d887906dcfc4271396fe8e0050a6bfa8d03aa0f89b41a358",
+      "duration_ms": 158000,
+      "track_number": 5,
+      "album": {
+        "id": "148676942",
+        "name": "Inaudible",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/48a6a95e9fe53d70b0ace28dfe18835a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/48a6a95e9fe53d70b0ace28dfe18835a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/48a6a95e9fe53d70b0ace28dfe18835a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/962679772"
+      }
+    },
+    {
+      "id": "1096199672",
+      "name": "Droplets",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/1/0/991b973225ac0b30d17cc77c81607487.mp3?hdnea=exp=1774859976~acl=/api/1/1/9/9/1/0/991b973225ac0b30d17cc77c81607487.mp3*~data=user_id=0,application_id=42~hmac=7480327704377b793098a7a06cdf57f26f3587064406ba2a2afbdd93d4ea0791",
+      "duration_ms": 178000,
+      "track_number": 6,
+      "album": {
+        "id": "176843432",
+        "name": "Cabin in the Woods",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/014d95ed34d5eb3cb69117361574d32e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/014d95ed34d5eb3cb69117361574d32e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/014d95ed34d5eb3cb69117361574d32e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1096199672"
+      }
+    },
+    {
+      "id": "3525698751",
+      "name": "Melt",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/0/0/5101f64396ba778766c23a5e8580c68e.mp3?hdnea=exp=1774859976~acl=/api/1/1/5/1/0/0/5101f64396ba778766c23a5e8580c68e.mp3*~data=user_id=0,application_id=42~hmac=9aa4b12458c5718ae90e462384d6a7d95b978236f22c66d25ca6af7fc8dc9e2a",
+      "duration_ms": 105000,
+      "track_number": 7,
+      "album": {
+        "id": "810816841",
+        "name": "Hip Dozer, Vol. 2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10e22e4e58d0f181fa2af9ea526f20ca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10e22e4e58d0f181fa2af9ea526f20ca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10e22e4e58d0f181fa2af9ea526f20ca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3525698751"
+      }
+    },
+    {
+      "id": "962731872",
+      "name": "Zen",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/4/0/38443ce4d5cdc1e752023e9a666a732e.mp3?hdnea=exp=1774859976~acl=/api/1/1/3/8/4/0/38443ce4d5cdc1e752023e9a666a732e.mp3*~data=user_id=0,application_id=42~hmac=82903c68bfa16eadaf484468aeef8bdcc299441b8aeb24446c9885528934af0e",
+      "duration_ms": 210000,
+      "track_number": 8,
+      "album": {
+        "id": "148681342",
+        "name": "Chillhop Essentials Winter 2019",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0b59b1df8eb5ac6307720fe94b8e597/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0b59b1df8eb5ac6307720fe94b8e597/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0b59b1df8eb5ac6307720fe94b8e597/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/962731872"
+      }
+    },
+    {
+      "id": "1096199642",
+      "name": "Trenches",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/2/0/432e11c3f224e02cb24ce42b9acdf1e5.mp3?hdnea=exp=1774859976~acl=/api/1/1/4/3/2/0/432e11c3f224e02cb24ce42b9acdf1e5.mp3*~data=user_id=0,application_id=42~hmac=b49323864b1a0fff9d4ceee2d2cbba9cd945d41f6e0862e853859f43bb7adb7f",
+      "duration_ms": 154000,
+      "track_number": 9,
+      "album": {
+        "id": "176843432",
+        "name": "Cabin in the Woods",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/014d95ed34d5eb3cb69117361574d32e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/014d95ed34d5eb3cb69117361574d32e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/014d95ed34d5eb3cb69117361574d32e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1096199642"
+      }
+    },
+    {
+      "id": "681660082",
+      "name": "Chimney",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/0/0/0702594317c0658a7d0a4ef1400c1ab8.mp3?hdnea=exp=1774859976~acl=/api/1/1/0/7/0/0/0702594317c0658a7d0a4ef1400c1ab8.mp3*~data=user_id=0,application_id=42~hmac=483720d1a5f73fbb60e972816a08a954abc78befd77058edeea752ccd0947453",
+      "duration_ms": 115000,
+      "track_number": 10,
+      "album": {
+        "id": "97300482",
+        "name": "Allure",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d5fa95c709e74e60bd0e6d3ff82991a9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d5fa95c709e74e60bd0e6d3ff82991a9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d5fa95c709e74e60bd0e6d3ff82991a9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7115213",
+          "name": "Philanthrope"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/681660082"
+      }
+    }
+  ]
+}

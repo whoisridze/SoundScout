@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2074439067",
+      "name": "Yandel 150",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/8/0/e9810a7a51b8adba314e7af978f62236.mp3?hdnea=exp=1774860011~acl=/api/1/1/e/9/8/0/e9810a7a51b8adba314e7af978f62236.mp3*~data=user_id=0,application_id=42~hmac=54892e2fea01a010aa69ed65b104fb677c37c01353c29dea92528a3ca53bebe6",
+      "duration_ms": 216000,
+      "track_number": 1,
+      "album": {
+        "id": "387591767",
+        "name": "Yandel 150",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/27abf696d0605c653b11b809dacd7a3c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/27abf696d0605c653b11b809dacd7a3c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/27abf696d0605c653b11b809dacd7a3c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2074439067"
+      }
+    },
+    {
+      "id": "3057691761",
+      "name": "SEXO ES LA MODA",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/0/0/990a950377a7341e7cbe2ead37dd964c.mp3?hdnea=exp=1774860011~acl=/api/1/1/9/9/0/0/990a950377a7341e7cbe2ead37dd964c.mp3*~data=user_id=0,application_id=42~hmac=b5579e7caba7d2ccee5a0cc2f5060e1a2f71cc6be0feb216df22a32c5b940af2",
+      "duration_ms": 165000,
+      "track_number": 2,
+      "album": {
+        "id": "660673371",
+        "name": "SEXO ES LA MODA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92ff4dfd1d4a590481c9b0b3c3cc9d68/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92ff4dfd1d4a590481c9b0b3c3cc9d68/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92ff4dfd1d4a590481c9b0b3c3cc9d68/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3057691761"
+      }
+    },
+    {
+      "id": "2967318041",
+      "name": "HABLAME CLARO",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/0/0/e0088650aff31340b8ee5d723176da91.mp3?hdnea=exp=1774860011~acl=/api/1/1/e/0/0/0/e0088650aff31340b8ee5d723176da91.mp3*~data=user_id=0,application_id=42~hmac=e0ef1538c68ada9748072f2f65cfcef48268894cc78b76018f4ba063453d4506",
+      "duration_ms": 155000,
+      "track_number": 3,
+      "album": {
+        "id": "635139021",
+        "name": "HABLAME CLARO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce6d947a48f4dce5a457280612a94bdc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce6d947a48f4dce5a457280612a94bdc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce6d947a48f4dce5a457280612a94bdc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2967318041"
+      }
+    },
+    {
+      "id": "469370892",
+      "name": "Se Acabó el Amor (Urban Version)",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/9/0/a49d36475cf09adc1d850fb397b3be4c.mp3?hdnea=exp=1774860011~acl=/api/1/1/a/4/9/0/a49d36475cf09adc1d850fb397b3be4c.mp3*~data=user_id=0,application_id=42~hmac=6f5d85761281343cd4a92924ede9ac7a19c2bb6fb6bc24c399b8c6bb6fbe8f11",
+      "duration_ms": 230000,
+      "track_number": 4,
+      "album": {
+        "id": "58349532",
+        "name": "Se Acabó el Amor (Urban Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3820b6fc1262494da2427a9c54cff7a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3820b6fc1262494da2427a9c54cff7a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3820b6fc1262494da2427a9c54cff7a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/469370892"
+      }
+    },
+    {
+      "id": "96529668",
+      "name": "Calentura",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/d/0/bfd54b939184ad677ff616a7624c3eff.mp3?hdnea=exp=1774860011~acl=/api/1/1/b/f/d/0/bfd54b939184ad677ff616a7624c3eff.mp3*~data=user_id=0,application_id=42~hmac=10f13cffcff2ba56f26f8645e172fdb863cf98760d86a03925163731519eb1bc",
+      "duration_ms": 189000,
+      "track_number": 5,
+      "album": {
+        "id": "9823922",
+        "name": "Calentura",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39f55c4230788d173b2b47454ff9024d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39f55c4230788d173b2b47454ff9024d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39f55c4230788d173b2b47454ff9024d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/96529668"
+      }
+    },
+    {
+      "id": "2576502642",
+      "name": "CORLEONE",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/a/0/02abdd3bd24b16cdb33227890bfe8c65.mp3?hdnea=exp=1774860011~acl=/api/1/1/0/2/a/0/02abdd3bd24b16cdb33227890bfe8c65.mp3*~data=user_id=0,application_id=42~hmac=af84b82640d3b5a81edb9959f7a126000e9a6df33f49992fb690bd496b17fdaf",
+      "duration_ms": 192000,
+      "track_number": 6,
+      "album": {
+        "id": "521186982",
+        "name": "Saliendo del Planeta",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/989eb3c5cd638298d12aed8bf1489b6f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/989eb3c5cd638298d12aed8bf1489b6f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/989eb3c5cd638298d12aed8bf1489b6f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2576502642"
+      }
+    },
+    {
+      "id": "377599341",
+      "name": "Te Suelto el Pelo",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/2/0/ec251b95a4125ac464391beae5a38dc7.mp3?hdnea=exp=1774860011~acl=/api/1/1/e/c/2/0/ec251b95a4125ac464391beae5a38dc7.mp3*~data=user_id=0,application_id=42~hmac=0cd09ff6ecf77dc5c3705186d9ce109f08a41aace6eba56e867ff44202341366",
+      "duration_ms": 136000,
+      "track_number": 7,
+      "album": {
+        "id": "43760291",
+        "name": "Quien Contra Mi",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f8cfbfe5010e13504c424cff0387b98/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f8cfbfe5010e13504c424cff0387b98/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f8cfbfe5010e13504c424cff0387b98/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/377599341"
+      }
+    },
+    {
+      "id": "467664112",
+      "name": "Hey DJ",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/e/0/4fe09afd018e565372e8e807019c9e56.mp3?hdnea=exp=1774860011~acl=/api/1/1/4/f/e/0/4fe09afd018e565372e8e807019c9e56.mp3*~data=user_id=0,application_id=42~hmac=8dc4db8305a86ece556b15ae0d5d68470a9078200d955990019abcc9f185b327",
+      "duration_ms": 208000,
+      "track_number": 8,
+      "album": {
+        "id": "58041242",
+        "name": "CNCO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d915277459f8a03cef6514f5de091732/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d915277459f8a03cef6514f5de091732/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d915277459f8a03cef6514f5de091732/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/467664112"
+      }
+    },
+    {
+      "id": "3783488352",
+      "name": "Me Voy A La Chingada",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/1/0/7016dc0d32fc36bb8b614de490eb7ba5.mp3?hdnea=exp=1774860011~acl=/api/1/1/7/0/1/0/7016dc0d32fc36bb8b614de490eb7ba5.mp3*~data=user_id=0,application_id=42~hmac=bad7fdc5890f150770fac8745aaec47008c473c7e7bbfa898d3df261e1c368d8",
+      "duration_ms": 134000,
+      "track_number": 9,
+      "album": {
+        "id": "900665112",
+        "name": "Infinito",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/312a912a499387c33f1cc28a95aeb2e9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/312a912a499387c33f1cc28a95aeb2e9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/312a912a499387c33f1cc28a95aeb2e9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3783488352"
+      }
+    },
+    {
+      "id": "2746593701",
+      "name": "Brickell",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/e/0/2cedcf2a9e1f7a64b53f236658b05a3a.mp3?hdnea=exp=1774860011~acl=/api/1/1/2/c/e/0/2cedcf2a9e1f7a64b53f236658b05a3a.mp3*~data=user_id=0,application_id=42~hmac=d66e05f4ecc60f9e6582581e0833694194dd70c9429fe732221f7125d8c1858a",
+      "duration_ms": 180000,
+      "track_number": 10,
+      "album": {
+        "id": "571989001",
+        "name": "MANIFESTING 20-05",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb83595503696e0558b0391e23be7eb7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb83595503696e0558b0391e23be7eb7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb83595503696e0558b0391e23be7eb7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "517429",
+          "name": "Yandel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2746593701"
+      }
+    }
+  ]
+}

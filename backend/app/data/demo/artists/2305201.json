@@ -1,0 +1,32 @@
+{
+  "id": "2305201",
+  "name": "Jai-Jagdeesh",
+  "popularity": 57,
+  "followers": {
+    "total": 5790
+  },
+  "genres": [
+    "new age"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/bc1fea6cf7f489980d281aabd0d95441/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/bc1fea6cf7f489980d281aabd0d95441/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/bc1fea6cf7f489980d281aabd0d95441/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2305201"
+  },
+  "uri": "deezer:artist:2305201"
+}

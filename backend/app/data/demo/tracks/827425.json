@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2769846461",
+      "name": "Miles On It",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/e/0/4ee60e7b31c63eb34684f68e7e10b90b.mp3?hdnea=exp=1774860041~acl=/api/1/1/4/e/e/0/4ee60e7b31c63eb34684f68e7e10b90b.mp3*~data=user_id=0,application_id=42~hmac=d55e50f4d65654337409c97b04ee0f65e882c95baec3bb9356d4d27d8f059790",
+      "duration_ms": 168000,
+      "track_number": 1,
+      "album": {
+        "id": "579025561",
+        "name": "Miles On It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d3f2ccb89a565d716e40ab894be49e8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d3f2ccb89a565d716e40ab894be49e8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9d3f2ccb89a565d716e40ab894be49e8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2769846461"
+      }
+    },
+    {
+      "id": "3884901601",
+      "name": "Woman",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/6/0/14697f3e5c68b81b311f3faed580f770.mp3?hdnea=exp=1774860041~acl=/api/1/1/1/4/6/0/14697f3e5c68b81b311f3faed580f770.mp3*~data=user_id=0,application_id=42~hmac=2a19a69f1b3ac53453681c5ac916709fae0d2e3d224909180e7e071268ed5c3f",
+      "duration_ms": 166000,
+      "track_number": 2,
+      "album": {
+        "id": "933879421",
+        "name": "Woman",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/84c14dd8a664136f0cf35d54faaed9c2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/84c14dd8a664136f0cf35d54faaed9c2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/84c14dd8a664136f0cf35d54faaed9c2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3884901601"
+      }
+    },
+    {
+      "id": "3178251221",
+      "name": "Gorgeous",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/1/0/ec1b1d7ea5dff2c713ca92d0d07af1fc.mp3?hdnea=exp=1774860041~acl=/api/1/1/e/c/1/0/ec1b1d7ea5dff2c713ca92d0d07af1fc.mp3*~data=user_id=0,application_id=42~hmac=7d8c0cf49aa8d26967d6738ded82804ebe94121284d55625d822f3cb75efaa4d",
+      "duration_ms": 185000,
+      "track_number": 3,
+      "album": {
+        "id": "695415531",
+        "name": "Gorgeous",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f8e46ea2e99077bab9506e45e019d3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f8e46ea2e99077bab9506e45e019d3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f8e46ea2e99077bab9506e45e019d3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3178251221"
+      }
+    },
+    {
+      "id": "2878360412",
+      "name": "One Thing Right",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/d/0/bdd1ed9129d6b2927267b62b8acbf3d1.mp3?hdnea=exp=1774860041~acl=/api/1/1/b/d/d/0/bdd1ed9129d6b2927267b62b8acbf3d1.mp3*~data=user_id=0,application_id=42~hmac=3b4b207f05d8136d10db5ea78f9770c93aad0545fb0f2c489076286acdf3c6ee",
+      "duration_ms": 182000,
+      "track_number": 4,
+      "album": {
+        "id": "611527442",
+        "name": "One Thing Right",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1f6f79cc02330c7003a223684c19223/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1f6f79cc02330c7003a223684c19223/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1f6f79cc02330c7003a223684c19223/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2878360412"
+      }
+    },
+    {
+      "id": "2207791657",
+      "name": "Bury Me in Georgia (Single Edit)",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/8/0/068d2e91b486fcab2c6687ec8cba344f.mp3?hdnea=exp=1774860041~acl=/api/1/1/0/6/8/0/068d2e91b486fcab2c6687ec8cba344f.mp3*~data=user_id=0,application_id=42~hmac=ef0c95217bb75c6a144d815d072a4fd791922f3dfbe2e754bb60b955822ef2f2",
+      "duration_ms": 170000,
+      "track_number": 5,
+      "album": {
+        "id": "421647927",
+        "name": "Bury Me in Georgia (Single Edit)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00bcb1bb3020aa66239401bc043b4956/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00bcb1bb3020aa66239401bc043b4956/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/00bcb1bb3020aa66239401bc043b4956/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2207791657"
+      }
+    },
+    {
+      "id": "3403184931",
+      "name": "2 Pair",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/d/0/12db745137fca5cf1e907c060ee1a9c8.mp3?hdnea=exp=1774860041~acl=/api/1/1/1/2/d/0/12db745137fca5cf1e907c060ee1a9c8.mp3*~data=user_id=0,application_id=42~hmac=cfa416036b3ba9b4f46145093fe12986e1835680618c6c3e3df29833ef8da9d9",
+      "duration_ms": 151000,
+      "track_number": 6,
+      "album": {
+        "id": "768723121",
+        "name": "2 Pair",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86094709dc1c88e12eebcdb5bec51b5d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86094709dc1c88e12eebcdb5bec51b5d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86094709dc1c88e12eebcdb5bec51b5d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3403184931"
+      }
+    },
+    {
+      "id": "3191093951",
+      "name": "Haunted",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/c/0/4cc9570eb5b3f4e23c08803ecd8b1197.mp3?hdnea=exp=1774860041~acl=/api/1/1/4/c/c/0/4cc9570eb5b3f4e23c08803ecd8b1197.mp3*~data=user_id=0,application_id=42~hmac=a3cc8c6067a16fdcd44062bc97cb1c6aabad01de3b2c1cef8b8b16328a897319",
+      "duration_ms": 263000,
+      "track_number": 7,
+      "album": {
+        "id": "699348791",
+        "name": "The High Road",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f8e46ea2e99077bab9506e45e019d3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f8e46ea2e99077bab9506e45e019d3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f8e46ea2e99077bab9506e45e019d3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3191093951"
+      }
+    },
+    {
+      "id": "2705982442",
+      "name": "Fiddle in the Band",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/c/0/2fc8bb54e345188f434e6849cc871f61.mp3?hdnea=exp=1774860041~acl=/api/1/1/2/f/c/0/2fc8bb54e345188f434e6849cc871f61.mp3*~data=user_id=0,application_id=42~hmac=667eac0dd9e390fd53cf7cff7bab9df56ceff1fd06168925fb58512e0c475cf9",
+      "duration_ms": 172000,
+      "track_number": 8,
+      "album": {
+        "id": "560761252",
+        "name": "Fiddle in the Band",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33e3debc1e93356286244e5de4449345/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33e3debc1e93356286244e5de4449345/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33e3debc1e93356286244e5de4449345/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2705982442"
+      }
+    },
+    {
+      "id": "3513898091",
+      "name": "Song For My Son (feat. Kane Brown)",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/8/0/3f8a253355912dd4a9aefb5f687aceaf.mp3?hdnea=exp=1774860041~acl=/api/1/1/3/f/8/0/3f8a253355912dd4a9aefb5f687aceaf.mp3*~data=user_id=0,application_id=42~hmac=d519a2001a2026bddb0cca610364623efdf5613a49443d4a831b992a9fd86a23",
+      "duration_ms": 173000,
+      "track_number": 9,
+      "album": {
+        "id": "806737691",
+        "name": "17 Problems",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ebc7217791d70b0208557bc75acd5706/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ebc7217791d70b0208557bc75acd5706/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ebc7217791d70b0208557bc75acd5706/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3513898091"
+      }
+    },
+    {
+      "id": "412056652",
+      "name": "Heaven",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/c/0/3cc7e7ca585eb96fb945b5ab011588aa.mp3?hdnea=exp=1774860041~acl=/api/1/1/3/c/c/0/3cc7e7ca585eb96fb945b5ab011588aa.mp3*~data=user_id=0,application_id=42~hmac=a78dac843420aed7dbc1042cf096b068e52e305607c662e75d54908fba36841e",
+      "duration_ms": 177000,
+      "track_number": 10,
+      "album": {
+        "id": "49018232",
+        "name": "Kane Brown (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e35c4309ed0012ae3e7d954f66d37bf3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e35c4309ed0012ae3e7d954f66d37bf3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e35c4309ed0012ae3e7d954f66d37bf3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "827425",
+          "name": "Kane Brown"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/412056652"
+      }
+    }
+  ]
+}

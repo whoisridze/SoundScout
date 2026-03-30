@@ -1,0 +1,32 @@
+{
+  "id": "100675",
+  "name": "Vybz Kartel",
+  "popularity": 99,
+  "followers": {
+    "total": 1040314
+  },
+  "genres": [
+    "dancehall"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f7b3120a56baee2381d61054658d6077/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f7b3120a56baee2381d61054658d6077/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f7b3120a56baee2381d61054658d6077/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/100675"
+  },
+  "uri": "deezer:artist:100675"
+}

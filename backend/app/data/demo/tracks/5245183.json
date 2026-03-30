@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3064010291",
+      "name": "St. Chroma (feat. Daniel Caesar)",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/e/0/1eea6e8bd6e96c373d97753cbabdd2d9.mp3?hdnea=exp=1774859999~acl=/api/1/1/1/e/e/0/1eea6e8bd6e96c373d97753cbabdd2d9.mp3*~data=user_id=0,application_id=42~hmac=3a43f8069ce1ad0a794976c5b63ab3c4276acabb75f625c8f91dd7ec6ed8ecc7",
+      "duration_ms": 197000,
+      "track_number": 1,
+      "album": {
+        "id": "662648981",
+        "name": "CHROMAKOPIA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb415a59a7bc198ec4aab01f02600691/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb415a59a7bc198ec4aab01f02600691/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb415a59a7bc198ec4aab01f02600691/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3064010291"
+      }
+    },
+    {
+      "id": "3524652331",
+      "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/8/0/47893bb858a45fd20c91f444399cb3a5.mp3?hdnea=exp=1774859999~acl=/api/1/1/4/7/8/0/47893bb858a45fd20c91f444399cb3a5.mp3*~data=user_id=0,application_id=42~hmac=1c051d9be997d5b44f605fca7dbd6a2ad32deb0b2dc47bc182b8c6e1229797bc",
+      "duration_ms": 199000,
+      "track_number": 2,
+      "album": {
+        "id": "810481981",
+        "name": "Essex Honey",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b65f5ca14ab6748dc8c6bf99d777b533/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b65f5ca14ab6748dc8c6bf99d777b533/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b65f5ca14ab6748dc8c6bf99d777b533/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3524652331"
+      }
+    },
+    {
+      "id": "3565516731",
+      "name": "Moon",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/e/0/35e6bd231b2a37c3237868a794f3843f.mp3?hdnea=exp=1774859999~acl=/api/1/1/3/5/e/0/35e6bd231b2a37c3237868a794f3843f.mp3*~data=user_id=0,application_id=42~hmac=2608670587dd2883d0f8a42e7f78568ef82a7d36493cd06d7a1476bd1f04068b",
+      "duration_ms": 317000,
+      "track_number": 3,
+      "album": {
+        "id": "824865701",
+        "name": "Moon",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35f8f8b3969f3c7bbc18841aac165786/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35f8f8b3969f3c7bbc18841aac165786/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35f8f8b3969f3c7bbc18841aac165786/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3565516731"
+      }
+    },
+    {
+      "id": "3612800442",
+      "name": "Who Knows",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/8/0/cb8412082bacc2dc6772b5a233a23ec0.mp3?hdnea=exp=1774859999~acl=/api/1/1/c/b/8/0/cb8412082bacc2dc6772b5a233a23ec0.mp3*~data=user_id=0,application_id=42~hmac=bd5ff299e54a2b549db06354346c033434e5a82cf854fe8c34cbefede197f0d3",
+      "duration_ms": 226000,
+      "track_number": 4,
+      "album": {
+        "id": "841629142",
+        "name": "Son Of Spergy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3612800442"
+      }
+    },
+    {
+      "id": "3514914421",
+      "name": "Call On Me",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/1/0/4412a94637414bad4a737c0bc6a0331a.mp3?hdnea=exp=1774859999~acl=/api/1/1/4/4/1/0/4412a94637414bad4a737c0bc6a0331a.mp3*~data=user_id=0,application_id=42~hmac=6fcfb54df9c079267db1883ea3a25a044dad6494e16a2ff5c1f5ebad284eed14",
+      "duration_ms": 169000,
+      "track_number": 5,
+      "album": {
+        "id": "807133511",
+        "name": "Call On Me",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fae99b2a58ee397e1504281a1beee384/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fae99b2a58ee397e1504281a1beee384/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fae99b2a58ee397e1504281a1beee384/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3514914421"
+      }
+    },
+    {
+      "id": "417767192",
+      "name": "Best Part (feat. H.E.R.)",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a122fc6c633aa6a2547c318bc3dcd4ef.mp3?hdnea=exp=1774859999~acl=/api/1/1/a/1/2/0/a122fc6c633aa6a2547c318bc3dcd4ef.mp3*~data=user_id=0,application_id=42~hmac=483eff0776dcce7ff0bed82bfc2c64d069d1fbc9b4de21287add76062cae2fd2",
+      "duration_ms": 210000,
+      "track_number": 6,
+      "album": {
+        "id": "49911462",
+        "name": "H.E.R.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dff56488d13d0b5e96d93d895c9624b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dff56488d13d0b5e96d93d895c9624b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dff56488d13d0b5e96d93d895c9624b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/417767192"
+      }
+    },
+    {
+      "id": "3064010371",
+      "name": "Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams)",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/1/0/981c409ef62524cdfd6b628556f26409.mp3?hdnea=exp=1774859999~acl=/api/1/1/9/8/1/0/981c409ef62524cdfd6b628556f26409.mp3*~data=user_id=0,application_id=42~hmac=b448db50397651ed8287fe34765a2203b4852e5b4a274bde8b5d2553f9e1f609",
+      "duration_ms": 253000,
+      "track_number": 7,
+      "album": {
+        "id": "662648981",
+        "name": "CHROMAKOPIA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb415a59a7bc198ec4aab01f02600691/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb415a59a7bc198ec4aab01f02600691/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb415a59a7bc198ec4aab01f02600691/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3064010371"
+      }
+    },
+    {
+      "id": "3612800382",
+      "name": "Rain Down",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/f/0/60f7eeec815ff15f3e4d928931145a44.mp3?hdnea=exp=1774859999~acl=/api/1/1/6/0/f/0/60f7eeec815ff15f3e4d928931145a44.mp3*~data=user_id=0,application_id=42~hmac=c17abf8e73ef22e70cc443ee57f58511900aa7db9722758deeb3ac0f32506ea3",
+      "duration_ms": 187000,
+      "track_number": 8,
+      "album": {
+        "id": "841629142",
+        "name": "Son Of Spergy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3612800382"
+      }
+    },
+    {
+      "id": "3612800432",
+      "name": "Root of all Evil",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/f/0/37f40539085d7ededc9fbaa2707dab52.mp3?hdnea=exp=1774859999~acl=/api/1/1/3/7/f/0/37f40539085d7ededc9fbaa2707dab52.mp3*~data=user_id=0,application_id=42~hmac=6e064a2534338170d674af456a52656bd51ae675543c3a85073b14d3508df9e5",
+      "duration_ms": 265000,
+      "track_number": 9,
+      "album": {
+        "id": "841629142",
+        "name": "Son Of Spergy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3612800432"
+      }
+    },
+    {
+      "id": "3612800422",
+      "name": "Baby Blue",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/6/0/856e74f9563b7c11ca4c6c2bb0f0c585.mp3?hdnea=exp=1774859999~acl=/api/1/1/8/5/6/0/856e74f9563b7c11ca4c6c2bb0f0c585.mp3*~data=user_id=0,application_id=42~hmac=948ed0ae7531718ef5335b281fdd4bef58abea3609a19237623c97f620b03e11",
+      "duration_ms": 357000,
+      "track_number": 10,
+      "album": {
+        "id": "841629142",
+        "name": "Son Of Spergy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bb834c5a9024844641b7ffe1ce297ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5245183",
+          "name": "Daniel Caesar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3612800422"
+      }
+    }
+  ]
+}

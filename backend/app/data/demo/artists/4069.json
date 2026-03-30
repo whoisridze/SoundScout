@@ -1,0 +1,32 @@
+{
+  "id": "4069",
+  "name": "Porcupine Tree",
+  "popularity": 13,
+  "followers": {
+    "total": 139937
+  },
+  "genres": [
+    "progressive rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/41578470bf649f2fd2262a3031667169/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/41578470bf649f2fd2262a3031667169/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/41578470bf649f2fd2262a3031667169/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/4069"
+  },
+  "uri": "deezer:artist:4069"
+}

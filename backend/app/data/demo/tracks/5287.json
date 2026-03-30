@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3853143511",
+      "name": "Deja Voodoo",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/9/0/d89f7780da09a38304b6d46b1dea64d4.mp3?hdnea=exp=1774859966~acl=/api/1/1/d/8/9/0/d89f7780da09a38304b6d46b1dea64d4.mp3*~data=user_id=0,application_id=42~hmac=15fa7a52c41ea8f3ac494a18ad532b8731cb8f2d8e513d2f660ea69836528a51",
+      "duration_ms": 387000,
+      "track_number": 1,
+      "album": {
+        "id": "922259871",
+        "name": "Deja Voodoo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ec742572b12e775c276b615dd03e463/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ec742572b12e775c276b615dd03e463/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ec742572b12e775c276b615dd03e463/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3853143511"
+      }
+    },
+    {
+      "id": "1587006922",
+      "name": "Long Time Running",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/3/0/1a355e62a50f87c8e465d56f2f2c87b0.mp3?hdnea=exp=1774859966~acl=/api/1/1/1/a/3/0/1a355e62a50f87c8e465d56f2f2c87b0.mp3*~data=user_id=0,application_id=42~hmac=a6dc498540d09a2660cc99393efe20d7ec9fe333c0bae8c9c412193d7c65d00e",
+      "duration_ms": 251000,
+      "track_number": 2,
+      "album": {
+        "id": "279609272",
+        "name": "The Traveler",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587006922"
+      }
+    },
+    {
+      "id": "4094731",
+      "name": "Blue on Black",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/c/0/cbcbc4ee834cd9213da21772f7dd8295.mp3?hdnea=exp=1774859966~acl=/api/1/1/c/b/c/0/cbcbc4ee834cd9213da21772f7dd8295.mp3*~data=user_id=0,application_id=42~hmac=ddfe29907cadd6d4f00bd79bede77f1e4fb6766191b0dec8cf3743631af6d825",
+      "duration_ms": 330000,
+      "track_number": 3,
+      "album": {
+        "id": "381963",
+        "name": "Trouble Is...",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0718080ec0c698d46a72ff99aabdb0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0718080ec0c698d46a72ff99aabdb0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0718080ec0c698d46a72ff99aabdb0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4094731"
+      }
+    },
+    {
+      "id": "1587006912",
+      "name": "Woman Like You",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/e/0/b9e61dbbfb5b1bca056878a86356c2b7.mp3?hdnea=exp=1774859966~acl=/api/1/1/b/9/e/0/b9e61dbbfb5b1bca056878a86356c2b7.mp3*~data=user_id=0,application_id=42~hmac=44fd783885bd61d80828241815d9ea9703677132816ea0935d0a11ed9262de2d",
+      "duration_ms": 258000,
+      "track_number": 4,
+      "album": {
+        "id": "279609272",
+        "name": "The Traveler",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587006912"
+      }
+    },
+    {
+      "id": "3145851501",
+      "name": "Who Was That",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/7/0/7771637fdb4efb3cc697993935f3c561.mp3?hdnea=exp=1774859966~acl=/api/1/1/7/7/7/0/7771637fdb4efb3cc697993935f3c561.mp3*~data=user_id=0,application_id=42~hmac=20cfc0a9d4171fab5aa0aaf41f2b85b683d33e7b5d587d6b06090778e57b813a",
+      "duration_ms": 253000,
+      "track_number": 5,
+      "album": {
+        "id": "684905251",
+        "name": "Who Was That",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d520b0d9c227648fe13e9fb64dbf8e0c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d520b0d9c227648fe13e9fb64dbf8e0c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d520b0d9c227648fe13e9fb64dbf8e0c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3145851501"
+      }
+    },
+    {
+      "id": "1587006932",
+      "name": "I Want You",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/5/0/3f545e78cfd0169ea09c89dc374757c0.mp3?hdnea=exp=1774859966~acl=/api/1/1/3/f/5/0/3f545e78cfd0169ea09c89dc374757c0.mp3*~data=user_id=0,application_id=42~hmac=6a958b5bff836666bbed6a4068531c703352d6ce104f3cc9311aa1580a0370ce",
+      "duration_ms": 389000,
+      "track_number": 6,
+      "album": {
+        "id": "279609272",
+        "name": "The Traveler",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587006932"
+      }
+    },
+    {
+      "id": "1587006942",
+      "name": "Tailwind",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/0/0/3f079e59eb773db7ffc2b8addc262a2e.mp3?hdnea=exp=1774859966~acl=/api/1/1/3/f/0/0/3f079e59eb773db7ffc2b8addc262a2e.mp3*~data=user_id=0,application_id=42~hmac=91d5c93038af2f3722f93d249a306f47bfbacdbb4ddcf326cdfd698b9dbc02a1",
+      "duration_ms": 241000,
+      "track_number": 7,
+      "album": {
+        "id": "279609272",
+        "name": "The Traveler",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587006942"
+      }
+    },
+    {
+      "id": "5618591",
+      "name": "Was",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/d/0/44d759f44c5094dc28d28452c2f07603.mp3?hdnea=exp=1774859966~acl=/api/1/1/4/4/d/0/44d759f44c5094dc28d28452c2f07603.mp3*~data=user_id=0,application_id=42~hmac=2e1efcce7e93e55f9d88e1d19eed4ea4b1d7282957897cd756db5d859a6c1bdd",
+      "duration_ms": 240000,
+      "track_number": 8,
+      "album": {
+        "id": "512976",
+        "name": "Live On",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/078cc5bbe27c0924723de70c8aff67d5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/078cc5bbe27c0924723de70c8aff67d5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/078cc5bbe27c0924723de70c8aff67d5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5618591"
+      }
+    },
+    {
+      "id": "13100182",
+      "name": "Never Lookin' Back",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/0/0/bf0c4cb0d75d463902f072f0f5ed73c6.mp3?hdnea=exp=1774859966~acl=/api/1/1/b/f/0/0/bf0c4cb0d75d463902f072f0f5ed73c6.mp3*~data=user_id=0,application_id=42~hmac=ab29f30c90c8a2ecbfb5c22cb4b5e686ef1edff0d5a1b261975e515a879975b3",
+      "duration_ms": 254000,
+      "track_number": 9,
+      "album": {
+        "id": "1202352",
+        "name": "How I Go (Special Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a6b44210c4b65d9d6d268908c16ef380/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a6b44210c4b65d9d6d268908c16ef380/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a6b44210c4b65d9d6d268908c16ef380/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13100182"
+      }
+    },
+    {
+      "id": "1587006952",
+      "name": "Gravity",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/b/0/81b334491b9aef21932d9df34dcb644d.mp3?hdnea=exp=1774859966~acl=/api/1/1/8/1/b/0/81b334491b9aef21932d9df34dcb644d.mp3*~data=user_id=0,application_id=42~hmac=288f235a65692387ef8bc5005a556b2f639617afc86568db59c85cae8853bc02",
+      "duration_ms": 223000,
+      "track_number": 10,
+      "album": {
+        "id": "279609272",
+        "name": "The Traveler",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e5928bd84664bff67540317553173ee8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5287",
+          "name": "Kenny Wayne Shepherd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587006952"
+      }
+    }
+  ]
+}

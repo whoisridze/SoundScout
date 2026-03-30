@@ -1,0 +1,32 @@
+{
+  "id": "2021921",
+  "name": "Thomas Rhett",
+  "popularity": 17,
+  "followers": {
+    "total": 176777
+  },
+  "genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/1439e2c0b31a7ccd933d39cff6b7f201/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/1439e2c0b31a7ccd933d39cff6b7f201/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/1439e2c0b31a7ccd933d39cff6b7f201/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2021921"
+  },
+  "uri": "deezer:artist:2021921"
+}

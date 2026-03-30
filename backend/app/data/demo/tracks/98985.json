@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "15026096",
+      "name": "River Flows in You",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/d/0/c7d7d9ecb1857718f74038bf088b4f61.mp3?hdnea=exp=1774860059~acl=/api/1/1/c/7/d/0/c7d7d9ecb1857718f74038bf088b4f61.mp3*~data=user_id=0,application_id=42~hmac=c3afd9d026dcbc324fd34ad0fd45cbb307aebbe602e66cce7ceffdb8e7bb42b1",
+      "duration_ms": 218000,
+      "track_number": 1,
+      "album": {
+        "id": "1385420",
+        "name": "The Best - Reminiscent 10th Anniversary",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56ea9092d040cb80d648d5efd24d7919/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56ea9092d040cb80d648d5efd24d7919/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56ea9092d040cb80d648d5efd24d7919/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15026096"
+      }
+    },
+    {
+      "id": "1225534262",
+      "name": "Kiss the Rain (Orchestra Version)",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/6/0/cf6c1ea662c3c09ad58cca2526eeda7f.mp3?hdnea=exp=1774860059~acl=/api/1/1/c/f/6/0/cf6c1ea662c3c09ad58cca2526eeda7f.mp3*~data=user_id=0,application_id=42~hmac=87225173cee318b3d9b1e45da3f1903a5b2d95029a59ab08666d3ffc42d90312",
+      "duration_ms": 286000,
+      "track_number": 2,
+      "album": {
+        "id": "203591922",
+        "name": "Kiss the Rain (Orchestra Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8456812a81505942fba52388174f9e93/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8456812a81505942fba52388174f9e93/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8456812a81505942fba52388174f9e93/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1225534262"
+      }
+    },
+    {
+      "id": "717930212",
+      "name": "Kiss The Rain",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/e/0/77e8cebe5ba28e50550b3ae1e90c08f4.mp3?hdnea=exp=1774860059~acl=/api/1/1/7/7/e/0/77e8cebe5ba28e50550b3ae1e90c08f4.mp3*~data=user_id=0,application_id=42~hmac=f61caef936077972e9464db1e42a0665768496f77f8c837a2340ba6934e821b3",
+      "duration_ms": 260000,
+      "track_number": 3,
+      "album": {
+        "id": "104812282",
+        "name": "From The Yellow Room (The Original & the Very First Recording)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/85f58160c587665084ab9cd0b012f005/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/85f58160c587665084ab9cd0b012f005/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/85f58160c587665084ab9cd0b012f005/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717930212"
+      }
+    },
+    {
+      "id": "15026110",
+      "name": "Reminiscent",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/6/0/3c63de3340a69df65218dc522346e333.mp3?hdnea=exp=1774860059~acl=/api/1/1/3/c/6/0/3c63de3340a69df65218dc522346e333.mp3*~data=user_id=0,application_id=42~hmac=daa478411b6255b361d4bcd3ab74d3a22d475c03e8740763e7caa761f0c9f02e",
+      "duration_ms": 192000,
+      "track_number": 4,
+      "album": {
+        "id": "1385420",
+        "name": "The Best - Reminiscent 10th Anniversary",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56ea9092d040cb80d648d5efd24d7919/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56ea9092d040cb80d648d5efd24d7919/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/56ea9092d040cb80d648d5efd24d7919/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15026110"
+      }
+    },
+    {
+      "id": "963785812",
+      "name": "Sunset Bird",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/9/0/6594a39a58cb1da75be24fcc7e1ebe23.mp3?hdnea=exp=1774860059~acl=/api/1/1/6/5/9/0/6594a39a58cb1da75be24fcc7e1ebe23.mp3*~data=user_id=0,application_id=42~hmac=0f6a9e7a3277d95d02a08bb9016943fe3bc2c07916271e7cdc80239c983ff567",
+      "duration_ms": 191000,
+      "track_number": 5,
+      "album": {
+        "id": "148923442",
+        "name": "Room With A View",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ba130c18ed037497fb9343ba0c97851/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ba130c18ed037497fb9343ba0c97851/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ba130c18ed037497fb9343ba0c97851/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/963785812"
+      }
+    },
+    {
+      "id": "128996664",
+      "name": "River Flows in You",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/6/0/b568e9a747f9a7fd4a14c42073f51c39.mp3?hdnea=exp=1774860059~acl=/api/1/1/b/5/6/0/b568e9a747f9a7fd4a14c42073f51c39.mp3*~data=user_id=0,application_id=42~hmac=80fcf08135b1b31b91a724cd789bcea27fe57d843b0dd9ee4bc2405649cc8350",
+      "duration_ms": 169000,
+      "track_number": 6,
+      "album": {
+        "id": "13638714",
+        "name": "Cinema Classics: The Piano at the Movies",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da60ab00cd549488c85e5653338bbd47/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da60ab00cd549488c85e5653338bbd47/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da60ab00cd549488c85e5653338bbd47/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/128996664"
+      }
+    },
+    {
+      "id": "1189419032",
+      "name": "f l o w e r",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/7/0/c57183bca0081c63d05fcdf99f309c0b.mp3?hdnea=exp=1774860059~acl=/api/1/1/c/5/7/0/c57183bca0081c63d05fcdf99f309c0b.mp3*~data=user_id=0,application_id=42~hmac=36dd45860f5cbde7b934538a439d259059c9a12ce0e13869840cdfebb846793a",
+      "duration_ms": 233000,
+      "track_number": 7,
+      "album": {
+        "id": "195698982",
+        "name": "f r a m e",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b84e3c4e709812b2f35b26e0c8907d6e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b84e3c4e709812b2f35b26e0c8907d6e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b84e3c4e709812b2f35b26e0c8907d6e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1189419032"
+      }
+    },
+    {
+      "id": "717930462",
+      "name": "It's Your Day",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/d/0/52df609ceae6a0fa4d9efbb33ee469b9.mp3?hdnea=exp=1774860059~acl=/api/1/1/5/2/d/0/52df609ceae6a0fa4d9efbb33ee469b9.mp3*~data=user_id=0,application_id=42~hmac=692d127cd762451e004382bea0002cdc1a49597ff5dc667dfa1df15bff1b6062",
+      "duration_ms": 221000,
+      "track_number": 8,
+      "album": {
+        "id": "104812302",
+        "name": "Healing Piano",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57d12cf39a693457ae922d061033faba/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57d12cf39a693457ae922d061033faba/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57d12cf39a693457ae922d061033faba/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717930462"
+      }
+    },
+    {
+      "id": "719659402",
+      "name": "Dream A Little Dream Of Me",
+      "popularity": 4,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/1/0/c217ddb5cf8b8dc10e5b0427209c1d9d.mp3?hdnea=exp=1774860059~acl=/api/1/1/c/2/1/0/c217ddb5cf8b8dc10e5b0427209c1d9d.mp3*~data=user_id=0,application_id=42~hmac=ffc0514d1df3ced90c51e05ef3cc718436d9a4933b3b30d50ee756d464e74327",
+      "duration_ms": 132000,
+      "track_number": 9,
+      "album": {
+        "id": "105104492",
+        "name": "First Love (The Original & the Very First Recording Repackage)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a55bfba2cd7060302e146d150967821b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a55bfba2cd7060302e146d150967821b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a55bfba2cd7060302e146d150967821b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/719659402"
+      }
+    },
+    {
+      "id": "1496653892",
+      "name": "River Flows In You",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/7/0/8e7427c8d09b34f2f8473efaea36f19c.mp3?hdnea=exp=1774860059~acl=/api/1/1/8/e/7/0/8e7427c8d09b34f2f8473efaea36f19c.mp3*~data=user_id=0,application_id=42~hmac=b20848afe6d1d8301882389be669828d21cac7c8208a16215541081438be6ea6",
+      "duration_ms": 213000,
+      "track_number": 10,
+      "album": {
+        "id": "259474372",
+        "name": "SOLO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb9fd6ce6a3b0cf3ed3055d9a6c361bd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb9fd6ce6a3b0cf3ed3055d9a6c361bd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb9fd6ce6a3b0cf3ed3055d9a6c361bd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "98985",
+          "name": "Yiruma"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1496653892"
+      }
+    }
+  ]
+}

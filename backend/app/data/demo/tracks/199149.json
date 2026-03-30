@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "5092738",
+      "name": "A Real Hero",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/9/0/bb9ec8fdbcaec1233994ce6892f19830.mp3?hdnea=exp=1774859932~acl=/api/1/1/b/b/9/0/bb9ec8fdbcaec1233994ce6892f19830.mp3*~data=user_id=0,application_id=42~hmac=52bfbb4d9f8cee33b056b3c7e461050f4f1361cd12dffdefca52e71f92316aa1",
+      "duration_ms": 268000,
+      "track_number": 1,
+      "album": {
+        "id": "467163",
+        "name": "A Real Hero EP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/deec88c0277495167578a13227f412ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/deec88c0277495167578a13227f412ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/deec88c0277495167578a13227f412ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5092738"
+      }
+    },
+    {
+      "id": "17521821",
+      "name": "Faces",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/c/0/7ccb7a204396f06cccd521be53ab3b93.mp3?hdnea=exp=1774859932~acl=/api/1/1/7/c/c/0/7ccb7a204396f06cccd521be53ab3b93.mp3*~data=user_id=0,application_id=42~hmac=ac23a930099fe7d93f591c837b7573b4e16d727a2f5d0d78ef1ce3260a481787",
+      "duration_ms": 251000,
+      "track_number": 2,
+      "album": {
+        "id": "1639603",
+        "name": "Valerie and Friends",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17e535795df2d091a00ff37ef34cb16a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17e535795df2d091a00ff37ef34cb16a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17e535795df2d091a00ff37ef34cb16a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/17521821"
+      }
+    },
+    {
+      "id": "644296832",
+      "name": "Forever (feat. The Hacker & Electric Youth)",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/6/0/a96e0d9f24f8eedba46c0ae0a3ad4f20.mp3?hdnea=exp=1774859932~acl=/api/1/1/a/9/6/0/a96e0d9f24f8eedba46c0ae0a3ad4f20.mp3*~data=user_id=0,application_id=42~hmac=f91c7e53216ae7ef6514862ccebe424ba8e8ea85b43050540f319ae0254477da",
+      "duration_ms": 271000,
+      "track_number": 3,
+      "album": {
+        "id": "89510472",
+        "name": "Hyperion",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e3b3de060b259eebf94bf02b71a051ae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e3b3de060b259eebf94bf02b71a051ae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e3b3de060b259eebf94bf02b71a051ae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/644296832"
+      }
+    },
+    {
+      "id": "925099962",
+      "name": "andata (Electric Youth Remix)",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/a/0/71ab7f42802ccc20d54247d1f9d30bab.mp3?hdnea=exp=1774859932~acl=/api/1/1/7/1/a/0/71ab7f42802ccc20d54247d1f9d30bab.mp3*~data=user_id=0,application_id=42~hmac=045b494b73fee5760ff1a6384196aae374c70d447dc0ec954b4a6b8a2bf6e7ca",
+      "duration_ms": 350000,
+      "track_number": 4,
+      "album": {
+        "id": "140688922",
+        "name": "async remodels",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0d44a63e84d40485ba3e61a1d5ff54b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0d44a63e84d40485ba3e61a1d5ff54b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c0d44a63e84d40485ba3e61a1d5ff54b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/925099962"
+      }
+    },
+    {
+      "id": "2470254",
+      "name": "She never came back",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/c/0/76c083b07ee59fa949b1d831ee1c0fd0.mp3?hdnea=exp=1774859932~acl=/api/1/1/7/6/c/0/76c083b07ee59fa949b1d831ee1c0fd0.mp3*~data=user_id=0,application_id=42~hmac=dd5f54313d13a380d4874a968ab7cd9a8b51a9b898336fe0517bfb6c1ba92cfe",
+      "duration_ms": 204000,
+      "track_number": 5,
+      "album": {
+        "id": "242609",
+        "name": "Secret Diary",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4763b6ef2ed48822b9a7d2258bb93eac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4763b6ef2ed48822b9a7d2258bb93eac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4763b6ef2ed48822b9a7d2258bb93eac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2470254"
+      }
+    },
+    {
+      "id": "63146006",
+      "name": "Right Back to You",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/7/0/467c442cbcef4ba98270ea35941844d9.mp3?hdnea=exp=1774859932~acl=/api/1/1/4/6/7/0/467c442cbcef4ba98270ea35941844d9.mp3*~data=user_id=0,application_id=42~hmac=3ed1c17ded702f55c73d6e7e7d87fc71dffbcee60160ca5749e0adc3d00217b5",
+      "duration_ms": 261000,
+      "track_number": 6,
+      "album": {
+        "id": "6201678",
+        "name": "Right Back to You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b30aab788d7bf4fd9291eec7ad7d3713/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b30aab788d7bf4fd9291eec7ad7d3713/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b30aab788d7bf4fd9291eec7ad7d3713/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63146006"
+      }
+    },
+    {
+      "id": "1252079842",
+      "name": "Runaway (From \"Come True\" Soundtrack) (Pilotpriest Come True Version)",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/f/0/9bfcb2182d9622c360f3e16a367f05a5.mp3?hdnea=exp=1774859932~acl=/api/1/1/9/b/f/0/9bfcb2182d9622c360f3e16a367f05a5.mp3*~data=user_id=0,application_id=42~hmac=71fd3c0972a247d2b9ba96e4a2516858a2c561fc55210cb2af89563e162d2695",
+      "duration_ms": 300000,
+      "track_number": 7,
+      "album": {
+        "id": "209497862",
+        "name": "Come True (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eed67973f27efbac83d2400f45653f97/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eed67973f27efbac83d2400f45653f97/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eed67973f27efbac83d2400f45653f97/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1252079842"
+      }
+    },
+    {
+      "id": "84360117",
+      "name": "Runaway",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/5/8/0/a58a75db254458db3d2882ed7e75a195.mp3?hdnea=exp=1774859932~acl=/api/1/1/a/5/8/0/a58a75db254458db3d2882ed7e75a195.mp3*~data=user_id=0,application_id=42~hmac=baaba56cbde8937045c2b99643204971bbb6a2677232198197acddfdcb6d281e",
+      "duration_ms": 221000,
+      "track_number": 8,
+      "album": {
+        "id": "8499131",
+        "name": "Innerworld (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0586ef4859e74fd3190e4333bf5c4b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0586ef4859e74fd3190e4333bf5c4b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0586ef4859e74fd3190e4333bf5c4b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84360117"
+      }
+    },
+    {
+      "id": "84360127",
+      "name": "The Best Thing",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/9/0/099a21c52667258946ec6fce237b0e77.mp3?hdnea=exp=1774859932~acl=/api/1/1/0/9/9/0/099a21c52667258946ec6fce237b0e77.mp3*~data=user_id=0,application_id=42~hmac=5f446f58fe163d20a979039cb84fa6d4f6bceb30e358a1e8e4211e7f2e06a70c",
+      "duration_ms": 235000,
+      "track_number": 9,
+      "album": {
+        "id": "8499131",
+        "name": "Innerworld (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0586ef4859e74fd3190e4333bf5c4b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0586ef4859e74fd3190e4333bf5c4b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0586ef4859e74fd3190e4333bf5c4b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84360127"
+      }
+    },
+    {
+      "id": "867331642",
+      "name": "Where Did You Go",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/d/0/b7d9c4e2e72ed88c6a5f0bcba98032ad.mp3?hdnea=exp=1774859932~acl=/api/1/1/b/7/d/0/b7d9c4e2e72ed88c6a5f0bcba98032ad.mp3*~data=user_id=0,application_id=42~hmac=6b21f56a13479b2ec7cd5bdc37f292748d61070fc0171491a377c3ba3060dcaf",
+      "duration_ms": 245000,
+      "track_number": 10,
+      "album": {
+        "id": "130048252",
+        "name": "Breathing (Original Motion Picture Soundtrack From A Lost Film)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9cdc15d31726a040d11d73bb14df1b1e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9cdc15d31726a040d11d73bb14df1b1e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9cdc15d31726a040d11d73bb14df1b1e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "199149",
+          "name": "Electric Youth"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/867331642"
+      }
+    }
+  ]
+}

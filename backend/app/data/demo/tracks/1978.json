@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2593430632",
+      "name": "aruarian dance",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/1/0/351271cca7ae3c691f07c9757a5bf514.mp3?hdnea=exp=1774859970~acl=/api/1/1/3/5/1/0/351271cca7ae3c691f07c9757a5bf514.mp3*~data=user_id=0,application_id=42~hmac=50e54856f453730a789fcaee62ead13ceaa7a898bf80fbca4a1dbda78c47f237",
+      "duration_ms": 250000,
+      "track_number": 1,
+      "album": {
+        "id": "526029192",
+        "name": "samurai champloo music record departure",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90de339798d6c7bbd11013ba1550cf8c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90de339798d6c7bbd11013ba1550cf8c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90de339798d6c7bbd11013ba1550cf8c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2593430632"
+      }
+    },
+    {
+      "id": "2791984142",
+      "name": "Luv (sic)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/2/0/58223e821976e5b94a189b0027171c78.mp3?hdnea=exp=1774859970~acl=/api/1/1/5/8/2/0/58223e821976e5b94a189b0027171c78.mp3*~data=user_id=0,application_id=42~hmac=8cbb402af03ec33109ecdcf668ee5b157f201dfe32d60a6855d85e2d1466b7bf",
+      "duration_ms": 289000,
+      "track_number": 2,
+      "album": {
+        "id": "584402082",
+        "name": "Luv(sic) Hexalogy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/201983bc07578a0e374c993c91013533/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/201983bc07578a0e374c993c91013533/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/201983bc07578a0e374c993c91013533/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2791984142"
+      }
+    },
+    {
+      "id": "2593430622",
+      "name": "the space between two world",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/4/0/db44d1ff2e06e3b0d0a9642126ec8dbe.mp3?hdnea=exp=1774859970~acl=/api/1/1/d/b/4/0/db44d1ff2e06e3b0d0a9642126ec8dbe.mp3*~data=user_id=0,application_id=42~hmac=2c259b23565aae758075c6fcdefb59ccfb29546f06d2e4f6fd0dfc3c47103c0a",
+      "duration_ms": 281000,
+      "track_number": 3,
+      "album": {
+        "id": "526029192",
+        "name": "samurai champloo music record departure",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90de339798d6c7bbd11013ba1550cf8c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90de339798d6c7bbd11013ba1550cf8c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90de339798d6c7bbd11013ba1550cf8c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2593430622"
+      }
+    },
+    {
+      "id": "2791873032",
+      "name": "Feather",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/3/0/de359eaf0529e25b135fee992eb4a16a.mp3?hdnea=exp=1774859970~acl=/api/1/1/d/e/3/0/de359eaf0529e25b135fee992eb4a16a.mp3*~data=user_id=0,application_id=42~hmac=3578a9061a4e1c7883dc76febd2ff08f060dbac73ac1da7180ba47d123e9af69",
+      "duration_ms": 175000,
+      "track_number": 4,
+      "album": {
+        "id": "584380342",
+        "name": "Modal Soul",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df84078a237cfcc1632b2e1e3796b9c6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df84078a237cfcc1632b2e1e3796b9c6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df84078a237cfcc1632b2e1e3796b9c6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2791873032"
+      }
+    },
+    {
+      "id": "2791780162",
+      "name": "The Final View",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/f/0/d6f9eff96adbfa4fd5b3788261776a5a.mp3?hdnea=exp=1774859970~acl=/api/1/1/d/6/f/0/d6f9eff96adbfa4fd5b3788261776a5a.mp3*~data=user_id=0,application_id=42~hmac=34aab035106ac17195f499427b53052cec6763e7b7e329aa834a5f925014a918",
+      "duration_ms": 215000,
+      "track_number": 5,
+      "album": {
+        "id": "584354092",
+        "name": "Free Soul Nujabes First Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19fe1e85a63aa738807339d79cd8cb2c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19fe1e85a63aa738807339d79cd8cb2c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19fe1e85a63aa738807339d79cd8cb2c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2791780162"
+      }
+    },
+    {
+      "id": "2791872362",
+      "name": "Lady Brown",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/8/0/be86d614d1d43c92d880d48390bf67d4.mp3?hdnea=exp=1774859970~acl=/api/1/1/b/e/8/0/be86d614d1d43c92d880d48390bf67d4.mp3*~data=user_id=0,application_id=42~hmac=37a213b41fcf46e1e21b7256b4d4f0b15e9c8718d5de00a152ec3a729955de39",
+      "duration_ms": 199000,
+      "track_number": 6,
+      "album": {
+        "id": "584380142",
+        "name": "Metaphorical Music",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1101dad700ff330a9ca2c6915135af4e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1101dad700ff330a9ca2c6915135af4e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1101dad700ff330a9ca2c6915135af4e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2791872362"
+      }
+    },
+    {
+      "id": "2791873062",
+      "name": "Luv (sic.) pt3",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/c/0/70c107cff649068c14f157b059c64f35.mp3?hdnea=exp=1774859970~acl=/api/1/1/7/0/c/0/70c107cff649068c14f157b059c64f35.mp3*~data=user_id=0,application_id=42~hmac=97d1eaa7b53b63e0fa68f1eae75812fc085567a2f5b8d2a674d21da9fc55af55",
+      "duration_ms": 337000,
+      "track_number": 7,
+      "album": {
+        "id": "584380342",
+        "name": "Modal Soul",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df84078a237cfcc1632b2e1e3796b9c6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df84078a237cfcc1632b2e1e3796b9c6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df84078a237cfcc1632b2e1e3796b9c6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2791873062"
+      }
+    },
+    {
+      "id": "2593430612",
+      "name": "battlecry",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/0/0/b303e7735407506ba9bbe0ee21e584b8.mp3?hdnea=exp=1774859970~acl=/api/1/1/b/3/0/0/b303e7735407506ba9bbe0ee21e584b8.mp3*~data=user_id=0,application_id=42~hmac=29c2355bc03186482ff5092823413163ac8e26c4bcf30fd52dc2b9e93d0fd39a",
+      "duration_ms": 202000,
+      "track_number": 8,
+      "album": {
+        "id": "526029192",
+        "name": "samurai champloo music record departure",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90de339798d6c7bbd11013ba1550cf8c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90de339798d6c7bbd11013ba1550cf8c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90de339798d6c7bbd11013ba1550cf8c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2593430612"
+      }
+    },
+    {
+      "id": "2791873072",
+      "name": "Music is mine",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/f/0/e6fe166eba3d4f8866003c194cfac414.mp3?hdnea=exp=1774859970~acl=/api/1/1/e/6/f/0/e6fe166eba3d4f8866003c194cfac414.mp3*~data=user_id=0,application_id=42~hmac=6b7cf795a39ec827d6da1b3d7424c81e1770ecfcf17704ec15adc9ead93dc0f2",
+      "duration_ms": 260000,
+      "track_number": 9,
+      "album": {
+        "id": "584380342",
+        "name": "Modal Soul",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df84078a237cfcc1632b2e1e3796b9c6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df84078a237cfcc1632b2e1e3796b9c6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df84078a237cfcc1632b2e1e3796b9c6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2791873072"
+      }
+    },
+    {
+      "id": "2791872482",
+      "name": "Peaceland",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/c/0/7dc36dfd72fab124c68a0aa84884c97e.mp3?hdnea=exp=1774859970~acl=/api/1/1/7/d/c/0/7dc36dfd72fab124c68a0aa84884c97e.mp3*~data=user_id=0,application_id=42~hmac=dd1ee75502cb19a8820cef0446752099ce432c0450ab4d745593843357975673",
+      "duration_ms": 499000,
+      "track_number": 10,
+      "album": {
+        "id": "584380142",
+        "name": "Metaphorical Music",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1101dad700ff330a9ca2c6915135af4e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1101dad700ff330a9ca2c6915135af4e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1101dad700ff330a9ca2c6915135af4e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1978",
+          "name": "Nujabes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2791872482"
+      }
+    }
+  ]
+}

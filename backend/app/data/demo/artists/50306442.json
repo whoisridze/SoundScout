@@ -1,0 +1,32 @@
+{
+  "id": "50306442",
+  "name": "NCT 127",
+  "popularity": 49,
+  "followers": {
+    "total": 495612
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2fcb30a7f210c70641ea3ef8d83017ef/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2fcb30a7f210c70641ea3ef8d83017ef/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/2fcb30a7f210c70641ea3ef8d83017ef/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/50306442"
+  },
+  "uri": "deezer:artist:50306442"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "546520",
+  "name": "Thundercat",
+  "popularity": 5,
+  "followers": {
+    "total": 59418
+  },
+  "genres": [
+    "jazz fusion"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b2860b5439b003147cbe69c85135d484/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b2860b5439b003147cbe69c85135d484/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/b2860b5439b003147cbe69c85135d484/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/546520"
+  },
+  "uri": "deezer:artist:546520"
+}

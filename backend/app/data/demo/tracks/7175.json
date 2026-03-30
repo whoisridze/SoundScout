@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1761620077",
+      "name": "Raindrops Keep Fallin' On My Head (Instrumental / From \"Butch Cassidy And The Sundance Kid\" Soundtrack)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/c/0/4ec449674d3aeea875bc5ba7e71230cd.mp3?hdnea=exp=1774860093~acl=/api/1/1/4/e/c/0/4ec449674d3aeea875bc5ba7e71230cd.mp3*~data=user_id=0,application_id=42~hmac=b425de8c14174bc7e714b35d33885e309fec89cba483975c107841ce89da5f7b",
+      "duration_ms": 155000,
+      "track_number": 1,
+      "album": {
+        "id": "320952517",
+        "name": "Butch Cassidy And The Sundance Kid (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/30577d2e7c3667ffab756439caee3997/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/30577d2e7c3667ffab756439caee3997/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/30577d2e7c3667ffab756439caee3997/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1761620077"
+      }
+    },
+    {
+      "id": "3067900",
+      "name": "I Say A Little Prayer",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/1/0/be14dd3f80e3fa177afc48c504571658.mp3?hdnea=exp=1774860093~acl=/api/1/1/b/e/1/0/be14dd3f80e3fa177afc48c504571658.mp3*~data=user_id=0,application_id=42~hmac=cd8aa29803edbc45bcb11a879007d8177185e87a02de5633bd6bdc53c275e2a1",
+      "duration_ms": 148000,
+      "track_number": 2,
+      "album": {
+        "id": "292886",
+        "name": "Reach Out",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08c42873f128e686624c83c8e401a569/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08c42873f128e686624c83c8e401a569/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08c42873f128e686624c83c8e401a569/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3067900"
+      }
+    },
+    {
+      "id": "5510735",
+      "name": "I'll Never Fall in Love Again",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/5/0/3f504cbbbd97b7c9558a384787033a1d.mp3?hdnea=exp=1774860093~acl=/api/1/1/3/f/5/0/3f504cbbbd97b7c9558a384787033a1d.mp3*~data=user_id=0,application_id=42~hmac=e0ae81343f83741b2d34f3737d997846c8a2b72258c0501c6c89968bba3bdae5",
+      "duration_ms": 200000,
+      "track_number": 3,
+      "album": {
+        "id": "504143",
+        "name": "Austin Powers: The Spy Who Shagged Me Sndtrk",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fcf6f079e93b5c150c177dbc7f53da7e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fcf6f079e93b5c150c177dbc7f53da7e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fcf6f079e93b5c150c177dbc7f53da7e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5510735"
+      }
+    },
+    {
+      "id": "548649682",
+      "name": "This Guy's In Love With You",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/1/0/11194c4ca1d2701713c40ca2bcafbd4c.mp3?hdnea=exp=1774860093~acl=/api/1/1/1/1/1/0/11194c4ca1d2701713c40ca2bcafbd4c.mp3*~data=user_id=0,application_id=42~hmac=fed399c36a9336b8243ed86e43cfe3300476d117a4b95df0f976ad94e3d22e82",
+      "duration_ms": 285000,
+      "track_number": 4,
+      "album": {
+        "id": "72054092",
+        "name": "Make It Easy On Yourself",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0ded65a135a45a13ecac407ecf989e4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0ded65a135a45a13ecac407ecf989e4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e0ded65a135a45a13ecac407ecf989e4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/548649682"
+      }
+    },
+    {
+      "id": "5965306",
+      "name": "God Give Me Strength",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/4/0/0343b4e9d3968a1c01986041c8d4edde.mp3?hdnea=exp=1774860093~acl=/api/1/1/0/3/4/0/0343b4e9d3968a1c01986041c8d4edde.mp3*~data=user_id=0,application_id=42~hmac=6abfce66cb97a8af881a6c290d600610489f93fd6a287c90a8d00028e37b778e",
+      "duration_ms": 370000,
+      "track_number": 5,
+      "album": {
+        "id": "253611",
+        "name": "Painted From Memory",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90b839582022ec804c19c9e7f21d94f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90b839582022ec804c19c9e7f21d94f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90b839582022ec804c19c9e7f21d94f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5965306"
+      }
+    },
+    {
+      "id": "2314500",
+      "name": "Walk On By",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/8/0/c383083976b5ffdbb7dbcbe77f5ad068.mp3?hdnea=exp=1774860093~acl=/api/1/1/c/3/8/0/c383083976b5ffdbb7dbcbe77f5ad068.mp3*~data=user_id=0,application_id=42~hmac=3e3e3a29ecf630e2964371e4df38034e874b7c70c0725b46d228ca0ed6af05a6",
+      "duration_ms": 183000,
+      "track_number": 6,
+      "album": {
+        "id": "230509",
+        "name": "Hit Maker!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7802b3c51cf36bdb423fa20b98d201f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7802b3c51cf36bdb423fa20b98d201f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7802b3c51cf36bdb423fa20b98d201f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2314500"
+      }
+    },
+    {
+      "id": "3067897",
+      "name": "What The World Needs Now Is Love",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/c/0/b2cf2644458a88f4e4f7caf7ec2df129.mp3?hdnea=exp=1774860093~acl=/api/1/1/b/2/c/0/b2cf2644458a88f4e4f7caf7ec2df129.mp3*~data=user_id=0,application_id=42~hmac=d6eeee397bad2d1c356315c69993a2166e88e0fb75eac5964cd8a453ce682b34",
+      "duration_ms": 258000,
+      "track_number": 7,
+      "album": {
+        "id": "292886",
+        "name": "Reach Out",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08c42873f128e686624c83c8e401a569/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08c42873f128e686624c83c8e401a569/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/08c42873f128e686624c83c8e401a569/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3067897"
+      }
+    },
+    {
+      "id": "2600008",
+      "name": "This House Is Empty Now",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/a/0/b7a5e56cc82653daa07ce28bc1041872.mp3?hdnea=exp=1774860093~acl=/api/1/1/b/7/a/0/b7a5e56cc82653daa07ce28bc1041872.mp3*~data=user_id=0,application_id=42~hmac=d1f8d0f301ff5d46952b23c5151801896b552e062e6180461fb1f3da04042cb2",
+      "duration_ms": 310000,
+      "track_number": 8,
+      "album": {
+        "id": "253611",
+        "name": "Painted From Memory",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90b839582022ec804c19c9e7f21d94f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90b839582022ec804c19c9e7f21d94f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90b839582022ec804c19c9e7f21d94f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2600008"
+      }
+    },
+    {
+      "id": "10186610",
+      "name": "What The World Needs Now",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/d/0/39d4e1c3d1ce1664078f68453782fe98.mp3?hdnea=exp=1774860093~acl=/api/1/1/3/9/d/0/39d4e1c3d1ce1664078f68453782fe98.mp3*~data=user_id=0,application_id=42~hmac=3d41610356b86025ea74c71288923f3b118afcf3ffb7d26c55879c7750e0df00",
+      "duration_ms": 207000,
+      "track_number": 9,
+      "album": {
+        "id": "931392",
+        "name": "When Ronan Met Burt",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a7f6f1012658aadc4b23d07aa24b41e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a7f6f1012658aadc4b23d07aa24b41e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a7f6f1012658aadc4b23d07aa24b41e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10186610"
+      }
+    },
+    {
+      "id": "548668062",
+      "name": "I'll Never Fall In Love Again",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/4/0/60498e517808595e363f60b13c69229e.mp3?hdnea=exp=1774860093~acl=/api/1/1/6/0/4/0/60498e517808595e363f60b13c69229e.mp3*~data=user_id=0,application_id=42~hmac=0a436f3d55b2d4dffcc1f2e0a96f7e70d086418cf65da9e6c2366771250cb39c",
+      "duration_ms": 196000,
+      "track_number": 10,
+      "album": {
+        "id": "72057512",
+        "name": "What The World Needs Now: Burt Bacharach Classics",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce054127ae2c42585eba442b832d8f2e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce054127ae2c42585eba442b832d8f2e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce054127ae2c42585eba442b832d8f2e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7175",
+          "name": "Burt Bacharach"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/548668062"
+      }
+    }
+  ]
+}

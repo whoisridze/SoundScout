@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3723209312",
+      "name": "scared",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/d/0/35d11f9f198dc4cee9f360d66390e4d0.mp3?hdnea=exp=1774859900~acl=/api/1/1/3/5/d/0/35d11f9f198dc4cee9f360d66390e4d0.mp3*~data=user_id=0,application_id=42~hmac=e04315d4df6f7d04ba2063478b75bd54dcdfcf70dd44efc0ae46d42a55052ac3",
+      "duration_ms": 226000,
+      "track_number": 1,
+      "album": {
+        "id": "879651152",
+        "name": "scared",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5023af542f305930d3eb2c92d9822f41/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5023af542f305930d3eb2c92d9822f41/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5023af542f305930d3eb2c92d9822f41/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3723209312"
+      }
+    },
+    {
+      "id": "130914062",
+      "name": "Wyclef Jean",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/8/0/6f85fa5cdec94c499d9551b6964031fd.mp3?hdnea=exp=1774859900~acl=/api/1/1/6/f/8/0/6f85fa5cdec94c499d9551b6964031fd.mp3*~data=user_id=0,application_id=42~hmac=6c667d573d73834e163523a51464d66fcdc346785173fb302adb6e7110efbc77",
+      "duration_ms": 236000,
+      "track_number": 2,
+      "album": {
+        "id": "13899072",
+        "name": "JEFFERY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bc5cf2886a938c630606f1544ae617d3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bc5cf2886a938c630606f1544ae617d3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bc5cf2886a938c630606f1544ae617d3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/130914062"
+      }
+    },
+    {
+      "id": "3573921021",
+      "name": "Yuck (feat. Ken Carson)",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/9/0/6095d61f8ab2f1998dd6045a13fc2b40.mp3?hdnea=exp=1774859900~acl=/api/1/1/6/0/9/0/6095d61f8ab2f1998dd6045a13fc2b40.mp3*~data=user_id=0,application_id=42~hmac=02efc7814e962e469099951f1958fbec605a9feaf89b0b9d0b17b89240bf133a",
+      "duration_ms": 248000,
+      "track_number": 3,
+      "album": {
+        "id": "827806821",
+        "name": "UY SCUTI",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9135848be3e3b0da133784e77afcd5f1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9135848be3e3b0da133784e77afcd5f1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9135848be3e3b0da133784e77afcd5f1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3573921021"
+      }
+    },
+    {
+      "id": "1089612082",
+      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/0/0/250a18918d346122983feae6cbffc575.mp3?hdnea=exp=1774859900~acl=/api/1/1/2/5/0/0/250a18918d346122983feae6cbffc575.mp3*~data=user_id=0,application_id=42~hmac=12b8bb06161e6b438b3670416e4e6b579511671b30ce30542b4d7d8d0a150c72",
+      "duration_ms": 202000,
+      "track_number": 4,
+      "album": {
+        "id": "175343212",
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/78fc5cf233b24aa52561e76ecd75e9ae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/78fc5cf233b24aa52561e76ecd75e9ae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/78fc5cf233b24aa52561e76ecd75e9ae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1089612082"
+      }
+    },
+    {
+      "id": "684538942",
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/b/0/d5b8d3e7df0275e5a62f940879005089.mp3?hdnea=exp=1774859900~acl=/api/1/1/d/5/b/0/d5b8d3e7df0275e5a62f940879005089.mp3*~data=user_id=0,application_id=42~hmac=a84e8d0f10742e0cf6ac44a849d31f2f6e73f0d2d0620192e322a216aeca8a8e",
+      "duration_ms": 200000,
+      "track_number": 5,
+      "album": {
+        "id": "97924712",
+        "name": "The London (feat. J. Cole & Travis Scott)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35c08dcc0ec7871b020b0591291eb9ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35c08dcc0ec7871b020b0591291eb9ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35c08dcc0ec7871b020b0591291eb9ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/684538942"
+      }
+    },
+    {
+      "id": "98544120",
+      "name": "Check",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/8/0/5a81fd0e8539bb18653c6c082679e97f.mp3?hdnea=exp=1774859900~acl=/api/1/1/5/a/8/0/5a81fd0e8539bb18653c6c082679e97f.mp3*~data=user_id=0,application_id=42~hmac=5206761bbbfba416bea36a326932d8aa568cb0058282305a4dee0f9b97a01e58",
+      "duration_ms": 230000,
+      "track_number": 6,
+      "album": {
+        "id": "10071110",
+        "name": "Barter 6",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c2738bef9cbac3f568b55e12e9d20213/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c2738bef9cbac3f568b55e12e9d20213/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c2738bef9cbac3f568b55e12e9d20213/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/98544120"
+      }
+    },
+    {
+      "id": "1345531532",
+      "name": "Solid (feat. Drake)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/9/0/789bd1f68ad1bea3b2dbbe20e7ef8899.mp3?hdnea=exp=1774859900~acl=/api/1/1/7/8/9/0/789bd1f68ad1bea3b2dbbe20e7ef8899.mp3*~data=user_id=0,application_id=42~hmac=a987b46de0be7d10df165c444fe6d2bcff4f27a4686d910ecabc9f12fb921ac3",
+      "duration_ms": 215000,
+      "track_number": 7,
+      "album": {
+        "id": "223340092",
+        "name": "Slime Language 2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e0555447968709f929ceb0f0ee660bf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e0555447968709f929ceb0f0ee660bf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e0555447968709f929ceb0f0ee660bf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1345531532"
+      }
+    },
+    {
+      "id": "1765270907",
+      "name": "Potion",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/d/0/2bd3ef388086c35bef2765d17344a0b7.mp3?hdnea=exp=1774859900~acl=/api/1/1/2/b/d/0/2bd3ef388086c35bef2765d17344a0b7.mp3*~data=user_id=0,application_id=42~hmac=6b8acabb0adacb457d08bc55b9fd5cfc0ab3eeb4c7d0d1874d6a760162fae895",
+      "duration_ms": 214000,
+      "track_number": 8,
+      "album": {
+        "id": "321660907",
+        "name": "Potion",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8f0ef7ebb5cd8cea80d1c9ceabbdb9a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8f0ef7ebb5cd8cea80d1c9ceabbdb9a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8f0ef7ebb5cd8cea80d1c9ceabbdb9a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1765270907"
+      }
+    },
+    {
+      "id": "1209152962",
+      "name": "Bad Boy",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/e/0/92ebb80444c65e0338919abdff317f11.mp3?hdnea=exp=1774859900~acl=/api/1/1/9/2/e/0/92ebb80444c65e0338919abdff317f11.mp3*~data=user_id=0,application_id=42~hmac=c8ed8e5acfa30015d177dae9f21e194fdc9e65b00d7994d60ebf0122e9a1deee",
+      "duration_ms": 157000,
+      "track_number": 9,
+      "album": {
+        "id": "200166732",
+        "name": "Bad Boy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/305a3155766722d147bbc0c2047a7b12/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/305a3155766722d147bbc0c2047a7b12/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/305a3155766722d147bbc0c2047a7b12/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1209152962"
+      }
+    },
+    {
+      "id": "2047662437",
+      "name": "Trance",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/1/0/5b18f175688832a0c334eb1093b7c41c.mp3?hdnea=exp=1774859900~acl=/api/1/1/5/b/1/0/5b18f175688832a0c334eb1093b7c41c.mp3*~data=user_id=0,application_id=42~hmac=ba3ef4dd8338523a6593bdbf632ed746448ccbe315a09f1a4e01d851ff2e81e5",
+      "duration_ms": 194000,
+      "track_number": 10,
+      "album": {
+        "id": "382760377",
+        "name": "HEROES & VILLAINS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1590752",
+          "name": "Young Thug"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2047662437"
+      }
+    }
+  ]
+}

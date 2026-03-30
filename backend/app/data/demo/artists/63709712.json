@@ -1,0 +1,32 @@
+{
+  "id": "63709712",
+  "name": "Rosalia",
+  "popularity": 1,
+  "followers": {
+    "total": 8
+  },
+  "genres": [
+    "latin pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/98d80d739eea47a52c21ce5e34dd15f3/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/98d80d739eea47a52c21ce5e34dd15f3/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/98d80d739eea47a52c21ce5e34dd15f3/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/63709712"
+  },
+  "uri": "deezer:artist:63709712"
+}

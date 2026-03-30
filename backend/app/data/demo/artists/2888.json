@@ -1,0 +1,32 @@
+{
+  "id": "2888",
+  "name": "Jethro Tull",
+  "popularity": 27,
+  "followers": {
+    "total": 274787
+  },
+  "genres": [
+    "progressive rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/61bf9f087ed07bdc4a8e52232af900c4/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/61bf9f087ed07bdc4a8e52232af900c4/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/61bf9f087ed07bdc4a8e52232af900c4/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2888"
+  },
+  "uri": "deezer:artist:2888"
+}

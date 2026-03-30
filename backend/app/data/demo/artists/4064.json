@@ -1,0 +1,32 @@
+{
+  "id": "4064",
+  "name": "J Dilla",
+  "popularity": 7,
+  "followers": {
+    "total": 78478
+  },
+  "genres": [
+    "lo-fi beats"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/a831d82f59a1ea05fe9b72109a62a228/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/a831d82f59a1ea05fe9b72109a62a228/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/a831d82f59a1ea05fe9b72109a62a228/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/4064"
+  },
+  "uri": "deezer:artist:4064"
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "399719752",
+      "name": "Ocean Drive",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f4b5ae453e046bd56cd62cfd7b61ee.mp3?hdnea=exp=1774859931~acl=/api/1/1/2/3/f/0/23f4b5ae453e046bd56cd62cfd7b61ee.mp3*~data=user_id=0,application_id=42~hmac=8cf2aaec9bc57d2449e7cf4d691a3c12aa22fc56b0c61b68fc4a6a1ac79ac066",
+      "duration_ms": 258000,
+      "track_number": 1,
+      "album": {
+        "id": "47041742",
+        "name": "Turbulence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2c3ddf09d6a473029172c535c1fb0e8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2c3ddf09d6a473029172c535c1fb0e8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2c3ddf09d6a473029172c535c1fb0e8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399719752"
+      }
+    },
+    {
+      "id": "394271972",
+      "name": "Sunset Cruise",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/a/0/fba3b7175bee15d3a072f8f4c83b791e.mp3?hdnea=exp=1774859931~acl=/api/1/1/f/b/a/0/fba3b7175bee15d3a072f8f4c83b791e.mp3*~data=user_id=0,application_id=42~hmac=fbe194cf0e63b2a78e8bf30d6a1af40859af6fedba6441b8619e65b91aef3ec6",
+      "duration_ms": 280000,
+      "track_number": 2,
+      "album": {
+        "id": "46231042",
+        "name": "Early Summer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/461a45813ba18ded9c4cfbd4a928787b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/461a45813ba18ded9c4cfbd4a928787b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/461a45813ba18ded9c4cfbd4a928787b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/394271972"
+      }
+    },
+    {
+      "id": "394271932",
+      "name": "Early Summer",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/b/0/c8bf0d898cc58976c40e69a7c1b38196.mp3?hdnea=exp=1774859931~acl=/api/1/1/c/8/b/0/c8bf0d898cc58976c40e69a7c1b38196.mp3*~data=user_id=0,application_id=42~hmac=e5b8b2bdb88b64c197bc2b846e03b7559fb91189ade709efd7c32eca3e4ec912",
+      "duration_ms": 195000,
+      "track_number": 3,
+      "album": {
+        "id": "46231042",
+        "name": "Early Summer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/461a45813ba18ded9c4cfbd4a928787b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/461a45813ba18ded9c4cfbd4a928787b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/461a45813ba18ded9c4cfbd4a928787b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/394271932"
+      }
+    },
+    {
+      "id": "1938638947",
+      "name": "Accelerated",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/b/0/8bbfdc8b747027986e4135bd79c13dbd.mp3?hdnea=exp=1774859931~acl=/api/1/1/8/b/b/0/8bbfdc8b747027986e4135bd79c13dbd.mp3*~data=user_id=0,application_id=42~hmac=91cd51fddc792042470ec4680cbe7f4068df855b49578a4cacc3517a4e251ca0",
+      "duration_ms": 236000,
+      "track_number": 4,
+      "album": {
+        "id": "361593037",
+        "name": "Sentimental",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01822143805a1f2da76e1b83a2b2c32d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01822143805a1f2da76e1b83a2b2c32d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01822143805a1f2da76e1b83a2b2c32d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1938638947"
+      }
+    },
+    {
+      "id": "394271942",
+      "name": "Elevator of Love",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/8/0/47883ff32b3fe73a75e65c598474c543.mp3?hdnea=exp=1774859931~acl=/api/1/1/4/7/8/0/47883ff32b3fe73a75e65c598474c543.mp3*~data=user_id=0,application_id=42~hmac=1e1ceeec01bd74b82267768a411466eb0ea72f6a913d4ae53af4e1fce0611eea",
+      "duration_ms": 221000,
+      "track_number": 5,
+      "album": {
+        "id": "46231042",
+        "name": "Early Summer",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/461a45813ba18ded9c4cfbd4a928787b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/461a45813ba18ded9c4cfbd4a928787b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/461a45813ba18ded9c4cfbd4a928787b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/394271942"
+      }
+    },
+    {
+      "id": "1938638927",
+      "name": "Only When It's Dark",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/b/0/d1b1b1b1c96506cf3b0e64c6539bcfda.mp3?hdnea=exp=1774859931~acl=/api/1/1/d/1/b/0/d1b1b1b1c96506cf3b0e64c6539bcfda.mp3*~data=user_id=0,application_id=42~hmac=999003b543dbb708f3ffaab9b7e9244295c7a5d79cda5a0ccd6086ea2a19dfee",
+      "duration_ms": 307000,
+      "track_number": 6,
+      "album": {
+        "id": "361593037",
+        "name": "Sentimental",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01822143805a1f2da76e1b83a2b2c32d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01822143805a1f2da76e1b83a2b2c32d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01822143805a1f2da76e1b83a2b2c32d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1938638927"
+      }
+    },
+    {
+      "id": "399719762",
+      "name": "The Getaway",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/3/0/b530b9f26f5eeffe3518d71d82bcc629.mp3?hdnea=exp=1774859931~acl=/api/1/1/b/5/3/0/b530b9f26f5eeffe3518d71d82bcc629.mp3*~data=user_id=0,application_id=42~hmac=49f24f52dae09196860b03c2d635b55bf8427b46fc558040fc6d38653f835c5d",
+      "duration_ms": 236000,
+      "track_number": 7,
+      "album": {
+        "id": "47041742",
+        "name": "Turbulence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2c3ddf09d6a473029172c535c1fb0e8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2c3ddf09d6a473029172c535c1fb0e8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2c3ddf09d6a473029172c535c1fb0e8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/399719762"
+      }
+    },
+    {
+      "id": "3167549221",
+      "name": "Robotics Laboratory",
+      "popularity": 7,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/c/0/c1c3dc67361cdbfae532f6a8dac692a6.mp3?hdnea=exp=1774859931~acl=/api/1/1/c/1/c/0/c1c3dc67361cdbfae532f6a8dac692a6.mp3*~data=user_id=0,application_id=42~hmac=22a9ad396e27d499cc1c9b31f903b9cbd1c13f82591561110236df7ebeabbaf5",
+      "duration_ms": 139000,
+      "track_number": 8,
+      "album": {
+        "id": "691913951",
+        "name": "Gunblaze Assault",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/422fac19e8b2b486c85dac6c3eefde5a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/422fac19e8b2b486c85dac6c3eefde5a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/422fac19e8b2b486c85dac6c3eefde5a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3167549221"
+      }
+    },
+    {
+      "id": "3559962951",
+      "name": "Night Shift",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/0/0/4208ffcdff722b8185924d31109be26c.mp3?hdnea=exp=1774859931~acl=/api/1/1/4/2/0/0/4208ffcdff722b8185924d31109be26c.mp3*~data=user_id=0,application_id=42~hmac=81ce676789241b9bc93f1d38d928604dcefc5a2680d9de03db1a1a6d94753702",
+      "duration_ms": 267000,
+      "track_number": 9,
+      "album": {
+        "id": "822958201",
+        "name": "COSMOPOLIS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/52c0903291b1228a4699f5c93fb9665c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/52c0903291b1228a4699f5c93fb9665c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/52c0903291b1228a4699f5c93fb9665c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3559962951"
+      }
+    },
+    {
+      "id": "1938638917",
+      "name": "Keep Running",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/0/0/29048331eea33f99e32abf36df120b36.mp3?hdnea=exp=1774859931~acl=/api/1/1/2/9/0/0/29048331eea33f99e32abf36df120b36.mp3*~data=user_id=0,application_id=42~hmac=86ee763d4a622aded714f13d9ee7aca8887baee7235eb989544f7e46e84a9577",
+      "duration_ms": 249000,
+      "track_number": 10,
+      "album": {
+        "id": "361593037",
+        "name": "Sentimental",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01822143805a1f2da76e1b83a2b2c32d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01822143805a1f2da76e1b83a2b2c32d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/01822143805a1f2da76e1b83a2b2c32d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1444371",
+          "name": "Miami Nights 1984"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1938638917"
+      }
+    }
+  ]
+}

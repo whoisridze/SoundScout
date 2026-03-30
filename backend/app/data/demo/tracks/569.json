@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "14880812",
+      "name": "Reptilia",
+      "popularity": 81,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/a/0/f9a795f37038f44127c946df8a19eaa7.mp3?hdnea=exp=1774859876~acl=/api/1/1/f/9/a/0/f9a795f37038f44127c946df8a19eaa7.mp3*~data=user_id=0,application_id=42~hmac=9174896db20e76d1793df2e56cd2f1db742c6f60d2bd3d056a4db8e11c5dfb99",
+      "duration_ms": 219000,
+      "track_number": 1,
+      "album": {
+        "id": "1372305",
+        "name": "Room On Fire",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d1246b483aefa9bd0bcd07dfc926be8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d1246b483aefa9bd0bcd07dfc926be8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d1246b483aefa9bd0bcd07dfc926be8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14880812"
+      }
+    },
+    {
+      "id": "921027292",
+      "name": "The Adults Are Talking",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/c/0/54c36babb7d25bd04ec16043590a0e5f.mp3?hdnea=exp=1774859876~acl=/api/1/1/5/4/c/0/54c36babb7d25bd04ec16043590a0e5f.mp3*~data=user_id=0,application_id=42~hmac=eb16706711bedbc818af80432d7250ea3543400007d0eb9d99435f3a68f6508e",
+      "duration_ms": 309000,
+      "track_number": 2,
+      "album": {
+        "id": "139890932",
+        "name": "The New Abnormal",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8a0a2e1ec12c1026cd03208237cd934/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8a0a2e1ec12c1026cd03208237cd934/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8a0a2e1ec12c1026cd03208237cd934/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/921027292"
+      }
+    },
+    {
+      "id": "958109",
+      "name": "Last Nite",
+      "popularity": 81,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/a/0/56a389988b6e92d834b033b067ccea0b.mp3?hdnea=exp=1774859876~acl=/api/1/1/5/6/a/0/56a389988b6e92d834b033b067ccea0b.mp3*~data=user_id=0,application_id=42~hmac=66e76b190c6375405f780d089ed4ae36e9cc551bc229fe9fd2503fc5bf9a27c8",
+      "duration_ms": 192000,
+      "track_number": 3,
+      "album": {
+        "id": "101618",
+        "name": "Is This It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/958109"
+      }
+    },
+    {
+      "id": "15529718",
+      "name": "You Only Live Once",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/3/0/3e3a5394cdb62bdd308d2c0331e92fba.mp3?hdnea=exp=1774859876~acl=/api/1/1/3/e/3/0/3e3a5394cdb62bdd308d2c0331e92fba.mp3*~data=user_id=0,application_id=42~hmac=b509c15c7d2fa69a98d77e52c7e553ad3924f0e467515642b67cba1fe0143a94",
+      "duration_ms": 186000,
+      "track_number": 4,
+      "album": {
+        "id": "1435596",
+        "name": "First Impressions Of Earth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/26b25d58623f89e163b8e4c4a5ae2ca2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/26b25d58623f89e163b8e4c4a5ae2ca2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/26b25d58623f89e163b8e4c4a5ae2ca2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15529718"
+      }
+    },
+    {
+      "id": "921027372",
+      "name": "Ode To The Mets",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/5/0/b253fbe331267c1d12677b521fca4505.mp3?hdnea=exp=1774859876~acl=/api/1/1/b/2/5/0/b253fbe331267c1d12677b521fca4505.mp3*~data=user_id=0,application_id=42~hmac=fc5be66faec4762a8dee8addbfc2f816dff85897e062711f3ee9b659c1c4a4c0",
+      "duration_ms": 351000,
+      "track_number": 5,
+      "album": {
+        "id": "139890932",
+        "name": "The New Abnormal",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8a0a2e1ec12c1026cd03208237cd934/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8a0a2e1ec12c1026cd03208237cd934/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8a0a2e1ec12c1026cd03208237cd934/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/921027372"
+      }
+    },
+    {
+      "id": "957760",
+      "name": "Someday",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/7/0/687ca82de37c2b71f2b8c5c6558a8fbc.mp3?hdnea=exp=1774859876~acl=/api/1/1/6/8/7/0/687ca82de37c2b71f2b8c5c6558a8fbc.mp3*~data=user_id=0,application_id=42~hmac=1d8f4f47b9b4bcd1bf0fc5d89b8be6733e0037e8e6c71653a9e9d0e92ce80623",
+      "duration_ms": 183000,
+      "track_number": 6,
+      "album": {
+        "id": "101618",
+        "name": "Is This It",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/700f0375d5ac8570f16a2c7eb128303f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/957760"
+      }
+    },
+    {
+      "id": "10101602",
+      "name": "Under Cover of Darkness",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/2/0/782337d78b02dca2c2b98e9b333cf7ce.mp3?hdnea=exp=1774859876~acl=/api/1/1/7/8/2/0/782337d78b02dca2c2b98e9b333cf7ce.mp3*~data=user_id=0,application_id=42~hmac=1cc62e37434253bf7a493191bf10d923e6ba93e62fd49937488c5836da941349",
+      "duration_ms": 236000,
+      "track_number": 7,
+      "album": {
+        "id": "924062",
+        "name": "Angles",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c4cfdc177036a8f9ab8abdc287d185f4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c4cfdc177036a8f9ab8abdc287d185f4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c4cfdc177036a8f9ab8abdc287d185f4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10101602"
+      }
+    },
+    {
+      "id": "921027352",
+      "name": "Why Are Sundays So Depressing",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/6/0/1a6add232fe572620f8388a1d3231497.mp3?hdnea=exp=1774859876~acl=/api/1/1/1/a/6/0/1a6add232fe572620f8388a1d3231497.mp3*~data=user_id=0,application_id=42~hmac=9045bc4feedd612b9fde47da1cfaf2b35bb46e2344309333f063f7b81d83ea9d",
+      "duration_ms": 275000,
+      "track_number": 8,
+      "album": {
+        "id": "139890932",
+        "name": "The New Abnormal",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8a0a2e1ec12c1026cd03208237cd934/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8a0a2e1ec12c1026cd03208237cd934/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f8a0a2e1ec12c1026cd03208237cd934/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/921027352"
+      }
+    },
+    {
+      "id": "15529720",
+      "name": "Heart In a Cage",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/1/0/52116cbd0c38587d8fa3d3a465607d49.mp3?hdnea=exp=1774859876~acl=/api/1/1/5/2/1/0/52116cbd0c38587d8fa3d3a465607d49.mp3*~data=user_id=0,application_id=42~hmac=9abd392c6aa6f1babbcb872f84fcb123af7741c56e76a39205ab5f8b95f784d1",
+      "duration_ms": 206000,
+      "track_number": 9,
+      "album": {
+        "id": "1435596",
+        "name": "First Impressions Of Earth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/26b25d58623f89e163b8e4c4a5ae2ca2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/26b25d58623f89e163b8e4c4a5ae2ca2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/26b25d58623f89e163b8e4c4a5ae2ca2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15529720"
+      }
+    },
+    {
+      "id": "65440519",
+      "name": "Call It Fate, Call It Karma",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/1/0/401216800c39af26151e36e26f3f7d2a.mp3?hdnea=exp=1774859876~acl=/api/1/1/4/0/1/0/401216800c39af26151e36e26f3f7d2a.mp3*~data=user_id=0,application_id=42~hmac=9eea1508de2c840df614f991c686211c55514d0a0f0cf94724897470801d965f",
+      "duration_ms": 204000,
+      "track_number": 10,
+      "album": {
+        "id": "6414905",
+        "name": "Comedown Machine",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7f392e337f26190c66eb03f9135c7592/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7f392e337f26190c66eb03f9135c7592/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7f392e337f26190c66eb03f9135c7592/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "569",
+          "name": "The Strokes"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65440519"
+      }
+    }
+  ]
+}

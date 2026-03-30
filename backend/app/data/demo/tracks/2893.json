@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3346318",
+      "name": "Kayleigh",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/7/0/847c9a2ffa369af27aef56dc7081bb50.mp3?hdnea=exp=1774859995~acl=/api/1/1/8/4/7/0/847c9a2ffa369af27aef56dc7081bb50.mp3*~data=user_id=0,application_id=42~hmac=c46129437f3793cb2f1cf7087f4029a3c6f08b9276246d02c6914046e9647d25",
+      "duration_ms": 213000,
+      "track_number": 1,
+      "album": {
+        "id": "318870",
+        "name": "A Singles Collection 1982-1992: Six of One, Half-Dozen of the Other",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a173ec412dfed52b8bce99b6f114142b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a173ec412dfed52b8bce99b6f114142b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a173ec412dfed52b8bce99b6f114142b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3346318"
+      }
+    },
+    {
+      "id": "379008801",
+      "name": "Kayleigh (2017 Remaster)",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/c/0/11cf51d075fee24c2e9824896ac62eca.mp3?hdnea=exp=1774859995~acl=/api/1/1/1/1/c/0/11cf51d075fee24c2e9824896ac62eca.mp3*~data=user_id=0,application_id=42~hmac=03d24b47ff6048ad3bbce99a7b4be54bd070df7f640043c36c1513b703d3398a",
+      "duration_ms": 243000,
+      "track_number": 2,
+      "album": {
+        "id": "43952121",
+        "name": "Misplaced Childhood (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f778b0719783b192deb37c6398263496/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f778b0719783b192deb37c6398263496/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f778b0719783b192deb37c6398263496/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/379008801"
+      }
+    },
+    {
+      "id": "379008811",
+      "name": "Lavender (2017 Remaster)",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/c/0/35c4af3acb11edf5e24be28407f7a1c5.mp3?hdnea=exp=1774859995~acl=/api/1/1/3/5/c/0/35c4af3acb11edf5e24be28407f7a1c5.mp3*~data=user_id=0,application_id=42~hmac=8baded84bef12935c3c481c9b7543a769faa0f4e612767fd8f810e041b93722e",
+      "duration_ms": 146000,
+      "track_number": 3,
+      "album": {
+        "id": "43952121",
+        "name": "Misplaced Childhood (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f778b0719783b192deb37c6398263496/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f778b0719783b192deb37c6398263496/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f778b0719783b192deb37c6398263496/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/379008811"
+      }
+    },
+    {
+      "id": "3140788",
+      "name": "No One Can (1998 Remaster)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/2/0/05267e57101789fad10fa00401b3a178.mp3?hdnea=exp=1774859995~acl=/api/1/1/0/5/2/0/05267e57101789fad10fa00401b3a178.mp3*~data=user_id=0,application_id=42~hmac=1ed4ee9af768364b423e1d94599a114a1a84eebc72d5097b8090b1b278c5506a",
+      "duration_ms": 281000,
+      "track_number": 4,
+      "album": {
+        "id": "302507",
+        "name": "Holidays in Eden",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a531ee040234ec01ae65f28cc2e1846f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a531ee040234ec01ae65f28cc2e1846f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a531ee040234ec01ae65f28cc2e1846f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3140788"
+      }
+    },
+    {
+      "id": "690210792",
+      "name": "Hotel Hobbies (2018 Remix)",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/5/0/2459451e71100975e58f1ca1e0ad8794.mp3?hdnea=exp=1774859995~acl=/api/1/1/2/4/5/0/2459451e71100975e58f1ca1e0ad8794.mp3*~data=user_id=0,application_id=42~hmac=f298ef0f3b02feb6948a3ba69c8d7a5c111e263a18610d9586bd10f80dc3f2d3",
+      "duration_ms": 215000,
+      "track_number": 5,
+      "album": {
+        "id": "99103052",
+        "name": "Clutching at Straws (2018 Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c6be44aa1ea2dd0d71c20d06e5fca79/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c6be44aa1ea2dd0d71c20d06e5fca79/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c6be44aa1ea2dd0d71c20d06e5fca79/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/690210792"
+      }
+    },
+    {
+      "id": "3346323",
+      "name": "Hooks in You (Single Version)",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/4/0/7343ee05c87ba5aef08c06f7a60c18df.mp3?hdnea=exp=1774859995~acl=/api/1/1/7/3/4/0/7343ee05c87ba5aef08c06f7a60c18df.mp3*~data=user_id=0,application_id=42~hmac=e4a81f373eec70df72cdd47a2443497ff01087c6f2da085a6183c40489ba1c4f",
+      "duration_ms": 176000,
+      "track_number": 6,
+      "album": {
+        "id": "318870",
+        "name": "A Singles Collection 1982-1992: Six of One, Half-Dozen of the Other",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a173ec412dfed52b8bce99b6f114142b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a173ec412dfed52b8bce99b6f114142b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a173ec412dfed52b8bce99b6f114142b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3346323"
+      }
+    },
+    {
+      "id": "3346319",
+      "name": "Easter",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/a/0/7da4dc496a62075fc68bef2efc22709a.mp3?hdnea=exp=1774859995~acl=/api/1/1/7/d/a/0/7da4dc496a62075fc68bef2efc22709a.mp3*~data=user_id=0,application_id=42~hmac=e7c689085f9c55e6b53bd522e15a79209b568726c2a411cca67c72406f9155f6",
+      "duration_ms": 351000,
+      "track_number": 7,
+      "album": {
+        "id": "318870",
+        "name": "A Singles Collection 1982-1992: Six of One, Half-Dozen of the Other",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a173ec412dfed52b8bce99b6f114142b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a173ec412dfed52b8bce99b6f114142b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a173ec412dfed52b8bce99b6f114142b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3346319"
+      }
+    },
+    {
+      "id": "3140786",
+      "name": "Cover My Eyes (Pain and Heaven) (1998 Remaster)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/0/0/0f0711af2d7bbdd0a67dc0a3573e31f4.mp3?hdnea=exp=1774859995~acl=/api/1/1/0/f/0/0/0f0711af2d7bbdd0a67dc0a3573e31f4.mp3*~data=user_id=0,application_id=42~hmac=c79417f4f97bbab1848a07fe90c1c71f824bf9c3dabcc74a45c80e526e7ecdd2",
+      "duration_ms": 233000,
+      "track_number": 8,
+      "album": {
+        "id": "302507",
+        "name": "Holidays in Eden",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a531ee040234ec01ae65f28cc2e1846f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a531ee040234ec01ae65f28cc2e1846f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a531ee040234ec01ae65f28cc2e1846f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3140786"
+      }
+    },
+    {
+      "id": "429697212",
+      "name": "Blind Curve: Vocal Under a Bloodlight / Passing Strangers / Mylo / Perimeter Walk / Threshold (2017 Remaster)",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/9/0/bb993f86789589a24ba8a6e06df49836.mp3?hdnea=exp=1774859995~acl=/api/1/1/b/b/9/0/bb993f86789589a24ba8a6e06df49836.mp3*~data=user_id=0,application_id=42~hmac=c346932fb4aee2269bbd893ca0f4861e4bce156b6cd4a4754b5a0b7d5156f9ac",
+      "duration_ms": 569000,
+      "track_number": 9,
+      "album": {
+        "id": "51780972",
+        "name": "Misplaced Childhood (2017 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/02f37efb6c8d1a85146890e60ec9ef87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/02f37efb6c8d1a85146890e60ec9ef87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/02f37efb6c8d1a85146890e60ec9ef87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/429697212"
+      }
+    },
+    {
+      "id": "66201988",
+      "name": "Beautiful",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/b/0/d0bc64b69dc9943de17bf46a497f0b20.mp3?hdnea=exp=1774859995~acl=/api/1/1/d/0/b/0/d0bc64b69dc9943de17bf46a497f0b20.mp3*~data=user_id=0,application_id=42~hmac=b1fc1dbffb0d7e11c480783b292d0c82bb65a59a8ae68ce435ea0a2ec20d1a28",
+      "duration_ms": 313000,
+      "track_number": 10,
+      "album": {
+        "id": "6476892",
+        "name": "The Singles '89 - '95",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1364353c7dcf18e5392a0079b1803b58/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1364353c7dcf18e5392a0079b1803b58/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1364353c7dcf18e5392a0079b1803b58/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2893",
+          "name": "Marillion"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/66201988"
+      }
+    }
+  ]
+}

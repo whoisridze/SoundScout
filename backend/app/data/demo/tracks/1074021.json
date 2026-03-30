@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "978387002",
+      "name": "La Curiosidad",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/6/0/a66457b27d5284ca4f1683181cb86e18.mp3?hdnea=exp=1774860019~acl=/api/1/1/a/6/6/0/a66457b27d5284ca4f1683181cb86e18.mp3*~data=user_id=0,application_id=42~hmac=3d5382fc4f3216f4340de9d7dd5e4273821973d9a5184748915598279be181d9",
+      "duration_ms": 219000,
+      "track_number": 1,
+      "album": {
+        "id": "152280052",
+        "name": "Platonicos",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f46d5fcc09259d3981622bf5d33a572a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f46d5fcc09259d3981622bf5d33a572a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f46d5fcc09259d3981622bf5d33a572a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/978387002"
+      }
+    },
+    {
+      "id": "1790683427",
+      "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/1/0/4a191e916bf12f3d8935b0502fb30344.mp3?hdnea=exp=1774860019~acl=/api/1/1/4/a/1/0/4a191e916bf12f3d8935b0502fb30344.mp3*~data=user_id=0,application_id=42~hmac=f5b66b4b9efde4fcd0f77b7c2f2b59d2d18cd5eeb23a7bb95863be85b3558175",
+      "duration_ms": 222000,
+      "track_number": 2,
+      "album": {
+        "id": "327263897",
+        "name": "Si Te Preguntan... (feat. Nicky Jam & Jay Wheeler)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f864c265fbbc3bfbaf52f089cb1d6772/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f864c265fbbc3bfbaf52f089cb1d6772/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f864c265fbbc3bfbaf52f089cb1d6772/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1790683427"
+      }
+    },
+    {
+      "id": "3487788651",
+      "name": "Mi Otra Mitad (Remix)",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/1/0/431bbf507c54de837f04b35c2fcfe399.mp3?hdnea=exp=1774860019~acl=/api/1/1/4/3/1/0/431bbf507c54de837f04b35c2fcfe399.mp3*~data=user_id=0,application_id=42~hmac=9f6a309c2b2ad995831fa2d906a3e080128b8c4084615edb25a97c894770fa65",
+      "duration_ms": 194000,
+      "track_number": 3,
+      "album": {
+        "id": "797814881",
+        "name": "Mi Otra Mitad (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92f9684e267f9dd2807d5e9561036446/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92f9684e267f9dd2807d5e9561036446/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92f9684e267f9dd2807d5e9561036446/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3487788651"
+      }
+    },
+    {
+      "id": "1742009147",
+      "name": "Desde Mis Ojos (Remix)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/7/0/7876bd2f76363f5608992f05bd2edaf5.mp3?hdnea=exp=1774860019~acl=/api/1/1/7/8/7/0/7876bd2f76363f5608992f05bd2edaf5.mp3*~data=user_id=0,application_id=42~hmac=543b3018aab5cef82cbec11400b352bb70967971bcc73a438c53252840a21359",
+      "duration_ms": 223000,
+      "track_number": 4,
+      "album": {
+        "id": "316274147",
+        "name": "Desde Mis Ojos (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d33ed33fea5cd737e72d6babf11ee700/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d33ed33fea5cd737e72d6babf11ee700/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d33ed33fea5cd737e72d6babf11ee700/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1742009147"
+      }
+    },
+    {
+      "id": "2747636891",
+      "name": "Textos Fríos",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/f/0/2bfb7e9e9c888ddfdb1badab6d3cb71f.mp3?hdnea=exp=1774860019~acl=/api/1/1/2/b/f/0/2bfb7e9e9c888ddfdb1badab6d3cb71f.mp3*~data=user_id=0,application_id=42~hmac=710afb49ba6e0a6b0b724c57a5ebb22260c5a50c575da3e2fdf0fa9da577ba23",
+      "duration_ms": 258000,
+      "track_number": 5,
+      "album": {
+        "id": "572281511",
+        "name": "Música Buena Para Días Malos",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f3593fb3036904074068e225a1fcb62/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f3593fb3036904074068e225a1fcb62/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f3593fb3036904074068e225a1fcb62/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2747636891"
+      }
+    },
+    {
+      "id": "3494105401",
+      "name": "Si Te Vas",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/2/0/8a2f3122e59655fbf10fbfb18547ce80.mp3?hdnea=exp=1774860019~acl=/api/1/1/8/a/2/0/8a2f3122e59655fbf10fbfb18547ce80.mp3*~data=user_id=0,application_id=42~hmac=ef162cce4d7d6e5b769a66e5b0584b1a6fb8aab48f52f336692ec13f5a40e79a",
+      "duration_ms": 198000,
+      "track_number": 6,
+      "album": {
+        "id": "800127341",
+        "name": "Mixteip",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2885f9834073b9c876cc18aa1725e199/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2885f9834073b9c876cc18aa1725e199/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2885f9834073b9c876cc18aa1725e199/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3494105401"
+      }
+    },
+    {
+      "id": "3862258831",
+      "name": "Dispuesta",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/d/0/2cddea0d351191e1e80b55f462342018.mp3?hdnea=exp=1774860019~acl=/api/1/1/2/c/d/0/2cddea0d351191e1e80b55f462342018.mp3*~data=user_id=0,application_id=42~hmac=f65ad92b30e3cb30cafdb95baf05107872a3cda1206b45d48d7ee21d035d8d42",
+      "duration_ms": 194000,
+      "track_number": 7,
+      "album": {
+        "id": "925531541",
+        "name": "Dispuesta",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c9b92e3115387350f752e57b5f3be696/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c9b92e3115387350f752e57b5f3be696/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c9b92e3115387350f752e57b5f3be696/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3862258831"
+      }
+    },
+    {
+      "id": "3145866741",
+      "name": "Descaro 2.0",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/7/0/51732a11f309df944e8fde38241210ea.mp3?hdnea=exp=1774860019~acl=/api/1/1/5/1/7/0/51732a11f309df944e8fde38241210ea.mp3*~data=user_id=0,application_id=42~hmac=e9bd677da9ef5ff927eb81ad4e326b62b131190b4048014ac8b8c5dff165584f",
+      "duration_ms": 269000,
+      "track_number": 8,
+      "album": {
+        "id": "684910841",
+        "name": "Descaro 2.0",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57c066ece202e112be2845ced192e889/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57c066ece202e112be2845ced192e889/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/57c066ece202e112be2845ced192e889/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3145866741"
+      }
+    },
+    {
+      "id": "1862608497",
+      "name": "Dicelo",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/a/0/d7a04b13ad7d6b0cfc5103b9ae7f067f.mp3?hdnea=exp=1774860019~acl=/api/1/1/d/7/a/0/d7a04b13ad7d6b0cfc5103b9ae7f067f.mp3*~data=user_id=0,application_id=42~hmac=2f17524507a37916eb566087cadd6e05f09d488c2519c5da4d6455623c99c52e",
+      "duration_ms": 240000,
+      "track_number": 9,
+      "album": {
+        "id": "345423397",
+        "name": "Emociones",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e887c5a5d5ecccec0ff8a9f9450d57e9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e887c5a5d5ecccec0ff8a9f9450d57e9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e887c5a5d5ecccec0ff8a9f9450d57e9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1862608497"
+      }
+    },
+    {
+      "id": "2381425315",
+      "name": "PACTO (Remix)",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/3/0/4b396f8ce58a80ed6afb6bac54075e75.mp3?hdnea=exp=1774860019~acl=/api/1/1/4/b/3/0/4b396f8ce58a80ed6afb6bac54075e75.mp3*~data=user_id=0,application_id=42~hmac=132d5cefd269d22068e2614c9586452e0370f2bdc8a4a5c0cbe2073fee457425",
+      "duration_ms": 346000,
+      "track_number": 10,
+      "album": {
+        "id": "468206795",
+        "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaafcab96ac5cd39e4acf644807f933c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaafcab96ac5cd39e4acf644807f933c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eaafcab96ac5cd39e4acf644807f933c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1074021",
+          "name": "Jay Wheeler"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2381425315"
+      }
+    }
+  ]
+}

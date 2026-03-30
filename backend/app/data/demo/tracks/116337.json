@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3410085001",
+      "name": "Ba Ba Bad Remix",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/4/0/a84658f4734a391d22c5e044a0bb98ca.mp3?hdnea=exp=1774860120~acl=/api/1/1/a/8/4/0/a84658f4734a391d22c5e044a0bb98ca.mp3*~data=user_id=0,application_id=42~hmac=495cdde42591bad561d45eaccd9c27b44cd7b301881c7fd12460d603ee23a205",
+      "duration_ms": 146000,
+      "track_number": 1,
+      "album": {
+        "id": "771010701",
+        "name": "Ba Ba Bad Remix",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fb1e3ac1b41fdba5fdede95b1937f8b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fb1e3ac1b41fdba5fdede95b1937f8b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fb1e3ac1b41fdba5fdede95b1937f8b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3410085001"
+      }
+    },
+    {
+      "id": "3504667291",
+      "name": "GANGSTA",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/8/0/d082c1f73b99253aee5df3847dcf473a.mp3?hdnea=exp=1774860120~acl=/api/1/1/d/0/8/0/d082c1f73b99253aee5df3847dcf473a.mp3*~data=user_id=0,application_id=42~hmac=72fd72104eb6b0eb20869d348b539a3fb97ee20036c414180efb6d0210c72ceb",
+      "duration_ms": 132000,
+      "track_number": 2,
+      "album": {
+        "id": "803483451",
+        "name": "GANGSTA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/596685061fb231e480440749fa490924/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/596685061fb231e480440749fa490924/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/596685061fb231e480440749fa490924/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3504667291"
+      }
+    },
+    {
+      "id": "6524059",
+      "name": "Busy Latino",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/c/0/fdc77025d81acfbf2ea0dedae79763d7.mp3?hdnea=exp=1774860120~acl=/api/1/1/f/d/c/0/fdc77025d81acfbf2ea0dedae79763d7.mp3*~data=user_id=0,application_id=42~hmac=1cc78709c99b6c958056fdc320a47493369e9b5d2c8d84a4d0c46360a843ba10",
+      "duration_ms": 155000,
+      "track_number": 3,
+      "album": {
+        "id": "601747",
+        "name": "D.O.B.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94a0f2d3186164c30c0e36e794ba5c15/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94a0f2d3186164c30c0e36e794ba5c15/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94a0f2d3186164c30c0e36e794ba5c15/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/6524059"
+      }
+    },
+    {
+      "id": "3497256241",
+      "name": "Ba Ba Bad",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/2/0/da22cc6ad208ce83cd95e7a92d17cc9d.mp3?hdnea=exp=1774860120~acl=/api/1/1/d/a/2/0/da22cc6ad208ce83cd95e7a92d17cc9d.mp3*~data=user_id=0,application_id=42~hmac=15ec0aa5b3323c8b0524269f9feea03b5d131c6c8b35aca69f6c7bbd51d0cf21",
+      "duration_ms": 144000,
+      "track_number": 4,
+      "album": {
+        "id": "801163491",
+        "name": "Ba Ba Bad",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7b2c0aed7d5c63832466b36fd364232c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7b2c0aed7d5c63832466b36fd364232c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7b2c0aed7d5c63832466b36fd364232c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3497256241"
+      }
+    },
+    {
+      "id": "2202854017",
+      "name": "Lady In Red",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/b/0/d7b541e7224dbf8bf9d2c26b94f492d2.mp3?hdnea=exp=1774860120~acl=/api/1/1/d/7/b/0/d7b541e7224dbf8bf9d2c26b94f492d2.mp3*~data=user_id=0,application_id=42~hmac=bcaa0feb6742a190f41225d73b6266d63efb7c213199ea7f58268d53ca54e4de",
+      "duration_ms": 234000,
+      "track_number": 5,
+      "album": {
+        "id": "420396907",
+        "name": "Lady In Red",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a9aa364ddff5cc204e78d453db2a011/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a9aa364ddff5cc204e78d453db2a011/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a9aa364ddff5cc204e78d453db2a011/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2202854017"
+      }
+    },
+    {
+      "id": "2583006042",
+      "name": "Happy Birthday",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/6/0/5d66d90f0fc4f74ea18eab4c12097400.mp3?hdnea=exp=1774860120~acl=/api/1/1/5/d/6/0/5d66d90f0fc4f74ea18eab4c12097400.mp3*~data=user_id=0,application_id=42~hmac=8e0355853b70f4bca6b08e60af7aa798e590eabc53aaf5f0b2412907275e9406",
+      "duration_ms": 184000,
+      "track_number": 6,
+      "album": {
+        "id": "523144812",
+        "name": "Happy Birthday",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9eae7d0a7ea5a149ce3ec404e0be034e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9eae7d0a7ea5a149ce3ec404e0be034e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9eae7d0a7ea5a149ce3ec404e0be034e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2583006042"
+      }
+    },
+    {
+      "id": "3271151991",
+      "name": "You and Me",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/6/0/b36c229b4a9dac138d9b00f3c1f5b7e1.mp3?hdnea=exp=1774860120~acl=/api/1/1/b/3/6/0/b36c229b4a9dac138d9b00f3c1f5b7e1.mp3*~data=user_id=0,application_id=42~hmac=e256d16f78b886c7a76df2f73804ce5ebdedfd5d1c20807e8f58f724f186a8d8",
+      "duration_ms": 238000,
+      "track_number": 7,
+      "album": {
+        "id": "725000131",
+        "name": "It (Incomparable Talent)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5703ed9db5bc78f9c8c156a7d07beb3e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5703ed9db5bc78f9c8c156a7d07beb3e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5703ed9db5bc78f9c8c156a7d07beb3e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3271151991"
+      }
+    },
+    {
+      "id": "3579508501",
+      "name": "Balance",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/a/0/4ea56f49b858e9ac56826a4b0ea3e417.mp3?hdnea=exp=1774860120~acl=/api/1/1/4/e/a/0/4ea56f49b858e9ac56826a4b0ea3e417.mp3*~data=user_id=0,application_id=42~hmac=5f209d6e91dfccaecede61f8693c004c1e5410b3f67020b589a7e205d87032c3",
+      "duration_ms": 159000,
+      "track_number": 8,
+      "album": {
+        "id": "829909061",
+        "name": "How You Bad Suh",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/709d1d0e5d58f6491d4a5c20fa5b477e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/709d1d0e5d58f6491d4a5c20fa5b477e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/709d1d0e5d58f6491d4a5c20fa5b477e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3579508501"
+      }
+    },
+    {
+      "id": "3284474541",
+      "name": "Moonlight",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/0/0/c90528387e44c912a464ddde952c5cb3.mp3?hdnea=exp=1774860120~acl=/api/1/1/c/9/0/0/c90528387e44c912a464ddde952c5cb3.mp3*~data=user_id=0,application_id=42~hmac=94b90fb207d87420dfa686e0614f37e6d7f8c05d230709004078e66f82659edc",
+      "duration_ms": 229000,
+      "track_number": 9,
+      "album": {
+        "id": "729507011",
+        "name": "Moonlight",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c7cc459a38b29acf48eb06013d4cbe7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c7cc459a38b29acf48eb06013d4cbe7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c7cc459a38b29acf48eb06013d4cbe7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3284474541"
+      }
+    },
+    {
+      "id": "669550562",
+      "name": "Got To Tell You",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/2/0/6323a989a3e2bc246dfcc2c4d40c40e9.mp3?hdnea=exp=1774860120~acl=/api/1/1/6/3/2/0/6323a989a3e2bc246dfcc2c4d40c40e9.mp3*~data=user_id=0,application_id=42~hmac=acf9e25eb7fefc757c1d192eda6b1fe4f418baea99947705ebe597937a6cc445",
+      "duration_ms": 217000,
+      "track_number": 10,
+      "album": {
+        "id": "94543202",
+        "name": "Got To Tell You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab28e52002d1cba946810797a58a2ffe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab28e52002d1cba946810797a58a2ffe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab28e52002d1cba946810797a58a2ffe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "116337",
+          "name": "Busy Signal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/669550562"
+      }
+    }
+  ]
+}

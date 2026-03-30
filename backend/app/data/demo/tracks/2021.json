@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "347015961",
+      "name": "Falling Ashes",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/2/0/8821f4decb7c3d07278f3a58fe4180ae.mp3?hdnea=exp=1774859889~acl=/api/1/1/8/8/2/0/8821f4decb7c3d07278f3a58fe4180ae.mp3*~data=user_id=0,application_id=42~hmac=4b5c4c1ec94d9813d0ddea4ae2a5f5f692d7336ff6c0d7713b6c9569d2c22e13",
+      "duration_ms": 481000,
+      "track_number": 1,
+      "album": {
+        "id": "39511361",
+        "name": "Slowdive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f335bfe1887f4edb983f2f3ade2479d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f335bfe1887f4edb983f2f3ade2479d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f335bfe1887f4edb983f2f3ade2479d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/347015961"
+      }
+    },
+    {
+      "id": "7599516",
+      "name": "Avalyn II",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/1/0/571afa5b6119da8d6609e823065a14aa.mp3?hdnea=exp=1774859889~acl=/api/1/1/5/7/1/0/571afa5b6119da8d6609e823065a14aa.mp3*~data=user_id=0,application_id=42~hmac=33f6a524b82bf46b49ffb14c13abad00fe5e4e93831ef5b37385ad128aa993fc",
+      "duration_ms": 488000,
+      "track_number": 2,
+      "album": {
+        "id": "700934",
+        "name": "Just For A Day",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da084afab3ae84f0950d81b449dc74e9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da084afab3ae84f0950d81b449dc74e9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da084afab3ae84f0950d81b449dc74e9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/7599516"
+      }
+    },
+    {
+      "id": "2246294",
+      "name": "When the Sun Hits",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/3/0/f433ed0dc30c2cfbd0d4b0ecfab9aa86.mp3?hdnea=exp=1774859889~acl=/api/1/1/f/4/3/0/f433ed0dc30c2cfbd0d4b0ecfab9aa86.mp3*~data=user_id=0,application_id=42~hmac=6ccb61228050b342e6a13bb6dcc2eccfe2ea7b1b8e22527de043f579f12e051b",
+      "duration_ms": 285000,
+      "track_number": 3,
+      "album": {
+        "id": "224401",
+        "name": "Souvlaki",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4e045f8b3ff1cfc02bbd6211b87497d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4e045f8b3ff1cfc02bbd6211b87497d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4e045f8b3ff1cfc02bbd6211b87497d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2246294"
+      }
+    },
+    {
+      "id": "347015921",
+      "name": "Sugar for the Pill",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/e/0/a1e1be6d6a41941fa435f2fe90dafc5f.mp3?hdnea=exp=1774859889~acl=/api/1/1/a/1/e/0/a1e1be6d6a41941fa435f2fe90dafc5f.mp3*~data=user_id=0,application_id=42~hmac=6f322c8e880121899066b0d2e8179d9e3c7169b935c98635e7d21c274fd266c1",
+      "duration_ms": 271000,
+      "track_number": 4,
+      "album": {
+        "id": "39511361",
+        "name": "Slowdive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f335bfe1887f4edb983f2f3ade2479d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f335bfe1887f4edb983f2f3ade2479d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f335bfe1887f4edb983f2f3ade2479d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/347015921"
+      }
+    },
+    {
+      "id": "2289312315",
+      "name": "kisses",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/9/0/ad97769cc8db94134e692097dbe38fa6.mp3?hdnea=exp=1774859889~acl=/api/1/1/a/d/9/0/ad97769cc8db94134e692097dbe38fa6.mp3*~data=user_id=0,application_id=42~hmac=576259705d14c42a23d1fd027bb65ec8dbe12c76c61ccd1174d8c5f56f2bce9e",
+      "duration_ms": 237000,
+      "track_number": 5,
+      "album": {
+        "id": "442973725",
+        "name": "everything is alive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1cb890ad6d7dbcea954a40a01737c49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1cb890ad6d7dbcea954a40a01737c49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1cb890ad6d7dbcea954a40a01737c49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2289312315"
+      }
+    },
+    {
+      "id": "347015941",
+      "name": "No Longer Making Time",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/e/0/b8efe28b539c77205d5c7fcfc4392380.mp3?hdnea=exp=1774859889~acl=/api/1/1/b/8/e/0/b8efe28b539c77205d5c7fcfc4392380.mp3*~data=user_id=0,application_id=42~hmac=31addeb4563542c2e879f64f5037516fb056f3eecb86a0b3f84e9c27575a303b",
+      "duration_ms": 348000,
+      "track_number": 6,
+      "album": {
+        "id": "39511361",
+        "name": "Slowdive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f335bfe1887f4edb983f2f3ade2479d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f335bfe1887f4edb983f2f3ade2479d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f335bfe1887f4edb983f2f3ade2479d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/347015941"
+      }
+    },
+    {
+      "id": "7599573",
+      "name": "Here She Comes",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/4/0/ee4bb842e71341dc4c4061da57969b43.mp3?hdnea=exp=1774859889~acl=/api/1/1/e/e/4/0/ee4bb842e71341dc4c4061da57969b43.mp3*~data=user_id=0,application_id=42~hmac=8bc582680162280abe8b7988f313ff2a32e694e122ccad17bd4aa5da9c5e008a",
+      "duration_ms": 137000,
+      "track_number": 7,
+      "album": {
+        "id": "700938",
+        "name": "Souvlaki",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd7f0cc0ef7bf616439b83341c5a80f6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd7f0cc0ef7bf616439b83341c5a80f6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd7f0cc0ef7bf616439b83341c5a80f6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/7599573"
+      }
+    },
+    {
+      "id": "2289312325",
+      "name": "skin in the game",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/e/0/a4e865e415667fdd8f5278c3803a1e7d.mp3?hdnea=exp=1774859889~acl=/api/1/1/a/4/e/0/a4e865e415667fdd8f5278c3803a1e7d.mp3*~data=user_id=0,application_id=42~hmac=0d87c17acc8171c8f625e835c2ec71232951a9ad4c5b8633bbdc8aa9305d6360",
+      "duration_ms": 233000,
+      "track_number": 8,
+      "album": {
+        "id": "442973725",
+        "name": "everything is alive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1cb890ad6d7dbcea954a40a01737c49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1cb890ad6d7dbcea954a40a01737c49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1cb890ad6d7dbcea954a40a01737c49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2289312325"
+      }
+    },
+    {
+      "id": "2289312335",
+      "name": "chained to a cloud",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/b/0/3bb7f8af76c5914222e9ad25d65fe87a.mp3?hdnea=exp=1774859889~acl=/api/1/1/3/b/b/0/3bb7f8af76c5914222e9ad25d65fe87a.mp3*~data=user_id=0,application_id=42~hmac=3eb43780e0fd8fca1872f69b674b3f811e2ba704060e13531d66d34defe2179e",
+      "duration_ms": 411000,
+      "track_number": 9,
+      "album": {
+        "id": "442973725",
+        "name": "everything is alive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1cb890ad6d7dbcea954a40a01737c49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1cb890ad6d7dbcea954a40a01737c49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d1cb890ad6d7dbcea954a40a01737c49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2289312335"
+      }
+    },
+    {
+      "id": "7599587",
+      "name": "In Mind (Reload Remix The 147 Take)",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/f/0/8eff715a2d957f7a747a601bfa2750b2.mp3?hdnea=exp=1774859889~acl=/api/1/1/8/e/f/0/8eff715a2d957f7a747a601bfa2750b2.mp3*~data=user_id=0,application_id=42~hmac=558b5838ecf9808216e86e063eea3d4b61e60f3c02cef9c94fe042373b179761",
+      "duration_ms": 625000,
+      "track_number": 10,
+      "album": {
+        "id": "700938",
+        "name": "Souvlaki",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd7f0cc0ef7bf616439b83341c5a80f6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd7f0cc0ef7bf616439b83341c5a80f6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd7f0cc0ef7bf616439b83341c5a80f6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2021",
+          "name": "Slowdive"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/7599587"
+      }
+    }
+  ]
+}

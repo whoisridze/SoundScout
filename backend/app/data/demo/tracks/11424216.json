@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3837255371",
+      "name": "Kindness",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/2/0/80229f338562fc7078602e09eba6bf1a.mp3?hdnea=exp=1774859973~acl=/api/1/1/8/0/2/0/80229f338562fc7078602e09eba6bf1a.mp3*~data=user_id=0,application_id=42~hmac=30cb194b42129be9a4d7ca33e8c7eca6385c54aeb9b44e14026e8b2343606221",
+      "duration_ms": 138000,
+      "track_number": 1,
+      "album": {
+        "id": "916692231",
+        "name": "Perspective",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afd876fab268d79592a55e6eabaa7a65/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afd876fab268d79592a55e6eabaa7a65/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afd876fab268d79592a55e6eabaa7a65/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3837255371"
+      }
+    },
+    {
+      "id": "3711066962",
+      "name": "Quiet",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/a/0/65a7cf663e5434df3d4f3f05596e6462.mp3?hdnea=exp=1774859973~acl=/api/1/1/6/5/a/0/65a7cf663e5434df3d4f3f05596e6462.mp3*~data=user_id=0,application_id=42~hmac=ba6f3169e8b615587661d81349528994ace0807935d8b06855a6b69dcb521197",
+      "duration_ms": 133000,
+      "track_number": 2,
+      "album": {
+        "id": "875449732",
+        "name": "Solitude.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3711066962"
+      }
+    },
+    {
+      "id": "3708864532",
+      "name": "Feelings.",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/f/0/d7f4f5526bf7eebeed0312fda38d755b.mp3?hdnea=exp=1774859973~acl=/api/1/1/d/7/f/0/d7f4f5526bf7eebeed0312fda38d755b.mp3*~data=user_id=0,application_id=42~hmac=7e77976c3bb7a0959a9db1db0311b8cd09118c6514c694120d920816e4b004a6",
+      "duration_ms": 161000,
+      "track_number": 3,
+      "album": {
+        "id": "874765442",
+        "name": "Kona Park",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a772b8bd2f53b5fa875ff5c3ac0399f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a772b8bd2f53b5fa875ff5c3ac0399f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a772b8bd2f53b5fa875ff5c3ac0399f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3708864532"
+      }
+    },
+    {
+      "id": "3711015562",
+      "name": "Affection",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/5/0/bc55412a3297a960e71e48ac2033adab.mp3?hdnea=exp=1774859973~acl=/api/1/1/b/c/5/0/bc55412a3297a960e71e48ac2033adab.mp3*~data=user_id=0,application_id=42~hmac=f8d96d18dc3f5a4ba08890509f8ee65b562a1dce52c5b4489d68f1d5088e40a6",
+      "duration_ms": 117000,
+      "track_number": 4,
+      "album": {
+        "id": "875440512",
+        "name": "Life",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b91ea2aea9a404560d68e3c2276fc01d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b91ea2aea9a404560d68e3c2276fc01d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b91ea2aea9a404560d68e3c2276fc01d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3711015562"
+      }
+    },
+    {
+      "id": "689327782",
+      "name": "Sunsets.",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/5/0/665806539c11332c8fa49ec9d83c1174.mp3?hdnea=exp=1774859973~acl=/api/1/1/6/6/5/0/665806539c11332c8fa49ec9d83c1174.mp3*~data=user_id=0,application_id=42~hmac=a97dbb88d6873e895c2c8bbfff4d67254eca841f1dd357d948a5939ed7cade62",
+      "duration_ms": 129000,
+      "track_number": 5,
+      "album": {
+        "id": "98900682",
+        "name": "Blossoms",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/145993242bf9674cc8418c13005c6709/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/145993242bf9674cc8418c13005c6709/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/145993242bf9674cc8418c13005c6709/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/689327782"
+      }
+    },
+    {
+      "id": "3711066862",
+      "name": "Reminisce.",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/d/0/1dd52d185a971c99777ce61ea2d8b153.mp3?hdnea=exp=1774859973~acl=/api/1/1/1/d/d/0/1dd52d185a971c99777ce61ea2d8b153.mp3*~data=user_id=0,application_id=42~hmac=1fac117941218ade5055aec29b2ce518a2c1f9f17d5763173b1c3d3c02db95e7",
+      "duration_ms": 79000,
+      "track_number": 6,
+      "album": {
+        "id": "875449732",
+        "name": "Solitude.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3711066862"
+      }
+    },
+    {
+      "id": "3711015452",
+      "name": "Bliss",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/e/0/34ec0049d029ce8a629db136ff3cc222.mp3?hdnea=exp=1774859973~acl=/api/1/1/3/4/e/0/34ec0049d029ce8a629db136ff3cc222.mp3*~data=user_id=0,application_id=42~hmac=f4b691611fafb0a1b4827bf63182e6dfad25075fce833ac8d14911558fdbbdae",
+      "duration_ms": 89000,
+      "track_number": 7,
+      "album": {
+        "id": "875440512",
+        "name": "Life",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b91ea2aea9a404560d68e3c2276fc01d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b91ea2aea9a404560d68e3c2276fc01d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b91ea2aea9a404560d68e3c2276fc01d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3711015452"
+      }
+    },
+    {
+      "id": "3711066832",
+      "name": "Morning.",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/f/0/c1fa8d5da8e0fe48ac96422b99acaeae.mp3?hdnea=exp=1774859973~acl=/api/1/1/c/1/f/0/c1fa8d5da8e0fe48ac96422b99acaeae.mp3*~data=user_id=0,application_id=42~hmac=8aa98821dc12b82e0912d8ea156d3fc2c698534e1b1b039d660de21b298c1fd6",
+      "duration_ms": 85000,
+      "track_number": 8,
+      "album": {
+        "id": "875449732",
+        "name": "Solitude.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3711066832"
+      }
+    },
+    {
+      "id": "3711067042",
+      "name": "Smile from U.",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/6/0/586603312acf6dc4b08315deb2b639f0.mp3?hdnea=exp=1774859973~acl=/api/1/1/5/8/6/0/586603312acf6dc4b08315deb2b639f0.mp3*~data=user_id=0,application_id=42~hmac=7d7fde3dfe2705999801683d4d99771a3981c1f27c581c6cb11be915557e5b9c",
+      "duration_ms": 203000,
+      "track_number": 9,
+      "album": {
+        "id": "875449732",
+        "name": "Solitude.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3711067042"
+      }
+    },
+    {
+      "id": "3711066892",
+      "name": "Pure.",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/b/0/29b5a92251610f50489d11af490c6114.mp3?hdnea=exp=1774859973~acl=/api/1/1/2/9/b/0/29b5a92251610f50489d11af490c6114.mp3*~data=user_id=0,application_id=42~hmac=e609378d0a5922ef2466d6f0a5b1d730fc014eefba1f10d275e49c27964373f3",
+      "duration_ms": 73000,
+      "track_number": 10,
+      "album": {
+        "id": "875449732",
+        "name": "Solitude.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b9a2f146b32898aa8e8b1aa476ccaf63/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "11424216",
+          "name": "Jinsang"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3711066892"
+      }
+    }
+  ]
+}

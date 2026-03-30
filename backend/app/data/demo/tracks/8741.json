@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "114422238",
+      "name": "Jolene",
+      "popularity": 84,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/1/0/39196bba724775ae89ae4fdd5a528e84.mp3?hdnea=exp=1774860046~acl=/api/1/1/3/9/1/0/39196bba724775ae89ae4fdd5a528e84.mp3*~data=user_id=0,application_id=42~hmac=ea9d186a97b651eaec526876a55f4825e927d95065465e2542f3c34b83ca77bc",
+      "duration_ms": 160000,
+      "track_number": 1,
+      "album": {
+        "id": "11851692",
+        "name": "Jolene",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d47fc7a27a0d40cc2a8c119ed2bc53b7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d47fc7a27a0d40cc2a8c119ed2bc53b7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d47fc7a27a0d40cc2a8c119ed2bc53b7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/114422238"
+      }
+    },
+    {
+      "id": "989305",
+      "name": "Islands In the Stream",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/b/0/3ab0091d19443965e9f093c018f5b4e0.mp3?hdnea=exp=1774860046~acl=/api/1/1/3/a/b/0/3ab0091d19443965e9f093c018f5b4e0.mp3*~data=user_id=0,application_id=42~hmac=839e2205ee8b4f02c00d93f4c4c6071a45854f80b21b393ef57410b3a4eecc83",
+      "duration_ms": 249000,
+      "track_number": 2,
+      "album": {
+        "id": "109838",
+        "name": "The Very Best Of Dolly Parton",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b13f4a4f466c0ffce31662276cdcc66/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b13f4a4f466c0ffce31662276cdcc66/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b13f4a4f466c0ffce31662276cdcc66/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/989305"
+      }
+    },
+    {
+      "id": "2226796897",
+      "name": "Seasons",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/d/0/b9d3d3450129a915da855493cc62e5b1.mp3?hdnea=exp=1774860046~acl=/api/1/1/b/9/d/0/b9d3d3450129a915da855493cc62e5b1.mp3*~data=user_id=0,application_id=42~hmac=f29e15d27b9281392bed6c30f05bfd4c025bd63fe107761e0818d2dcf631f6c6",
+      "duration_ms": 203000,
+      "track_number": 3,
+      "album": {
+        "id": "426775917",
+        "name": "Bebe",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb2b1e030b048bb812f339d42498eb83/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb2b1e030b048bb812f339d42498eb83/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb2b1e030b048bb812f339d42498eb83/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2226796897"
+      }
+    },
+    {
+      "id": "2726208571",
+      "name": "TYRANT",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/d/0/91d8a0dd40c726ee9e8a6098fc4f3f37.mp3?hdnea=exp=1774860046~acl=/api/1/1/9/1/d/0/91d8a0dd40c726ee9e8a6098fc4f3f37.mp3*~data=user_id=0,application_id=42~hmac=3483369a8f04dc066dabd9f3d83e04071c6a5b68ed0d32785a2510b3c7d492f1",
+      "duration_ms": 250000,
+      "track_number": 4,
+      "album": {
+        "id": "565889181",
+        "name": "COWBOY CARTER",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4a77ce7d6781682afb716d21c0a6e3b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4a77ce7d6781682afb716d21c0a6e3b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4a77ce7d6781682afb716d21c0a6e3b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2726208571"
+      }
+    },
+    {
+      "id": "3228090951",
+      "name": "Please Please Please",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/e/0/7fedcecaebb33dabfa337fb297ef9a78.mp3?hdnea=exp=1774860046~acl=/api/1/1/7/f/e/0/7fedcecaebb33dabfa337fb297ef9a78.mp3*~data=user_id=0,application_id=42~hmac=adc2f3eab4899da9db1c81f9f3eed2d9704097201e6fb89627c8cb626e094897",
+      "duration_ms": 184000,
+      "track_number": 5,
+      "album": {
+        "id": "711254351",
+        "name": "Short n' Sweet (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d00e66cfc38b2b85578a084de0bd30f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d00e66cfc38b2b85578a084de0bd30f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d00e66cfc38b2b85578a084de0bd30f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3228090951"
+      }
+    },
+    {
+      "id": "15641218",
+      "name": "Coat of Many Colors",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/b/0/9bb6718b20c57c7c50ceff9dd7aba788.mp3?hdnea=exp=1774860046~acl=/api/1/1/9/b/b/0/9bb6718b20c57c7c50ceff9dd7aba788.mp3*~data=user_id=0,application_id=42~hmac=e694d5ebeba439cc7bc1cc75da27cfb2413a3ce7b7c3f7b4037d8b5faf54c8ba",
+      "duration_ms": 184000,
+      "track_number": 6,
+      "album": {
+        "id": "1444381",
+        "name": "Coat Of Many Colors",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/587d8fe88e6412339c85c9be64684a5a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/587d8fe88e6412339c85c9be64684a5a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/587d8fe88e6412339c85c9be64684a5a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15641218"
+      }
+    },
+    {
+      "id": "628900",
+      "name": "The Bargain Store",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/e/0/3fe8c5594554f901abebb475277d2457.mp3?hdnea=exp=1774860046~acl=/api/1/1/3/f/e/0/3fe8c5594554f901abebb475277d2457.mp3*~data=user_id=0,application_id=42~hmac=c0f0e15603f3ffbb0bea8fab45a52aedaae127a06fb96ecc7c8d950b5b3274b7",
+      "duration_ms": 160000,
+      "track_number": 7,
+      "album": {
+        "id": "78666",
+        "name": "Ultimate Dolly Parton",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35c9bf0b81489bd88976f1223fe98e01/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35c9bf0b81489bd88976f1223fe98e01/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35c9bf0b81489bd88976f1223fe98e01/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/628900"
+      }
+    },
+    {
+      "id": "499737922",
+      "name": "9 to 5",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/6/0/a66f9794f50a96c13a003e144d5a961f.mp3?hdnea=exp=1774860046~acl=/api/1/1/a/6/6/0/a66f9794f50a96c13a003e144d5a961f.mp3*~data=user_id=0,application_id=42~hmac=0300df9f897041dfc5deacd43e4d21d9e88e20000ccbd6abd3d8e5218de9c5e9",
+      "duration_ms": 165000,
+      "track_number": 8,
+      "album": {
+        "id": "63518612",
+        "name": "Deadpool 2 (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0745b56bb004ef43cb79552ce2cb0c2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0745b56bb004ef43cb79552ce2cb0c2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d0745b56bb004ef43cb79552ce2cb0c2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/499737922"
+      }
+    },
+    {
+      "id": "2536745941",
+      "name": "I Hate Myself For Loving You",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/1/0/76170740eabbd9dc7dfa004db75d5efb.mp3?hdnea=exp=1774860046~acl=/api/1/1/7/6/1/0/76170740eabbd9dc7dfa004db75d5efb.mp3*~data=user_id=0,application_id=42~hmac=567f8c4b0484fe0bac427d72b39f3d2f156eaf1ec5654b50ab4dfc1d63bc1ba9",
+      "duration_ms": 247000,
+      "track_number": 9,
+      "album": {
+        "id": "510961931",
+        "name": "Rockstar",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f15b654dfb0dc6d506cfda53763f772/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f15b654dfb0dc6d506cfda53763f772/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4f15b654dfb0dc6d506cfda53763f772/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2536745941"
+      }
+    },
+    {
+      "id": "567771",
+      "name": "I Will Always Love You",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/a/0/e7a5c1cdd04358c3c985965f68ad3a96.mp3?hdnea=exp=1774860046~acl=/api/1/1/e/7/a/0/e7a5c1cdd04358c3c985965f68ad3a96.mp3*~data=user_id=0,application_id=42~hmac=091a100d2eaee0b3b51be8b51f8b6d00b0f1c26183d5badc26cacfaf953daec8",
+      "duration_ms": 174000,
+      "track_number": 10,
+      "album": {
+        "id": "73769",
+        "name": "Jolene (Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d47fc7a27a0d40cc2a8c119ed2bc53b7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d47fc7a27a0d40cc2a8c119ed2bc53b7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d47fc7a27a0d40cc2a8c119ed2bc53b7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8741",
+          "name": "Dolly Parton"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/567771"
+      }
+    }
+  ]
+}

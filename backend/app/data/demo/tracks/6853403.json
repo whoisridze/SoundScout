@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2047662477",
+      "name": "Creepin'",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/d/0/8fd42faed3ced0c5f4eee3249077f9c4.mp3?hdnea=exp=1774859898~acl=/api/1/1/8/f/d/0/8fd42faed3ced0c5f4eee3249077f9c4.mp3*~data=user_id=0,application_id=42~hmac=6ab1e59b313fa55f9a5e65993d99528835f9ac88eea797daefae145eb266c9fa",
+      "duration_ms": 221000,
+      "track_number": 1,
+      "album": {
+        "id": "382760377",
+        "name": "HEROES & VILLAINS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2047662477"
+      }
+    },
+    {
+      "id": "2614584352",
+      "name": "redrum",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/7/0/947444dc92cff41435d4e688fb0bdf3e.mp3?hdnea=exp=1774859898~acl=/api/1/1/9/4/7/0/947444dc92cff41435d4e688fb0bdf3e.mp3*~data=user_id=0,application_id=42~hmac=8cb0f87dbc947e0dadd8f1acc5ef73b0a8aaae70333a3723456e43056aef52b6",
+      "duration_ms": 270000,
+      "track_number": 2,
+      "album": {
+        "id": "533077002",
+        "name": "american dream",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2614584352"
+      }
+    },
+    {
+      "id": "1097090222",
+      "name": "Rich Nigga Shit (feat. Young Thug)",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/5/0/ba5190097bb53a854b8d50b262c07945.mp3?hdnea=exp=1774859898~acl=/api/1/1/b/a/5/0/ba5190097bb53a854b8d50b262c07945.mp3*~data=user_id=0,application_id=42~hmac=be0d2743bc7e180d61b2be505555c0ab1de5732ddd50663bd7a668f3d916fae2",
+      "duration_ms": 190000,
+      "track_number": 3,
+      "album": {
+        "id": "177029662",
+        "name": "SAVAGE MODE II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c11792c28d745fbed8522fba064f7ebe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c11792c28d745fbed8522fba064f7ebe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c11792c28d745fbed8522fba064f7ebe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1097090222"
+      }
+    },
+    {
+      "id": "2614584412",
+      "name": "née-nah",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/8/0/848206d421357cfaea56d0045255b418.mp3?hdnea=exp=1774859898~acl=/api/1/1/8/4/8/0/848206d421357cfaea56d0045255b418.mp3*~data=user_id=0,application_id=42~hmac=f4d27d46637f230630befead99db2e9f05f0388aa477016b1db1236bca0a6499",
+      "duration_ms": 220000,
+      "track_number": 4,
+      "album": {
+        "id": "533077002",
+        "name": "american dream",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2614584412"
+      }
+    },
+    {
+      "id": "1097090192",
+      "name": "Runnin",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/4/0/404ce196809499d74c80dcc13d20bb36.mp3?hdnea=exp=1774859898~acl=/api/1/1/4/0/4/0/404ce196809499d74c80dcc13d20bb36.mp3*~data=user_id=0,application_id=42~hmac=159ae965a681d398c6a5e5db291bbc3fc5aa2e17e459aa499080295e421ad8ea",
+      "duration_ms": 195000,
+      "track_number": 5,
+      "album": {
+        "id": "177029662",
+        "name": "SAVAGE MODE II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c11792c28d745fbed8522fba064f7ebe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c11792c28d745fbed8522fba064f7ebe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c11792c28d745fbed8522fba064f7ebe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1097090192"
+      }
+    },
+    {
+      "id": "380536131",
+      "name": "Bank Account",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/a/0/f2a845aa1428e505c112144b3a820c97.mp3?hdnea=exp=1774859898~acl=/api/1/1/f/2/a/0/f2a845aa1428e505c112144b3a820c97.mp3*~data=user_id=0,application_id=42~hmac=bb15d98196211af9a9201b9991d25eed46c19171780e78da4c3e9c2571f9732e",
+      "duration_ms": 220000,
+      "track_number": 6,
+      "album": {
+        "id": "44181911",
+        "name": "Issa Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e31287495f374bc12d135a7ea344d2c5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e31287495f374bc12d135a7ea344d2c5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e31287495f374bc12d135a7ea344d2c5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/380536131"
+      }
+    },
+    {
+      "id": "2386586195",
+      "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/1/0/ca11b0334cc356b4e0e9fe8feca8702b.mp3?hdnea=exp=1774859898~acl=/api/1/1/c/a/1/0/ca11b0334cc356b4e0e9fe8feca8702b.mp3*~data=user_id=0,application_id=42~hmac=6f2430ddd8b2c4f820426e968de1d6d101071f8a5785bdbc0c168d604c64b32a",
+      "duration_ms": 314000,
+      "track_number": 7,
+      "album": {
+        "id": "469682765",
+        "name": "UTOPIA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c91e64b7157f1332a4f6b0de9e4c714/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c91e64b7157f1332a4f6b0de9e4c714/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c91e64b7157f1332a4f6b0de9e4c714/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2386586195"
+      }
+    },
+    {
+      "id": "2614584342",
+      "name": "all of me",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/5/0/18542b7396c8c898834bbaf6148280a4.mp3?hdnea=exp=1774859898~acl=/api/1/1/1/8/5/0/18542b7396c8c898834bbaf6148280a4.mp3*~data=user_id=0,application_id=42~hmac=e30176334a29208bc09f16ba37b1be0f4a040cf84176335ab107c35ba3f4b0bf",
+      "duration_ms": 198000,
+      "track_number": 8,
+      "album": {
+        "id": "533077002",
+        "name": "american dream",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2614584342"
+      }
+    },
+    {
+      "id": "1999525067",
+      "name": "Rich Flex",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/1/0/641cd153f0df260d829f65b75b2666ad.mp3?hdnea=exp=1774859898~acl=/api/1/1/6/4/1/0/641cd153f0df260d829f65b75b2666ad.mp3*~data=user_id=0,application_id=42~hmac=796f37ce63756ebdd7b5225ea8cb466cff7eebf1967faa71ae71207f0165f0b2",
+      "duration_ms": 239000,
+      "track_number": 9,
+      "album": {
+        "id": "372625207",
+        "name": "Her Loss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4599d79a2bea5890737328996e2e7077/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4599d79a2bea5890737328996e2e7077/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4599d79a2bea5890737328996e2e7077/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1999525067"
+      }
+    },
+    {
+      "id": "423097602",
+      "name": "Ghostface Killers (feat. Travis Scott)",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/e/0/e4eb97e1346414ad9133500e97ba62ca.mp3?hdnea=exp=1774859898~acl=/api/1/1/e/4/e/0/e4eb97e1346414ad9133500e97ba62ca.mp3*~data=user_id=0,application_id=42~hmac=255e949734fc9c0f61bd139156576a5cfad0778684d1c4c7f83aeaf15fd50774",
+      "duration_ms": 269000,
+      "track_number": 10,
+      "album": {
+        "id": "50762752",
+        "name": "Without Warning",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60f13d915e92b6082617857b537f7b37/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60f13d915e92b6082617857b537f7b37/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/60f13d915e92b6082617857b537f7b37/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6853403",
+          "name": "21 Savage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/423097602"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5287",
+  "name": "Kenny Wayne Shepherd",
+  "popularity": 2,
+  "followers": {
+    "total": 29101
+  },
+  "genres": [
+    "blues rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0253b95138d33e026c9e5e0b38155d25/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0253b95138d33e026c9e5e0b38155d25/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0253b95138d33e026c9e5e0b38155d25/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5287"
+  },
+  "uri": "deezer:artist:5287"
+}

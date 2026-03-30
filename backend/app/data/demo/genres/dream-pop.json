@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "75055",
+      "name": "Beach House",
+      "popularity": 28,
+      "followers": {
+        "total": 282665
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bab7f5aedc71370b598262e065d3a0ef/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bab7f5aedc71370b598262e065d3a0ef/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bab7f5aedc71370b598262e065d3a0ef/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/75055"
+      },
+      "uri": "deezer:artist:75055"
+    },
+    {
+      "id": "1041",
+      "name": "Cocteau Twins",
+      "popularity": 12,
+      "followers": {
+        "total": 124597
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3bdd3587258a3bf73502ff6c65c295ec/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3bdd3587258a3bf73502ff6c65c295ec/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/3bdd3587258a3bf73502ff6c65c295ec/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1041"
+      },
+      "uri": "deezer:artist:1041"
+    },
+    {
+      "id": "1306",
+      "name": "Mazzy Star",
+      "popularity": 9,
+      "followers": {
+        "total": 99171
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ca49f4fe2bd553aad0d0fa9dac2616e3/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ca49f4fe2bd553aad0d0fa9dac2616e3/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ca49f4fe2bd553aad0d0fa9dac2616e3/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1306"
+      },
+      "uri": "deezer:artist:1306"
+    },
+    {
+      "id": "9568982",
+      "name": "Cigarettes After Sex",
+      "popularity": 84,
+      "followers": {
+        "total": 849963
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/97847fc1724d45cc367ed96574d2262e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/97847fc1724d45cc367ed96574d2262e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/97847fc1724d45cc367ed96574d2262e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/9568982"
+      },
+      "uri": "deezer:artist:9568982"
+    },
+    {
+      "id": "2021",
+      "name": "Slowdive",
+      "popularity": 7,
+      "followers": {
+        "total": 75876
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/16417737fe6efb615f826ef4902e7faf/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/16417737fe6efb615f826ef4902e7faf/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/16417737fe6efb615f826ef4902e7faf/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2021"
+      },
+      "uri": "deezer:artist:2021"
+    },
+    {
+      "id": "678",
+      "name": "M83",
+      "popularity": 95,
+      "followers": {
+        "total": 954388
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/afef558a59597f79b70ac26a332c4b90/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/afef558a59597f79b70ac26a332c4b90/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/afef558a59597f79b70ac26a332c4b90/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/678"
+      },
+      "uri": "deezer:artist:678"
+    },
+    {
+      "id": "5298885",
+      "name": "Alvvays",
+      "popularity": 2,
+      "followers": {
+        "total": 26781
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d510615ee7ec09d1bf602b633ff1659a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d510615ee7ec09d1bf602b633ff1659a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d510615ee7ec09d1bf602b633ff1659a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5298885"
+      },
+      "uri": "deezer:artist:5298885"
+    },
+    {
+      "id": "9541274",
+      "name": "Japanese Breakfast",
+      "popularity": 1,
+      "followers": {
+        "total": 19234
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/131fce389393ca49fbe2aa5831f492b6/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/131fce389393ca49fbe2aa5831f492b6/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/131fce389393ca49fbe2aa5831f492b6/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/9541274"
+      },
+      "uri": "deezer:artist:9541274"
+    },
+    {
+      "id": "6390014",
+      "name": "Men I Trust",
+      "popularity": 6,
+      "followers": {
+        "total": 69528
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6ba5514f705f2d77a99ee62a28aa358a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6ba5514f705f2d77a99ee62a28aa358a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6ba5514f705f2d77a99ee62a28aa358a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/6390014"
+      },
+      "uri": "deezer:artist:6390014"
+    },
+    {
+      "id": "394885",
+      "name": "Warpaint",
+      "popularity": 6,
+      "followers": {
+        "total": 68178
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4ce97bb6ac7b26e045da07c25ea87d54/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4ce97bb6ac7b26e045da07c25ea87d54/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4ce97bb6ac7b26e045da07c25ea87d54/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/394885"
+      },
+      "uri": "deezer:artist:394885"
+    },
+    {
+      "id": "420514",
+      "name": "Wild Nothing",
+      "popularity": 2,
+      "followers": {
+        "total": 29552
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bde2053bfe12d979b4f645de88e850f8/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bde2053bfe12d979b4f645de88e850f8/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bde2053bfe12d979b4f645de88e850f8/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/420514"
+      },
+      "uri": "deezer:artist:420514"
+    },
+    {
+      "id": "524675",
+      "name": "Still Corners",
+      "popularity": 2,
+      "followers": {
+        "total": 29185
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b09621096c0d1b8bbba2a2b56415df41/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b09621096c0d1b8bbba2a2b56415df41/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b09621096c0d1b8bbba2a2b56415df41/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/524675"
+      },
+      "uri": "deezer:artist:524675"
+    },
+    {
+      "id": "11573699",
+      "name": "Clairo",
+      "popularity": 46,
+      "followers": {
+        "total": 466607
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/933a9fcd1f1b4eae73e3f75bdf5fd3a0/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/933a9fcd1f1b4eae73e3f75bdf5fd3a0/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/933a9fcd1f1b4eae73e3f75bdf5fd3a0/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/11573699"
+      },
+      "uri": "deezer:artist:11573699"
+    },
+    {
+      "id": "2699111",
+      "name": "DIIV",
+      "popularity": 3,
+      "followers": {
+        "total": 36191
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6ab40057425f015cdba283590401f4d7/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6ab40057425f015cdba283590401f4d7/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6ab40057425f015cdba283590401f4d7/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2699111"
+      },
+      "uri": "deezer:artist:2699111"
+    },
+    {
+      "id": "1295714",
+      "name": "Blouse",
+      "popularity": 62,
+      "followers": {
+        "total": 6274
+      },
+      "genres": [
+        "dream pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e1179de4a3e7a6589e022da8e3951411/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e1179de4a3e7a6589e022da8e3951411/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e1179de4a3e7a6589e022da8e3951411/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1295714"
+      },
+      "uri": "deezer:artist:1295714"
+    }
+  ]
+}

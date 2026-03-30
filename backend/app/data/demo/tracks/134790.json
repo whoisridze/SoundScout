@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3818963601",
+      "name": "Dracula (JENNIE Remix)",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3?hdnea=exp=1774859875~acl=/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3*~data=user_id=0,application_id=42~hmac=cfa74bfe79ee9edcd0b155e65c401cd18b672c5bb665020fd81a43cab91ecd23",
+      "duration_ms": 209000,
+      "track_number": 1,
+      "album": {
+        "id": "910510411",
+        "name": "Dracula (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3818963601"
+      }
+    },
+    {
+      "id": "3567385391",
+      "name": "Dracula",
+      "popularity": 96,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/d/0/72d9c71556ab7b935a6914bda5029ed2.mp3?hdnea=exp=1774859875~acl=/api/1/1/7/2/d/0/72d9c71556ab7b935a6914bda5029ed2.mp3*~data=user_id=0,application_id=42~hmac=76fe6f0e61ea299cc46a3dd5b010d0730a9fda0976d4d8d4e30144db9dc2dfc7",
+      "duration_ms": 205000,
+      "track_number": 2,
+      "album": {
+        "id": "825550621",
+        "name": "Dracula",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b428fa5da7496083cd2c2e87b94e2ceb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b428fa5da7496083cd2c2e87b94e2ceb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b428fa5da7496083cd2c2e87b94e2ceb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3567385391"
+      }
+    },
+    {
+      "id": "103052662",
+      "name": "The Less I Know The Better",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/e/0/d7e09f788f6834e38f61f8a589b0390a.mp3?hdnea=exp=1774859875~acl=/api/1/1/d/7/e/0/d7e09f788f6834e38f61f8a589b0390a.mp3*~data=user_id=0,application_id=42~hmac=455a620de35b03e3353d839ba44003511c9a499f193529d0271745ff6b2450ed",
+      "duration_ms": 217000,
+      "track_number": 3,
+      "album": {
+        "id": "10709540",
+        "name": "Currents",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/103052662"
+      }
+    },
+    {
+      "id": "103052650",
+      "name": "Let It Happen",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/e/0/6aee42a038480ecdcf2d6168f95810f2.mp3?hdnea=exp=1774859875~acl=/api/1/1/6/a/e/0/6aee42a038480ecdcf2d6168f95810f2.mp3*~data=user_id=0,application_id=42~hmac=e521a9dbac5a1d443a4a3134dbc3df4248aba9cd3553b77d6927052afa937204",
+      "duration_ms": 469000,
+      "track_number": 4,
+      "album": {
+        "id": "10709540",
+        "name": "Currents",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/103052650"
+      }
+    },
+    {
+      "id": "3602329332",
+      "name": "Loser",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/c/0/7ec2a1ee5ba7ced2d0eeffd12afbc4f3.mp3?hdnea=exp=1774859875~acl=/api/1/1/7/e/c/0/7ec2a1ee5ba7ced2d0eeffd12afbc4f3.mp3*~data=user_id=0,application_id=42~hmac=9f5003c42e0823c558cd74c0e4b1fd4529dce5d159be268c1966e577530da536",
+      "duration_ms": 223000,
+      "track_number": 5,
+      "album": {
+        "id": "837961612",
+        "name": "Deadbeat",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23b006b2e956536d97612847bbd7a3b7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23b006b2e956536d97612847bbd7a3b7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23b006b2e956536d97612847bbd7a3b7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3602329332"
+      }
+    },
+    {
+      "id": "872345282",
+      "name": "Borderline",
+      "popularity": 89,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/e/0/efe16471ba48ab8dd697e33793a7d039.mp3?hdnea=exp=1774859875~acl=/api/1/1/e/f/e/0/efe16471ba48ab8dd697e33793a7d039.mp3*~data=user_id=0,application_id=42~hmac=d399bd4ece6399307c07521dc0f6c6c77a69905fefa597642c0375e6ae7dbaf5",
+      "duration_ms": 240000,
+      "track_number": 6,
+      "album": {
+        "id": "130876272",
+        "name": "The Slow Rush",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8eb61bd4becf79a602a75b69eebde7d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8eb61bd4becf79a602a75b69eebde7d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8eb61bd4becf79a602a75b69eebde7d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/872345282"
+      }
+    },
+    {
+      "id": "60765509",
+      "name": "Elephant",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/7/0/bb77a0c555d9ac0a90bd0145eba0fa97.mp3?hdnea=exp=1774859875~acl=/api/1/1/b/b/7/0/bb77a0c555d9ac0a90bd0145eba0fa97.mp3*~data=user_id=0,application_id=42~hmac=b27da42a12d21f2aac454c7660a4df406c0cdd18ac5070ec4d5ac7b36be71827",
+      "duration_ms": 213000,
+      "track_number": 7,
+      "album": {
+        "id": "5946143",
+        "name": "Lonerism",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fe30ce99ef17cb1250bef071f15ccee/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fe30ce99ef17cb1250bef071f15ccee/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fe30ce99ef17cb1250bef071f15ccee/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/60765509"
+      }
+    },
+    {
+      "id": "3602329302",
+      "name": "My Old Ways",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/d/0/36d0368e80eb7958158899338295aced.mp3?hdnea=exp=1774859875~acl=/api/1/1/3/6/d/0/36d0368e80eb7958158899338295aced.mp3*~data=user_id=0,application_id=42~hmac=9cb0d76f9263731f5fbc8764f490ae688acdd7dbafdca79b8f1da22de38ada09",
+      "duration_ms": 298000,
+      "track_number": 8,
+      "album": {
+        "id": "837961612",
+        "name": "Deadbeat",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23b006b2e956536d97612847bbd7a3b7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23b006b2e956536d97612847bbd7a3b7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23b006b2e956536d97612847bbd7a3b7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3602329302"
+      }
+    },
+    {
+      "id": "2593814542",
+      "name": "One Night/All Night",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/9/0/919fff81f9209beea1a5e57ff973287d.mp3?hdnea=exp=1774859875~acl=/api/1/1/9/1/9/0/919fff81f9209beea1a5e57ff973287d.mp3*~data=user_id=0,application_id=42~hmac=38c68bdb76328f510c44ca9486425df19698f3d67dd879fb86aa5153afb0cf1e",
+      "duration_ms": 276000,
+      "track_number": 9,
+      "album": {
+        "id": "526138472",
+        "name": "Hyperdrama",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/488973700496ca712df8899028883682/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/488973700496ca712df8899028883682/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/488973700496ca712df8899028883682/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2593814542"
+      }
+    },
+    {
+      "id": "872345332",
+      "name": "Lost In Yesterday",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/2/0/6421d38a560175f22390edb5d54f07a3.mp3?hdnea=exp=1774859875~acl=/api/1/1/6/4/2/0/6421d38a560175f22390edb5d54f07a3.mp3*~data=user_id=0,application_id=42~hmac=0ec310e0be0247aa6061181d09659ec5af2425ca1ae4e3ef9ddfd02934196bc4",
+      "duration_ms": 250000,
+      "track_number": 10,
+      "album": {
+        "id": "130876272",
+        "name": "The Slow Rush",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8eb61bd4becf79a602a75b69eebde7d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8eb61bd4becf79a602a75b69eebde7d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d8eb61bd4becf79a602a75b69eebde7d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "134790",
+          "name": "Tame Impala"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/872345332"
+      }
+    }
+  ]
+}

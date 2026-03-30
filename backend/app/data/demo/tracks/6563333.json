@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "712060422",
+      "name": "Feel",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/5/0/f25455b16e4d798a777f2726433c78bb.mp3?hdnea=exp=1774859916~acl=/api/1/1/f/2/5/0/f25455b16e4d798a777f2726433c78bb.mp3*~data=user_id=0,application_id=42~hmac=ae19ea7042fd78b837d6e83e72631494e1b03c323700379fded791d50a57d00c",
+      "duration_ms": 390000,
+      "track_number": 1,
+      "album": {
+        "id": "103575612",
+        "name": "Djesse Vol. 2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73702e481e86db7dbc80ec8bc60f3058/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73702e481e86db7dbc80ec8bc60f3058/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73702e481e86db7dbc80ec8bc60f3058/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/712060422"
+      }
+    },
+    {
+      "id": "2506783051",
+      "name": "Wherever I Go",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/8/0/f28caaa64a1e3b80dca262d9b66ca3de.mp3?hdnea=exp=1774859916~acl=/api/1/1/f/2/8/0/f28caaa64a1e3b80dca262d9b66ca3de.mp3*~data=user_id=0,application_id=42~hmac=12781b62963cbacb6cb1a7583fd4135b26bb2d2ef91d925f97aae82d14cddde8",
+      "duration_ms": 166000,
+      "track_number": 2,
+      "album": {
+        "id": "502539741",
+        "name": "Wherever I Go",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadfe9b6d7a59479ddacb04d7d69df3c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadfe9b6d7a59479ddacb04d7d69df3c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadfe9b6d7a59479ddacb04d7d69df3c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2506783051"
+      }
+    },
+    {
+      "id": "3841861091",
+      "name": "Something Heavy (Live with Audience Orchestra)",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/3/0/b6373366679ed8b0d5caee760f8d3d70.mp3?hdnea=exp=1774859916~acl=/api/1/1/b/6/3/0/b6373366679ed8b0d5caee760f8d3d70.mp3*~data=user_id=0,application_id=42~hmac=d0c8977452df3f2121225236aa6388926dc5dafe7a566fa7c5b851d92f95d3d9",
+      "duration_ms": 450000,
+      "track_number": 3,
+      "album": {
+        "id": "918000981",
+        "name": "Something Heavy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99e412ba10e631690707fcfee32d0d28/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99e412ba10e631690707fcfee32d0d28/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99e412ba10e631690707fcfee32d0d28/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3841861091"
+      }
+    },
+    {
+      "id": "1593919041",
+      "name": "Fix You (Live for There With Care)",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/0/0/d20e1455fca13275002afddd17b6ef1b.mp3?hdnea=exp=1774859916~acl=/api/1/1/d/2/0/0/d20e1455fca13275002afddd17b6ef1b.mp3*~data=user_id=0,application_id=42~hmac=1cf0af1b5a6bbfd4872a1a24dc369760a8b4cff754789fddc4fdb1a065d8c0fd",
+      "duration_ms": 369000,
+      "track_number": 4,
+      "album": {
+        "id": "281074141",
+        "name": "Fix You (Live for There With Care)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/612306df16ce4f0a59d392ae22789403/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/612306df16ce4f0a59d392ae22789403/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/612306df16ce4f0a59d392ae22789403/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1593919041"
+      }
+    },
+    {
+      "id": "2674885032",
+      "name": "Never Gonna Be Alone",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/8/0/ee88fcc89c3c06e1c0c64bc2c09919a4.mp3?hdnea=exp=1774859916~acl=/api/1/1/e/e/8/0/ee88fcc89c3c06e1c0c64bc2c09919a4.mp3*~data=user_id=0,application_id=42~hmac=7bdc770e08ac226387747f18cdcac833cdea15ab84545db810d00a31400a2ff0",
+      "duration_ms": 249000,
+      "track_number": 5,
+      "album": {
+        "id": "551570332",
+        "name": "Djesse Vol. 4",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadfe9b6d7a59479ddacb04d7d69df3c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadfe9b6d7a59479ddacb04d7d69df3c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadfe9b6d7a59479ddacb04d7d69df3c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2674885032"
+      }
+    },
+    {
+      "id": "2585655612",
+      "name": "Little Blue - Mahogany Sessions",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/e/0/8ee01bb6684394388f46d2e090c715f9.mp3?hdnea=exp=1774859916~acl=/api/1/1/8/e/e/0/8ee01bb6684394388f46d2e090c715f9.mp3*~data=user_id=0,application_id=42~hmac=5e8558b97b5018872e04aa1d0f85400cff3b031bdd2ff339db3d4cdd5346f9e2",
+      "duration_ms": 453000,
+      "track_number": 6,
+      "album": {
+        "id": "523955822",
+        "name": "Little Blue – Mahogany Sessions",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b6f295b76c3c42393b4bb6c157fb2813/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b6f295b76c3c42393b4bb6c157fb2813/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b6f295b76c3c42393b4bb6c157fb2813/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2585655612"
+      }
+    },
+    {
+      "id": "2674885042",
+      "name": "Bridge Over Troubled Water",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/6/0/61624aa7375797aeca21d2ec5780af05.mp3?hdnea=exp=1774859916~acl=/api/1/1/6/1/6/0/61624aa7375797aeca21d2ec5780af05.mp3*~data=user_id=0,application_id=42~hmac=5a44458fbe137a386eba1637d0571d122741cea0db4f94a6544b8c1750fdb19c",
+      "duration_ms": 352000,
+      "track_number": 7,
+      "album": {
+        "id": "551570332",
+        "name": "Djesse Vol. 4",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadfe9b6d7a59479ddacb04d7d69df3c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadfe9b6d7a59479ddacb04d7d69df3c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dadfe9b6d7a59479ddacb04d7d69df3c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2674885042"
+      }
+    },
+    {
+      "id": "3841861081",
+      "name": "Something Heavy",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/f/0/d0f2fd66caf6b8d6df1b41c4706ba92f.mp3?hdnea=exp=1774859916~acl=/api/1/1/d/0/f/0/d0f2fd66caf6b8d6df1b41c4706ba92f.mp3*~data=user_id=0,application_id=42~hmac=f243e5adcdad39f2e52fb47180e9d09921ea5c2126bfd456e9019b7eaa75631b",
+      "duration_ms": 345000,
+      "track_number": 8,
+      "album": {
+        "id": "918000981",
+        "name": "Something Heavy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99e412ba10e631690707fcfee32d0d28/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99e412ba10e631690707fcfee32d0d28/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/99e412ba10e631690707fcfee32d0d28/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3841861081"
+      }
+    },
+    {
+      "id": "2321418285",
+      "name": "In My Room",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/7/0/977f17549ef1061a5ce3bf2ad9837d43.mp3?hdnea=exp=1774859916~acl=/api/1/1/9/7/7/0/977f17549ef1061a5ce3bf2ad9837d43.mp3*~data=user_id=0,application_id=42~hmac=f000b2604761b4cfc41d889bd43f5e7242f119ea2935eac13e8cf643766be759",
+      "duration_ms": 289000,
+      "track_number": 9,
+      "album": {
+        "id": "451386975",
+        "name": "In My Room",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/adc286ebca55423109b37e5de913f7ed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/adc286ebca55423109b37e5de913f7ed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/adc286ebca55423109b37e5de913f7ed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2321418285"
+      }
+    },
+    {
+      "id": "3541656721",
+      "name": "I Know (A Little)",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/c/0/d3cfa86b77dc6e6e4a60b265a7a6f16d.mp3?hdnea=exp=1774859916~acl=/api/1/1/d/3/c/0/d3cfa86b77dc6e6e4a60b265a7a6f16d.mp3*~data=user_id=0,application_id=42~hmac=0782703519416438fdfaf8c8a096f45083036b719b814ba3f24a6b792a93c930",
+      "duration_ms": 220000,
+      "track_number": 10,
+      "album": {
+        "id": "816415471",
+        "name": "I Know (A Little)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ade4fd2a7cf1110b6712d177e869a8c8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ade4fd2a7cf1110b6712d177e869a8c8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ade4fd2a7cf1110b6712d177e869a8c8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6563333",
+          "name": "Jacob Collier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3541656721"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5847028",
+  "name": "Aso",
+  "popularity": 19,
+  "followers": {
+    "total": 1968
+  },
+  "genres": [
+    "lo-fi beats"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/94fbabd5c38b3d97c5d0cea8e014cd40/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/94fbabd5c38b3d97c5d0cea8e014cd40/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/94fbabd5c38b3d97c5d0cea8e014cd40/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5847028"
+  },
+  "uri": "deezer:artist:5847028"
+}

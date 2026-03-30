@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "105765234",
+      "name": "The Sound of Silence",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/2/0/2522553910eedd04c5db621b229c7566.mp3?hdnea=exp=1774860032~acl=/api/1/1/2/5/2/0/2522553910eedd04c5db621b229c7566.mp3*~data=user_id=0,application_id=42~hmac=b78a2470536e62e664dae71cc4f9e2e2373f100715e7118dc936a41d33379dff",
+      "duration_ms": 248000,
+      "track_number": 1,
+      "album": {
+        "id": "11020874",
+        "name": "Immortalized (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d8908dc7e46066241f2f1c07778b4a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d8908dc7e46066241f2f1c07778b4a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d8908dc7e46066241f2f1c07778b4a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/105765234"
+      }
+    },
+    {
+      "id": "788838",
+      "name": "Decadence",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/4/0/f04ff4724be5ffb213e9e6bfc85fd718.mp3?hdnea=exp=1774860032~acl=/api/1/1/f/0/4/0/f04ff4724be5ffb213e9e6bfc85fd718.mp3*~data=user_id=0,application_id=42~hmac=1e6432e3e29c9d3742b76aaa6f9501e750ff8d934b9462cfd95865414a4045a0",
+      "duration_ms": 204000,
+      "track_number": 2,
+      "album": {
+        "id": "92280",
+        "name": "Ten Thousand Fists",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92bcb3cbf52c1a31dbdea46ceabdc575/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92bcb3cbf52c1a31dbdea46ceabdc575/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92bcb3cbf52c1a31dbdea46ceabdc575/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/788838"
+      }
+    },
+    {
+      "id": "663984",
+      "name": "Down with the Sickness",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/6/0/af647fb0fcc121027b89e7ada1248df8.mp3?hdnea=exp=1774860032~acl=/api/1/1/a/f/6/0/af647fb0fcc121027b89e7ada1248df8.mp3*~data=user_id=0,application_id=42~hmac=278fd6f82bd14e130827bfaa983567f18a6e6f1bdc5acef604bbf12aff638c87",
+      "duration_ms": 279000,
+      "track_number": 3,
+      "album": {
+        "id": "80513",
+        "name": "The Sickness",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7380ae3d07e8c1f2683f4b1222312251/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7380ae3d07e8c1f2683f4b1222312251/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7380ae3d07e8c1f2683f4b1222312251/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/663984"
+      }
+    },
+    {
+      "id": "788807",
+      "name": "Stricken",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/2/0/c4201bb8352e800572f629a75cc6ffae.mp3?hdnea=exp=1774860032~acl=/api/1/1/c/4/2/0/c4201bb8352e800572f629a75cc6ffae.mp3*~data=user_id=0,application_id=42~hmac=52a7abd594dab0ec02053b0404c2bf9021db7f57acf0c15768340bb63e60b1fb",
+      "duration_ms": 245000,
+      "track_number": 4,
+      "album": {
+        "id": "92280",
+        "name": "Ten Thousand Fists",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92bcb3cbf52c1a31dbdea46ceabdc575/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92bcb3cbf52c1a31dbdea46ceabdc575/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92bcb3cbf52c1a31dbdea46ceabdc575/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/788807"
+      }
+    },
+    {
+      "id": "827970",
+      "name": "Inside the Fire",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/f/0/31f15a5c66a03f4a2eb885daf62a3ac1.mp3?hdnea=exp=1774860032~acl=/api/1/1/3/1/f/0/31f15a5c66a03f4a2eb885daf62a3ac1.mp3*~data=user_id=0,application_id=42~hmac=45aed050819b3a7e3637ac8964fa47db0861005b1b90a5daaa1c33028f1fb83e",
+      "duration_ms": 231000,
+      "track_number": 5,
+      "album": {
+        "id": "95793",
+        "name": "Indestructible (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/41f32ca53f422e27044f4348d27cd24e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/41f32ca53f422e27044f4348d27cd24e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/41f32ca53f422e27044f4348d27cd24e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/827970"
+      }
+    },
+    {
+      "id": "827969",
+      "name": "Indestructible",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/8/0/9d887d28720d2ad8eb94b4bb77b601c7.mp3?hdnea=exp=1774860032~acl=/api/1/1/9/d/8/0/9d887d28720d2ad8eb94b4bb77b601c7.mp3*~data=user_id=0,application_id=42~hmac=52874dddacc02394810de95bd612860a493ee68daee03e93b06b1f75c2103a10",
+      "duration_ms": 278000,
+      "track_number": 6,
+      "album": {
+        "id": "95793",
+        "name": "Indestructible (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/41f32ca53f422e27044f4348d27cd24e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/41f32ca53f422e27044f4348d27cd24e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/41f32ca53f422e27044f4348d27cd24e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/827969"
+      }
+    },
+    {
+      "id": "5708735",
+      "name": "Down with the Sickness",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/d/0/51d1869c323b23a3bd2e546df6f40cf1.mp3?hdnea=exp=1774860032~acl=/api/1/1/5/1/d/0/51d1869c323b23a3bd2e546df6f40cf1.mp3*~data=user_id=0,application_id=42~hmac=cf0ca63aa3e797a5fa4a966b4f636dec5d9aeb77b0feea8c2d26c3b287e3f535",
+      "duration_ms": 278000,
+      "track_number": 7,
+      "album": {
+        "id": "521309",
+        "name": "The Sickness (10th Anniversary Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dedf69c6c2b0e55d52a9887476f4ff1b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dedf69c6c2b0e55d52a9887476f4ff1b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dedf69c6c2b0e55d52a9887476f4ff1b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5708735"
+      }
+    },
+    {
+      "id": "1987964237",
+      "name": "Don't Tell Me (feat. Ann Wilson)",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/a/0/8faccb3f539e30a0c78d2c88a46b23e5.mp3?hdnea=exp=1774860032~acl=/api/1/1/8/f/a/0/8faccb3f539e30a0c78d2c88a46b23e5.mp3*~data=user_id=0,application_id=42~hmac=38ab3991ac10b34205a9f80df9ab89d3a97f6ed77e6978061ea37d3141371178",
+      "duration_ms": 271000,
+      "track_number": 8,
+      "album": {
+        "id": "370632037",
+        "name": "Divisive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b37f4844871914b422b93dda211b6bb1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b37f4844871914b422b93dda211b6bb1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b37f4844871914b422b93dda211b6bb1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1987964237"
+      }
+    },
+    {
+      "id": "3233375411",
+      "name": "I Will Not Break",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/a/0/53ae80d1ad8a78030fde92157edda223.mp3?hdnea=exp=1774860032~acl=/api/1/1/5/3/a/0/53ae80d1ad8a78030fde92157edda223.mp3*~data=user_id=0,application_id=42~hmac=04785ceb12e39b56791074324651225b0133bdc2fe9de53c4964fd21c1636a0c",
+      "duration_ms": 292000,
+      "track_number": 9,
+      "album": {
+        "id": "712888751",
+        "name": "I Will Not Break",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a79cff5c5a50d4f82ec0fdd5d535e33c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a79cff5c5a50d4f82ec0fdd5d535e33c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a79cff5c5a50d4f82ec0fdd5d535e33c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3233375411"
+      }
+    },
+    {
+      "id": "105765218",
+      "name": "The Vengeful One",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/2/0/202b5893e51a92dd936c231036bfb098.mp3?hdnea=exp=1774860032~acl=/api/1/1/2/0/2/0/202b5893e51a92dd936c231036bfb098.mp3*~data=user_id=0,application_id=42~hmac=76e4d6a94cacecbe7677cb0167c2803020f7f4cb0599be47ca6322ea3484a4b3",
+      "duration_ms": 252000,
+      "track_number": 10,
+      "album": {
+        "id": "11020874",
+        "name": "Immortalized (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d8908dc7e46066241f2f1c07778b4a8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d8908dc7e46066241f2f1c07778b4a8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d8908dc7e46066241f2f1c07778b4a8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2127",
+          "name": "Disturbed"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/105765218"
+      }
+    }
+  ]
+}

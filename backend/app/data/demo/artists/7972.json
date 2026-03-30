@@ -1,0 +1,32 @@
+{
+  "id": "7972",
+  "name": "Gucci Mane",
+  "popularity": 92,
+  "followers": {
+    "total": 924170
+  },
+  "genres": [
+    "trap"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/887fe074ecf8b10e4a16f897a5eaf761/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/887fe074ecf8b10e4a16f897a5eaf761/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/887fe074ecf8b10e4a16f897a5eaf761/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/7972"
+  },
+  "uri": "deezer:artist:7972"
+}

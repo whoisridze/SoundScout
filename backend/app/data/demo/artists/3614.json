@@ -1,0 +1,33 @@
+{
+  "id": "3614",
+  "name": "B.B. King",
+  "popularity": 99,
+  "followers": {
+    "total": 1692962
+  },
+  "genres": [
+    "blues rock",
+    "blues"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0f58456c5fd66319a04ad06dc2cfac94/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0f58456c5fd66319a04ad06dc2cfac94/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/0f58456c5fd66319a04ad06dc2cfac94/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/3614"
+  },
+  "uri": "deezer:artist:3614"
+}

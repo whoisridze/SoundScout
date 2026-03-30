@@ -1,0 +1,32 @@
+{
+  "id": "5319227",
+  "name": "Dance With the Dead",
+  "popularity": 3,
+  "followers": {
+    "total": 39516
+  },
+  "genres": [
+    "synthwave"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/34b16ec56209fd56025b634a7a9a0616/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/34b16ec56209fd56025b634a7a9a0616/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/34b16ec56209fd56025b634a7a9a0616/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5319227"
+  },
+  "uri": "deezer:artist:5319227"
+}

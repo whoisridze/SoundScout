@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1075327092",
+      "name": "Beaver Creek",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/3/0/1e3ac109cec5c0b89c31391fe7527cda.mp3?hdnea=exp=1774859978~acl=/api/1/1/1/e/3/0/1e3ac109cec5c0b89c31391fe7527cda.mp3*~data=user_id=0,application_id=42~hmac=81c03343b04350674d2f4435478e4be951b5a1a62f027f5c032636f6a3716113",
+      "duration_ms": 183000,
+      "track_number": 1,
+      "album": {
+        "id": "172212212",
+        "name": "Canary Forest",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1075327092"
+      }
+    },
+    {
+      "id": "2364143655",
+      "name": "Teakwood",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/5/0/8f5c9a579e54b3105b4a7cdaa47574af.mp3?hdnea=exp=1774859978~acl=/api/1/1/8/f/5/0/8f5c9a579e54b3105b4a7cdaa47574af.mp3*~data=user_id=0,application_id=42~hmac=fe62e7a9f6ea7ffe22b073d03ffae5f1aec82743429a4170c80b530ad3de6c23",
+      "duration_ms": 144000,
+      "track_number": 2,
+      "album": {
+        "id": "463403685",
+        "name": "Lazy Sunday",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4aeafe6e3037971ea41a4a3dee16aca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4aeafe6e3037971ea41a4a3dee16aca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4aeafe6e3037971ea41a4a3dee16aca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2364143655"
+      }
+    },
+    {
+      "id": "2320427055",
+      "name": "Snug",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/9/0/0b9c9b4450847addab5a1f6397ac32b4.mp3?hdnea=exp=1774859978~acl=/api/1/1/0/b/9/0/0b9c9b4450847addab5a1f6397ac32b4.mp3*~data=user_id=0,application_id=42~hmac=a3ddb9ffbee01cde91629cd118b51b06ed8fcad823d47ef17674568c2213e983",
+      "duration_ms": 165000,
+      "track_number": 3,
+      "album": {
+        "id": "451057905",
+        "name": "Late Night Vibes 4",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbddac95eedf3d86182a5aa79da48862/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbddac95eedf3d86182a5aa79da48862/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dbddac95eedf3d86182a5aa79da48862/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2320427055"
+      }
+    },
+    {
+      "id": "2148814957",
+      "name": "believe in myself",
+      "popularity": 1,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/2/0/27204df3c87443b63e7696c54eef61a3.mp3?hdnea=exp=1774859978~acl=/api/1/1/2/7/2/0/27204df3c87443b63e7696c54eef61a3.mp3*~data=user_id=0,application_id=42~hmac=4ec783b691a34fa677f0b05278173127a8e6fc804ac829f6e0095e2988b529fa",
+      "duration_ms": 138000,
+      "track_number": 4,
+      "album": {
+        "id": "407370367",
+        "name": "believe in myself",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94c465556237395f6434214fb2f045a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94c465556237395f6434214fb2f045a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94c465556237395f6434214fb2f045a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2148814957"
+      }
+    },
+    {
+      "id": "1075327122",
+      "name": "Firefly Field",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/3/0/a73b5952bc4552153954fdd26711d760.mp3?hdnea=exp=1774859978~acl=/api/1/1/a/7/3/0/a73b5952bc4552153954fdd26711d760.mp3*~data=user_id=0,application_id=42~hmac=e680f59231b3892a44088eb949da278e0de3ab940ab80bfd7081c4c429bac291",
+      "duration_ms": 148000,
+      "track_number": 5,
+      "album": {
+        "id": "172212212",
+        "name": "Canary Forest",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1075327122"
+      }
+    },
+    {
+      "id": "962678812",
+      "name": "Blankets",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/d/0/3ed0a0749a9d4cac193e8d88075f0211.mp3?hdnea=exp=1774859978~acl=/api/1/1/3/e/d/0/3ed0a0749a9d4cac193e8d88075f0211.mp3*~data=user_id=0,application_id=42~hmac=f09ada6dd8b07358ec38259b1e84fb408cd84568111628d4694ef9081bdfc7df",
+      "duration_ms": 213000,
+      "track_number": 6,
+      "album": {
+        "id": "148676682",
+        "name": "Home",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64b962275c418690b100b1e008515ad7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64b962275c418690b100b1e008515ad7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64b962275c418690b100b1e008515ad7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/962678812"
+      }
+    },
+    {
+      "id": "1075327112",
+      "name": "Cap’s Café",
+      "popularity": 5,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/5/0/725e8954c6a580b3c999d225ad0ebe05.mp3?hdnea=exp=1774859978~acl=/api/1/1/7/2/5/0/725e8954c6a580b3c999d225ad0ebe05.mp3*~data=user_id=0,application_id=42~hmac=53a12e005cbd262168d3aa51ea8922551222cc666677303aa1b12fdfd27e3403",
+      "duration_ms": 179000,
+      "track_number": 7,
+      "album": {
+        "id": "172212212",
+        "name": "Canary Forest",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1075327112"
+      }
+    },
+    {
+      "id": "962678822",
+      "name": "Thinking Chair",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/e/0/13e47fa09c5eb35334b88dda76f35760.mp3?hdnea=exp=1774859978~acl=/api/1/1/1/3/e/0/13e47fa09c5eb35334b88dda76f35760.mp3*~data=user_id=0,application_id=42~hmac=ab9bf9ba868d0453af98e04448bfde77530491dcc797e0141f39a61dd8ff88f5",
+      "duration_ms": 196000,
+      "track_number": 8,
+      "album": {
+        "id": "148676682",
+        "name": "Home",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64b962275c418690b100b1e008515ad7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64b962275c418690b100b1e008515ad7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/64b962275c418690b100b1e008515ad7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/962678822"
+      }
+    },
+    {
+      "id": "1075327082",
+      "name": "Canary Forest",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/f/0/3ef2b859897ad0fca1d455b259573b93.mp3?hdnea=exp=1774859978~acl=/api/1/1/3/e/f/0/3ef2b859897ad0fca1d455b259573b93.mp3*~data=user_id=0,application_id=42~hmac=e7bad10ff824b69e6f19cc1fa07b5fd44c83db7944ecae474c59864e38ff4766",
+      "duration_ms": 137000,
+      "track_number": 9,
+      "album": {
+        "id": "172212212",
+        "name": "Canary Forest",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d72e3332f54dc7b7dd8b4365ea63b10/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1075327082"
+      }
+    },
+    {
+      "id": "959496062",
+      "name": "Pick Me Up",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/1/0/2c192e9bbebad2bb81cd9119d1d7167a.mp3?hdnea=exp=1774859978~acl=/api/1/1/2/c/1/0/2c192e9bbebad2bb81cd9119d1d7167a.mp3*~data=user_id=0,application_id=42~hmac=17aa5e8d8829b0ef9003e0fdd12862ed96f5565b9adabdadcbcd70bfd0cc7d59",
+      "duration_ms": 186000,
+      "track_number": 10,
+      "album": {
+        "id": "148013042",
+        "name": "Chillhop Essentials Summer 2020",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8e477417c5701ff273db89833855284/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8e477417c5701ff273db89833855284/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8e477417c5701ff273db89833855284/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5847028",
+          "name": "Aso"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/959496062"
+      }
+    }
+  ]
+}

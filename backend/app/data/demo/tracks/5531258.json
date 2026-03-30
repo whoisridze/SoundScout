@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "446082632",
+      "name": "All The Stars (From \"Black Panther: The Album\")",
+      "popularity": 92,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/7/0/cf72a0430bc898b8b931254ce13b6bd9.mp3?hdnea=exp=1774859997~acl=/api/1/1/c/f/7/0/cf72a0430bc898b8b931254ce13b6bd9.mp3*~data=user_id=0,application_id=42~hmac=d0533c138e78ad3c6b5172ca4e145469f9f4f0240f785f5d1ae755ce5f6ca17f",
+      "duration_ms": 235000,
+      "track_number": 1,
+      "album": {
+        "id": "54317602",
+        "name": "All The Stars",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df5c13b1fc432ae674c700a0b0e47fcf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df5c13b1fc432ae674c700a0b0e47fcf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df5c13b1fc432ae674c700a0b0e47fcf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/446082632"
+      }
+    },
+    {
+      "id": "1410738172",
+      "name": "Kiss Me More (feat. SZA)",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/8/0/708cb968c98fca7c4336b999b56da763.mp3?hdnea=exp=1774859997~acl=/api/1/1/7/0/8/0/708cb968c98fca7c4336b999b56da763.mp3*~data=user_id=0,application_id=42~hmac=d6a92e3c39749b48e72bb8f1aad0d294ea6ee404af5d4487dd09ed063ac157a6",
+      "duration_ms": 208000,
+      "track_number": 2,
+      "album": {
+        "id": "238876612",
+        "name": "Planet Her",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e012b5bba83edac911b09ca1ab29e1e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e012b5bba83edac911b09ca1ab29e1e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1e012b5bba83edac911b09ca1ab29e1e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1410738172"
+      }
+    },
+    {
+      "id": "3106586641",
+      "name": "luther",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/b/0/26b2e6342d760a15e4c87ee5adee1d17.mp3?hdnea=exp=1774859997~acl=/api/1/1/2/6/b/0/26b2e6342d760a15e4c87ee5adee1d17.mp3*~data=user_id=0,application_id=42~hmac=9146bc671e174c89580a287b9a6885b048e21627496f5e20f8f60070650299c8",
+      "duration_ms": 178000,
+      "track_number": 3,
+      "album": {
+        "id": "673968231",
+        "name": "GNX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82db4c0f8e9412cafb1cd765b076d58c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82db4c0f8e9412cafb1cd765b076d58c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/82db4c0f8e9412cafb1cd765b076d58c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3106586641"
+      }
+    },
+    {
+      "id": "2055292087",
+      "name": "Snooze",
+      "popularity": 84,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/a/0/f5a928f019e0f9986a0e728d9312e83d.mp3?hdnea=exp=1774859997~acl=/api/1/1/f/5/a/0/f5a928f019e0f9986a0e728d9312e83d.mp3*~data=user_id=0,application_id=42~hmac=757f0861f3d51d8d7e5b380c5d6433bdb2fea5fc29566b0c675b833bd75cf0bf",
+      "duration_ms": 201000,
+      "track_number": 4,
+      "album": {
+        "id": "383703577",
+        "name": "SOS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c3b409f0d5bd781821ec0fd79d5b15/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c3b409f0d5bd781821ec0fd79d5b15/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c3b409f0d5bd781821ec0fd79d5b15/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2055292087"
+      }
+    },
+    {
+      "id": "3843976511",
+      "name": "Save The Day (From \"Hoppers\")",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/9/0/a3983deed3c7b6543f8a8c6a91800e90.mp3?hdnea=exp=1774859997~acl=/api/1/1/a/3/9/0/a3983deed3c7b6543f8a8c6a91800e90.mp3*~data=user_id=0,application_id=42~hmac=702f988bec6367ac0b5679994b65456be9feb99bea127739075efebf69f1169f",
+      "duration_ms": 172000,
+      "track_number": 5,
+      "album": {
+        "id": "918750281",
+        "name": "Save The Day (From \"Hoppers\")",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e89ed523f1c0aceb6f2871bc0fc3f161/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e89ed523f1c0aceb6f2871bc0fc3f161/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e89ed523f1c0aceb6f2871bc0fc3f161/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3843976511"
+      }
+    },
+    {
+      "id": "2058562847",
+      "name": "Kill Bill",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/d/0/c9da18ef6505f839f9ad3856602409e4.mp3?hdnea=exp=1774859997~acl=/api/1/1/c/9/d/0/c9da18ef6505f839f9ad3856602409e4.mp3*~data=user_id=0,application_id=42~hmac=cbcdb27d230e51e5fd7cfc666312b30ab77875c78f364d72be21ff65593e74fb",
+      "duration_ms": 153000,
+      "track_number": 6,
+      "album": {
+        "id": "384460217",
+        "name": "SOS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c3b409f0d5bd781821ec0fd79d5b15/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c3b409f0d5bd781821ec0fd79d5b15/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c3b409f0d5bd781821ec0fd79d5b15/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2058562847"
+      }
+    },
+    {
+      "id": "667570632",
+      "name": "Power is Power",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/4/0/8e4da0f3bcfe78a5bf9db909ce18927e.mp3?hdnea=exp=1774859997~acl=/api/1/1/8/e/4/0/8e4da0f3bcfe78a5bf9db909ce18927e.mp3*~data=user_id=0,application_id=42~hmac=3c47f67fe75bb33412323835d32830e1eea4784808448f809210792c83bbabe1",
+      "duration_ms": 211000,
+      "track_number": 7,
+      "album": {
+        "id": "94070002",
+        "name": "Power is Power",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0879118ae0a60e54914102bfa1651348/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0879118ae0a60e54914102bfa1651348/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0879118ae0a60e54914102bfa1651348/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/667570632"
+      }
+    },
+    {
+      "id": "1189202982",
+      "name": "Good Days",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/1/0/711000e4b2510e58e2f9e5fc265be4ea.mp3?hdnea=exp=1774859997~acl=/api/1/1/7/1/1/0/711000e4b2510e58e2f9e5fc265be4ea.mp3*~data=user_id=0,application_id=42~hmac=759e70947a5b088e2ee545b841def4176a460e4094dbd7a55b34135bf8045bad",
+      "duration_ms": 279000,
+      "track_number": 8,
+      "album": {
+        "id": "195663212",
+        "name": "Good Days",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8aafccd5fc82acdebc88372bd1bef371/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8aafccd5fc82acdebc88372bd1bef371/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8aafccd5fc82acdebc88372bd1bef371/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1189202982"
+      }
+    },
+    {
+      "id": "2055292047",
+      "name": "Low",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/d/0/5fd49dd51e401369e72e1b6da6fc6ae6.mp3?hdnea=exp=1774859997~acl=/api/1/1/5/f/d/0/5fd49dd51e401369e72e1b6da6fc6ae6.mp3*~data=user_id=0,application_id=42~hmac=62bbf215b1a72e7dccced31bb3cf40f51f1504edbdde6c7fca6a85b57ecfdab9",
+      "duration_ms": 181000,
+      "track_number": 9,
+      "album": {
+        "id": "383703577",
+        "name": "SOS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c3b409f0d5bd781821ec0fd79d5b15/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c3b409f0d5bd781821ec0fd79d5b15/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3c3b409f0d5bd781821ec0fd79d5b15/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2055292047"
+      }
+    },
+    {
+      "id": "440224672",
+      "name": "The Weekend (Funk Wav Remix)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/1/0/ea1bd9d3b56826a45a1bbf348e6ddb94.mp3?hdnea=exp=1774859997~acl=/api/1/1/e/a/1/0/ea1bd9d3b56826a45a1bbf348e6ddb94.mp3*~data=user_id=0,application_id=42~hmac=88d3251fc8a2cca6517906e0e7c6f3522caf1dd1bdd7a6b9fd42f908aa0141a2",
+      "duration_ms": 171000,
+      "track_number": 10,
+      "album": {
+        "id": "53372152",
+        "name": "The Weekend (Funk Wav Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bfd1ae4e6286af84200779de07885f67/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bfd1ae4e6286af84200779de07885f67/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bfd1ae4e6286af84200779de07885f67/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5531258",
+          "name": "SZA"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/440224672"
+      }
+    }
+  ]
+}

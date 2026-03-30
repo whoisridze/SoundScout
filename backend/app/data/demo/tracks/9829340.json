@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2300028585",
+      "name": "Velvet Ring",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/c/0/f9cb09c96bda374d09f94213d260da68.mp3?hdnea=exp=1774860057~acl=/api/1/1/f/9/c/0/f9cb09c96bda374d09f94213d260da68.mp3*~data=user_id=0,application_id=42~hmac=8148797e35ef043277395dfebb41e0ada05cdc8a83ca825912466c0cb68dc54f",
+      "duration_ms": 155000,
+      "track_number": 1,
+      "album": {
+        "id": "446135515",
+        "name": "Masterpiece",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4e018bdc4c355cc974e9e7b7f65dadbd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4e018bdc4c355cc974e9e7b7f65dadbd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4e018bdc4c355cc974e9e7b7f65dadbd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2300028585"
+      }
+    },
+    {
+      "id": "2421606815",
+      "name": "Vampire Empire",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/7/0/2e77e50a5c8f6adebf154c4024ee2f1f.mp3?hdnea=exp=1774860057~acl=/api/1/1/2/e/7/0/2e77e50a5c8f6adebf154c4024ee2f1f.mp3*~data=user_id=0,application_id=42~hmac=f5fa48a4da268e5125f4fc063ab5976944b7653773bfeb3a9cd3d474fae91d92",
+      "duration_ms": 192000,
+      "track_number": 2,
+      "album": {
+        "id": "479102075",
+        "name": "Vampire Empire / Born For Loving You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a7bed7f31ac22327fc555ef95f8d7dda/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a7bed7f31ac22327fc555ef95f8d7dda/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a7bed7f31ac22327fc555ef95f8d7dda/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2421606815"
+      }
+    },
+    {
+      "id": "1627955162",
+      "name": "Simulation Swarm",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/a/0/24a67d48aaebd55e30204ee4c15d966a.mp3?hdnea=exp=1774860057~acl=/api/1/1/2/4/a/0/24a67d48aaebd55e30204ee4c15d966a.mp3*~data=user_id=0,application_id=42~hmac=dfb4bafdacebc2864a4fdd4582efa53bd3aba3727007da0782accc6c1ec6383e",
+      "duration_ms": 252000,
+      "track_number": 3,
+      "album": {
+        "id": "289107242",
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7d1aafad25fa6af40ed8c920d23769/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7d1aafad25fa6af40ed8c920d23769/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7d1aafad25fa6af40ed8c920d23769/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1627955162"
+      }
+    },
+    {
+      "id": "1627955002",
+      "name": "Change",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/9/0/ff9cbf331e200a0fc02b4a55c4ab4c5e.mp3?hdnea=exp=1774860057~acl=/api/1/1/f/f/9/0/ff9cbf331e200a0fc02b4a55c4ab4c5e.mp3*~data=user_id=0,application_id=42~hmac=9091d98eb07647e4acbfa7e96d706f97a6dd3546b843e0b62ce6669aa4ff9bd5",
+      "duration_ms": 295000,
+      "track_number": 4,
+      "album": {
+        "id": "289107242",
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7d1aafad25fa6af40ed8c920d23769/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7d1aafad25fa6af40ed8c920d23769/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7d1aafad25fa6af40ed8c920d23769/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1627955002"
+      }
+    },
+    {
+      "id": "3508124481",
+      "name": "Words",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/f/0/62f096435873bb9289bd0693e0306b25.mp3?hdnea=exp=1774860057~acl=/api/1/1/6/2/f/0/62f096435873bb9289bd0693e0306b25.mp3*~data=user_id=0,application_id=42~hmac=4a4228d8d0a91883a2db37da488946dc33e012fc58bf5377d9d90a6112189a59",
+      "duration_ms": 227000,
+      "track_number": 5,
+      "album": {
+        "id": "804726201",
+        "name": "Double Infinity",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3508124481"
+      }
+    },
+    {
+      "id": "3461115911",
+      "name": "Los Angeles",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/a/0/d6a30f564b00fdf42198156593b0e02b.mp3?hdnea=exp=1774860057~acl=/api/1/1/d/6/a/0/d6a30f564b00fdf42198156593b0e02b.mp3*~data=user_id=0,application_id=42~hmac=5aaea56efa53ac3c3a19c8d98117c477eeafc0a6c22b9c30c41dbd6bfa906afa",
+      "duration_ms": 237000,
+      "track_number": 6,
+      "album": {
+        "id": "788454651",
+        "name": "Los Angeles / Grandmother",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3461115911"
+      }
+    },
+    {
+      "id": "3418579591",
+      "name": "All Night All Day",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/7/0/a97fc30c058ed411b1919d356e216efc.mp3?hdnea=exp=1774860057~acl=/api/1/1/a/9/7/0/a97fc30c058ed411b1919d356e216efc.mp3*~data=user_id=0,application_id=42~hmac=4ffc7e2266705c6455dc3d96bfefc709f371b4cc72f5a582b71112aee3276932",
+      "duration_ms": 288000,
+      "track_number": 7,
+      "album": {
+        "id": "773886521",
+        "name": "All Night All Day",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3418579591"
+      }
+    },
+    {
+      "id": "766306422",
+      "name": "Not",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/8/0/ad82b067bfbddcf3f9cae627d99d8c31.mp3?hdnea=exp=1774860057~acl=/api/1/1/a/d/8/0/ad82b067bfbddcf3f9cae627d99d8c31.mp3*~data=user_id=0,application_id=42~hmac=f5072bedf9ece5f7278b6375b2ceb1432dcdb1133bd985e1425fd46cfe6e7404",
+      "duration_ms": 367000,
+      "track_number": 8,
+      "album": {
+        "id": "113049032",
+        "name": "Two Hands",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28c2fba857ca1b5c0b23daf510863742/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28c2fba857ca1b5c0b23daf510863742/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28c2fba857ca1b5c0b23daf510863742/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/766306422"
+      }
+    },
+    {
+      "id": "1627955062",
+      "name": "Little Things",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/b/0/09b09aef31c8f2a51ba1b61688bf7532.mp3?hdnea=exp=1774860057~acl=/api/1/1/0/9/b/0/09b09aef31c8f2a51ba1b61688bf7532.mp3*~data=user_id=0,application_id=42~hmac=aecae7872e936e40cf85976b63cd685805aa1457aa6d92ac76cadf4f5816295e",
+      "duration_ms": 344000,
+      "track_number": 9,
+      "album": {
+        "id": "289107242",
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7d1aafad25fa6af40ed8c920d23769/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7d1aafad25fa6af40ed8c920d23769/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7d1aafad25fa6af40ed8c920d23769/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1627955062"
+      }
+    },
+    {
+      "id": "3362703191",
+      "name": "Incomprehensible",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/3/0/bc324493311b4ced6fb48f6826d59f8b.mp3?hdnea=exp=1774860057~acl=/api/1/1/b/c/3/0/bc324493311b4ced6fb48f6826d59f8b.mp3*~data=user_id=0,application_id=42~hmac=3b6c2c37be17835e9cb719c4938c6aca867476364d8364c0c2122736e0101212",
+      "duration_ms": 233000,
+      "track_number": 10,
+      "album": {
+        "id": "755380161",
+        "name": "Incomprehensible",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7bd8c0dacb8feace159a1dc4760b34d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9829340",
+          "name": "Big Thief"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3362703191"
+      }
+    }
+  ]
+}

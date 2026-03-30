@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "4495513",
+      "name": "Travis Scott",
+      "popularity": 99,
+      "followers": {
+        "total": 3068503
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8d8316146026d7e6ce377e314536df62/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8d8316146026d7e6ce377e314536df62/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8d8316146026d7e6ce377e314536df62/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4495513"
+      },
+      "uri": "deezer:artist:4495513"
+    },
+    {
+      "id": "165930",
+      "name": "Future",
+      "popularity": 99,
+      "followers": {
+        "total": 3936908
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c8c8fea7e2b8613b3ba7328d22d3016c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c8c8fea7e2b8613b3ba7328d22d3016c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c8c8fea7e2b8613b3ba7328d22d3016c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/165930"
+      },
+      "uri": "deezer:artist:165930"
+    },
+    {
+      "id": "6853403",
+      "name": "21 Savage",
+      "popularity": 99,
+      "followers": {
+        "total": 1478719
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/76b4cd56c7e94e8d2bdc3e2157e1080f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/76b4cd56c7e94e8d2bdc3e2157e1080f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/76b4cd56c7e94e8d2bdc3e2157e1080f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/6853403"
+      },
+      "uri": "deezer:artist:6853403"
+    },
+    {
+      "id": "4962010",
+      "name": "Migos",
+      "popularity": 99,
+      "followers": {
+        "total": 2904412
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/dc75c88ae1982a4187a3b806899e17ab/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/dc75c88ae1982a4187a3b806899e17ab/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/dc75c88ae1982a4187a3b806899e17ab/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4962010"
+      },
+      "uri": "deezer:artist:4962010"
+    },
+    {
+      "id": "1590752",
+      "name": "Young Thug",
+      "popularity": 99,
+      "followers": {
+        "total": 1518319
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/89833703db63ec93f85f7979c2fb37f3/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/89833703db63ec93f85f7979c2fb37f3/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/89833703db63ec93f85f7979c2fb37f3/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1590752"
+      },
+      "uri": "deezer:artist:1590752"
+    },
+    {
+      "id": "7101343",
+      "name": "Lil Uzi Vert",
+      "popularity": 99,
+      "followers": {
+        "total": 1217982
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/aee2db9a69abb62ae05b644d0ea68055/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/aee2db9a69abb62ae05b644d0ea68055/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/aee2db9a69abb62ae05b644d0ea68055/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7101343"
+      },
+      "uri": "deezer:artist:7101343"
+    },
+    {
+      "id": "10002824",
+      "name": "Playboi Carti",
+      "popularity": 79,
+      "followers": {
+        "total": 792875
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b90097972a60d9d8598a79a786be1a3a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b90097972a60d9d8598a79a786be1a3a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b90097972a60d9d8598a79a786be1a3a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10002824"
+      },
+      "uri": "deezer:artist:10002824"
+    },
+    {
+      "id": "4968870",
+      "name": "Metro Boomin",
+      "popularity": 72,
+      "followers": {
+        "total": 723857
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bc031b73f958987fa103031070be5c16/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bc031b73f958987fa103031070be5c16/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bc031b73f958987fa103031070be5c16/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4968870"
+      },
+      "uri": "deezer:artist:4968870"
+    },
+    {
+      "id": "7972",
+      "name": "Gucci Mane",
+      "popularity": 92,
+      "followers": {
+        "total": 924170
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/887fe074ecf8b10e4a16f897a5eaf761/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/887fe074ecf8b10e4a16f897a5eaf761/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/887fe074ecf8b10e4a16f897a5eaf761/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7972"
+      },
+      "uri": "deezer:artist:7972"
+    },
+    {
+      "id": "7260670",
+      "name": "Kodak Black",
+      "popularity": 65,
+      "followers": {
+        "total": 652219
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ea8a331290d65200aaf09a7748975079/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ea8a331290d65200aaf09a7748975079/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ea8a331290d65200aaf09a7748975079/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7260670"
+      },
+      "uri": "deezer:artist:7260670"
+    },
+    {
+      "id": "4344192",
+      "name": "Gunna",
+      "popularity": 70,
+      "followers": {
+        "total": 700757
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f6ae30d19f7e865c79b070de2087bd96/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f6ae30d19f7e865c79b070de2087bd96/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f6ae30d19f7e865c79b070de2087bd96/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4344192"
+      },
+      "uri": "deezer:artist:4344192"
+    },
+    {
+      "id": "398521",
+      "name": "Lil Baby",
+      "popularity": 99,
+      "followers": {
+        "total": 1415716
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7bc10ddb4a409bfb89ae740c6ed50b28/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7bc10ddb4a409bfb89ae740c6ed50b28/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7bc10ddb4a409bfb89ae740c6ed50b28/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/398521"
+      },
+      "uri": "deezer:artist:398521"
+    },
+    {
+      "id": "1518490",
+      "name": "A$AP Rocky",
+      "popularity": 99,
+      "followers": {
+        "total": 2064447
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5eebb137c5f4d0eb8fb5f9227e1b6288/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5eebb137c5f4d0eb8fb5f9227e1b6288/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5eebb137c5f4d0eb8fb5f9227e1b6288/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1518490"
+      },
+      "uri": "deezer:artist:1518490"
+    },
+    {
+      "id": "5131091",
+      "name": "Denzel Curry",
+      "popularity": 18,
+      "followers": {
+        "total": 184459
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f0d047c02138800e4921a46f4b72f995/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f0d047c02138800e4921a46f4b72f995/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f0d047c02138800e4921a46f4b72f995/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5131091"
+      },
+      "uri": "deezer:artist:5131091"
+    },
+    {
+      "id": "11347866",
+      "name": "Ski Mask the Slump God",
+      "popularity": 32,
+      "followers": {
+        "total": 321792
+      },
+      "genres": [
+        "trap"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2a4c612826cd83bf1a4fe371f410abaf/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2a4c612826cd83bf1a4fe371f410abaf/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2a4c612826cd83bf1a4fe371f410abaf/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/11347866"
+      },
+      "uri": "deezer:artist:11347866"
+    }
+  ]
+}

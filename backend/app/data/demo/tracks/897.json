@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2947342",
+      "name": "Somebody Told Me",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/c/0/eecc35ae2236482a604c792118b42ee0.mp3?hdnea=exp=1774859882~acl=/api/1/1/e/e/c/0/eecc35ae2236482a604c792118b42ee0.mp3*~data=user_id=0,application_id=42~hmac=0e0eaeebe7560fd90d6c88bdb265d2cb958037a225ce984e254863d15bf923c8",
+      "duration_ms": 198000,
+      "track_number": 1,
+      "album": {
+        "id": "286433",
+        "name": "Hot Fuss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2947342"
+      }
+    },
+    {
+      "id": "953097",
+      "name": "Mr. Brightside",
+      "popularity": 90,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/2/0/0f2afffd5ba40fc616ee562cde64b94f.mp3?hdnea=exp=1774859882~acl=/api/1/1/0/f/2/0/0f2afffd5ba40fc616ee562cde64b94f.mp3*~data=user_id=0,application_id=42~hmac=954755e9838dbad23c9444590d5dae56c760089bc7bdc6b3cb9571d0c112f252",
+      "duration_ms": 223000,
+      "track_number": 2,
+      "album": {
+        "id": "107198",
+        "name": "Nu Rock",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ecff532dd84c6538099b58baefccb8fb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ecff532dd84c6538099b58baefccb8fb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ecff532dd84c6538099b58baefccb8fb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/953097"
+      }
+    },
+    {
+      "id": "407173132",
+      "name": "The Man",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/1/0/14100841842556feffe64152b368978e.mp3?hdnea=exp=1774859882~acl=/api/1/1/1/4/1/0/14100841842556feffe64152b368978e.mp3*~data=user_id=0,application_id=42~hmac=a1bd40f3f7d1d9fbfb33c5faf09d2357616310be612db3fd7ba02033c0e2a2f2",
+      "duration_ms": 248000,
+      "track_number": 3,
+      "album": {
+        "id": "48211792",
+        "name": "Wonderful Wonderful",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9011a35cfee665303d7dea98f1977a72/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9011a35cfee665303d7dea98f1977a72/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9011a35cfee665303d7dea98f1977a72/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/407173132"
+      }
+    },
+    {
+      "id": "1041329402",
+      "name": "All These Things That I've Done",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/d/0/aede6c562addc7be6a7eb031efd3d946.mp3?hdnea=exp=1774859882~acl=/api/1/1/a/e/d/0/aede6c562addc7be6a7eb031efd3d946.mp3*~data=user_id=0,application_id=42~hmac=7789581b262f9daf4cafe79b375ef52cdba91db454e9d53ea239f689dd362fa5",
+      "duration_ms": 302000,
+      "track_number": 4,
+      "album": {
+        "id": "164869492",
+        "name": "Hot Fuss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d9fdd5ce1f7e5a4a3774697df0347f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d9fdd5ce1f7e5a4a3774697df0347f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d9fdd5ce1f7e5a4a3774697df0347f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1041329402"
+      }
+    },
+    {
+      "id": "2947339",
+      "name": "Jenny Was A Friend Of Mine",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/5/0/5d5beaf2e62a2626d6b5152ea6682ef1.mp3?hdnea=exp=1774859882~acl=/api/1/1/5/d/5/0/5d5beaf2e62a2626d6b5152ea6682ef1.mp3*~data=user_id=0,application_id=42~hmac=0d089e4d39ea046f1578290f416d25c2ba07cc1257ef3ae27329046fc80632ea",
+      "duration_ms": 244000,
+      "track_number": 5,
+      "album": {
+        "id": "286433",
+        "name": "Hot Fuss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2947339"
+      }
+    },
+    {
+      "id": "2947341",
+      "name": "Smile Like You Mean It",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/0/0/830a0a21a2ab2fd291903be7deb4457a.mp3?hdnea=exp=1774859882~acl=/api/1/1/8/3/0/0/830a0a21a2ab2fd291903be7deb4457a.mp3*~data=user_id=0,application_id=42~hmac=7ea8fd8348f9e2dd64b5b6a612eda01c1be0b88c3be8bc06ccb8d4292c3de16f",
+      "duration_ms": 234000,
+      "track_number": 6,
+      "album": {
+        "id": "286433",
+        "name": "Hot Fuss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2947341"
+      }
+    },
+    {
+      "id": "1109956",
+      "name": "Read My Mind",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/6/0/1660734100a2131b771d919c8fc2ba10.mp3?hdnea=exp=1774859882~acl=/api/1/1/1/6/6/0/1660734100a2131b771d919c8fc2ba10.mp3*~data=user_id=0,application_id=42~hmac=d680786497f83e2070e79daf2b925ea3247c7a80239f37aa6994e1e190ea08d3",
+      "duration_ms": 243000,
+      "track_number": 7,
+      "album": {
+        "id": "119617",
+        "name": "Sam's Town",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/daaf443d20af3ec952c2504a02032e49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/daaf443d20af3ec952c2504a02032e49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/daaf443d20af3ec952c2504a02032e49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1109956"
+      }
+    },
+    {
+      "id": "71955252",
+      "name": "Human",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/c/0/f9cd663a148cd72a3cc91c491bd8aad5.mp3?hdnea=exp=1774859882~acl=/api/1/1/f/9/c/0/f9cd663a148cd72a3cc91c491bd8aad5.mp3*~data=user_id=0,application_id=42~hmac=ead97b86b103a4e6390bf06c2a689f90819b992c2f8f9ef98b9d471d082577f1",
+      "duration_ms": 249000,
+      "track_number": 8,
+      "album": {
+        "id": "7067736",
+        "name": "Direct Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/727528cdf2e2a99d397e872fe2bd856e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/727528cdf2e2a99d397e872fe2bd856e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/727528cdf2e2a99d397e872fe2bd856e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/71955252"
+      }
+    },
+    {
+      "id": "1109953",
+      "name": "When You Were Young",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/c/0/2fcb1743e48221c1b63377a4faf593aa.mp3?hdnea=exp=1774859882~acl=/api/1/1/2/f/c/0/2fcb1743e48221c1b63377a4faf593aa.mp3*~data=user_id=0,application_id=42~hmac=1839b2edc25eccd8a8553ccdbf6c1e6e7ebe47e63c6b0702f967dafb5ca7d377",
+      "duration_ms": 218000,
+      "track_number": 9,
+      "album": {
+        "id": "119617",
+        "name": "Sam's Town",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/daaf443d20af3ec952c2504a02032e49/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/daaf443d20af3ec952c2504a02032e49/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/daaf443d20af3ec952c2504a02032e49/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1109953"
+      }
+    },
+    {
+      "id": "2947348",
+      "name": "Midnight Show",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/8/0/018445dbaf9694577c2e36d93760c509.mp3?hdnea=exp=1774859882~acl=/api/1/1/0/1/8/0/018445dbaf9694577c2e36d93760c509.mp3*~data=user_id=0,application_id=42~hmac=fc6224d827cdf255f0e8ab6f2c1c307eab3c2fcf5ccdc625b9faa60f21f7832c",
+      "duration_ms": 243000,
+      "track_number": 10,
+      "album": {
+        "id": "286433",
+        "name": "Hot Fuss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38bb1c3329d465a3e6d4ebfe579df121/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "897",
+          "name": "The Killers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2947348"
+      }
+    }
+  ]
+}

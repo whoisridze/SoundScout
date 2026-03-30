@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "536485",
+      "name": "Kids",
+      "popularity": 90,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/d/0/15ddc4f8f3f1fea6f68496ec7b514ee9.mp3?hdnea=exp=1774859882~acl=/api/1/1/1/5/d/0/15ddc4f8f3f1fea6f68496ec7b514ee9.mp3*~data=user_id=0,application_id=42~hmac=65380c5ac57576c71400ebd9d531f16486fc25646d584e27497319643e74dfe7",
+      "duration_ms": 303000,
+      "track_number": 1,
+      "album": {
+        "id": "71318",
+        "name": "Oracular Spectacular",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/536485"
+      }
+    },
+    {
+      "id": "457602422",
+      "name": "Little Dark Age",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/b/0/feb01a2e479b78c0b716b89809b02416.mp3?hdnea=exp=1774859882~acl=/api/1/1/f/e/b/0/feb01a2e479b78c0b716b89809b02416.mp3*~data=user_id=0,application_id=42~hmac=804229efca0bfabf89ddc707b07f88bfc599ee6bd9b4901edec94cf1e38267eb",
+      "duration_ms": 299000,
+      "track_number": 2,
+      "album": {
+        "id": "56298312",
+        "name": "Little Dark Age",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/457602422"
+      }
+    },
+    {
+      "id": "457602432",
+      "name": "When You Die",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/c/0/57ce097cd2f66a015c8b7843cc7ba5d2.mp3?hdnea=exp=1774859882~acl=/api/1/1/5/7/c/0/57ce097cd2f66a015c8b7843cc7ba5d2.mp3*~data=user_id=0,application_id=42~hmac=b25a71ffafcbbc1bf92c671924d339761598350504a24f444811656311420f2a",
+      "duration_ms": 263000,
+      "track_number": 3,
+      "album": {
+        "id": "56298312",
+        "name": "Little Dark Age",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/457602432"
+      }
+    },
+    {
+      "id": "536484",
+      "name": "Electric Feel",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/a/0/91a0821300463cd04f48f768546610a5.mp3?hdnea=exp=1774859882~acl=/api/1/1/9/1/a/0/91a0821300463cd04f48f768546610a5.mp3*~data=user_id=0,application_id=42~hmac=ae72011698207fcfd135dd1603165ac7be6990ea10b52b7f679de4da686b7ebe",
+      "duration_ms": 229000,
+      "track_number": 4,
+      "album": {
+        "id": "71318",
+        "name": "Oracular Spectacular",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/536484"
+      }
+    },
+    {
+      "id": "536481",
+      "name": "Time to Pretend",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/f/0/ecfd1e15af2459d516ff144f7735e0e5.mp3?hdnea=exp=1774859882~acl=/api/1/1/e/c/f/0/ecfd1e15af2459d516ff144f7735e0e5.mp3*~data=user_id=0,application_id=42~hmac=435616d31d038be74ccbe1bf8962bd72ce2ee2a881f379306ca32bc94146ae0b",
+      "duration_ms": 261000,
+      "track_number": 5,
+      "album": {
+        "id": "71318",
+        "name": "Oracular Spectacular",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/536481"
+      }
+    },
+    {
+      "id": "457602442",
+      "name": "Me and Michael",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/4/0/8945236c3f4c8c5727d1756005d23fde.mp3?hdnea=exp=1774859882~acl=/api/1/1/8/9/4/0/8945236c3f4c8c5727d1756005d23fde.mp3*~data=user_id=0,application_id=42~hmac=cdd0ed2e1a5fb94a86df1833409f2240af5ab9cf80d367cbd556252b3c75523f",
+      "duration_ms": 289000,
+      "track_number": 6,
+      "album": {
+        "id": "56298312",
+        "name": "Little Dark Age",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/457602442"
+      }
+    },
+    {
+      "id": "536483",
+      "name": "The Youth",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/f/0/8df3715b2ab94caaffe06247fe067ed7.mp3?hdnea=exp=1774859882~acl=/api/1/1/8/d/f/0/8df3715b2ab94caaffe06247fe067ed7.mp3*~data=user_id=0,application_id=42~hmac=60beff96de6315d08452a48b0b7d962851874f2c4ed724a18cc769f4c68bcc66",
+      "duration_ms": 227000,
+      "track_number": 7,
+      "album": {
+        "id": "71318",
+        "name": "Oracular Spectacular",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/536483"
+      }
+    },
+    {
+      "id": "536482",
+      "name": "Weekend Wars",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/b/0/0abafb1e277260ec101017cf9701a139.mp3?hdnea=exp=1774859882~acl=/api/1/1/0/a/b/0/0abafb1e277260ec101017cf9701a139.mp3*~data=user_id=0,application_id=42~hmac=5eb4524c668c8645a188eb3aedc289be730b8c05d41e32eeec5ebdb89f8ccc15",
+      "duration_ms": 250000,
+      "track_number": 8,
+      "album": {
+        "id": "71318",
+        "name": "Oracular Spectacular",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/536482"
+      }
+    },
+    {
+      "id": "536488",
+      "name": "Of Moons, Birds & Monsters",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/3/0/dd3489b14203d120ec804ef6cddae794.mp3?hdnea=exp=1774859882~acl=/api/1/1/d/d/3/0/dd3489b14203d120ec804ef6cddae794.mp3*~data=user_id=0,application_id=42~hmac=9c09ec7d6cbd56a0b2c537a6e9dadc55a6bce24b7ff637d2750be6aec626d892",
+      "duration_ms": 286000,
+      "track_number": 9,
+      "album": {
+        "id": "71318",
+        "name": "Oracular Spectacular",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d910a6585e4a80f06e6fddce4f6f859d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/536488"
+      }
+    },
+    {
+      "id": "457602502",
+      "name": "Hand It Over",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/1/0/771f53215f56a2ca3de0cd6d24dab2a1.mp3?hdnea=exp=1774859882~acl=/api/1/1/7/7/1/0/771f53215f56a2ca3de0cd6d24dab2a1.mp3*~data=user_id=0,application_id=42~hmac=7d34f787353687ede90ad8c019643d400d57a67a96c4db979bb911eee7f5ccae",
+      "duration_ms": 253000,
+      "track_number": 10,
+      "album": {
+        "id": "56298312",
+        "name": "Little Dark Age",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/494429a8ec9251591dea6c1f10ade166/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69627",
+          "name": "MGMT"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/457602502"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "383",
+  "name": "Death Cab for Cutie",
+  "popularity": 19,
+  "followers": {
+    "total": 196453
+  },
+  "genres": [
+    "indie rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/3f44f1d9518985b54ecdaf08994ce027/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/3f44f1d9518985b54ecdaf08994ce027/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/3f44f1d9518985b54ecdaf08994ce027/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/383"
+  },
+  "uri": "deezer:artist:383"
+}

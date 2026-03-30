@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1139648532",
+      "name": "On The Road Again (Live)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25f5bfb9def948c6fbe40f31c5e780b8.mp3?hdnea=exp=1774860078~acl=/api/1/1/2/5/f/0/25f5bfb9def948c6fbe40f31c5e780b8.mp3*~data=user_id=0,application_id=42~hmac=7dc71075d5aaa7221e7947bdb99b86545882e4f1c721c11cb347891ce748c3c6",
+      "duration_ms": 156000,
+      "track_number": 1,
+      "album": {
+        "id": "185800942",
+        "name": "On The Road Again (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1139648532"
+      }
+    },
+    {
+      "id": "2315723",
+      "name": "Lord Protect My Child",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/5/0/c35d08dd8e65a1697c41aba787498962.mp3?hdnea=exp=1774860078~acl=/api/1/1/c/3/5/0/c35d08dd8e65a1697c41aba787498962.mp3*~data=user_id=0,application_id=42~hmac=ab3aee9f87c1db23930ae95ddbdb613c70d9fee4b074f7921a06bec708f4596b",
+      "duration_ms": 284000,
+      "track_number": 2,
+      "album": {
+        "id": "230652",
+        "name": "Hope And Desire",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3edda3c186616ed105e020d373958118/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3edda3c186616ed105e020d373958118/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3edda3c186616ed105e020d373958118/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2315723"
+      }
+    },
+    {
+      "id": "2454948165",
+      "name": "It Hurt So Bad",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/e/0/3fec20e5c7e95b7d60b8e46fb66340a9.mp3?hdnea=exp=1774860078~acl=/api/1/1/3/f/e/0/3fec20e5c7e95b7d60b8e46fb66340a9.mp3*~data=user_id=0,application_id=42~hmac=4b6b06ff9d6833f908b4a19dcaa6edcac25bbf1802489db2b374cf86a0a5cd52",
+      "duration_ms": 290000,
+      "track_number": 3,
+      "album": {
+        "id": "488087295",
+        "name": "Just Won't Burn (25th Anniversary Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d24caae36bfe6cfdb8185cb0a5089a90/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d24caae36bfe6cfdb8185cb0a5089a90/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d24caae36bfe6cfdb8185cb0a5089a90/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2454948165"
+      }
+    },
+    {
+      "id": "507620582",
+      "name": "Blues On A Holiday",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/5/0/0f5012f511bf47866ca94fedaaf064ca.mp3?hdnea=exp=1774860078~acl=/api/1/1/0/f/5/0/0f5012f511bf47866ca94fedaaf064ca.mp3*~data=user_id=0,application_id=42~hmac=f106f30a70d9bf204932b0ac1600a28b818716b6964a1a59640ab136b48c7169",
+      "duration_ms": 182000,
+      "track_number": 4,
+      "album": {
+        "id": "64914212",
+        "name": "Wait For Me",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d5a16307d2f66920f65fa11d31a7c695/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d5a16307d2f66920f65fa11d31a7c695/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d5a16307d2f66920f65fa11d31a7c695/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/507620582"
+      }
+    },
+    {
+      "id": "7421537",
+      "name": "People (Album Version)",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/a/0/caa92106fe800f3ba8c60a970f107258.mp3?hdnea=exp=1774860078~acl=/api/1/1/c/a/a/0/caa92106fe800f3ba8c60a970f107258.mp3*~data=user_id=0,application_id=42~hmac=6bd2d3393bc1a2d56113a5e947aecee8c2890050344d83b8ca2d768ec44c9771",
+      "duration_ms": 205000,
+      "track_number": 5,
+      "album": {
+        "id": "684774",
+        "name": "Back To The River (Bonus Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8beb74bcca5df1b20a4d0a0523e5f724/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8beb74bcca5df1b20a4d0a0523e5f724/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8beb74bcca5df1b20a4d0a0523e5f724/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/7421537"
+      }
+    },
+    {
+      "id": "78516850",
+      "name": "Will The Circle Be Unbroken (Live)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/e/9/0/8e98a19b74d8e15aaeadd43be531d5a7.mp3?hdnea=exp=1774860078~acl=/api/1/1/8/e/9/0/8e98a19b74d8e15aaeadd43be531d5a7.mp3*~data=user_id=0,application_id=42~hmac=1825054240cb4e5fa6593b1d6cdfcb01ffcdd74e72bb97d3f1979db0913ce197",
+      "duration_ms": 537000,
+      "track_number": 6,
+      "album": {
+        "id": "7810057",
+        "name": "All My Friends: Celebrating The Songs & Voice Of Gregg Allman",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7584314ea05e1fe310972bbb0315fbb8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7584314ea05e1fe310972bbb0315fbb8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7584314ea05e1fe310972bbb0315fbb8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/78516850"
+      }
+    },
+    {
+      "id": "2454948135",
+      "name": "Rock Me Right",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/5/0/cb5f4454ccea9d1262979767b5b2e917.mp3?hdnea=exp=1774860078~acl=/api/1/1/c/b/5/0/cb5f4454ccea9d1262979767b5b2e917.mp3*~data=user_id=0,application_id=42~hmac=6f3d413b6c04b0431cfd16ebfc81855a19676f7d01f85e916eb6320d7873c4c7",
+      "duration_ms": 267000,
+      "track_number": 7,
+      "album": {
+        "id": "488087295",
+        "name": "Just Won't Burn (25th Anniversary Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d24caae36bfe6cfdb8185cb0a5089a90/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d24caae36bfe6cfdb8185cb0a5089a90/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d24caae36bfe6cfdb8185cb0a5089a90/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2454948135"
+      }
+    },
+    {
+      "id": "3535132031",
+      "name": "To Know You Is To Love You",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/f/0/8afa255cce87286f9f926f0562bde3fb.mp3?hdnea=exp=1774860078~acl=/api/1/1/8/a/f/0/8afa255cce87286f9f926f0562bde3fb.mp3*~data=user_id=0,application_id=42~hmac=03eb0c5f6aa3a919fe6de5eb51cccb6a894e8778a0446b8389c16312f9ee6a26",
+      "duration_ms": 330000,
+      "track_number": 8,
+      "album": {
+        "id": "814008451",
+        "name": "B.B. King's Blues Summit 100",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45ab465c8545dac4f8043aa8d0b16741/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45ab465c8545dac4f8043aa8d0b16741/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45ab465c8545dac4f8043aa8d0b16741/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3535132031"
+      }
+    },
+    {
+      "id": "7421533",
+      "name": "700 Houses (Album Version)",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/4/0/8744eac549bcf27b221649ac749b9581.mp3?hdnea=exp=1774860078~acl=/api/1/1/8/7/4/0/8744eac549bcf27b221649ac749b9581.mp3*~data=user_id=0,application_id=42~hmac=6273588794f6fec52f9f2d4b209e1007e2ecdbb7e8d7e575fa7714f4809b0e81",
+      "duration_ms": 276000,
+      "track_number": 9,
+      "album": {
+        "id": "684774",
+        "name": "Back To The River (Bonus Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8beb74bcca5df1b20a4d0a0523e5f724/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8beb74bcca5df1b20a4d0a0523e5f724/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8beb74bcca5df1b20a4d0a0523e5f724/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/7421533"
+      }
+    },
+    {
+      "id": "507620502",
+      "name": "Wrapped In The Arms of Another",
+      "popularity": 2,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/8/0/2a8ec5ba1b9ece1bcea821a8a3ab203f.mp3?hdnea=exp=1774860078~acl=/api/1/1/2/a/8/0/2a8ec5ba1b9ece1bcea821a8a3ab203f.mp3*~data=user_id=0,application_id=42~hmac=7a4bdd4303abb1f00a66deafb24473fe821faf639f88b09462146001c51a0dff",
+      "duration_ms": 183000,
+      "track_number": 10,
+      "album": {
+        "id": "64914212",
+        "name": "Wait For Me",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d5a16307d2f66920f65fa11d31a7c695/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d5a16307d2f66920f65fa11d31a7c695/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d5a16307d2f66920f65fa11d31a7c695/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4091",
+          "name": "Susan Tedeschi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/507620502"
+      }
+    }
+  ]
+}

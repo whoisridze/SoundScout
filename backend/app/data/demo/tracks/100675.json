@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3890561131",
+      "name": "Talk To Me Nuh",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/f/0/79fd777842da5d4a96f1568359f1d089.mp3?hdnea=exp=1774860110~acl=/api/1/1/7/9/f/0/79fd777842da5d4a96f1568359f1d089.mp3*~data=user_id=0,application_id=42~hmac=6da4ac69b4b15bb7ae8decef363fb85a966c07fc66cc4f52f4f1c01be1eacf59",
+      "duration_ms": 126000,
+      "track_number": 1,
+      "album": {
+        "id": "936105721",
+        "name": "Talk To Me Nuh",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b959d3e20945c7200eb19a3ebdc12710/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b959d3e20945c7200eb19a3ebdc12710/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b959d3e20945c7200eb19a3ebdc12710/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3890561131"
+      }
+    },
+    {
+      "id": "3209925001",
+      "name": "God Is The Greatest (Radio Edit)",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/1/0/4e115e148a6aa1e8df9603dec8fc0774.mp3?hdnea=exp=1774860110~acl=/api/1/1/4/e/1/0/4e115e148a6aa1e8df9603dec8fc0774.mp3*~data=user_id=0,application_id=42~hmac=42e656ea33321ef3e8eaaf6907d8f74ee7be1e6a6711bfa68c51022a858e3140",
+      "duration_ms": 180000,
+      "track_number": 2,
+      "album": {
+        "id": "705481451",
+        "name": "Viking (Vybz Is King) : 10th Year Anniversary (Radio Edit)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c807ab0ea34e8cc005d10bf434287c0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c807ab0ea34e8cc005d10bf434287c0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c807ab0ea34e8cc005d10bf434287c0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3209925001"
+      }
+    },
+    {
+      "id": "97223044",
+      "name": "Gun Session",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/5/0/46594af6d00e1b0b626da65f5fbd88a6.mp3?hdnea=exp=1774860110~acl=/api/1/1/4/6/5/0/46594af6d00e1b0b626da65f5fbd88a6.mp3*~data=user_id=0,application_id=42~hmac=54d83923cad441663b8ade7ae4c068845ac00c25553195e1d05648be29ed066c",
+      "duration_ms": 347000,
+      "track_number": 3,
+      "album": {
+        "id": "9898640",
+        "name": "Gun Session - Single",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d3397a07f70d3ecfb8416934663d5f4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d3397a07f70d3ecfb8416934663d5f4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d3397a07f70d3ecfb8416934663d5f4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/97223044"
+      }
+    },
+    {
+      "id": "2815123762",
+      "name": "Ignite the World",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/b/0/cabc5442243abbb4caf17fd53cfe6ef1.mp3?hdnea=exp=1774860110~acl=/api/1/1/c/a/b/0/cabc5442243abbb4caf17fd53cfe6ef1.mp3*~data=user_id=0,application_id=42~hmac=d15db8f1e4b761ed5c6a47763a2d71dd542672aec79fd487021fedf53d193f51",
+      "duration_ms": 189000,
+      "track_number": 4,
+      "album": {
+        "id": "590953892",
+        "name": "Party With Me",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/25b3c09ad51a075442307bb592153d82/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/25b3c09ad51a075442307bb592153d82/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/25b3c09ad51a075442307bb592153d82/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2815123762"
+      }
+    },
+    {
+      "id": "3658672672",
+      "name": "Guapi",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/f/0/a2fcccf6f3bd65aee6aaba6f84ad44cd.mp3?hdnea=exp=1774860110~acl=/api/1/1/a/2/f/0/a2fcccf6f3bd65aee6aaba6f84ad44cd.mp3*~data=user_id=0,application_id=42~hmac=f874dab1852cc71cd458fe2ee7ddee0e0f2012f6dd7cb59851a165091fa7fe7a",
+      "duration_ms": 159000,
+      "track_number": 5,
+      "album": {
+        "id": "857404462",
+        "name": "Guapi",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe9a6002dee9b040de15e3cafcdf5e81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe9a6002dee9b040de15e3cafcdf5e81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fe9a6002dee9b040de15e3cafcdf5e81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3658672672"
+      }
+    },
+    {
+      "id": "3834294641",
+      "name": "Panic",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/4/0/0347b05e959926641d042e4fc8d483b0.mp3?hdnea=exp=1774860110~acl=/api/1/1/0/3/4/0/0347b05e959926641d042e4fc8d483b0.mp3*~data=user_id=0,application_id=42~hmac=9a23c6969110a56f1adcd6c5c89d71ca054c9de41b867ea841fd78b55b750506",
+      "duration_ms": 126000,
+      "track_number": 6,
+      "album": {
+        "id": "915582371",
+        "name": "Panic",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3dd7936282131012b52516743419bcaa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3dd7936282131012b52516743419bcaa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3dd7936282131012b52516743419bcaa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3834294641"
+      }
+    },
+    {
+      "id": "3457399911",
+      "name": "PBT",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/2/0/21208806c7925b8e1f4ef5faee02f8ef.mp3?hdnea=exp=1774860110~acl=/api/1/1/2/1/2/0/21208806c7925b8e1f4ef5faee02f8ef.mp3*~data=user_id=0,application_id=42~hmac=181ad07ab367caee113c9c692aeb3117d344badfde6460abb6fd512c88df65ae",
+      "duration_ms": 250000,
+      "track_number": 7,
+      "album": {
+        "id": "787248701",
+        "name": "JACKBOYS 2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a622e01fb9b1c4717c63ae3caca9826/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a622e01fb9b1c4717c63ae3caca9826/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2a622e01fb9b1c4717c63ae3caca9826/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3457399911"
+      }
+    },
+    {
+      "id": "665769802",
+      "name": "Tek It Out",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/5/0/1d56f4d2490f24aa647621125bc5eea7.mp3?hdnea=exp=1774860110~acl=/api/1/1/1/d/5/0/1d56f4d2490f24aa647621125bc5eea7.mp3*~data=user_id=0,application_id=42~hmac=bcef62da258eb662c20deeac3b794118a48e2d2afab4488cab9a937bd157d5bf",
+      "duration_ms": 156000,
+      "track_number": 8,
+      "album": {
+        "id": "93745152",
+        "name": "Tek It Out",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/975d181b26d683214d4fb98bdfc2cab5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/975d181b26d683214d4fb98bdfc2cab5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/975d181b26d683214d4fb98bdfc2cab5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/665769802"
+      }
+    },
+    {
+      "id": "3528941811",
+      "name": "Only Gets Better (Forever)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/d/0/6ed5f6629b98e7450ba32bb1c37f4e77.mp3?hdnea=exp=1774860110~acl=/api/1/1/6/e/d/0/6ed5f6629b98e7450ba32bb1c37f4e77.mp3*~data=user_id=0,application_id=42~hmac=ebadeb7ae2afaf3e09af1aa9dbe63037b266acfedc512204eadf8359b767b123",
+      "duration_ms": 211000,
+      "track_number": 9,
+      "album": {
+        "id": "811828731",
+        "name": "Heart & Soul",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/291d6d0066563329704b363fbed3d9d9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/291d6d0066563329704b363fbed3d9d9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/291d6d0066563329704b363fbed3d9d9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3528941811"
+      }
+    },
+    {
+      "id": "524677682",
+      "name": "Wine To The Top",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/b/0/c3b966e5fc053e1520d613a9358ec37a.mp3?hdnea=exp=1774860110~acl=/api/1/1/c/3/b/0/c3b966e5fc053e1520d613a9358ec37a.mp3*~data=user_id=0,application_id=42~hmac=c0cf8570a4caa4e713917cc75707973af8cd542295ef276ff861e0dfe4ff5146",
+      "duration_ms": 219000,
+      "track_number": 10,
+      "album": {
+        "id": "67702732",
+        "name": "Wine To The Top",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d18f71e03fb2831c2ceac5b8285f068/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d18f71e03fb2831c2ceac5b8285f068/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d18f71e03fb2831c2ceac5b8285f068/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "100675",
+          "name": "Vybz Kartel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/524677682"
+      }
+    }
+  ]
+}

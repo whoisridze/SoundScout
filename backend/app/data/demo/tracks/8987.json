@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "531241971",
+      "name": "Evil",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/b/0/a6be6e1f7aa42f23777ae0a97a39fae2.mp3?hdnea=exp=1774860071~acl=/api/1/1/a/6/b/0/a6be6e1f7aa42f23777ae0a97a39fae2.mp3*~data=user_id=0,application_id=42~hmac=e1c8e40ad40d570e5503e800f940679f916ca0341371412241cd11ff1102ca27",
+      "duration_ms": 246000,
+      "track_number": 1,
+      "album": {
+        "id": "68850801",
+        "name": "The Howlin' Wolf Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9c8b0dc9432893a924f32dc6da1c828/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9c8b0dc9432893a924f32dc6da1c828/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9c8b0dc9432893a924f32dc6da1c828/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/531241971"
+      }
+    },
+    {
+      "id": "1033607462",
+      "name": "Smokestack Lightnin'",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/4/0/0e4f00f2b36c321f763354811598e932.mp3?hdnea=exp=1774860071~acl=/api/1/1/0/e/4/0/0e4f00f2b36c321f763354811598e932.mp3*~data=user_id=0,application_id=42~hmac=753be96d33bec725ac02f2499bbf10edd14ad0da494f6b35e098d56e45017d29",
+      "duration_ms": 181000,
+      "track_number": 2,
+      "album": {
+        "id": "163151932",
+        "name": "Numero Uno Blues",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b26a94bc9cf8afb7965113c7318e970e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b26a94bc9cf8afb7965113c7318e970e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b26a94bc9cf8afb7965113c7318e970e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1033607462"
+      }
+    },
+    {
+      "id": "2231626",
+      "name": "Smokestack Lightnin'",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/2/0/da2757231f6e53c6f4c193521420b5b2.mp3?hdnea=exp=1774860071~acl=/api/1/1/d/a/2/0/da2757231f6e53c6f4c193521420b5b2.mp3*~data=user_id=0,application_id=42~hmac=e93c49081b4d95dddb9a78025eed7cd83239e870043344919ab5c3bd2412632c",
+      "duration_ms": 186000,
+      "track_number": 3,
+      "album": {
+        "id": "223298",
+        "name": "Chess Pieces: The Very Best Of Chess Records",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e2871d3eadc090848e900edf58f0fc7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e2871d3eadc090848e900edf58f0fc7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e2871d3eadc090848e900edf58f0fc7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2231626"
+      }
+    },
+    {
+      "id": "540163102",
+      "name": "Evil (Is Going On)",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/1/0/cf121316b43260f3ef58f873125a9043.mp3?hdnea=exp=1774860071~acl=/api/1/1/c/f/1/0/cf121316b43260f3ef58f873125a9043.mp3*~data=user_id=0,application_id=42~hmac=0326c57a1805cfdd16ef5f3960e755afdfc98b52a6abc2925eb1dcdafb31c615",
+      "duration_ms": 173000,
+      "track_number": 4,
+      "album": {
+        "id": "70485622",
+        "name": "Moanin' In The Moonlight",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/540163102"
+      }
+    },
+    {
+      "id": "540163122",
+      "name": "Moanin' For My Baby",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/3/0/d93d4b6bd4cbb984751fb556dede9862.mp3?hdnea=exp=1774860071~acl=/api/1/1/d/9/3/0/d93d4b6bd4cbb984751fb556dede9862.mp3*~data=user_id=0,application_id=42~hmac=67f9d4a182c9e5ad8bc0972fc88c66f79feaaed94275d16a3a3b20418cf396b2",
+      "duration_ms": 166000,
+      "track_number": 5,
+      "album": {
+        "id": "70485622",
+        "name": "Moanin' In The Moonlight",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/540163122"
+      }
+    },
+    {
+      "id": "540163132",
+      "name": "I Asked For Water",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/c/0/9fc0fa322c68e710f1aa2abc05d9d96b.mp3?hdnea=exp=1774860071~acl=/api/1/1/9/f/c/0/9fc0fa322c68e710f1aa2abc05d9d96b.mp3*~data=user_id=0,application_id=42~hmac=1ad3ea6411922c7004407614b343b3b507c20aacfe740fb457c6d9648ee20480",
+      "duration_ms": 167000,
+      "track_number": 6,
+      "album": {
+        "id": "70485622",
+        "name": "Moanin' In The Moonlight",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/540163132"
+      }
+    },
+    {
+      "id": "540163112",
+      "name": "I'm Leavin You",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/0/0/3a013276633b6b341e2ad26e788d452b.mp3?hdnea=exp=1774860071~acl=/api/1/1/3/a/0/0/3a013276633b6b341e2ad26e788d452b.mp3*~data=user_id=0,application_id=42~hmac=eed51dad31a6df9a52ea4bef7f3f4030ab81fff144b3def7c310ef796a02a323",
+      "duration_ms": 175000,
+      "track_number": 7,
+      "album": {
+        "id": "70485622",
+        "name": "Moanin' In The Moonlight",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/540163112"
+      }
+    },
+    {
+      "id": "540163042",
+      "name": "Moanin' At Midnight",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/0/0/2a0607097ea3c6d00b81b07250fb7d71.mp3?hdnea=exp=1774860071~acl=/api/1/1/2/a/0/0/2a0607097ea3c6d00b81b07250fb7d71.mp3*~data=user_id=0,application_id=42~hmac=6dab05eb91c53bb2aeeded2bb1e0701d404720d27cc4323cecf5a2f4e7a51b65",
+      "duration_ms": 173000,
+      "track_number": 8,
+      "album": {
+        "id": "70485622",
+        "name": "Moanin' In The Moonlight",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/540163042"
+      }
+    },
+    {
+      "id": "540163092",
+      "name": "All Night Boogie (All Night Long)",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/f/0/1affc96b4114f6dd6ee385863f21d5f7.mp3?hdnea=exp=1774860071~acl=/api/1/1/1/a/f/0/1affc96b4114f6dd6ee385863f21d5f7.mp3*~data=user_id=0,application_id=42~hmac=b54a73cd92407530a8877db8481f5cc394cb41eb169b045238609e3856193dae",
+      "duration_ms": 131000,
+      "track_number": 9,
+      "album": {
+        "id": "70485622",
+        "name": "Moanin' In The Moonlight",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d49a12ee3356835f8f9a84624503d674/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/540163092"
+      }
+    },
+    {
+      "id": "538665252",
+      "name": "Built For Comfort",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/3/0/e83445b9d1ae6d0e6a25564460b2626e.mp3?hdnea=exp=1774860071~acl=/api/1/1/e/8/3/0/e83445b9d1ae6d0e6a25564460b2626e.mp3*~data=user_id=0,application_id=42~hmac=7c9b153b8302fcc4a3da80bcf3bab2b2d576bf6610dd4c87c1b3e90eb551f9a9",
+      "duration_ms": 128000,
+      "track_number": 10,
+      "album": {
+        "id": "70200782",
+        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c132f56acb01c0ed46b3c84839be210/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c132f56acb01c0ed46b3c84839be210/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c132f56acb01c0ed46b3c84839be210/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8987",
+          "name": "Howlin' Wolf"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/538665252"
+      }
+    }
+  ]
+}

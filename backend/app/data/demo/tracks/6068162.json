@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1855823687",
+      "name": "Nothing Burns Like The Cold",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/5/0/295b21f6aedaa0c8e67ec0dbcc390432.mp3?hdnea=exp=1774860006~acl=/api/1/1/2/9/5/0/295b21f6aedaa0c8e67ec0dbcc390432.mp3*~data=user_id=0,application_id=42~hmac=68a1a0dad50c0b110693b77bfca02157a6dd953bbeabedecc91e9fe105925d62",
+      "duration_ms": 209000,
+      "track_number": 1,
+      "album": {
+        "id": "343939507",
+        "name": "Nothing Burns Like The Cold",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a7877b5b3a56444c83a4eb691c43832d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a7877b5b3a56444c83a4eb691c43832d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a7877b5b3a56444c83a4eb691c43832d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1855823687"
+      }
+    },
+    {
+      "id": "1858403907",
+      "name": "DO 4 LOVE",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/c/0/bac510568cde4220a4073c596f082680.mp3?hdnea=exp=1774860006~acl=/api/1/1/b/a/c/0/bac510568cde4220a4073c596f082680.mp3*~data=user_id=0,application_id=42~hmac=d1c9eb919bc2058b8446b0083a6f7d1682c0a124ff39f6ff7aebe33073afed00",
+      "duration_ms": 189000,
+      "track_number": 2,
+      "album": {
+        "id": "344493257",
+        "name": "DO 4 LOVE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/872a2d50870fc521d09ea3d159dd9024/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/872a2d50870fc521d09ea3d159dd9024/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/872a2d50870fc521d09ea3d159dd9024/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1858403907"
+      }
+    },
+    {
+      "id": "1856633247",
+      "name": "Time",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/f/0/8cfb77562fef1367acade6f1146e2050.mp3?hdnea=exp=1774860006~acl=/api/1/1/8/c/f/0/8cfb77562fef1367acade6f1146e2050.mp3*~data=user_id=0,application_id=42~hmac=6134f8ad9dec7157e20cd9e27d254add57d01586641ac51201170788b920c8d5",
+      "duration_ms": 224000,
+      "track_number": 3,
+      "album": {
+        "id": "344102017",
+        "name": "FEELS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a05aef376a5bff194befc29cd93821ff/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a05aef376a5bff194befc29cd93821ff/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a05aef376a5bff194befc29cd93821ff/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1856633247"
+      }
+    },
+    {
+      "id": "1898962237",
+      "name": "I Want You Around",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/8/0/7c80c4afeab09f5948e08629685ac589.mp3?hdnea=exp=1774860006~acl=/api/1/1/7/c/8/0/7c80c4afeab09f5948e08629685ac589.mp3*~data=user_id=0,application_id=42~hmac=ea882c1fa8f9638c6f59997d5e88275ae0dae5851c0a8e5ec726e8bb321ba8f0",
+      "duration_ms": 212000,
+      "track_number": 4,
+      "album": {
+        "id": "353188097",
+        "name": "- Ugh, those feels again",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45579005ac5285cb351e5e7414267f82/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45579005ac5285cb351e5e7414267f82/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45579005ac5285cb351e5e7414267f82/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1898962237"
+      }
+    },
+    {
+      "id": "1421583072",
+      "name": "JUST LIKE THAT",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/d/0/26d992452a0a3e3328fcb6a7b2d3d0c3.mp3?hdnea=exp=1774860006~acl=/api/1/1/2/6/d/0/26d992452a0a3e3328fcb6a7b2d3d0c3.mp3*~data=user_id=0,application_id=42~hmac=98cd3049c8bf65d071bc6651257ffc6c917eff16988668afb7066c0ff7cf47fa",
+      "duration_ms": 187000,
+      "track_number": 5,
+      "album": {
+        "id": "241437602",
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb7c1818043c0f22a59e044776c45ddf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb7c1818043c0f22a59e044776c45ddf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb7c1818043c0f22a59e044776c45ddf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1421583072"
+      }
+    },
+    {
+      "id": "1898962277",
+      "name": "Toronto",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/1/0/8616f33ca194bacaf87dd4e369cab114.mp3?hdnea=exp=1774860006~acl=/api/1/1/8/6/1/0/8616f33ca194bacaf87dd4e369cab114.mp3*~data=user_id=0,application_id=42~hmac=1738cf6235cdff5118507153d3ad3e58c60a2549a3ffbf066a0806107c67de46",
+      "duration_ms": 177000,
+      "track_number": 6,
+      "album": {
+        "id": "353188097",
+        "name": "- Ugh, those feels again",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45579005ac5285cb351e5e7414267f82/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45579005ac5285cb351e5e7414267f82/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45579005ac5285cb351e5e7414267f82/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1898962277"
+      }
+    },
+    {
+      "id": "1856996037",
+      "name": "In Your River",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/7/0/b972a917d460e65d25495cd8f61963b7.mp3?hdnea=exp=1774860006~acl=/api/1/1/b/9/7/0/b972a917d460e65d25495cd8f61963b7.mp3*~data=user_id=0,application_id=42~hmac=61206ee62fb104da31c1a8e988ab604f72d18f61f36f50c5df6ff2b8f629246d",
+      "duration_ms": 234000,
+      "track_number": 7,
+      "album": {
+        "id": "344172067",
+        "name": "Don’t Explain",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a1bafe41e603aa288111e1421de333f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a1bafe41e603aa288111e1421de333f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a1bafe41e603aa288111e1421de333f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1856996037"
+      }
+    },
+    {
+      "id": "1436369862",
+      "name": "Law Of Attraction",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/7/0/657ba19d78967d513ff0975d7338cbe6.mp3?hdnea=exp=1774860006~acl=/api/1/1/6/5/7/0/657ba19d78967d513ff0975d7338cbe6.mp3*~data=user_id=0,application_id=42~hmac=fa3d33ffec5ee926d9355c5a721a1a293a12fb473bce542f98523208a357a3d0",
+      "duration_ms": 181000,
+      "track_number": 8,
+      "album": {
+        "id": "244989172",
+        "name": "We're All Alone In This Together",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf2218aa7d8262098c19097bd10cb21/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf2218aa7d8262098c19097bd10cb21/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf2218aa7d8262098c19097bd10cb21/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1436369862"
+      }
+    },
+    {
+      "id": "1421583162",
+      "name": "IN THE MOMENT",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/a/0/97ab126ef2d2255b75fa35f1a172aa55.mp3?hdnea=exp=1774860006~acl=/api/1/1/9/7/a/0/97ab126ef2d2255b75fa35f1a172aa55.mp3*~data=user_id=0,application_id=42~hmac=9295023d123a6d18ee376e772b997f18151f9cfc259b10af46fef0c8974ff925",
+      "duration_ms": 214000,
+      "track_number": 9,
+      "album": {
+        "id": "241437602",
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb7c1818043c0f22a59e044776c45ddf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb7c1818043c0f22a59e044776c45ddf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb7c1818043c0f22a59e044776c45ddf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1421583162"
+      }
+    },
+    {
+      "id": "1856962117",
+      "name": "Under the Influence",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/6/0/786357c754105551562ce9240bc347f0.mp3?hdnea=exp=1774860006~acl=/api/1/1/7/8/6/0/786357c754105551562ce9240bc347f0.mp3*~data=user_id=0,application_id=42~hmac=afc6ee54589b77bfcc5227e74be218003105a0ded7f97fb01b9336cd489e925f",
+      "duration_ms": 265000,
+      "track_number": 10,
+      "album": {
+        "id": "344160947",
+        "name": "Under the Influence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33884ad555bf8d4e99bfc826188b4a38/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33884ad555bf8d4e99bfc826188b4a38/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/33884ad555bf8d4e99bfc826188b4a38/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6068162",
+          "name": "Snoh Aalegra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1856962117"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "377827",
+  "name": "Popcaan",
+  "popularity": 33,
+  "followers": {
+    "total": 332176
+  },
+  "genres": [
+    "dancehall"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/17a66041a82cd6ead846178a104ecdf4/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/17a66041a82cd6ead846178a104ecdf4/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/17a66041a82cd6ead846178a104ecdf4/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/377827"
+  },
+  "uri": "deezer:artist:377827"
+}

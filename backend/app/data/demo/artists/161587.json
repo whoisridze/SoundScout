@@ -1,0 +1,32 @@
+{
+  "id": "161587",
+  "name": "Hiroki Okano",
+  "popularity": 1,
+  "followers": {
+    "total": 121
+  },
+  "genres": [
+    "new age"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e864950f21fd128882cf7b4c00ae926f/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e864950f21fd128882cf7b4c00ae926f/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e864950f21fd128882cf7b4c00ae926f/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/161587"
+  },
+  "uri": "deezer:artist:161587"
+}

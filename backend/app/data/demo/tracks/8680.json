@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "103865726",
+      "name": "Thick Like Mississippi Mud",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/0/0/fd0a6ec9a50ca418e1c115fbd59e6fd4.mp3?hdnea=exp=1774859964~acl=/api/1/1/f/d/0/0/fd0a6ec9a50ca418e1c115fbd59e6fd4.mp3*~data=user_id=0,application_id=42~hmac=f172082ebedd14137fa1f8e0e25611bfbc077ae13137d7dd7471b90cfeec64c6",
+      "duration_ms": 245000,
+      "track_number": 1,
+      "album": {
+        "id": "10803730",
+        "name": "Born To Play Guitar",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19050c428789d4acee3b017d872815ff/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19050c428789d4acee3b017d872815ff/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/19050c428789d4acee3b017d872815ff/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/103865726"
+      }
+    },
+    {
+      "id": "63091943",
+      "name": "Ain't No Sunshine (feat. Tracy Chapman)",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/d/0/fcde7bcb87fc599d47e97f7183fbf4b6.mp3?hdnea=exp=1774859964~acl=/api/1/1/f/c/d/0/fcde7bcb87fc599d47e97f7183fbf4b6.mp3*~data=user_id=0,application_id=42~hmac=2ab4f3f049fd8ada884346a014efa1c8b7fffb185432df4efe935166bb7817df",
+      "duration_ms": 204000,
+      "track_number": 2,
+      "album": {
+        "id": "6195869",
+        "name": "Bring 'Em In/Skin Deep",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7aebd8dc56e6da8d9c24aa4595a3a891/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7aebd8dc56e6da8d9c24aa4595a3a891/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7aebd8dc56e6da8d9c24aa4595a3a891/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63091943"
+      }
+    },
+    {
+      "id": "63091763",
+      "name": "What Kind Of Woman Is This?",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/b/0/4cb41b2c5d15fe651266ed0fcddcab85.mp3?hdnea=exp=1774859964~acl=/api/1/1/4/c/b/0/4cb41b2c5d15fe651266ed0fcddcab85.mp3*~data=user_id=0,application_id=42~hmac=49821691acd2c724746e45baa464a9d5b68ab34ac651061ceb88213e14765208",
+      "duration_ms": 317000,
+      "track_number": 3,
+      "album": {
+        "id": "6195869",
+        "name": "Bring 'Em In/Skin Deep",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7aebd8dc56e6da8d9c24aa4595a3a891/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7aebd8dc56e6da8d9c24aa4595a3a891/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7aebd8dc56e6da8d9c24aa4595a3a891/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63091763"
+      }
+    },
+    {
+      "id": "1952134",
+      "name": "Buddy's Blues: Part One",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/4/0/944d7f69f86a1412c5a106dc2a96a29b.mp3?hdnea=exp=1774859964~acl=/api/1/1/9/4/4/0/944d7f69f86a1412c5a106dc2a96a29b.mp3*~data=user_id=0,application_id=42~hmac=28d0c1fa5f9117aae1e5bfd948e412ebd725e8d4ce3e390f315cfb1fa6c2310d",
+      "duration_ms": 250000,
+      "track_number": 4,
+      "album": {
+        "id": "198560",
+        "name": "Live At The Checkerboard Lounge - Chicago 1979",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/385b95f6681c73c308c51af4003422df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/385b95f6681c73c308c51af4003422df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/385b95f6681c73c308c51af4003422df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1952134"
+      }
+    },
+    {
+      "id": "508752632",
+      "name": "Blue No More (feat. James Bay)",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/5/0/2853e47b32bd5d475b5e1ea2de69da36.mp3?hdnea=exp=1774859964~acl=/api/1/1/2/8/5/0/2853e47b32bd5d475b5e1ea2de69da36.mp3*~data=user_id=0,application_id=42~hmac=293b97f98a9a372b083ce716fe77cdc873650a9454f7fdfb18c246cc23798a7c",
+      "duration_ms": 219000,
+      "track_number": 5,
+      "album": {
+        "id": "65099792",
+        "name": "The Blues Is Alive And Well",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4c1f2d414637e11eb3217e1189c5898a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4c1f2d414637e11eb3217e1189c5898a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4c1f2d414637e11eb3217e1189c5898a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/508752632"
+      }
+    },
+    {
+      "id": "1923072787",
+      "name": "Symptoms of Love (feat. Elvis Costello)",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/7/c/0/17c34acc0464adbcad633ffe2886c304.mp3?hdnea=exp=1774859964~acl=/api/1/1/1/7/c/0/17c34acc0464adbcad633ffe2886c304.mp3*~data=user_id=0,application_id=42~hmac=aed032947fbef22335b0cbffced043ec2ee9d9401969998dad4b9fc1d3c4071d",
+      "duration_ms": 217000,
+      "track_number": 6,
+      "album": {
+        "id": "358452337",
+        "name": "The Blues Don't Lie",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d8e7ca5ff78cad01c5cf8814ec54569/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d8e7ca5ff78cad01c5cf8814ec54569/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d8e7ca5ff78cad01c5cf8814ec54569/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1923072787"
+      }
+    },
+    {
+      "id": "3324918641",
+      "name": "Travelin'",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/9/0/83910f17c427df51582b8644e299481c.mp3?hdnea=exp=1774859964~acl=/api/1/1/8/3/9/0/83910f17c427df51582b8644e299481c.mp3*~data=user_id=0,application_id=42~hmac=f5f6ddad6fbe439f5b4ff4030409f77d4a44619837dc2a4ba68e88071679c6e5",
+      "duration_ms": 69000,
+      "track_number": 7,
+      "album": {
+        "id": "742528781",
+        "name": "Sinners (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118238ffbaa664dd94ceced16c5f8e3a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118238ffbaa664dd94ceced16c5f8e3a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118238ffbaa664dd94ceced16c5f8e3a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3324918641"
+      }
+    },
+    {
+      "id": "3467379131",
+      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/b/0/01befdc9b39dc349c8b93e4a89ac48bb.mp3?hdnea=exp=1774859964~acl=/api/1/1/0/1/b/0/01befdc9b39dc349c8b93e4a89ac48bb.mp3*~data=user_id=0,application_id=42~hmac=943c9ff602a4966e012f8a1375c136bc644cd657d226e7d09f337557c0a16520",
+      "duration_ms": 242000,
+      "track_number": 8,
+      "album": {
+        "id": "790479521",
+        "name": "Ain't Done With The Blues",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c7ad86f34b6708f1fb394b5cf91ebd4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c7ad86f34b6708f1fb394b5cf91ebd4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c7ad86f34b6708f1fb394b5cf91ebd4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3467379131"
+      }
+    },
+    {
+      "id": "3467379111",
+      "name": "Been There Done That",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/e/0/7aeaf2b66bd72bf04a9b4517193e92e4.mp3?hdnea=exp=1774859964~acl=/api/1/1/7/a/e/0/7aeaf2b66bd72bf04a9b4517193e92e4.mp3*~data=user_id=0,application_id=42~hmac=5aa0ecbb3e33bc9fd8f946e5bf8651c6621ae73954563ac6c40261385455e5cd",
+      "duration_ms": 228000,
+      "track_number": 9,
+      "album": {
+        "id": "790479521",
+        "name": "Ain't Done With The Blues",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c7ad86f34b6708f1fb394b5cf91ebd4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c7ad86f34b6708f1fb394b5cf91ebd4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c7ad86f34b6708f1fb394b5cf91ebd4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3467379111"
+      }
+    },
+    {
+      "id": "3467379201",
+      "name": "Love On A Budget",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/b/0/3ab5794dc0ee233c98ce510d3c743407.mp3?hdnea=exp=1774859964~acl=/api/1/1/3/a/b/0/3ab5794dc0ee233c98ce510d3c743407.mp3*~data=user_id=0,application_id=42~hmac=c716eaf0d12f344906ae877177b41aba76fe89ac192b2aa4fed28ce1ca259f1c",
+      "duration_ms": 229000,
+      "track_number": 10,
+      "album": {
+        "id": "790479521",
+        "name": "Ain't Done With The Blues",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c7ad86f34b6708f1fb394b5cf91ebd4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c7ad86f34b6708f1fb394b5cf91ebd4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c7ad86f34b6708f1fb394b5cf91ebd4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8680",
+          "name": "Buddy Guy"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3467379201"
+      }
+    }
+  ]
+}

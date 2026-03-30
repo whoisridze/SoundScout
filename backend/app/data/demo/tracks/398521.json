@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2816017052",
+      "name": "BAND4BAND",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/8/0/a08ea6b1f9f4eb1d66ad480a6169bb37.mp3?hdnea=exp=1774859905~acl=/api/1/1/a/0/8/0/a08ea6b1f9f4eb1d66ad480a6169bb37.mp3*~data=user_id=0,application_id=42~hmac=e09bf44d5150d3bc4a1514d0438b127a9d5ed7c014e621b679f0ff879a703fa6",
+      "duration_ms": 140000,
+      "track_number": 1,
+      "album": {
+        "id": "591251842",
+        "name": "BAND4BAND",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8508be30ca355ef44597e9be0f834232/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8508be30ca355ef44597e9be0f834232/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8508be30ca355ef44597e9be0f834232/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2816017052"
+      }
+    },
+    {
+      "id": "3693287812",
+      "name": "Let’s Do It",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/8/0/dc8e425c89bfbdf550aa3ce3a0d3bc58.mp3?hdnea=exp=1774859905~acl=/api/1/1/d/c/8/0/dc8e425c89bfbdf550aa3ce3a0d3bc58.mp3*~data=user_id=0,application_id=42~hmac=41d049aedbe8513b60709ca1321482abea7371623c311371545511e444dc4ec5",
+      "duration_ms": 202000,
+      "track_number": 2,
+      "album": {
+        "id": "869146282",
+        "name": "The Leaks",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cff8283e48bf04059f06b7fb7ae6310/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cff8283e48bf04059f06b7fb7ae6310/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cff8283e48bf04059f06b7fb7ae6310/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3693287812"
+      }
+    },
+    {
+      "id": "3174193311",
+      "name": "Stuff",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/5/0/595f4eb3769c9cc99b2b8a6b382b0231.mp3?hdnea=exp=1774859905~acl=/api/1/1/5/9/5/0/595f4eb3769c9cc99b2b8a6b382b0231.mp3*~data=user_id=0,application_id=42~hmac=c99507e1c32b6da1bf74b57b6d52eb6aa425c6cd2804e2e01cbc93936c0366b9",
+      "duration_ms": 181000,
+      "track_number": 3,
+      "album": {
+        "id": "694154761",
+        "name": "WHAM (Extended Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/490378a8dc9763e50e5fa3b0068eeff8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/490378a8dc9763e50e5fa3b0068eeff8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/490378a8dc9763e50e5fa3b0068eeff8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3174193311"
+      }
+    },
+    {
+      "id": "1843949937",
+      "name": "Never Sleep",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/b/0/c2b099c2c3f862733784047d3f7db7df.mp3?hdnea=exp=1774859905~acl=/api/1/1/c/2/b/0/c2b099c2c3f862733784047d3f7db7df.mp3*~data=user_id=0,application_id=42~hmac=53b5a22367c5ff03c5bf60452f670e8b8ff06b0a92809b0955cac95e4af23ad1",
+      "duration_ms": 185000,
+      "track_number": 4,
+      "album": {
+        "id": "340572507",
+        "name": "Never Sleep",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8af8aec3c427a5c79a65172ae33c4c0b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8af8aec3c427a5c79a65172ae33c4c0b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8af8aec3c427a5c79a65172ae33c4c0b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1843949937"
+      }
+    },
+    {
+      "id": "3693287752",
+      "name": "Mrs. Trendsetter",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/c/0/18c71e44d973b4e641fc9981ddd10e9e.mp3?hdnea=exp=1774859905~acl=/api/1/1/1/8/c/0/18c71e44d973b4e641fc9981ddd10e9e.mp3*~data=user_id=0,application_id=42~hmac=a3464b66be28fade883af29446b263eed39bf7a30d98b99cf1ad90f21b356778",
+      "duration_ms": 148000,
+      "track_number": 5,
+      "album": {
+        "id": "869146282",
+        "name": "The Leaks",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cff8283e48bf04059f06b7fb7ae6310/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cff8283e48bf04059f06b7fb7ae6310/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cff8283e48bf04059f06b7fb7ae6310/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3693287752"
+      }
+    },
+    {
+      "id": "3814520642",
+      "name": "NOW OR NEVER II",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/4/0/bf417fdf8ff93ab80d2937761c43a98a.mp3?hdnea=exp=1774859905~acl=/api/1/1/b/f/4/0/bf417fdf8ff93ab80d2937761c43a98a.mp3*~data=user_id=0,application_id=42~hmac=7d19377b0bb0c3f36d60caffee41e7889b85e67b3456091ebac3ca8dc7432e6e",
+      "duration_ms": 158000,
+      "track_number": 6,
+      "album": {
+        "id": "908790602",
+        "name": "NOW OR NEVER II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a0ffdb2ef15a473728337a0e7721f8e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a0ffdb2ef15a473728337a0e7721f8e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a0ffdb2ef15a473728337a0e7721f8e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3814520642"
+      }
+    },
+    {
+      "id": "3693287842",
+      "name": "What She Like",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/c/0/84c8af503651f94350bd08be47ed0a19.mp3?hdnea=exp=1774859905~acl=/api/1/1/8/4/c/0/84c8af503651f94350bd08be47ed0a19.mp3*~data=user_id=0,application_id=42~hmac=d29f4989e1582987fafe2a7559eb49512f4c9c31a3071c9bcfefe2463018d513",
+      "duration_ms": 187000,
+      "track_number": 7,
+      "album": {
+        "id": "869146282",
+        "name": "The Leaks",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cff8283e48bf04059f06b7fb7ae6310/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cff8283e48bf04059f06b7fb7ae6310/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7cff8283e48bf04059f06b7fb7ae6310/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3693287842"
+      }
+    },
+    {
+      "id": "3160589381",
+      "name": "Dum, Dumb, and Dumber",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/3/0/063ac944d2ce2a36329c4d4819797b0a.mp3?hdnea=exp=1774859905~acl=/api/1/1/0/6/3/0/063ac944d2ce2a36329c4d4819797b0a.mp3*~data=user_id=0,application_id=42~hmac=a728aba8ea4341c2c8432f2b2c6ac6fe41cba17ec3560e3c4ff70991f0ba04eb",
+      "duration_ms": 227000,
+      "track_number": 8,
+      "album": {
+        "id": "689218881",
+        "name": "Dum, Dumb, and Dumber",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bba445147e164ec47a425989e0eccf5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bba445147e164ec47a425989e0eccf5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bba445147e164ec47a425989e0eccf5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3160589381"
+      }
+    },
+    {
+      "id": "3711488232",
+      "name": "ATLANTA TEARS",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/5/0/c35f909c539fca792e251f7f5dff7b9c.mp3?hdnea=exp=1774859905~acl=/api/1/1/c/3/5/0/c35f909c539fca792e251f7f5dff7b9c.mp3*~data=user_id=0,application_id=42~hmac=fed505b43927dd185afd62dc38e9dea5dc5e18e92e54372a5e727358635e526d",
+      "duration_ms": 242000,
+      "track_number": 9,
+      "album": {
+        "id": "875564232",
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28695698ee1f8a576e05ad8d69c430ce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28695698ee1f8a576e05ad8d69c430ce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28695698ee1f8a576e05ad8d69c430ce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3711488232"
+      }
+    },
+    {
+      "id": "3620184232",
+      "name": "All On Me",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/c/0/a7ce3bd2f97b67012fb357f8de0cf86a.mp3?hdnea=exp=1774859905~acl=/api/1/1/a/7/c/0/a7ce3bd2f97b67012fb357f8de0cf86a.mp3*~data=user_id=0,application_id=42~hmac=8e56ed4a6766ed575fcc3ded2f52fec576cbdb6acbe4a0ba62b53299ed0a459c",
+      "duration_ms": 219000,
+      "track_number": 10,
+      "album": {
+        "id": "844064262",
+        "name": "All On Me",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b77cdac83a0ab8dfce0519b68b1ebb58/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b77cdac83a0ab8dfce0519b68b1ebb58/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b77cdac83a0ab8dfce0519b68b1ebb58/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "398521",
+          "name": "Lil Baby"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3620184232"
+      }
+    }
+  ]
+}

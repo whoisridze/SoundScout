@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "5079078",
+      "name": "Born Under A Bad Sign",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/4/0/1242c93a29a67e9b8e2204a46b89d0cf.mp3?hdnea=exp=1774860075~acl=/api/1/1/1/2/4/0/1242c93a29a67e9b8e2204a46b89d0cf.mp3*~data=user_id=0,application_id=42~hmac=526ccfa3d26c561fabed9ce11d3c8843839a4e2fb340b5f964ba56d23def02d0",
+      "duration_ms": 167000,
+      "track_number": 1,
+      "album": {
+        "id": "118589",
+        "name": "Born Under A Bad Sign",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5079078"
+      }
+    },
+    {
+      "id": "1099256",
+      "name": "Laundromat Blues (Album Version)",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/1/0/4d1898f7b8cc6dde57778edf1fc4a409.mp3?hdnea=exp=1774860075~acl=/api/1/1/4/d/1/0/4d1898f7b8cc6dde57778edf1fc4a409.mp3*~data=user_id=0,application_id=42~hmac=71e2e384ccec0d9769413c81e3909690f2a9be9b8b723db0fd6212e10d823f70",
+      "duration_ms": 201000,
+      "track_number": 2,
+      "album": {
+        "id": "118589",
+        "name": "Born Under A Bad Sign",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1099256"
+      }
+    },
+    {
+      "id": "1099255",
+      "name": "Personal Manager (Album Version)",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/3/0/f631974fd785ad9bae090ea093058fa7.mp3?hdnea=exp=1774860075~acl=/api/1/1/f/6/3/0/f631974fd785ad9bae090ea093058fa7.mp3*~data=user_id=0,application_id=42~hmac=89bfa87dc559a8aba8b73111f41dc4c552b92bfdaba4a385898faa985a75ec78",
+      "duration_ms": 271000,
+      "track_number": 3,
+      "album": {
+        "id": "118589",
+        "name": "Born Under A Bad Sign",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1099255"
+      }
+    },
+    {
+      "id": "1099249",
+      "name": "Crosscut Saw",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/e/0/18e30540e41f8f66533e96b6c63dea77.mp3?hdnea=exp=1774860075~acl=/api/1/1/1/8/e/0/18e30540e41f8f66533e96b6c63dea77.mp3*~data=user_id=0,application_id=42~hmac=3ecfe1ce14fda7c22b5a56e43178b02b2c7d746ec3653cffb8cf400adfbf40b2",
+      "duration_ms": 155000,
+      "track_number": 4,
+      "album": {
+        "id": "118589",
+        "name": "Born Under A Bad Sign",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1099249"
+      }
+    },
+    {
+      "id": "4123156",
+      "name": "Pride And Joy",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/a/0/d6adb16c6a2d61a8b111d4103a39346b.mp3?hdnea=exp=1774860075~acl=/api/1/1/d/6/a/0/d6adb16c6a2d61a8b111d4103a39346b.mp3*~data=user_id=0,application_id=42~hmac=7059921c60f9b1e0afc9e5470ef257bca3b0dd5d9984be9839440205fc3c4aaa",
+      "duration_ms": 358000,
+      "track_number": 5,
+      "album": {
+        "id": "384058",
+        "name": "In Session (Remaster w/ eBooklet)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd720bd339848cb98ceddcaadc938c4d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd720bd339848cb98ceddcaadc938c4d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd720bd339848cb98ceddcaadc938c4d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4123156"
+      }
+    },
+    {
+      "id": "1099250",
+      "name": "Kansas City (Album Version)",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/2/0/a72068208394b851f2811464e4003e29.mp3?hdnea=exp=1774860075~acl=/api/1/1/a/7/2/0/a72068208394b851f2811464e4003e29.mp3*~data=user_id=0,application_id=42~hmac=d5e4be58fb10d2c013a1bdc9d7403023ab09eda18f428c83a175335de3a24295",
+      "duration_ms": 153000,
+      "track_number": 6,
+      "album": {
+        "id": "118589",
+        "name": "Born Under A Bad Sign",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1099250"
+      }
+    },
+    {
+      "id": "1099251",
+      "name": "Oh, Pretty Woman (Album Version)",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/1/0/9516a180a8c6a0c1b1284de6df440d39.mp3?hdnea=exp=1774860075~acl=/api/1/1/9/5/1/0/9516a180a8c6a0c1b1284de6df440d39.mp3*~data=user_id=0,application_id=42~hmac=733fc02b34d1b64d689adda73e9b0a8ce5479ecb2ec433eb1efb32086b1b90c0",
+      "duration_ms": 168000,
+      "track_number": 7,
+      "album": {
+        "id": "118589",
+        "name": "Born Under A Bad Sign",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1099251"
+      }
+    },
+    {
+      "id": "1099253",
+      "name": "The Hunter",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/3/0/7c308d13e83a2691cbae2dbe952e4f6a.mp3?hdnea=exp=1774860075~acl=/api/1/1/7/c/3/0/7c308d13e83a2691cbae2dbe952e4f6a.mp3*~data=user_id=0,application_id=42~hmac=5080b296bac9ed246cfa1859c7fc2c4f8c06085633e880d40abec74ad760f3c7",
+      "duration_ms": 165000,
+      "track_number": 8,
+      "album": {
+        "id": "118589",
+        "name": "Born Under A Bad Sign",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4188acc0f3fd608892e69cc0e590dad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1099253"
+      }
+    },
+    {
+      "id": "4123164",
+      "name": "Don't Lie To Me",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/7/0/8878b3ed4656569a80adb2e0bf8598a2.mp3?hdnea=exp=1774860075~acl=/api/1/1/8/8/7/0/8878b3ed4656569a80adb2e0bf8598a2.mp3*~data=user_id=0,application_id=42~hmac=e54870168b888f981189e977721363b550881ff1bb086eefdad626151e80f5d4",
+      "duration_ms": 538000,
+      "track_number": 9,
+      "album": {
+        "id": "384058",
+        "name": "In Session (Remaster w/ eBooklet)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd720bd339848cb98ceddcaadc938c4d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd720bd339848cb98ceddcaadc938c4d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd720bd339848cb98ceddcaadc938c4d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4123164"
+      }
+    },
+    {
+      "id": "891666",
+      "name": "Honky Tonk Woman (Album Version)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/a/5/0/2a548784e36415c680bfda61402b27b9.mp3?hdnea=exp=1774860075~acl=/api/1/1/2/a/5/0/2a548784e36415c680bfda61402b27b9.mp3*~data=user_id=0,application_id=42~hmac=9a47bef18ddb37fd1bf96c178b0b3012dabe573e6a254d056dac3f55671ed432",
+      "duration_ms": 240000,
+      "track_number": 10,
+      "album": {
+        "id": "101037",
+        "name": "Lovejoy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb61800e283424813f33935754075c9c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb61800e283424813f33935754075c9c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb61800e283424813f33935754075c9c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4192",
+          "name": "Albert King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/891666"
+      }
+    }
+  ]
+}

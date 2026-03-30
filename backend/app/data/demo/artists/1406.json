@@ -1,0 +1,32 @@
+{
+  "id": "1406",
+  "name": "Herbie Hancock",
+  "popularity": 42,
+  "followers": {
+    "total": 421761
+  },
+  "genres": [
+    "jazz fusion"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/afa7dfde3e193b870dd79bd4cedb5e03/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/afa7dfde3e193b870dd79bd4cedb5e03/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/afa7dfde3e193b870dd79bd4cedb5e03/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1406"
+  },
+  "uri": "deezer:artist:1406"
+}

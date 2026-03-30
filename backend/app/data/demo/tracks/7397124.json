@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3777479732",
+      "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/6/0/4b62fa16e44f23cb4a0157381989be46.mp3?hdnea=exp=1774860003~acl=/api/1/1/4/b/6/0/4b62fa16e44f23cb4a0157381989be46.mp3*~data=user_id=0,application_id=42~hmac=bed30a5a90f80f7903b4ff29edf9a42093af93f5af42dc74c3367c435f3f1992",
+      "duration_ms": 346000,
+      "track_number": 1,
+      "album": {
+        "id": "898573792",
+        "name": "Don't Be Dumb",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b12a3693578183b0ece3544133f41ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3777479732"
+      }
+    },
+    {
+      "id": "1792992197",
+      "name": "ROLE MODEL",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/9/0/ce94a86585658f003734ae3084db801a.mp3?hdnea=exp=1774860003~acl=/api/1/1/c/e/9/0/ce94a86585658f003734ae3084db801a.mp3*~data=user_id=0,application_id=42~hmac=6db7bb7c740a84e19e7298731f7f52c67f75413f157c81a5d9aeb0a88721c691",
+      "duration_ms": 194000,
+      "track_number": 2,
+      "album": {
+        "id": "327861337",
+        "name": "WASTELAND",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/51d0d130671262611c927bd63c192670/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/51d0d130671262611c927bd63c192670/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/51d0d130671262611c927bd63c192670/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1792992197"
+      }
+    },
+    {
+      "id": "2486051711",
+      "name": "Best Time",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/1/0/41181eae0badab8a6d8d4ea96307a7ca.mp3?hdnea=exp=1774860003~acl=/api/1/1/4/1/1/0/41181eae0badab8a6d8d4ea96307a7ca.mp3*~data=user_id=0,application_id=42~hmac=0dca049c8f2c59b4ab55fca9faf1f7a3fe8dc3ec33e2d395bda27a6c6b322f1d",
+      "duration_ms": 82000,
+      "track_number": 3,
+      "album": {
+        "id": "496765851",
+        "name": "Larger Than Life",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba544c064741b044523538cc58ae997a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba544c064741b044523538cc58ae997a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba544c064741b044523538cc58ae997a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2486051711"
+      }
+    },
+    {
+      "id": "3870279171",
+      "name": "Need it Bad (feat. Brent Faiyaz)",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/6/0/5e6a27183ae5f6b7bcc51793cb02bcd2.mp3?hdnea=exp=1774860003~acl=/api/1/1/5/e/6/0/5e6a27183ae5f6b7bcc51793cb02bcd2.mp3*~data=user_id=0,application_id=42~hmac=5895837bb7c220e732f8c158fdd800c34fdbd25ca2b86bbd1a599d386c3cd093",
+      "duration_ms": 187000,
+      "track_number": 4,
+      "album": {
+        "id": "928347661",
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5773a7296ee6cad08b0da0e36031c6f0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5773a7296ee6cad08b0da0e36031c6f0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5773a7296ee6cad08b0da0e36031c6f0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3870279171"
+      }
+    },
+    {
+      "id": "2552993572",
+      "name": "Paper Soldier (feat. Joony)",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/7/0/c67e554ff37a42bf1390e8f05f4703d9.mp3?hdnea=exp=1774860003~acl=/api/1/1/c/6/7/0/c67e554ff37a42bf1390e8f05f4703d9.mp3*~data=user_id=0,application_id=42~hmac=c7ca9939e4ef8a481543b2199c9cbbe170fe3d2ef701e7f30abe5f432b094502",
+      "duration_ms": 202000,
+      "track_number": 5,
+      "album": {
+        "id": "515327472",
+        "name": "Paper Soldier (feat. Joony)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfce1c501b154921b9e36ac27ca4c380/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfce1c501b154921b9e36ac27ca4c380/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dfce1c501b154921b9e36ac27ca4c380/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2552993572"
+      }
+    },
+    {
+      "id": "3765666312",
+      "name": "butterflies.",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/c/0/a4cdfec8eb2eb4ae5afc24c82d59d7c6.mp3?hdnea=exp=1774860003~acl=/api/1/1/a/4/c/0/a4cdfec8eb2eb4ae5afc24c82d59d7c6.mp3*~data=user_id=0,application_id=42~hmac=f9be7a5f32759f6334f0ec396db0dd51516bca165a097026e89d5287a8d259d4",
+      "duration_ms": 248000,
+      "track_number": 6,
+      "album": {
+        "id": "894459272",
+        "name": "Icon",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b52aae18698a693e767e47a768153f57/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b52aae18698a693e767e47a768153f57/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b52aae18698a693e767e47a768153f57/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3765666312"
+      }
+    },
+    {
+      "id": "2215437637",
+      "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/9/0/2e9d796599f8f7c7945a1e7e26d3c93d.mp3?hdnea=exp=1774860003~acl=/api/1/1/2/e/9/0/2e9d796599f8f7c7945a1e7e26d3c93d.mp3*~data=user_id=0,application_id=42~hmac=b7e250ba58545e0a48a74c8737ac2598353f45d6a6801156345dfd287eadcac2",
+      "duration_ms": 588000,
+      "track_number": 7,
+      "album": {
+        "id": "423557247",
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/40b4545c7f373fb519dfcc9092c2ccf6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/40b4545c7f373fb519dfcc9092c2ccf6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/40b4545c7f373fb519dfcc9092c2ccf6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2215437637"
+      }
+    },
+    {
+      "id": "2614584442",
+      "name": "should've wore a bonnet",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/1/0/e7153140c25cd5ad0bbc9f24001bc591.mp3?hdnea=exp=1774860003~acl=/api/1/1/e/7/1/0/e7153140c25cd5ad0bbc9f24001bc591.mp3*~data=user_id=0,application_id=42~hmac=a7ac94abe585af9a28831b267a367710715efb01ec6c00eb83a833f3415f8db7",
+      "duration_ms": 186000,
+      "track_number": 8,
+      "album": {
+        "id": "533077002",
+        "name": "american dream",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/662560d27eaa2d0c54fa3a7def6883e3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2614584442"
+      }
+    },
+    {
+      "id": "1237613702",
+      "name": "Eden (From “Black History Always / Music For the Movement Vol. 2\")",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/2/0/6e2bb345f23c2b36090a2a6d858dfe45.mp3?hdnea=exp=1774860003~acl=/api/1/1/6/e/2/0/6e2bb345f23c2b36090a2a6d858dfe45.mp3*~data=user_id=0,application_id=42~hmac=fe4539585247af312e932b60f314f586feb64e42759ad89418577b6a9ee1811e",
+      "duration_ms": 199000,
+      "track_number": 9,
+      "album": {
+        "id": "206266452",
+        "name": "Eden (From “Black History Always / Music For the Movement Vol. 2\")",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/428bcf5759db36b52eedfd3ee64b1dea/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/428bcf5759db36b52eedfd3ee64b1dea/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/428bcf5759db36b52eedfd3ee64b1dea/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1237613702"
+      }
+    },
+    {
+      "id": "2486051761",
+      "name": "Upset (feat. Tommy Richman & FELIX!)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/0/0/1b0d1da3830bc170bafa226f3b609085.mp3?hdnea=exp=1774860003~acl=/api/1/1/1/b/0/0/1b0d1da3830bc170bafa226f3b609085.mp3*~data=user_id=0,application_id=42~hmac=12c16403c6576468450a60be6143d3e856a04ac16bc028dc368a3f35673b8a8d",
+      "duration_ms": 177000,
+      "track_number": 10,
+      "album": {
+        "id": "496765851",
+        "name": "Larger Than Life",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba544c064741b044523538cc58ae997a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba544c064741b044523538cc58ae997a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba544c064741b044523538cc58ae997a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7397124",
+          "name": "Brent Faiyaz"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2486051761"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "7814812",
+  "name": "FM-84",
+  "popularity": 2,
+  "followers": {
+    "total": 26879
+  },
+  "genres": [
+    "synthwave"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/adeb9efbf8f35c50d0a2985675cc5159/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/adeb9efbf8f35c50d0a2985675cc5159/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/adeb9efbf8f35c50d0a2985675cc5159/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/7814812"
+  },
+  "uri": "deezer:artist:7814812"
+}

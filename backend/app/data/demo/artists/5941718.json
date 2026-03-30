@@ -1,0 +1,32 @@
+{
+  "id": "5941718",
+  "name": "Kupla",
+  "popularity": 62,
+  "followers": {
+    "total": 6212
+  },
+  "genres": [
+    "lo-fi beats"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/918823ffb3705b957530188784fcc875/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/918823ffb3705b957530188784fcc875/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/918823ffb3705b957530188784fcc875/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5941718"
+  },
+  "uri": "deezer:artist:5941718"
+}

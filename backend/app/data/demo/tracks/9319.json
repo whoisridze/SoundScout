@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "13270204",
+      "name": "Cortez The Killer",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/5/0/155bd2e06a6789b1cb0521551e10475b.mp3?hdnea=exp=1774859969~acl=/api/1/1/1/5/5/0/155bd2e06a6789b1cb0521551e10475b.mp3*~data=user_id=0,application_id=42~hmac=038a21efdda9c765a82574821791f53385a66aa630de9f41b7dbbce7807c15b6",
+      "duration_ms": 845000,
+      "track_number": 1,
+      "album": {
+        "id": "1215915",
+        "name": "Live...With A Little Help From Our Friends",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/032fc4f78e0f6a4cd3d112fc87bd9fac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/032fc4f78e0f6a4cd3d112fc87bd9fac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/032fc4f78e0f6a4cd3d112fc87bd9fac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13270204"
+      }
+    },
+    {
+      "id": "369179521",
+      "name": "Pressure Under Fire",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/2/0/7e257eef43ed7f7200d6b09da09e32d4.mp3?hdnea=exp=1774859969~acl=/api/1/1/7/e/2/0/7e257eef43ed7f7200d6b09da09e32d4.mp3*~data=user_id=0,application_id=42~hmac=77cf46cbc0c5f83cdd81d858c68b8d5e753107ace749c5c350417bf3faa3e328",
+      "duration_ms": 324000,
+      "track_number": 2,
+      "album": {
+        "id": "42564431",
+        "name": "Revolution Come…Revolution Go",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/616d92edeb40c3a7c93dbf643d2c0d11/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/616d92edeb40c3a7c93dbf643d2c0d11/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/616d92edeb40c3a7c93dbf643d2c0d11/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/369179521"
+      }
+    },
+    {
+      "id": "1697357117",
+      "name": "Heavy Load",
+      "popularity": 3,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/2/0/792513a8981b5405aae0b62646d77e3a.mp3?hdnea=exp=1774859969~acl=/api/1/1/7/9/2/0/792513a8981b5405aae0b62646d77e3a.mp3*~data=user_id=0,application_id=42~hmac=50f61611f68d8f4e8a0b0038981888ee05a8e705ce0d997d5f4aa40b9f03a148",
+      "duration_ms": 438000,
+      "track_number": 3,
+      "album": {
+        "id": "305743317",
+        "name": "Heavy Load Blues (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8355646e0eb415b6bef96baab267dc28/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8355646e0eb415b6bef96baab267dc28/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8355646e0eb415b6bef96baab267dc28/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1697357117"
+      }
+    },
+    {
+      "id": "13270203",
+      "name": "Sad And Deep As You",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/5/0/685171a111a916c1e3356c1c0f3117c8.mp3?hdnea=exp=1774859969~acl=/api/1/1/6/8/5/0/685171a111a916c1e3356c1c0f3117c8.mp3*~data=user_id=0,application_id=42~hmac=e6cbe67556534c3c20d257a48558f5e44082da6ae2958e4425283c64bfc6e4a0",
+      "duration_ms": 836000,
+      "track_number": 4,
+      "album": {
+        "id": "1215915",
+        "name": "Live...With A Little Help From Our Friends",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/032fc4f78e0f6a4cd3d112fc87bd9fac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/032fc4f78e0f6a4cd3d112fc87bd9fac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/032fc4f78e0f6a4cd3d112fc87bd9fac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13270203"
+      }
+    },
+    {
+      "id": "1236506",
+      "name": "Beautifully Broken",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/2/0/ca204e0fb78378110a316b14f4730bd7.mp3?hdnea=exp=1774859969~acl=/api/1/1/c/a/2/0/ca204e0fb78378110a316b14f4730bd7.mp3*~data=user_id=0,application_id=42~hmac=e7445da2412df4dace945dee657ffa9e42415bc7f0cf9aa0eaa90b6e62f4f65d",
+      "duration_ms": 589000,
+      "track_number": 5,
+      "album": {
+        "id": "130686",
+        "name": "The Deepest End Live In Concert",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8baa7e91178255a5a8068b2496be0490/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8baa7e91178255a5a8068b2496be0490/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8baa7e91178255a5a8068b2496be0490/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1236506"
+      }
+    },
+    {
+      "id": "82152484",
+      "name": "Soulshine",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/5/0/fa51e4aebbdbad4ebb9fe61b73a75689.mp3?hdnea=exp=1774859969~acl=/api/1/1/f/a/5/0/fa51e4aebbdbad4ebb9fe61b73a75689.mp3*~data=user_id=0,application_id=42~hmac=ae58655389829ec8354cbb8a0a8243421b70c2157f40d00d6feba8058733c99e",
+      "duration_ms": 467000,
+      "track_number": 6,
+      "album": {
+        "id": "8237716",
+        "name": "The Deep End Vol. 1",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dc51b0fd87b15f7e33d4a0dee0541c8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dc51b0fd87b15f7e33d4a0dee0541c8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0dc51b0fd87b15f7e33d4a0dee0541c8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/82152484"
+      }
+    },
+    {
+      "id": "13270181",
+      "name": "Towering Fool",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/6/0/a86d73c815bd814d988822d8258407a7.mp3?hdnea=exp=1774859969~acl=/api/1/1/a/8/6/0/a86d73c815bd814d988822d8258407a7.mp3*~data=user_id=0,application_id=42~hmac=1657b290d20b81c5c68c88046f45f06d2f3d4176e4da7eb087d22db762da69a7",
+      "duration_ms": 382000,
+      "track_number": 7,
+      "album": {
+        "id": "1215913",
+        "name": "Dose",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a59aca58e05559741c6940419023879/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a59aca58e05559741c6940419023879/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a59aca58e05559741c6940419023879/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13270181"
+      }
+    },
+    {
+      "id": "2213782247",
+      "name": "Dreaming Out Loud",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/8/0/1582ba52b12334259a868fb30ca8e3a1.mp3?hdnea=exp=1774859969~acl=/api/1/1/1/5/8/0/1582ba52b12334259a868fb30ca8e3a1.mp3*~data=user_id=0,application_id=42~hmac=ae3fbca30134ed92b63a18731b346c055311b9b1e1eb25c0d041aa02def971a9",
+      "duration_ms": 279000,
+      "track_number": 8,
+      "album": {
+        "id": "423150707",
+        "name": "Dreaming Out Loud",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a09f63cf0e85b0cf0ceed99711f1bd8e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a09f63cf0e85b0cf0ceed99711f1bd8e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a09f63cf0e85b0cf0ceed99711f1bd8e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2213782247"
+      }
+    },
+    {
+      "id": "1587073512",
+      "name": "Captured",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/5/0/845c128c3d94ce43b0bf2e7f02b61f36.mp3?hdnea=exp=1774859969~acl=/api/1/1/8/4/5/0/845c128c3d94ce43b0bf2e7f02b61f36.mp3*~data=user_id=0,application_id=42~hmac=2175a79c629273ed7fd06a65c1aabb429f6d9cd8173279e618ed0f712e5e73c7",
+      "duration_ms": 544000,
+      "track_number": 9,
+      "album": {
+        "id": "279620302",
+        "name": "Shout!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c0bded3f1f97cd8a42173b504673fa8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c0bded3f1f97cd8a42173b504673fa8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6c0bded3f1f97cd8a42173b504673fa8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1587073512"
+      }
+    },
+    {
+      "id": "13270179",
+      "name": "Thorazine Shuffle",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/e/0/fcea8bbaa078babe733823906f9c54a6.mp3?hdnea=exp=1774859969~acl=/api/1/1/f/c/e/0/fcea8bbaa078babe733823906f9c54a6.mp3*~data=user_id=0,application_id=42~hmac=7bc9db09231639081f887a4f342b7542f5c63f6829aed18b1c5642ff91f301bc",
+      "duration_ms": 406000,
+      "track_number": 10,
+      "album": {
+        "id": "1215913",
+        "name": "Dose",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a59aca58e05559741c6940419023879/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a59aca58e05559741c6940419023879/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a59aca58e05559741c6940419023879/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9319",
+          "name": "Gov't Mule"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13270179"
+      }
+    }
+  ]
+}

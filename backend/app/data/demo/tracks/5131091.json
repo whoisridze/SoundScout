@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3445477741",
+      "name": "Victory Lap Five",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/d/0/7cde7c4ceb02bcd8ed17d5763daa0ce1.mp3?hdnea=exp=1774859907~acl=/api/1/1/7/c/d/0/7cde7c4ceb02bcd8ed17d5763daa0ce1.mp3*~data=user_id=0,application_id=42~hmac=3cd2e8f3c7a175305680071c47ac452fc483985f19d38de3ef6756b93fc29abf",
+      "duration_ms": 344000,
+      "track_number": 1,
+      "album": {
+        "id": "783025541",
+        "name": "Victory Lap Five",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a2d11ecbbf17e4a5f539124ac42ad714/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a2d11ecbbf17e4a5f539124ac42ad714/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a2d11ecbbf17e4a5f539124ac42ad714/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3445477741"
+      }
+    },
+    {
+      "id": "2817563382",
+      "name": "Dynasties and Dystopia (from the series Arcane League of Legends)",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/3/0/653b1432688a3801012cb603d22d0b5f.mp3?hdnea=exp=1774859907~acl=/api/1/1/6/5/3/0/653b1432688a3801012cb603d22d0b5f.mp3*~data=user_id=0,application_id=42~hmac=5a9056d7c66f7e7a2d02d0f10a4b58e5bacd58e7c05d95aa25f5c3d355e0546e",
+      "duration_ms": 178000,
+      "track_number": 2,
+      "album": {
+        "id": "591799552",
+        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f656d53671853888652be6659617949/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f656d53671853888652be6659617949/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f656d53671853888652be6659617949/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2817563382"
+      }
+    },
+    {
+      "id": "3821412321",
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/b/0/2fbdd5bdff2b64681f3caa0f18b80a45.mp3?hdnea=exp=1774859907~acl=/api/1/1/2/f/b/0/2fbdd5bdff2b64681f3caa0f18b80a45.mp3*~data=user_id=0,application_id=42~hmac=99098c7a8d0c9dab7039f736f955fa4e7a9e9a19f02068d11f9e20f644c2ecd5",
+      "duration_ms": 206000,
+      "track_number": 3,
+      "album": {
+        "id": "911277731",
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb9ab3578f2868ec1c39f5329971be8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb9ab3578f2868ec1c39f5329971be8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bb9ab3578f2868ec1c39f5329971be8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3821412321"
+      }
+    },
+    {
+      "id": "3870288081",
+      "name": "MUTT THAT BIH",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/1/0/fd1d77483f9c28dac50bb93fa7615705.mp3?hdnea=exp=1774859907~acl=/api/1/1/f/d/1/0/fd1d77483f9c28dac50bb93fa7615705.mp3*~data=user_id=0,application_id=42~hmac=61c4e93c8772d923929c28f16dafab33c777d046e8a2c641caee684b7903c541",
+      "duration_ms": 237000,
+      "track_number": 4,
+      "album": {
+        "id": "928350181",
+        "name": "Strictly 4 The Scythe",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8d3ff1fbed72c7c149ba99fb97de93f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8d3ff1fbed72c7c149ba99fb97de93f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a8d3ff1fbed72c7c149ba99fb97de93f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3870288081"
+      }
+    },
+    {
+      "id": "134031294",
+      "name": "Ultimate",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/d/0/b0d230455fafeb678738ab84b00fc9de.mp3?hdnea=exp=1774859907~acl=/api/1/1/b/0/d/0/b0d230455fafeb678738ab84b00fc9de.mp3*~data=user_id=0,application_id=42~hmac=563cf7c6bd24b33731d9fe78b7ae81170517f050a3f141162d5d4aabf370bd7e",
+      "duration_ms": 190000,
+      "track_number": 5,
+      "album": {
+        "id": "14284636",
+        "name": "Ultimate",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fdea2318d4878706e7077ab5b15869a6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fdea2318d4878706e7077ab5b15869a6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fdea2318d4878706e7077ab5b15869a6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/134031294"
+      }
+    },
+    {
+      "id": "3057794731",
+      "name": "STILL IN THE PAINT",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/a/0/6ba5e3a77cecd7d5192da8d52c6ec8b1.mp3?hdnea=exp=1774859907~acl=/api/1/1/6/b/a/0/6ba5e3a77cecd7d5192da8d52c6ec8b1.mp3*~data=user_id=0,application_id=42~hmac=c6728703c1b840c3bc57c60b6ea9e4f9fa58015848350a6e02358ef5411d7170",
+      "duration_ms": 233000,
+      "track_number": 6,
+      "album": {
+        "id": "660700471",
+        "name": "STILL IN THE PAINT",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f00d9e35b759f631f980ea2625d47d6b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f00d9e35b759f631f980ea2625d47d6b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f00d9e35b759f631f980ea2625d47d6b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3057794731"
+      }
+    },
+    {
+      "id": "2823363762",
+      "name": "HOT ONE",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/c/0/69c31887463be0b1512044b0e205d049.mp3?hdnea=exp=1774859907~acl=/api/1/1/6/9/c/0/69c31887463be0b1512044b0e205d049.mp3*~data=user_id=0,application_id=42~hmac=7921053210ef1c44132aaf678304e9662c379cc1e7e2abd3d8aa8bb9b12c38d4",
+      "duration_ms": 165000,
+      "track_number": 7,
+      "album": {
+        "id": "593714312",
+        "name": "HOT ONE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7176da31796844ee5e45c1ce93c3af/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7176da31796844ee5e45c1ce93c3af/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1b7176da31796844ee5e45c1ce93c3af/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2823363762"
+      }
+    },
+    {
+      "id": "1689904917",
+      "name": "Walkin",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/f/0/98f4285d4de2f7735fffd2f2b843a3a4.mp3?hdnea=exp=1774859907~acl=/api/1/1/9/8/f/0/98f4285d4de2f7735fffd2f2b843a3a4.mp3*~data=user_id=0,application_id=42~hmac=a5e4f87898dae96b35d1800783f3908c2047bb79753c1a3acbf12d07d1395743",
+      "duration_ms": 280000,
+      "track_number": 8,
+      "album": {
+        "id": "303958517",
+        "name": "Melt My Eyez See Your Future",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f025fe60479db38c5187378a5d3aa03/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f025fe60479db38c5187378a5d3aa03/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f025fe60479db38c5187378a5d3aa03/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1689904917"
+      }
+    },
+    {
+      "id": "685814172",
+      "name": "RICKY",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/7/0/cf76427038f93c8295181b1fb65cf60c.mp3?hdnea=exp=1774859907~acl=/api/1/1/c/f/7/0/cf76427038f93c8295181b1fb65cf60c.mp3*~data=user_id=0,application_id=42~hmac=ebbec3a6f1f731582fdf73aba84a8eeeb101f1e73ae8cd0ceec47c8cd46aa403",
+      "duration_ms": 147000,
+      "track_number": 9,
+      "album": {
+        "id": "98185622",
+        "name": "ZUU",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/98bb718a4fbf5380ea3db8c27b27cfcc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/98bb718a4fbf5380ea3db8c27b27cfcc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/98bb718a4fbf5380ea3db8c27b27cfcc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/685814172"
+      }
+    },
+    {
+      "id": "2882038722",
+      "name": "HOODLUMZ",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/f/0/3df7793152f5a23cadd549ec9e5f16fd.mp3?hdnea=exp=1774859907~acl=/api/1/1/3/d/f/0/3df7793152f5a23cadd549ec9e5f16fd.mp3*~data=user_id=0,application_id=42~hmac=0f42016da8cb408681c0c024479cb563480630ac7c1e6087ec611ee856b3d0ff",
+      "duration_ms": 129000,
+      "track_number": 10,
+      "album": {
+        "id": "612830062",
+        "name": "HOODLUMZ",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2fc0ca4606c04178d7d0703c80aa1da9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2fc0ca4606c04178d7d0703c80aa1da9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2fc0ca4606c04178d7d0703c80aa1da9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5131091",
+          "name": "Denzel Curry"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2882038722"
+      }
+    }
+  ]
+}

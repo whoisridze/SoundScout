@@ -8,7 +8,7 @@ export default function Navbar() {
   const { isAuthenticated, isLoading } = useAuth();
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 bg-bg-base/80 backdrop-blur-md border-b border-border-subtle">
+    <nav className="fixed top-[var(--demo-offset,0px)] left-0 right-0 z-50 bg-bg-base/80 backdrop-blur-md border-b border-border-subtle">
       <div className="max-w-[1400px] mx-auto px-6 h-16 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2 text-text-primary font-semibold text-xl hover:opacity-80 transition-default">
           <Disc3 className="w-7 h-7 text-primary-500" />

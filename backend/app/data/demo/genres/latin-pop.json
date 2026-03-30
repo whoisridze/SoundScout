@@ -1,0 +1,486 @@
+{
+  "items": [
+    {
+      "id": "160",
+      "name": "Shakira",
+      "popularity": 99,
+      "followers": {
+        "total": 11445903
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/69c569506a8ff6ab0edfecbd1adf94b0/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/69c569506a8ff6ab0edfecbd1adf94b0/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/69c569506a8ff6ab0edfecbd1adf94b0/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/160"
+      },
+      "uri": "deezer:artist:160"
+    },
+    {
+      "id": "10583405",
+      "name": "Bad Bunny",
+      "popularity": 99,
+      "followers": {
+        "total": 7674796
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/45aaf836629158d714432ae37e552ee7/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/45aaf836629158d714432ae37e552ee7/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/45aaf836629158d714432ae37e552ee7/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10583405"
+      },
+      "uri": "deezer:artist:10583405"
+    },
+    {
+      "id": "4860761",
+      "name": "J Balvin",
+      "popularity": 99,
+      "followers": {
+        "total": 10293352
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/325eaa46bc25052d0e3d549d60cc8225/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/325eaa46bc25052d0e3d549d60cc8225/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/325eaa46bc25052d0e3d549d60cc8225/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4860761"
+      },
+      "uri": "deezer:artist:4860761"
+    },
+    {
+      "id": "63709712",
+      "name": "Rosalia",
+      "popularity": 1,
+      "followers": {
+        "total": 8
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/98d80d739eea47a52c21ce5e34dd15f3/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/98d80d739eea47a52c21ce5e34dd15f3/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/98d80d739eea47a52c21ce5e34dd15f3/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/63709712"
+      },
+      "uri": "deezer:artist:63709712"
+    },
+    {
+      "id": "1424602",
+      "name": "Maluma",
+      "popularity": 99,
+      "followers": {
+        "total": 8032359
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a1627f420e880b7229e52890b99626c9/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a1627f420e880b7229e52890b99626c9/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a1627f420e880b7229e52890b99626c9/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1424602"
+      },
+      "uri": "deezer:artist:1424602"
+    },
+    {
+      "id": "4937383",
+      "name": "Ozuna",
+      "popularity": 99,
+      "followers": {
+        "total": 4693433
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/df2030b9e796f55f58d2c4b68aecb18f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/df2030b9e796f55f58d2c4b68aecb18f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/df2030b9e796f55f58d2c4b68aecb18f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4937383"
+      },
+      "uri": "deezer:artist:4937383"
+    },
+    {
+      "id": "3839",
+      "name": "Daddy Yankee",
+      "popularity": 99,
+      "followers": {
+        "total": 7115389
+      },
+      "genres": [
+        "latin pop",
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a4f77d40d68cf544e74883b2bd904fce/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a4f77d40d68cf544e74883b2bd904fce/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a4f77d40d68cf544e74883b2bd904fce/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3839"
+      },
+      "uri": "deezer:artist:3839"
+    },
+    {
+      "id": "6707",
+      "name": "Luis Fonsi",
+      "popularity": 99,
+      "followers": {
+        "total": 3136778
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/db13837cc4442f835ceaeeeb67e9dc98/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/db13837cc4442f835ceaeeeb67e9dc98/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/db13837cc4442f835ceaeeeb67e9dc98/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/6707"
+      },
+      "uri": "deezer:artist:6707"
+    },
+    {
+      "id": "4698748",
+      "name": "Becky G",
+      "popularity": 99,
+      "followers": {
+        "total": 1854947
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4592b032de9d1393fcd1c32780755372/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4592b032de9d1393fcd1c32780755372/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4592b032de9d1393fcd1c32780755372/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4698748"
+      },
+      "uri": "deezer:artist:4698748"
+    },
+    {
+      "id": "5297021",
+      "name": "KAROL G",
+      "popularity": 99,
+      "followers": {
+        "total": 3344012
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/dd8c6b3068d2761955eb6e432046ed91/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/dd8c6b3068d2761955eb6e432046ed91/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/dd8c6b3068d2761955eb6e432046ed91/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5297021"
+      },
+      "uri": "deezer:artist:5297021"
+    },
+    {
+      "id": "15691",
+      "name": "Nicky Jam",
+      "popularity": 99,
+      "followers": {
+        "total": 6401606
+      },
+      "genres": [
+        "latin pop",
+        "reggaeton"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1fb6dc2c446495917b88a1c63b4a0e3/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1fb6dc2c446495917b88a1c63b4a0e3/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1fb6dc2c446495917b88a1c63b4a0e3/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/15691"
+      },
+      "uri": "deezer:artist:15691"
+    },
+    {
+      "id": "2792",
+      "name": "Enrique Iglesias",
+      "popularity": 99,
+      "followers": {
+        "total": 5936772
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7c0f867fb50b6c9302f991521e42e764/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7c0f867fb50b6c9302f991521e42e764/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7c0f867fb50b6c9302f991521e42e764/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2792"
+      },
+      "uri": "deezer:artist:2792"
+    },
+    {
+      "id": "2789",
+      "name": "Ricky Martin",
+      "popularity": 99,
+      "followers": {
+        "total": 2206013
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d1f0759714219db995124470310ad665/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d1f0759714219db995124470310ad665/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d1f0759714219db995124470310ad665/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/2789"
+      },
+      "uri": "deezer:artist:2789"
+    },
+    {
+      "id": "710",
+      "name": "Thalia",
+      "popularity": 99,
+      "followers": {
+        "total": 1485512
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e33972e57d491ed494ccd588f486c427/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e33972e57d491ed494ccd588f486c427/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e33972e57d491ed494ccd588f486c427/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/710"
+      },
+      "uri": "deezer:artist:710"
+    },
+    {
+      "id": "5266156",
+      "name": "Sebastian Yatra",
+      "popularity": 99,
+      "followers": {
+        "total": 2363634
+      },
+      "genres": [
+        "latin pop"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1ace3bd4ae0519faad8222ebbda6b24/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1ace3bd4ae0519faad8222ebbda6b24/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b1ace3bd4ae0519faad8222ebbda6b24/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5266156"
+      },
+      "uri": "deezer:artist:5266156"
+    }
+  ]
+}

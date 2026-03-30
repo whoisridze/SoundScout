@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "10686127",
+      "name": "Smooth Operator (2011 Remastered)",
+      "popularity": 89,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/e/0/a9e8d37fc08574942bcbcf3f35d1333b.mp3?hdnea=exp=1774860083~acl=/api/1/1/a/9/e/0/a9e8d37fc08574942bcbcf3f35d1333b.mp3*~data=user_id=0,application_id=42~hmac=570ed33ac11c72d215a07078579a797519afc3860305d426db49babc16eb6ee3",
+      "duration_ms": 259000,
+      "track_number": 1,
+      "album": {
+        "id": "976951",
+        "name": "The Ultimate Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2fd836cedf9336dc5c725dc3c4df5e0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2fd836cedf9336dc5c725dc3c4df5e0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e2fd836cedf9336dc5c725dc3c4df5e0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10686127"
+      }
+    },
+    {
+      "id": "1030652052",
+      "name": "Kiss of Life",
+      "popularity": 85,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/a/0/f5ae32f6e116f6b7c1922b8ad0d785ce.mp3?hdnea=exp=1774860083~acl=/api/1/1/f/5/a/0/f5ae32f6e116f6b7c1922b8ad0d785ce.mp3*~data=user_id=0,application_id=42~hmac=949b728aab234c2793a96645d4fb59ad690992abcc3ebc50b411a61dae13c709",
+      "duration_ms": 250000,
+      "track_number": 2,
+      "album": {
+        "id": "162472242",
+        "name": "The Best of Sade",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030652052"
+      }
+    },
+    {
+      "id": "1030652032",
+      "name": "No Ordinary Love",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/7/0/217adcfa96867aeaff7c942627050549.mp3?hdnea=exp=1774860083~acl=/api/1/1/2/1/7/0/217adcfa96867aeaff7c942627050549.mp3*~data=user_id=0,application_id=42~hmac=e470adcb4d15f77bea2b2b2c0d494368b3930e782578df0d3559f8b32d16fa01",
+      "duration_ms": 440000,
+      "track_number": 3,
+      "album": {
+        "id": "162472242",
+        "name": "The Best of Sade",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030652032"
+      }
+    },
+    {
+      "id": "1030652012",
+      "name": "Paradise",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/0/0/f30258e9a8b9eb110f94f5d0675a56b2.mp3?hdnea=exp=1774860083~acl=/api/1/1/f/3/0/0/f30258e9a8b9eb110f94f5d0675a56b2.mp3*~data=user_id=0,application_id=42~hmac=6d3a4c8589fab2b7317f89ade4c03328e4bcfc88b0fc5c3b6c7077faf89b882b",
+      "duration_ms": 216000,
+      "track_number": 4,
+      "album": {
+        "id": "162472242",
+        "name": "The Best of Sade",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030652012"
+      }
+    },
+    {
+      "id": "1030651912",
+      "name": "Hang on to Your Love",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/3/0/1f3938835cfeda40e17d9cb714cc78e2.mp3?hdnea=exp=1774860083~acl=/api/1/1/1/f/3/0/1f3938835cfeda40e17d9cb714cc78e2.mp3*~data=user_id=0,application_id=42~hmac=7772725094016219d482d45b0b60fc744f169135be9a6693c9f1827ee0f63195",
+      "duration_ms": 269000,
+      "track_number": 5,
+      "album": {
+        "id": "162472242",
+        "name": "The Best of Sade",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030651912"
+      }
+    },
+    {
+      "id": "1030652042",
+      "name": "Like a Tattoo",
+      "popularity": 81,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/f/0/98f8837c7a761b3d263107dded910c88.mp3?hdnea=exp=1774860083~acl=/api/1/1/9/8/f/0/98f8837c7a761b3d263107dded910c88.mp3*~data=user_id=0,application_id=42~hmac=ddddf8eae28900ade5d3ece397404914606e7aa1921d746b641744eb617e3503",
+      "duration_ms": 217000,
+      "track_number": 6,
+      "album": {
+        "id": "162472242",
+        "name": "The Best of Sade",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030652042"
+      }
+    },
+    {
+      "id": "1030651962",
+      "name": "Is It a Crime",
+      "popularity": 81,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/d/0/11d45e908fdc79ede8e23dbf25b17468.mp3?hdnea=exp=1774860083~acl=/api/1/1/1/1/d/0/11d45e908fdc79ede8e23dbf25b17468.mp3*~data=user_id=0,application_id=42~hmac=27091634b8fd444ba1c31fe03c555180522aafacf068417cb10b8e543fb483b8",
+      "duration_ms": 380000,
+      "track_number": 7,
+      "album": {
+        "id": "162472242",
+        "name": "The Best of Sade",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030651962"
+      }
+    },
+    {
+      "id": "1030591232",
+      "name": "Smooth Operator",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/f/0/a3fbaa5554b535b7d704b2f820ebaddd.mp3?hdnea=exp=1774860083~acl=/api/1/1/a/3/f/0/a3fbaa5554b535b7d704b2f820ebaddd.mp3*~data=user_id=0,application_id=42~hmac=4fbb8f7548f266227bd7278b146716f6695f883c471d28ace3db3f007d42cd9b",
+      "duration_ms": 297000,
+      "track_number": 8,
+      "album": {
+        "id": "162457162",
+        "name": "Diamond Life",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45443734d0de7e2f8ee2933992a14899/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45443734d0de7e2f8ee2933992a14899/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/45443734d0de7e2f8ee2933992a14899/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030591232"
+      }
+    },
+    {
+      "id": "1030651902",
+      "name": "Your Love Is King",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/e/0/0ae6c2a51f6adf4d511cc38e27bec138.mp3?hdnea=exp=1774860083~acl=/api/1/1/0/a/e/0/0ae6c2a51f6adf4d511cc38e27bec138.mp3*~data=user_id=0,application_id=42~hmac=573e8a4a6c82afa050f09830a43051162a88da560348b396453d49d32b328a9b",
+      "duration_ms": 219000,
+      "track_number": 9,
+      "album": {
+        "id": "162472242",
+        "name": "The Best of Sade",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030651902"
+      }
+    },
+    {
+      "id": "1030652082",
+      "name": "Pearls",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/c/0/d7c84ee9c8f335f72d5b409b9a2f2d16.mp3?hdnea=exp=1774860083~acl=/api/1/1/d/7/c/0/d7c84ee9c8f335f72d5b409b9a2f2d16.mp3*~data=user_id=0,application_id=42~hmac=eb84d650257fd1308a6451c5d0b9daded82703a65a603b1fafc6e6d763a9b255",
+      "duration_ms": 273000,
+      "track_number": 10,
+      "album": {
+        "id": "162472242",
+        "name": "The Best of Sade",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/336e00b554c028d58b7c432c38581997/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "202",
+          "name": "Sade"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1030652082"
+      }
+    }
+  ]
+}

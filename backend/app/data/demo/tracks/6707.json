@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "623698142",
+      "name": "Despacito",
+      "popularity": 87,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/8/0/c68396f0684b99d05f5b353fb3c4c888.mp3?hdnea=exp=1774859939~acl=/api/1/1/c/6/8/0/c68396f0684b99d05f5b353fb3c4c888.mp3*~data=user_id=0,application_id=42~hmac=ca768f8418c9f8ff874345ee6a28b109f2aa24d7eb4e5f6a6b3cb05b09e030ab",
+      "duration_ms": 228000,
+      "track_number": 1,
+      "album": {
+        "id": "85603632",
+        "name": "VIDA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7985ef4ccd9e66af2fc3c18d629689aa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7985ef4ccd9e66af2fc3c18d629689aa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7985ef4ccd9e66af2fc3c18d629689aa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/623698142"
+      }
+    },
+    {
+      "id": "511069272",
+      "name": "Calypso",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/1/0/c81a1e14609122b0958b00f5524dc6bb.mp3?hdnea=exp=1774859939~acl=/api/1/1/c/8/1/0/c81a1e14609122b0958b00f5524dc6bb.mp3*~data=user_id=0,application_id=42~hmac=4bf584948e87f162cb28cadc7fc128155aa9323856bae363c8a8e27e1f213e51",
+      "duration_ms": 200000,
+      "track_number": 2,
+      "album": {
+        "id": "65501812",
+        "name": "Calypso",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b2f57c92209dc1627d260d0eafa6d2a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b2f57c92209dc1627d260d0eafa6d2a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b2f57c92209dc1627d260d0eafa6d2a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/511069272"
+      }
+    },
+    {
+      "id": "3773003372",
+      "name": "CAMBIARÉ",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/d/0/0ad11e03bec8c3dd78dcc33120f192d6.mp3?hdnea=exp=1774859939~acl=/api/1/1/0/a/d/0/0ad11e03bec8c3dd78dcc33120f192d6.mp3*~data=user_id=0,application_id=42~hmac=d247f3c8481ec4a47b134aabb7bbda85d9c5d9f90743819528ef1276f3268b2d",
+      "duration_ms": 181000,
+      "track_number": 3,
+      "album": {
+        "id": "897014332",
+        "name": "CAMBIARÉ",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb6910ce5da403cafb14c3fd7d6f9223/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb6910ce5da403cafb14c3fd7d6f9223/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cb6910ce5da403cafb14c3fd7d6f9223/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3773003372"
+      }
+    },
+    {
+      "id": "427935102",
+      "name": "Échame La Culpa",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/2/0/8323aa5513b36699735b20d2359d5ed1.mp3?hdnea=exp=1774859939~acl=/api/1/1/8/3/2/0/8323aa5513b36699735b20d2359d5ed1.mp3*~data=user_id=0,application_id=42~hmac=c10b308074fc21ea3bf1b43497d0a0824bd50e638040723a132dce01cb14282b",
+      "duration_ms": 173000,
+      "track_number": 4,
+      "album": {
+        "id": "51524802",
+        "name": "Échame La Culpa",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3e8b9d9d878db36bd594c0347b61791d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3e8b9d9d878db36bd594c0347b61791d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3e8b9d9d878db36bd594c0347b61791d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/427935102"
+      }
+    },
+    {
+      "id": "623698072",
+      "name": "Apaga La Luz",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/f/0/94f0298f7e1ee9668633e81cc3fc6415.mp3?hdnea=exp=1774859939~acl=/api/1/1/9/4/f/0/94f0298f7e1ee9668633e81cc3fc6415.mp3*~data=user_id=0,application_id=42~hmac=fd2663348ad51010cd054c08c53ea4f7e8770fa4b81bbfa29d3146124739306f",
+      "duration_ms": 212000,
+      "track_number": 5,
+      "album": {
+        "id": "85603632",
+        "name": "VIDA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7985ef4ccd9e66af2fc3c18d629689aa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7985ef4ccd9e66af2fc3c18d629689aa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7985ef4ccd9e66af2fc3c18d629689aa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/623698072"
+      }
+    },
+    {
+      "id": "144389864",
+      "name": "Despacito",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/0/0/fe0ef32c2c8f98ee8538617c5b31edae.mp3?hdnea=exp=1774859939~acl=/api/1/1/f/e/0/0/fe0ef32c2c8f98ee8538617c5b31edae.mp3*~data=user_id=0,application_id=42~hmac=7bb00a2f629baf0b9e93eee0619df22b2511d0bdd0975b2b23616434c89716a6",
+      "duration_ms": 228000,
+      "track_number": 6,
+      "album": {
+        "id": "15659020",
+        "name": "Despacito (Versión Pop)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fd6d3527f33f1880614af5d65ab4e7e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fd6d3527f33f1880614af5d65ab4e7e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9fd6d3527f33f1880614af5d65ab4e7e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/144389864"
+      }
+    },
+    {
+      "id": "1076966212",
+      "name": "Perfecta",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/9/0/8a9669ed907687317a87713e8b73d651.mp3?hdnea=exp=1774859939~acl=/api/1/1/8/a/9/0/8a9669ed907687317a87713e8b73d651.mp3*~data=user_id=0,application_id=42~hmac=3a8b8074ac512b68ed3f5088facc68f3a543a48823ee8c3c690b1f3d52bcc072",
+      "duration_ms": 195000,
+      "track_number": 7,
+      "album": {
+        "id": "172652162",
+        "name": "Perfecta",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a81080116380cafe4f1cc4a85351757f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a81080116380cafe4f1cc4a85351757f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a81080116380cafe4f1cc4a85351757f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1076966212"
+      }
+    },
+    {
+      "id": "2416652515",
+      "name": "Pasa La Página \"Panamá\"",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/0/0/d60d5817672e9677414e12e99b7e21f4.mp3?hdnea=exp=1774859939~acl=/api/1/1/d/6/0/0/d60d5817672e9677414e12e99b7e21f4.mp3*~data=user_id=0,application_id=42~hmac=976813a83c9ae47517be46611c77d9b1289f34ce4dd106173b445b0d19d4a853",
+      "duration_ms": 170000,
+      "track_number": 8,
+      "album": {
+        "id": "477664845",
+        "name": "Pasa La Página \"Panamá\"",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c9ab0793892fd672c53f54b0d894f44e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c9ab0793892fd672c53f54b0d894f44e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c9ab0793892fd672c53f54b0d894f44e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2416652515"
+      }
+    },
+    {
+      "id": "15274186",
+      "name": "El Ultimo Adiós",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/9/0/6c99e3a53bf197d627d50dd4d474dd6a.mp3?hdnea=exp=1774859939~acl=/api/1/1/6/c/9/0/6c99e3a53bf197d627d50dd4d474dd6a.mp3*~data=user_id=0,application_id=42~hmac=75a4b6a0680cd7d82c7b236d1986a76348108b830ca351d880091e846d3a8d4d",
+      "duration_ms": 238000,
+      "track_number": 9,
+      "album": {
+        "id": "1408216",
+        "name": "El Ultimo Adiós",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a79317de043b08292a4f7aee06e63a9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a79317de043b08292a4f7aee06e63a9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0a79317de043b08292a4f7aee06e63a9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15274186"
+      }
+    },
+    {
+      "id": "2704432722",
+      "name": "Marbella",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/9/0/ae9883c577192b5178e179ac3bf67c46.mp3?hdnea=exp=1774859939~acl=/api/1/1/a/e/9/0/ae9883c577192b5178e179ac3bf67c46.mp3*~data=user_id=0,application_id=42~hmac=281d654579dc25a66d629d0b918a7c650cfdcc4b0decd6d4b72c6b838754b59b",
+      "duration_ms": 153000,
+      "track_number": 10,
+      "album": {
+        "id": "560398722",
+        "name": "Marbella",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9305197ecdd10ca6018323dc4132164b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9305197ecdd10ca6018323dc4132164b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9305197ecdd10ca6018323dc4132164b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6707",
+          "name": "Luis Fonsi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2704432722"
+      }
+    }
+  ]
+}

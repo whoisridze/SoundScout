@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "46228811",
+      "name": "Love Is Blindness",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/5/0/59527545610a2df50427c383faf74115.mp3?hdnea=exp=1774859960~acl=/api/1/1/5/9/5/0/59527545610a2df50427c383faf74115.mp3*~data=user_id=0,application_id=42~hmac=12cabf50e944ff68aee6415456ec356c1097cfdb511f8edef2fb5c4a99a91385",
+      "duration_ms": 199000,
+      "track_number": 1,
+      "album": {
+        "id": "4575591",
+        "name": "Sixteen Saltines",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/627d4ab20444d89546f7fcf1a1954195/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/627d4ab20444d89546f7fcf1a1954195/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/627d4ab20444d89546f7fcf1a1954195/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/46228811"
+      }
+    },
+    {
+      "id": "1826775947",
+      "name": "A Tip from You to Me",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/e/0/b4efc124212ba3d7bc3ec8c87262fe6a.mp3?hdnea=exp=1774859960~acl=/api/1/1/b/4/e/0/b4efc124212ba3d7bc3ec8c87262fe6a.mp3*~data=user_id=0,application_id=42~hmac=d56448277f097989c6fbe829e05d8d6a03c8ef29f8ae2e5d914e7d6640e3edbb",
+      "duration_ms": 162000,
+      "track_number": 2,
+      "album": {
+        "id": "336273507",
+        "name": "Entering Heaven Alive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0708a228f3dbb49c63993002295332d5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0708a228f3dbb49c63993002295332d5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0708a228f3dbb49c63993002295332d5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1826775947"
+      }
+    },
+    {
+      "id": "2923817261",
+      "name": "Old Scratch Blues",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/4/0/a149ae02bc44c437332aceccc48db3f5.mp3?hdnea=exp=1774859960~acl=/api/1/1/a/1/4/0/a149ae02bc44c437332aceccc48db3f5.mp3*~data=user_id=0,application_id=42~hmac=6a34349c77c224aa41f2b6e297f0754ca412025071267a98de890a2ac3d2185e",
+      "duration_ms": 211000,
+      "track_number": 3,
+      "album": {
+        "id": "622151991",
+        "name": "No Name",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8a916b2b5385660655af489389f74d1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8a916b2b5385660655af489389f74d1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8a916b2b5385660655af489389f74d1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2923817261"
+      }
+    },
+    {
+      "id": "1826776017",
+      "name": "If I Die Tomorrow",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/2/0/552376cd9f3ea999f0601e9c17edc2d4.mp3?hdnea=exp=1774859960~acl=/api/1/1/5/5/2/0/552376cd9f3ea999f0601e9c17edc2d4.mp3*~data=user_id=0,application_id=42~hmac=1d28dace0c42c9b9ed893737a4f3c1862aa1833722a26b7a02735aafd42b6d0c",
+      "duration_ms": 179000,
+      "track_number": 4,
+      "album": {
+        "id": "336273507",
+        "name": "Entering Heaven Alive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0708a228f3dbb49c63993002295332d5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0708a228f3dbb49c63993002295332d5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0708a228f3dbb49c63993002295332d5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1826776017"
+      }
+    },
+    {
+      "id": "2281106",
+      "name": "Another Way to Die",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/b/0/59b83b34ba89d79eb94023400e71a64e.mp3?hdnea=exp=1774859960~acl=/api/1/1/5/9/b/0/59b83b34ba89d79eb94023400e71a64e.mp3*~data=user_id=0,application_id=42~hmac=547415de81efe044a293d37bca36794202b35acaa6b2db327afb150610a84f22",
+      "duration_ms": 263000,
+      "track_number": 5,
+      "album": {
+        "id": "227686",
+        "name": "Quantum of Solace: Original Motion Picture Soundtrack",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e98b980a7f03f54c38a7897c7cad001d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e98b980a7f03f54c38a7897c7cad001d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e98b980a7f03f54c38a7897c7cad001d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2281106"
+      }
+    },
+    {
+      "id": "79088592",
+      "name": "Lazaretto",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/9/0/a892a887d8f9b5cd7a78dba4bba8ecea.mp3?hdnea=exp=1774859960~acl=/api/1/1/a/8/9/0/a892a887d8f9b5cd7a78dba4bba8ecea.mp3*~data=user_id=0,application_id=42~hmac=399aadb124d469ffa195bff8b7bac715e6d27db70a7b2a965850a70e9a7f4af1",
+      "duration_ms": 219000,
+      "track_number": 6,
+      "album": {
+        "id": "7863835",
+        "name": "Lazaretto",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f076fa13ebf138ae25978137d2cca21/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f076fa13ebf138ae25978137d2cca21/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f076fa13ebf138ae25978137d2cca21/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/79088592"
+      }
+    },
+    {
+      "id": "2923817301",
+      "name": "Archbishop Harold Holmes",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/0/0/cc06ca387d6843b626bb8725c6ab9bc8.mp3?hdnea=exp=1774859960~acl=/api/1/1/c/c/0/0/cc06ca387d6843b626bb8725c6ab9bc8.mp3*~data=user_id=0,application_id=42~hmac=ed143a74e200872cded4c4415e19dc2ac8be1eb713b020730daf6fddb11fd10d",
+      "duration_ms": 171000,
+      "track_number": 7,
+      "album": {
+        "id": "622151991",
+        "name": "No Name",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8a916b2b5385660655af489389f74d1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8a916b2b5385660655af489389f74d1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8a916b2b5385660655af489389f74d1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2923817301"
+      }
+    },
+    {
+      "id": "79088594",
+      "name": "Would You Fight For My Love?",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/6/0/48614dfd9917487684366ebadb4bdda6.mp3?hdnea=exp=1774859960~acl=/api/1/1/4/8/6/0/48614dfd9917487684366ebadb4bdda6.mp3*~data=user_id=0,application_id=42~hmac=e031485219986426b0fd405ba4b6bd4960320b0d8ee51df2ab173c44f8e4756f",
+      "duration_ms": 248000,
+      "track_number": 8,
+      "album": {
+        "id": "7863835",
+        "name": "Lazaretto",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f076fa13ebf138ae25978137d2cca21/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f076fa13ebf138ae25978137d2cca21/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f076fa13ebf138ae25978137d2cca21/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/79088594"
+      }
+    },
+    {
+      "id": "79088599",
+      "name": "That Black Bat Licorice",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/f/0/87f89885bfe7820a9bcd47ac278e36ec.mp3?hdnea=exp=1774859960~acl=/api/1/1/8/7/f/0/87f89885bfe7820a9bcd47ac278e36ec.mp3*~data=user_id=0,application_id=42~hmac=3e977acacb378bb539683c9e1027143d8f2ec29045ba438edb77c975334c3743",
+      "duration_ms": 230000,
+      "track_number": 9,
+      "album": {
+        "id": "7863835",
+        "name": "Lazaretto",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f076fa13ebf138ae25978137d2cca21/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f076fa13ebf138ae25978137d2cca21/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2f076fa13ebf138ae25978137d2cca21/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/79088599"
+      }
+    },
+    {
+      "id": "18225994",
+      "name": "Love Interruption",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/a/0/b8abdbb1c0640bc3fa866f992a5ebe6d.mp3?hdnea=exp=1774859960~acl=/api/1/1/b/8/a/0/b8abdbb1c0640bc3fa866f992a5ebe6d.mp3*~data=user_id=0,application_id=42~hmac=dd54f4f54f641b86193b856842aa6e096720b9c7aa34d9ed2afec776c3d4fa43",
+      "duration_ms": 159000,
+      "track_number": 10,
+      "album": {
+        "id": "1712366",
+        "name": "Blunderbuss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9c4ce033574cd661a4534966ca5095b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9c4ce033574cd661a4534966ca5095b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9c4ce033574cd661a4534966ca5095b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1945",
+          "name": "Jack White"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/18225994"
+      }
+    }
+  ]
+}

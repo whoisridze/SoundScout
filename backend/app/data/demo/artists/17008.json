@@ -1,0 +1,32 @@
+{
+  "id": "17008",
+  "name": "Spice",
+  "popularity": 7,
+  "followers": {
+    "total": 72402
+  },
+  "genres": [
+    "dancehall"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/83e3c5365a7710d6ce8c113e2e1979ec/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/83e3c5365a7710d6ce8c113e2e1979ec/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/83e3c5365a7710d6ce8c113e2e1979ec/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/17008"
+  },
+  "uri": "deezer:artist:17008"
+}

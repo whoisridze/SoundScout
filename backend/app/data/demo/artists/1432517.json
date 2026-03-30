@@ -1,0 +1,32 @@
+{
+  "id": "1432517",
+  "name": "Lazerhawk",
+  "popularity": 1,
+  "followers": {
+    "total": 15413
+  },
+  "genres": [
+    "synthwave"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5b8bf1f93ac21a75ff2252b1cb433a02/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5b8bf1f93ac21a75ff2252b1cb433a02/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5b8bf1f93ac21a75ff2252b1cb433a02/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1432517"
+  },
+  "uri": "deezer:artist:1432517"
+}

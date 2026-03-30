@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1767163017",
+      "name": "HOT",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/6/0/b868b172d3a99041aab6f276b342ff69.mp3?hdnea=exp=1774859953~acl=/api/1/1/b/8/6/0/b868b172d3a99041aab6f276b342ff69.mp3*~data=user_id=0,application_id=42~hmac=732332f16a9854107cd3f373b686ace842877e8301585092fe2b10dc3a73b71a",
+      "duration_ms": 197000,
+      "track_number": 1,
+      "album": {
+        "id": "322119797",
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1767163017"
+      }
+    },
+    {
+      "id": "1528273522",
+      "name": "To you",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/8/0/df85fca677df1f01ee1bb4f004cb622e.mp3?hdnea=exp=1774859953~acl=/api/1/1/d/f/8/0/df85fca677df1f01ee1bb4f004cb622e.mp3*~data=user_id=0,application_id=42~hmac=7c39b2bb866ab2cda6f214b6c083f2288a67d25b59623874645f2cf6a93e9ea5",
+      "duration_ms": 225000,
+      "track_number": 2,
+      "album": {
+        "id": "267131702",
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fbbdc76ccd0ac6fef7c697defa3d3a9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fbbdc76ccd0ac6fef7c697defa3d3a9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1fbbdc76ccd0ac6fef7c697defa3d3a9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1528273522"
+      }
+    },
+    {
+      "id": "3614510862",
+      "name": "THUNDER",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/1/0/f61755015111dbfcaded4871c9518b5f.mp3?hdnea=exp=1774859953~acl=/api/1/1/f/6/1/0/f61755015111dbfcaded4871c9518b5f.mp3*~data=user_id=0,application_id=42~hmac=7587a76cf13ab32407bf34f9b93df4d674c94f4987fda3a8a1829d23608a6fa0",
+      "duration_ms": 164000,
+      "track_number": 3,
+      "album": {
+        "id": "842200242",
+        "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/373edc57c9b84cb36f389eb92f104a60/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/373edc57c9b84cb36f389eb92f104a60/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/373edc57c9b84cb36f389eb92f104a60/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3614510862"
+      }
+    },
+    {
+      "id": "1827796337",
+      "name": "Fallin' Flower (Korean Ver.)",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/6/0/0964b5235d4f449b3c31ac9768143b9d.mp3?hdnea=exp=1774859953~acl=/api/1/1/0/9/6/0/0964b5235d4f449b3c31ac9768143b9d.mp3*~data=user_id=0,application_id=42~hmac=70005b76ed80a91e2e7459e20de9a1f1496d2e8e088609ee9314ac390e0dbd47",
+      "duration_ms": 210000,
+      "track_number": 4,
+      "album": {
+        "id": "336591247",
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75d47858695335a0ef70516a13895b02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75d47858695335a0ef70516a13895b02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75d47858695335a0ef70516a13895b02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1827796337"
+      }
+    },
+    {
+      "id": "1767163057",
+      "name": "Shadow",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/0/0/4d0a4ef1843166e40baa1fe2426d5214.mp3?hdnea=exp=1774859953~acl=/api/1/1/4/d/0/0/4d0a4ef1843166e40baa1fe2426d5214.mp3*~data=user_id=0,application_id=42~hmac=c30ba300574f2b085cf494f3377f69ccdb781111066f816f69cd4b03ebcde4cc",
+      "duration_ms": 212000,
+      "track_number": 5,
+      "album": {
+        "id": "322119797",
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1767163057"
+      }
+    },
+    {
+      "id": "3078477101",
+      "name": "Shohikigen",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/e/0/57ed0649fdb4762eb9e48d8dedafc10b.mp3?hdnea=exp=1774859953~acl=/api/1/1/5/7/e/0/57ed0649fdb4762eb9e48d8dedafc10b.mp3*~data=user_id=0,application_id=42~hmac=f79bb381f34e47bd80fee3f733189e244d3ed7a0f9a222a97e358e1af2024f12",
+      "duration_ms": 190000,
+      "track_number": 6,
+      "album": {
+        "id": "666639151",
+        "name": "Shohikigen",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e74bc1c01151e381b49612c677339f30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e74bc1c01151e381b49612c677339f30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e74bc1c01151e381b49612c677339f30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3078477101"
+      }
+    },
+    {
+      "id": "1722331757",
+      "name": "Darl+ing",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/d/0/e1d029c7ebf97ad4667af32dd85c5ee4.mp3?hdnea=exp=1774859953~acl=/api/1/1/e/1/d/0/e1d029c7ebf97ad4667af32dd85c5ee4.mp3*~data=user_id=0,application_id=42~hmac=00b396d2237985aece7d3543a37e8ea57cdd47929c8c7c5f383cd4e212083c3c",
+      "duration_ms": 176000,
+      "track_number": 7,
+      "album": {
+        "id": "311280237",
+        "name": "Darl+ing",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7f94720d84b95bb6943530dcdc1a072b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7f94720d84b95bb6943530dcdc1a072b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7f94720d84b95bb6943530dcdc1a072b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1722331757"
+      }
+    },
+    {
+      "id": "2247330887",
+      "name": "Super",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/9/0/2b9dbb9893fa0a49fc9e9bb09aa098b8.mp3?hdnea=exp=1774859953~acl=/api/1/1/2/b/9/0/2b9dbb9893fa0a49fc9e9bb09aa098b8.mp3*~data=user_id=0,application_id=42~hmac=20dabbe178bd2d55a020ca3d4432c1fbc6cbcfda4796c6391908335e30c23e65",
+      "duration_ms": 200000,
+      "track_number": 8,
+      "album": {
+        "id": "432208777",
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6c7d4855dfd042ea1d7cf18057c271c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6c7d4855dfd042ea1d7cf18057c271c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6c7d4855dfd042ea1d7cf18057c271c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2247330887"
+      }
+    },
+    {
+      "id": "2752439261",
+      "name": "LALALI",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/d/0/c0daf4a3d93554b1cd8ffc164aeab0a6.mp3?hdnea=exp=1774859953~acl=/api/1/1/c/0/d/0/c0daf4a3d93554b1cd8ffc164aeab0a6.mp3*~data=user_id=0,application_id=42~hmac=b038400f954b45f21a6e4a28eb90c4c6778f6aa381c4c6f6576203d2146730af",
+      "duration_ms": 171000,
+      "track_number": 9,
+      "album": {
+        "id": "573909981",
+        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5206c980b9bb49ecd4940252057915eb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5206c980b9bb49ecd4940252057915eb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5206c980b9bb49ecd4940252057915eb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2752439261"
+      }
+    },
+    {
+      "id": "2752439251",
+      "name": "MAESTRO",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/7/0/bf799fdadf0b25440448e908821e9a26.mp3?hdnea=exp=1774859953~acl=/api/1/1/b/f/7/0/bf799fdadf0b25440448e908821e9a26.mp3*~data=user_id=0,application_id=42~hmac=df784bcf80c22f337d7b7e60481dbae7872571583410a5225f53a4521771852d",
+      "duration_ms": 198000,
+      "track_number": 10,
+      "album": {
+        "id": "573909981",
+        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5206c980b9bb49ecd4940252057915eb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5206c980b9bb49ecd4940252057915eb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5206c980b9bb49ecd4940252057915eb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "240582",
+          "name": "SEVENTEEN"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2752439251"
+      }
+    }
+  ]
+}

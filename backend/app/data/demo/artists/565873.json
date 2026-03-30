@@ -1,0 +1,32 @@
+{
+  "id": "565873",
+  "name": "Kranium",
+  "popularity": 8,
+  "followers": {
+    "total": 86613
+  },
+  "genres": [
+    "dancehall"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/bfb84043ae24937e45a01fa12345f2a4/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/bfb84043ae24937e45a01fa12345f2a4/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/bfb84043ae24937e45a01fa12345f2a4/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/565873"
+  },
+  "uri": "deezer:artist:565873"
+}

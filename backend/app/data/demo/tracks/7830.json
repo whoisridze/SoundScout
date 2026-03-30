@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3786154722",
+      "name": "She's Country",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/b/0/6db328633ae78b4cc1c34a3f00bb36ba.mp3?hdnea=exp=1774860041~acl=/api/1/1/6/d/b/0/6db328633ae78b4cc1c34a3f00bb36ba.mp3*~data=user_id=0,application_id=42~hmac=c3038e500e268b3289b556ab84e9e49e3de281adb5c1786226d153f4139eb34d",
+      "duration_ms": 220000,
+      "track_number": 1,
+      "album": {
+        "id": "901429402",
+        "name": "Wide Open",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6cffae8f77c951deba5a73bfe7209719/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6cffae8f77c951deba5a73bfe7209719/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6cffae8f77c951deba5a73bfe7209719/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3786154722"
+      }
+    },
+    {
+      "id": "3788325052",
+      "name": "Blacktop Gone",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/c/0/aecbdd3ebdfe7cae1e27564ce441cac1.mp3?hdnea=exp=1774860041~acl=/api/1/1/a/e/c/0/aecbdd3ebdfe7cae1e27564ce441cac1.mp3*~data=user_id=0,application_id=42~hmac=3c8bc3828664dc64c20e936a48c0ddf19524b0ff8d8de8788b9b674c5d580eb4",
+      "duration_ms": 206000,
+      "track_number": 2,
+      "album": {
+        "id": "902134842",
+        "name": "Rearview Town",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6da45f8d299a82dfa66b7bc1965f8ace/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6da45f8d299a82dfa66b7bc1965f8ace/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6da45f8d299a82dfa66b7bc1965f8ace/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788325052"
+      }
+    },
+    {
+      "id": "84313069",
+      "name": "All My Ex's Live In Texas (Live)",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/4/0/6d414e1a9762e3fe5e51b6d74b8484bf.mp3?hdnea=exp=1774860041~acl=/api/1/1/6/d/4/0/6d414e1a9762e3fe5e51b6d74b8484bf.mp3*~data=user_id=0,application_id=42~hmac=5c069a666c0f70e2aa4f0b5bc25df6e974ec5419bb734984823235bcb2479299",
+      "duration_ms": 208000,
+      "track_number": 3,
+      "album": {
+        "id": "8493641",
+        "name": "The Cowboy Rides Away: Live From AT&T Stadium",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/15627c92ed0f4ae1e9b1424afefb4852/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/15627c92ed0f4ae1e9b1424afefb4852/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/15627c92ed0f4ae1e9b1424afefb4852/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84313069"
+      }
+    },
+    {
+      "id": "3788189052",
+      "name": "1994",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/e/0/d1e066628dc6708b9d93d88d64575daf.mp3?hdnea=exp=1774860041~acl=/api/1/1/d/1/e/0/d1e066628dc6708b9d93d88d64575daf.mp3*~data=user_id=0,application_id=42~hmac=8aa1ca9ff7ac6ecf183f2f9edafd8bb2a59bd6f6ea3c7fc3febc619de4b9da9d",
+      "duration_ms": 242000,
+      "track_number": 4,
+      "album": {
+        "id": "902095592",
+        "name": "Night Train",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1b64033b70c9eb21ec637b67da3ee8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1b64033b70c9eb21ec637b67da3ee8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1b64033b70c9eb21ec637b67da3ee8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788189052"
+      }
+    },
+    {
+      "id": "3788189012",
+      "name": "The Only Way I Know",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/b/0/1cb998037fa25e61ae027a246ec00dd0.mp3?hdnea=exp=1774860041~acl=/api/1/1/1/c/b/0/1cb998037fa25e61ae027a246ec00dd0.mp3*~data=user_id=0,application_id=42~hmac=fbc0c0ca69f6ee0519be3c4b0e906832eb01194a593d7b2e669eea729770a6ac",
+      "duration_ms": 193000,
+      "track_number": 5,
+      "album": {
+        "id": "902095592",
+        "name": "Night Train",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1b64033b70c9eb21ec637b67da3ee8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1b64033b70c9eb21ec637b67da3ee8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1b64033b70c9eb21ec637b67da3ee8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788189012"
+      }
+    },
+    {
+      "id": "3856038511",
+      "name": "Don’t Tell On Me",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/6/0/6d65adc7002f06be6203e62ea86603f4.mp3?hdnea=exp=1774860041~acl=/api/1/1/6/d/6/0/6d65adc7002f06be6203e62ea86603f4.mp3*~data=user_id=0,application_id=42~hmac=9953b4c85c2dbb6baf32206f9367fff37d7c1ff190fb6c92581d7477f25e45ee",
+      "duration_ms": 184000,
+      "track_number": 6,
+      "album": {
+        "id": "923166921",
+        "name": "Don't Tell On Me",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/14cf95fe080ff0ae7c48ab675c242da4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/14cf95fe080ff0ae7c48ab675c242da4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/14cf95fe080ff0ae7c48ab675c242da4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3856038511"
+      }
+    },
+    {
+      "id": "3794317242",
+      "name": "Whiskey Drink",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/c/0/1dcf7cca1e47c5360a8f398054ef5841.mp3?hdnea=exp=1774860041~acl=/api/1/1/1/d/c/0/1dcf7cca1e47c5360a8f398054ef5841.mp3*~data=user_id=0,application_id=42~hmac=32f885e8e3bdac74c81f334fbe4d4e1f4d900061c47aba775def963ab71142a1",
+      "duration_ms": 190000,
+      "track_number": 7,
+      "album": {
+        "id": "903804082",
+        "name": "Whiskey Drink",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/973f708d15163866e0a809f3d1e69314/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/973f708d15163866e0a809f3d1e69314/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/973f708d15163866e0a809f3d1e69314/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3794317242"
+      }
+    },
+    {
+      "id": "3788347372",
+      "name": "Cowboy Killer",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/8/0/3485c9d62157c1dbe5789e8eab52965f.mp3?hdnea=exp=1774860041~acl=/api/1/1/3/4/8/0/3485c9d62157c1dbe5789e8eab52965f.mp3*~data=user_id=0,application_id=42~hmac=5892bb689cd8f8e57190384b13db5a6b473e67a91cbf38834540d9e8f14abd32",
+      "duration_ms": 176000,
+      "track_number": 8,
+      "album": {
+        "id": "902138452",
+        "name": "9",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4467b226da10d4a5c98061a12a3f9a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4467b226da10d4a5c98061a12a3f9a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4467b226da10d4a5c98061a12a3f9a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788347372"
+      }
+    },
+    {
+      "id": "3622448402",
+      "name": "Lovin' Me Too Long",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/9/0/4f929a6704aa894b89fc7bd28d282d5d.mp3?hdnea=exp=1774860041~acl=/api/1/1/4/f/9/0/4f929a6704aa894b89fc7bd28d282d5d.mp3*~data=user_id=0,application_id=42~hmac=ac8245cb1a50b2765c84bb012fee284899848ed9c0661ed65a3dc71199d92f8e",
+      "duration_ms": 194000,
+      "track_number": 9,
+      "album": {
+        "id": "844979582",
+        "name": "Songs About Us",
+        "images": [
+          {
+            "url": null,
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": null,
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": null,
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3622448402"
+      }
+    },
+    {
+      "id": "3788325002",
+      "name": "Dirt To Dust",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/3/0/913e862a1db5d931d226963481df0ff5.mp3?hdnea=exp=1774860041~acl=/api/1/1/9/1/3/0/913e862a1db5d931d226963481df0ff5.mp3*~data=user_id=0,application_id=42~hmac=c13d5a8a5e596fc535f29830869f57e16473753943a1835e5e5333770f29c2ab",
+      "duration_ms": 168000,
+      "track_number": 10,
+      "album": {
+        "id": "902134842",
+        "name": "Rearview Town",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6da45f8d299a82dfa66b7bc1965f8ace/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6da45f8d299a82dfa66b7bc1965f8ace/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6da45f8d299a82dfa66b7bc1965f8ace/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7830",
+          "name": "Jason Aldean"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788325002"
+      }
+    }
+  ]
+}

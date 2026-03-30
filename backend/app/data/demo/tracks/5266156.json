@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1550821782",
+      "name": "Dos Oruguitas",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/0/0/8c0222622a44132a1fe258b6438f65e2.mp3?hdnea=exp=1774859945~acl=/api/1/1/8/c/0/0/8c0222622a44132a1fe258b6438f65e2.mp3*~data=user_id=0,application_id=42~hmac=fc87a3d062637e0de85b50e67b9ad102b25cee167140ed8d8c86cb75cd3fa2d6",
+      "duration_ms": 215000,
+      "track_number": 1,
+      "album": {
+        "id": "272207802",
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/544f44cd8f85e39223f29cec37a5446e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/544f44cd8f85e39223f29cec37a5446e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/544f44cd8f85e39223f29cec37a5446e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1550821782"
+      }
+    },
+    {
+      "id": "814518992",
+      "name": "Boomshakalaka (Dimitri Vegas & Like Mike vs. Afro Bros Radio Mix)",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/6/0/fb661ac84201e79c2d6631b3e4a03a17.mp3?hdnea=exp=1774859945~acl=/api/1/1/f/b/6/0/fb661ac84201e79c2d6631b3e4a03a17.mp3*~data=user_id=0,application_id=42~hmac=61af5ab9b5fb64b109b7a6c04c9b3553484ebd8d94bae5d295f8aae25cbcabc3",
+      "duration_ms": 211000,
+      "track_number": 2,
+      "album": {
+        "id": "120044322",
+        "name": "Boomshakalaka (Dimitri Vegas & Like Mike vs. Afro Bros Radio Mix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a13ac3d0695ac910786a54e092273d0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a13ac3d0695ac910786a54e092273d0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a13ac3d0695ac910786a54e092273d0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/814518992"
+      }
+    },
+    {
+      "id": "416056622",
+      "name": "SUTRA",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/3/0/8235dfd3bcf1b055ef49eb9d20f92645.mp3?hdnea=exp=1774859945~acl=/api/1/1/8/2/3/0/8235dfd3bcf1b055ef49eb9d20f92645.mp3*~data=user_id=0,application_id=42~hmac=4467f1f1406cf4d6e0186d583c9fb1d3ef99c1ad2b0fd5047fad937bc1c609bd",
+      "duration_ms": 203000,
+      "track_number": 3,
+      "album": {
+        "id": "49654052",
+        "name": "SUTRA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de80f8bcc0a232a079d2ba2c147a08bf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de80f8bcc0a232a079d2ba2c147a08bf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/de80f8bcc0a232a079d2ba2c147a08bf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/416056622"
+      }
+    },
+    {
+      "id": "3094512161",
+      "name": "2AM",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/c/0/40c29b336ea659b23b1f5e9567ae94ad.mp3?hdnea=exp=1774859945~acl=/api/1/1/4/0/c/0/40c29b336ea659b23b1f5e9567ae94ad.mp3*~data=user_id=0,application_id=42~hmac=4bf597b1ee0274dad756e8b3ecfc61dab5cb7baab4199065d52e8a78a2ff5303",
+      "duration_ms": 196000,
+      "track_number": 4,
+      "album": {
+        "id": "670813671",
+        "name": "2AM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ad0ba29107623a084c3bf7d34a71d8f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ad0ba29107623a084c3bf7d34a71d8f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4ad0ba29107623a084c3bf7d34a71d8f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3094512161"
+      }
+    },
+    {
+      "id": "558503722",
+      "name": "Vuelve",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/5/0/b054e8f625125c6ace0eb54523403661.mp3?hdnea=exp=1774859945~acl=/api/1/1/b/0/5/0/b054e8f625125c6ace0eb54523403661.mp3*~data=user_id=0,application_id=42~hmac=8b4727fb69b5a4d66bab5c740b06534d4d933b0f83d4a007bd9be1693290e18e",
+      "duration_ms": 227000,
+      "track_number": 5,
+      "album": {
+        "id": "73845192",
+        "name": "Vuelve",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7609777a8dfb3820b357d9ddbae02849/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7609777a8dfb3820b357d9ddbae02849/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7609777a8dfb3820b357d9ddbae02849/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/558503722"
+      }
+    },
+    {
+      "id": "1225504462",
+      "name": "Adiós",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/8/0/f2869289397eb2ab185845b66b2b3efa.mp3?hdnea=exp=1774859945~acl=/api/1/1/f/2/8/0/f2869289397eb2ab185845b66b2b3efa.mp3*~data=user_id=0,application_id=42~hmac=d70daca70c42f2f1cfdb3b7c07f676331ad44b5f391e2971a2ffaf3d4cd4de1f",
+      "duration_ms": 182000,
+      "track_number": 6,
+      "album": {
+        "id": "203584272",
+        "name": "Adiós",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/850e370382d4d4e8088aa3a34a77b709/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/850e370382d4d4e8088aa3a34a77b709/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/850e370382d4d4e8088aa3a34a77b709/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1225504462"
+      }
+    },
+    {
+      "id": "1987826527",
+      "name": "Nervous (Remix)",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/0/0/ce0f78a75f32b94ce4ab80e5009a697c.mp3?hdnea=exp=1774859945~acl=/api/1/1/c/e/0/0/ce0f78a75f32b94ce4ab80e5009a697c.mp3*~data=user_id=0,application_id=42~hmac=66482f59fda91cd15e943f235b90d6f0d44b150c39c43a1cffb10c40a9ba1fde",
+      "duration_ms": 189000,
+      "track_number": 7,
+      "album": {
+        "id": "370614087",
+        "name": "Nervous (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fa5af460d0f194af05ad217e2d589aef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fa5af460d0f194af05ad217e2d589aef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fa5af460d0f194af05ad217e2d589aef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1987826527"
+      }
+    },
+    {
+      "id": "128095671",
+      "name": "Traicionera",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/6/0/a16067a765bec4a1eef85d85be862406.mp3?hdnea=exp=1774859945~acl=/api/1/1/a/1/6/0/a16067a765bec4a1eef85d85be862406.mp3*~data=user_id=0,application_id=42~hmac=7b1d549a18b01b80364a090719a27dc349061c6ebe48b18e2f944f28d95583ac",
+      "duration_ms": 228000,
+      "track_number": 8,
+      "album": {
+        "id": "13526195",
+        "name": "Traicionera",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92d94eaeaefac8a2964371637540f710/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92d94eaeaefac8a2964371637540f710/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92d94eaeaefac8a2964371637540f710/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/128095671"
+      }
+    },
+    {
+      "id": "470745192",
+      "name": "A Partir De Hoy",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/6/0/ab611ba45928d3dcae9e0e6585e10b4e.mp3?hdnea=exp=1774859945~acl=/api/1/1/a/b/6/0/ab611ba45928d3dcae9e0e6585e10b4e.mp3*~data=user_id=0,application_id=42~hmac=ac2cc50a65096a2d67b8dac36a3120c028553cfdd9fa5a1d5fcd2b20b7a9ab80",
+      "duration_ms": 196000,
+      "track_number": 9,
+      "album": {
+        "id": "58588932",
+        "name": "A Partir De Hoy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28ce543e9a1671dbc07192833ffb451f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28ce543e9a1671dbc07192833ffb451f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28ce543e9a1671dbc07192833ffb451f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/470745192"
+      }
+    },
+    {
+      "id": "661504502",
+      "name": "Fantasía",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/a/0/7fa58793e4a50c37d3eb1097ebcd5fc7.mp3?hdnea=exp=1774859945~acl=/api/1/1/7/f/a/0/7fa58793e4a50c37d3eb1097ebcd5fc7.mp3*~data=user_id=0,application_id=42~hmac=fdec88b67c43df65922136725189bd750bff9ff625013edf118668fbecc2e77c",
+      "duration_ms": 178000,
+      "track_number": 10,
+      "album": {
+        "id": "92818732",
+        "name": "FANTASÍA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed34d9f4286c99af19a8ee0d4c7f61a5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed34d9f4286c99af19a8ee0d4c7f61a5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ed34d9f4286c99af19a8ee0d4c7f61a5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5266156",
+          "name": "Sebastian Yatra"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/661504502"
+      }
+    }
+  ]
+}

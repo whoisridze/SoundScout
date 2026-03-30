@@ -1,0 +1,32 @@
+{
+  "id": "394885",
+  "name": "Warpaint",
+  "popularity": 6,
+  "followers": {
+    "total": 68178
+  },
+  "genres": [
+    "dream pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/4ce97bb6ac7b26e045da07c25ea87d54/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/4ce97bb6ac7b26e045da07c25ea87d54/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/4ce97bb6ac7b26e045da07c25ea87d54/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/394885"
+  },
+  "uri": "deezer:artist:394885"
+}

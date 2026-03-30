@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3884713751",
+      "name": "Drink The Water",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/9/b/0/89b1437d3674728b91bdb8522cc755e3.mp3?hdnea=exp=1774860082~acl=/api/1/1/8/9/b/0/89b1437d3674728b91bdb8522cc755e3.mp3*~data=user_id=0,application_id=42~hmac=b4ea151e3c6855a9ed3299d1f6e6c2820e642c3aec942609cb34191e482b05a0",
+      "duration_ms": 222000,
+      "track_number": 1,
+      "album": {
+        "id": "933795131",
+        "name": "Drink The Water (from the SURFILMUSIC Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/614bcbb26369f2fa7d7d2ed0a6d8a1ad/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/614bcbb26369f2fa7d7d2ed0a6d8a1ad/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/614bcbb26369f2fa7d7d2ed0a6d8a1ad/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3884713751"
+      }
+    },
+    {
+      "id": "2320086",
+      "name": "Better Together",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/5/0/2c5d2ca4d1a3341a589d0b95f0e329a2.mp3?hdnea=exp=1774860082~acl=/api/1/1/2/c/5/0/2c5d2ca4d1a3341a589d0b95f0e329a2.mp3*~data=user_id=0,application_id=42~hmac=93a488c254106faee3a1a528d671af5138d06ec8212ce233aae3aed7d91c4657",
+      "duration_ms": 208000,
+      "track_number": 2,
+      "album": {
+        "id": "231074",
+        "name": "In Between Dreams",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2320086"
+      }
+    },
+    {
+      "id": "2320091",
+      "name": "Sitting, Waiting, Wishing",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/9/0/649886a690d0444239576b956f04806a.mp3?hdnea=exp=1774860082~acl=/api/1/1/6/4/9/0/649886a690d0444239576b956f04806a.mp3*~data=user_id=0,application_id=42~hmac=d0f4df2c2670a419508d496295450bee0f0c53228b6a403109cc5969b82ba637",
+      "duration_ms": 183000,
+      "track_number": 3,
+      "album": {
+        "id": "231074",
+        "name": "In Between Dreams",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2320091"
+      }
+    },
+    {
+      "id": "2320088",
+      "name": "Banana Pancakes",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/9/0/3a9c523a7440abe40b8875066ad4a132.mp3?hdnea=exp=1774860082~acl=/api/1/1/3/a/9/0/3a9c523a7440abe40b8875066ad4a132.mp3*~data=user_id=0,application_id=42~hmac=3991ac9e9a061cd7da851da6e5c73c7f8beb2d6eb72b8481dac82e9620db3a84",
+      "duration_ms": 191000,
+      "track_number": 4,
+      "album": {
+        "id": "231074",
+        "name": "In Between Dreams",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2320088"
+      }
+    },
+    {
+      "id": "3630533392",
+      "name": "Hold On To The Light",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/8/0/eb82f2821af8ccc5edcf4f7206900f1c.mp3?hdnea=exp=1774860082~acl=/api/1/1/e/b/8/0/eb82f2821af8ccc5edcf4f7206900f1c.mp3*~data=user_id=0,application_id=42~hmac=8264ab3a161e468cb5f79b44757374ffa5d324e0936a710f6a115089f1a19703",
+      "duration_ms": 228000,
+      "track_number": 5,
+      "album": {
+        "id": "847619902",
+        "name": "Hold On To The Light",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a252a2f8d620bfd413c6fc14473199c4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a252a2f8d620bfd413c6fc14473199c4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a252a2f8d620bfd413c6fc14473199c4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3630533392"
+      }
+    },
+    {
+      "id": "1139648532",
+      "name": "On The Road Again (Live)",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25f5bfb9def948c6fbe40f31c5e780b8.mp3?hdnea=exp=1774860082~acl=/api/1/1/2/5/f/0/25f5bfb9def948c6fbe40f31c5e780b8.mp3*~data=user_id=0,application_id=42~hmac=4880c9deca8bfff5e6068f247f5d855dbe4ffcd3a0f004d1fdc45ee75ad53171",
+      "duration_ms": 156000,
+      "track_number": 6,
+      "album": {
+        "id": "185800942",
+        "name": "On The Road Again (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/29c268517c9b242252bb2615180f8efe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1139648532"
+      }
+    },
+    {
+      "id": "2320089",
+      "name": "Good People",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/7/0/877047fed526dfb4e63cb236710e73e6.mp3?hdnea=exp=1774860082~acl=/api/1/1/8/7/7/0/877047fed526dfb4e63cb236710e73e6.mp3*~data=user_id=0,application_id=42~hmac=96159d984966d5bbc48401af0bf2f3e490ada232d7beef1667e26b057a885354",
+      "duration_ms": 209000,
+      "track_number": 7,
+      "album": {
+        "id": "231074",
+        "name": "In Between Dreams",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2320089"
+      }
+    },
+    {
+      "id": "1103944302",
+      "name": "Don't Let Me Down (Poolside Remix)",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/3/0/5336049106841d057a9ec3f24d4a7465.mp3?hdnea=exp=1774860082~acl=/api/1/1/5/3/3/0/5336049106841d057a9ec3f24d4a7465.mp3*~data=user_id=0,application_id=42~hmac=23ef771154f426142bddcb5daade970949d6b0270efe61150910683a91a165ee",
+      "duration_ms": 217000,
+      "track_number": 8,
+      "album": {
+        "id": "178487072",
+        "name": "Don't Let Me Down (Poolside Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/151afabe72efcb021b151436da0000e4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/151afabe72efcb021b151436da0000e4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/151afabe72efcb021b151436da0000e4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1103944302"
+      }
+    },
+    {
+      "id": "2320087",
+      "name": "Never Know",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/0/0/0d07666d3516ef514ca93298c028b356.mp3?hdnea=exp=1774860082~acl=/api/1/1/0/d/0/0/0d07666d3516ef514ca93298c028b356.mp3*~data=user_id=0,application_id=42~hmac=a32e00922960e08605d01f412d385d0864495f89f81eef2fcd5fde8b8a006dfb",
+      "duration_ms": 212000,
+      "track_number": 9,
+      "album": {
+        "id": "231074",
+        "name": "In Between Dreams",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc75cf6170ae0ed9c6a40810c67ba87/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2320087"
+      }
+    },
+    {
+      "id": "17694893",
+      "name": "Constellations",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/c/0/0bc0976e68b2287d966173787ec65547.mp3?hdnea=exp=1774860082~acl=/api/1/1/0/b/c/0/0bc0976e68b2287d966173787ec65547.mp3*~data=user_id=0,application_id=42~hmac=9b694998ec164077f46376996c055f52bb18345427dc9965cf22b9b36f16c72d",
+      "duration_ms": 224000,
+      "track_number": 10,
+      "album": {
+        "id": "1659624",
+        "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c217d38c5218769b789e628c03afb6c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c217d38c5218769b789e628c03afb6c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0c217d38c5218769b789e628c03afb6c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "896",
+          "name": "Jack Johnson"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/17694893"
+      }
+    }
+  ]
+}

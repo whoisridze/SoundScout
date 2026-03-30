@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3689743002",
+      "name": "She Rules the Ruins",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/1/0/d61ae17390c1a2b194f19505b07a2964.mp3?hdnea=exp=1774859925~acl=/api/1/1/d/6/1/0/d61ae17390c1a2b194f19505b07a2964.mp3*~data=user_id=0,application_id=42~hmac=0cdd7105683baa33b74e7a117a046fbfc2efd3ff642280aa08f05b31692d50fb",
+      "duration_ms": 207000,
+      "track_number": 1,
+      "album": {
+        "id": "867852272",
+        "name": "Leather Temple",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3689743002"
+      }
+    },
+    {
+      "id": "375302181",
+      "name": "Turbo Killer",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/6/0/cc63ae9f2ed6f0e681c46138d6c3663a.mp3?hdnea=exp=1774859925~acl=/api/1/1/c/c/6/0/cc63ae9f2ed6f0e681c46138d6c3663a.mp3*~data=user_id=0,application_id=42~hmac=ec518640c701edb2d5331edee6af376059b503d7c0969b07a42697f67f767a77",
+      "duration_ms": 209000,
+      "track_number": 2,
+      "album": {
+        "id": "43429281",
+        "name": "TRILOGY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0681fc7e58e019d7665ff460f8ea3b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0681fc7e58e019d7665ff460f8ea3b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0681fc7e58e019d7665ff460f8ea3b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/375302181"
+      }
+    },
+    {
+      "id": "375302081",
+      "name": "Le perv",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/2/0/3a27e096c92254e85960f5fcc92ee707.mp3?hdnea=exp=1774859925~acl=/api/1/1/3/a/2/0/3a27e096c92254e85960f5fcc92ee707.mp3*~data=user_id=0,application_id=42~hmac=1f5a0876f5f4162f0dfe24e0d607d248056d54676cc6e43447818ff03333d107",
+      "duration_ms": 256000,
+      "track_number": 3,
+      "album": {
+        "id": "43429281",
+        "name": "TRILOGY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0681fc7e58e019d7665ff460f8ea3b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0681fc7e58e019d7665ff460f8ea3b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0681fc7e58e019d7665ff460f8ea3b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/375302081"
+      }
+    },
+    {
+      "id": "3689743052",
+      "name": "Speed or Perish",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/e/0/96e7454c58f015656ba18eec4cad955c.mp3?hdnea=exp=1774859925~acl=/api/1/1/9/6/e/0/96e7454c58f015656ba18eec4cad955c.mp3*~data=user_id=0,application_id=42~hmac=bc6394931ed8573f66db2de1834202979682d846ea047cc4a8341eb9dc78aaaa",
+      "duration_ms": 270000,
+      "track_number": 4,
+      "album": {
+        "id": "867852272",
+        "name": "Leather Temple",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3689743052"
+      }
+    },
+    {
+      "id": "3689742982",
+      "name": "Major Threat",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/a/0/b5a1b17ba262ab9031867be714665660.mp3?hdnea=exp=1774859925~acl=/api/1/1/b/5/a/0/b5a1b17ba262ab9031867be714665660.mp3*~data=user_id=0,application_id=42~hmac=16cb76c3a319c49bcbdc1169e7e800c64a5aef332fe4f7386e491bb050436825",
+      "duration_ms": 289000,
+      "track_number": 5,
+      "album": {
+        "id": "867852272",
+        "name": "Leather Temple",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3689742982"
+      }
+    },
+    {
+      "id": "3689742992",
+      "name": "Leather Temple",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/6/0/cd66c64ead6fc0c1d376595b01349f88.mp3?hdnea=exp=1774859925~acl=/api/1/1/c/d/6/0/cd66c64ead6fc0c1d376595b01349f88.mp3*~data=user_id=0,application_id=42~hmac=86d5154491e80b6d8ed629e09ef5f8b58107bb90cd97943aae13d769e539efb6",
+      "duration_ms": 216000,
+      "track_number": 6,
+      "album": {
+        "id": "867852272",
+        "name": "Leather Temple",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3689742992"
+      }
+    },
+    {
+      "id": "375302091",
+      "name": "Roller Mobster",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/c/0/30c276d97a59a40915cb48c5ec00291f.mp3?hdnea=exp=1774859925~acl=/api/1/1/3/0/c/0/30c276d97a59a40915cb48c5ec00291f.mp3*~data=user_id=0,application_id=42~hmac=3e4dc4e121b85f7673307beaf03e8713e97b252800fdc7318a2319b624e609c4",
+      "duration_ms": 214000,
+      "track_number": 7,
+      "album": {
+        "id": "43429281",
+        "name": "TRILOGY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0681fc7e58e019d7665ff460f8ea3b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0681fc7e58e019d7665ff460f8ea3b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e0681fc7e58e019d7665ff460f8ea3b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/375302091"
+      }
+    },
+    {
+      "id": "955863492",
+      "name": "Maniac",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/e/0/0be5f985ea2ecaf26c840a8938c28dba.mp3?hdnea=exp=1774859925~acl=/api/1/1/0/b/e/0/0be5f985ea2ecaf26c840a8938c28dba.mp3*~data=user_id=0,application_id=42~hmac=1a594e8dfab2ed713ac3cde1cecec04a5829baf88521d5b750c2531d696f83f6",
+      "duration_ms": 278000,
+      "track_number": 8,
+      "album": {
+        "id": "147343012",
+        "name": "Maniac",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/702dcd5cd322288e69386dacbbfa2a65/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/702dcd5cd322288e69386dacbbfa2a65/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/702dcd5cd322288e69386dacbbfa2a65/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/955863492"
+      }
+    },
+    {
+      "id": "3689743022",
+      "name": "Neon Requiem",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/c/0/6fc3a035cf9f2c36f6ca5158c20b6b6b.mp3?hdnea=exp=1774859925~acl=/api/1/1/6/f/c/0/6fc3a035cf9f2c36f6ca5158c20b6b6b.mp3*~data=user_id=0,application_id=42~hmac=893bc23f66365887c15c22277e7ed1df40005647067a05eb37d255ac8498f6c9",
+      "duration_ms": 204000,
+      "track_number": 9,
+      "album": {
+        "id": "867852272",
+        "name": "Leather Temple",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3689743022"
+      }
+    },
+    {
+      "id": "3689743012",
+      "name": "Start Your Engines",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/d/0/39dd5551b0b6dd68ece5ba4c3da9ad0b.mp3?hdnea=exp=1774859925~acl=/api/1/1/3/9/d/0/39dd5551b0b6dd68ece5ba4c3da9ad0b.mp3*~data=user_id=0,application_id=42~hmac=d54a34029ff69b6a409f185cf0930d6ba6415855d3115f77b5ccbb2c6a194e35",
+      "duration_ms": 233000,
+      "track_number": 10,
+      "album": {
+        "id": "867852272",
+        "name": "Leather Temple",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d043ddd1d34a27ababb112e292e5062/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4346304",
+          "name": "Carpenter Brut"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3689743012"
+      }
+    }
+  ]
+}

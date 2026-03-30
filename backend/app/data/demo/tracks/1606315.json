@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3788191262",
+      "name": "Deadcrush",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/e/0/84e551f67f0d045ecc535b994d14a989.mp3?hdnea=exp=1774859880~acl=/api/1/1/8/4/e/0/84e551f67f0d045ecc535b994d14a989.mp3*~data=user_id=0,application_id=42~hmac=d0a171628d4ff99b6a8c936df805d711665a5a304dac4ce3e38f6d62aa5d27fc",
+      "duration_ms": 232000,
+      "track_number": 1,
+      "album": {
+        "id": "902096092",
+        "name": "RELAXER",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/444d82f4b77381dc3121766466361e9f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/444d82f4b77381dc3121766466361e9f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/444d82f4b77381dc3121766466361e9f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788191262"
+      }
+    },
+    {
+      "id": "3809258452",
+      "name": "Breezeblocks",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/f/0/a4f064a2fcb370c71ce19e51c755f1fe.mp3?hdnea=exp=1774859880~acl=/api/1/1/a/4/f/0/a4f064a2fcb370c71ce19e51c755f1fe.mp3*~data=user_id=0,application_id=42~hmac=05db434a04192e28c2bbd842cfc48c4f9796d8112e74197b77a7a90b789c4415",
+      "duration_ms": 227000,
+      "track_number": 2,
+      "album": {
+        "id": "907044242",
+        "name": "An Awesome Wave (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3809258452"
+      }
+    },
+    {
+      "id": "123882166",
+      "name": "Left Hand Free",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/6/0/706c51725b9adcfbd53983974531bff7.mp3?hdnea=exp=1774859880~acl=/api/1/1/7/0/6/0/706c51725b9adcfbd53983974531bff7.mp3*~data=user_id=0,application_id=42~hmac=051c86ac4e36ece8432c00272bd46c9c695aa39f64c0eeeacd26de4b3d4cba91",
+      "duration_ms": 172000,
+      "track_number": 3,
+      "album": {
+        "id": "12988408",
+        "name": "Alternative Spirit",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/49906db5699a409e49b86b50b406dca8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/49906db5699a409e49b86b50b406dca8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/49906db5699a409e49b86b50b406dca8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/123882166"
+      }
+    },
+    {
+      "id": "3809258512",
+      "name": "Fitzpleasure",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/d/0/25d2e0786b50b3f2ec299208eebbc96e.mp3?hdnea=exp=1774859880~acl=/api/1/1/2/5/d/0/25d2e0786b50b3f2ec299208eebbc96e.mp3*~data=user_id=0,application_id=42~hmac=9a8f89fb71f15a9d3d48ecebaf57fde0774083c50e7de0f04289128afd53042f",
+      "duration_ms": 219000,
+      "track_number": 4,
+      "album": {
+        "id": "907044242",
+        "name": "An Awesome Wave (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3809258512"
+      }
+    },
+    {
+      "id": "3788162792",
+      "name": "U&ME",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/e/0/0ae9ddcdfe1436c79c5dc3e57340f142.mp3?hdnea=exp=1774859880~acl=/api/1/1/0/a/e/0/0ae9ddcdfe1436c79c5dc3e57340f142.mp3*~data=user_id=0,application_id=42~hmac=840471316dcc4a5d72ba7d9446b3c496b868ced70fc9781e6f1a9dbdee5484c9",
+      "duration_ms": 198000,
+      "track_number": 5,
+      "album": {
+        "id": "902087112",
+        "name": "U&ME",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c825af39a653b574de477a9946b7aa1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c825af39a653b574de477a9946b7aa1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c825af39a653b574de477a9946b7aa1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788162792"
+      }
+    },
+    {
+      "id": "3809258542",
+      "name": "Taro",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/1/0/9d18883a5d133330acbeab4f32d14c22.mp3?hdnea=exp=1774859880~acl=/api/1/1/9/d/1/0/9d18883a5d133330acbeab4f32d14c22.mp3*~data=user_id=0,application_id=42~hmac=55475055ee78fc6f9cc22b59d6d3ee8066be62b881e6217339b6abb324a6121f",
+      "duration_ms": 314000,
+      "track_number": 6,
+      "album": {
+        "id": "907044242",
+        "name": "An Awesome Wave (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3809258542"
+      }
+    },
+    {
+      "id": "3801652002",
+      "name": "Hunger Of The Pine",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/4/0/aa43fb6056e605404363e11fb8da041c.mp3?hdnea=exp=1774859880~acl=/api/1/1/a/a/4/0/aa43fb6056e605404363e11fb8da041c.mp3*~data=user_id=0,application_id=42~hmac=8ae028092de1a0571d52eca03f523d38ec7ef5d0ce87ced90f060ad0bd624c50",
+      "duration_ms": 299000,
+      "track_number": 7,
+      "album": {
+        "id": "904926422",
+        "name": "This Is All Yours",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/933fe6cb28f56e2aa154c8bdfdcc3b29/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/933fe6cb28f56e2aa154c8bdfdcc3b29/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/933fe6cb28f56e2aa154c8bdfdcc3b29/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3801652002"
+      }
+    },
+    {
+      "id": "3809258472",
+      "name": "Something Good",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/b/0/55ba7eb78f0f37d4a1ed10798ed12de0.mp3?hdnea=exp=1774859880~acl=/api/1/1/5/5/b/0/55ba7eb78f0f37d4a1ed10798ed12de0.mp3*~data=user_id=0,application_id=42~hmac=cbae4cb4496e00bfdbf388a436bf1b46ff1b9f56b87bc38d2f5297d02be28584",
+      "duration_ms": 218000,
+      "track_number": 8,
+      "album": {
+        "id": "907044242",
+        "name": "An Awesome Wave (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3809258472"
+      }
+    },
+    {
+      "id": "3809258492",
+      "name": "Matilda",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/a/0/24ac649a2048ccae7c96d830b90000a5.mp3?hdnea=exp=1774859880~acl=/api/1/1/2/4/a/0/24ac649a2048ccae7c96d830b90000a5.mp3*~data=user_id=0,application_id=42~hmac=f324dc8ccb6c9a91a1a98910038b75b6f4979d2c013ef66b1dfc69eeaf6b1a1b",
+      "duration_ms": 228000,
+      "track_number": 9,
+      "album": {
+        "id": "907044242",
+        "name": "An Awesome Wave (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3809258492"
+      }
+    },
+    {
+      "id": "3809258422",
+      "name": "Intro",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/c/0/42c30cc3cd4c1b24c875fbb5ac306e39.mp3?hdnea=exp=1774859880~acl=/api/1/1/4/2/c/0/42c30cc3cd4c1b24c875fbb5ac306e39.mp3*~data=user_id=0,application_id=42~hmac=a154ce4d17e0d2e8288053428a9ec751e5c7d581d40493bcd46fcdd31c0b1a31",
+      "duration_ms": 157000,
+      "track_number": 10,
+      "album": {
+        "id": "907044242",
+        "name": "An Awesome Wave (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86ad6511178304fa3df49f716fdb4964/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1606315",
+          "name": "alt-J"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3809258422"
+      }
+    }
+  ]
+}

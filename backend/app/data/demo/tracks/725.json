@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "14948701",
+      "name": "Danza Kuduro",
+      "popularity": 95,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/6/0/486c2a5cf60b773881ca6a08e5469c99.mp3?hdnea=exp=1774860009~acl=/api/1/1/4/8/6/0/486c2a5cf60b773881ca6a08e5469c99.mp3*~data=user_id=0,application_id=42~hmac=33d27eea5c3be39989834d2e36c97a3ed463d7e2da5a1ede48fb81a76474933a",
+      "duration_ms": 199000,
+      "track_number": 1,
+      "album": {
+        "id": "1378614",
+        "name": "Meet The Orphans",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c22882ab30334c535a3e638f9cbf24d6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c22882ab30334c535a3e638f9cbf24d6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c22882ab30334c535a3e638f9cbf24d6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14948701"
+      }
+    },
+    {
+      "id": "2738145611",
+      "name": "Danza Kuduro (Tiësto Remix)",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/9/0/90932d15497834aa4f143700f8cbb7e8.mp3?hdnea=exp=1774860009~acl=/api/1/1/9/0/9/0/90932d15497834aa4f143700f8cbb7e8.mp3*~data=user_id=0,application_id=42~hmac=e82e3d5b9e3db4791b400f58d0831e5fdfe6562542b44f084af359b0a944d117",
+      "duration_ms": 219000,
+      "track_number": 2,
+      "album": {
+        "id": "569373951",
+        "name": "Danza Kuduro (Tiësto Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4819cc9cf1cd377f26ecceb085ae8c33/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4819cc9cf1cd377f26ecceb085ae8c33/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4819cc9cf1cd377f26ecceb085ae8c33/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2738145611"
+      }
+    },
+    {
+      "id": "388714291",
+      "name": "Dale Don",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/8/0/8582fc5664a96644919b168d8bc09599.mp3?hdnea=exp=1774860009~acl=/api/1/1/8/5/8/0/8582fc5664a96644919b168d8bc09599.mp3*~data=user_id=0,application_id=42~hmac=c056751314f149f9434afb0b362508b7ca72f23b06b9e2728c1873a62899291e",
+      "duration_ms": 212000,
+      "track_number": 3,
+      "album": {
+        "id": "45390181",
+        "name": "Reggaeton! (20 Latin Hits, The Very Best of Reggaeton, Dembow, Urban)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/513aa97e22e7d793a94706b8b1d5f5ca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/513aa97e22e7d793a94706b8b1d5f5ca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/513aa97e22e7d793a94706b8b1d5f5ca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/388714291"
+      }
+    },
+    {
+      "id": "979011",
+      "name": "Bandoleros",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/f/0/80f0b51ce832dad12b320dbe0421e0fa.mp3?hdnea=exp=1774860009~acl=/api/1/1/8/0/f/0/80f0b51ce832dad12b320dbe0421e0fa.mp3*~data=user_id=0,application_id=42~hmac=796f353ea7f7b2af7be769371314deb4d61a6fd0becbc9154e959c92987ad6ab",
+      "duration_ms": 305000,
+      "track_number": 4,
+      "album": {
+        "id": "108934",
+        "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c53aa3d9491c6a08337bd4a10d11fd5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c53aa3d9491c6a08337bd4a10d11fd5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5c53aa3d9491c6a08337bd4a10d11fd5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/979011"
+      }
+    },
+    {
+      "id": "2261953",
+      "name": "Dile",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/6/0/5f6b9cf1f382cc407bf1957c3d7ac031.mp3?hdnea=exp=1774860009~acl=/api/1/1/5/f/6/0/5f6b9cf1f382cc407bf1957c3d7ac031.mp3*~data=user_id=0,application_id=42~hmac=1ef33b9132b0423c73bca622bd6c38280aa5112930fb15bb702a8300be4c3442",
+      "duration_ms": 205000,
+      "track_number": 5,
+      "album": {
+        "id": "225961",
+        "name": "Dile/Intocable",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/54d27de00dbc65852d2f7cb12e93adeb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/54d27de00dbc65852d2f7cb12e93adeb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/54d27de00dbc65852d2f7cb12e93adeb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2261953"
+      }
+    },
+    {
+      "id": "714334242",
+      "name": "Zumba",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/e/0/29ef5a7e957ddbe15e1b1571b4fc5f3b.mp3?hdnea=exp=1774860009~acl=/api/1/1/2/9/e/0/29ef5a7e957ddbe15e1b1571b4fc5f3b.mp3*~data=user_id=0,application_id=42~hmac=031ce546a0d0696f406b88f714a689303bcf6b4454f3927af8e232ba9f882821",
+      "duration_ms": 264000,
+      "track_number": 6,
+      "album": {
+        "id": "104066522",
+        "name": "Don Omar Presents MTO2: New Generation",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b8dd366e74015016c30312203fa1d21/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b8dd366e74015016c30312203fa1d21/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b8dd366e74015016c30312203fa1d21/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/714334242"
+      }
+    },
+    {
+      "id": "2925032",
+      "name": "Virtual Diva",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/1/0/6513d55d958c53148eb8037c5b25dac9.mp3?hdnea=exp=1774860009~acl=/api/1/1/6/5/1/0/6513d55d958c53148eb8037c5b25dac9.mp3*~data=user_id=0,application_id=42~hmac=4d97bc3d5dbcc5ef72936106094c7c6b3df21a11e8700ef34fa14c28e1c88707",
+      "duration_ms": 242000,
+      "track_number": 7,
+      "album": {
+        "id": "284608",
+        "name": "Virtual Diva",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df79d4c5386f2780ab85634e49c23cc7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df79d4c5386f2780ab85634e49c23cc7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/df79d4c5386f2780ab85634e49c23cc7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2925032"
+      }
+    },
+    {
+      "id": "14948696",
+      "name": "Taboo",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/d/0/4cd81e710268b246e28c8faf2ab555b0.mp3?hdnea=exp=1774860009~acl=/api/1/1/4/c/d/0/4cd81e710268b246e28c8faf2ab555b0.mp3*~data=user_id=0,application_id=42~hmac=02bde64362d4ca4cf33b2f4a8d74f297263f5cebaaac97b6e9a41138c0b98fd2",
+      "duration_ms": 292000,
+      "track_number": 8,
+      "album": {
+        "id": "1378614",
+        "name": "Meet The Orphans",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c22882ab30334c535a3e638f9cbf24d6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c22882ab30334c535a3e638f9cbf24d6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c22882ab30334c535a3e638f9cbf24d6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14948696"
+      }
+    },
+    {
+      "id": "7406000",
+      "name": "Conteo (Fast And The Furious: Tokyo Drift Version)",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05ca40f8bd0e0f84854a9051a245b777.mp3?hdnea=exp=1774860009~acl=/api/1/1/0/5/c/0/05ca40f8bd0e0f84854a9051a245b777.mp3*~data=user_id=0,application_id=42~hmac=2513aab23495d3d1443aee619c11a2bc8edbd7c9249474c9bbea78661700483b",
+      "duration_ms": 198000,
+      "track_number": 9,
+      "album": {
+        "id": "683389",
+        "name": "Conteo / Salio El Sol",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7b1d91d950ee55e419081563dbaa3f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7b1d91d950ee55e419081563dbaa3f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7b1d91d950ee55e419081563dbaa3f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/7406000"
+      }
+    },
+    {
+      "id": "1161020512",
+      "name": "Danza Kuduro 2019 (Diamont Dr)",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/b/0/e1b9336437af865822b27bfec8fb2ec7.mp3?hdnea=exp=1774860009~acl=/api/1/1/e/1/b/0/e1b9336437af865822b27bfec8fb2ec7.mp3*~data=user_id=0,application_id=42~hmac=5e1b87088d7f4cc8beac6cd7bd2735b77dddc6dbea509f98eaf033b48ecc7a1b",
+      "duration_ms": 180000,
+      "track_number": 10,
+      "album": {
+        "id": "190032882",
+        "name": "Emigrante Del Mundo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/453ae90347dc7938e54ae21b0d2cba91/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/453ae90347dc7938e54ae21b0d2cba91/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/453ae90347dc7938e54ae21b0d2cba91/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "725",
+          "name": "Don Omar"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1161020512"
+      }
+    }
+  ]
+}

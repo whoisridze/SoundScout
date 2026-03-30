@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "78668",
+      "name": "Bon Iver",
+      "popularity": 54,
+      "followers": {
+        "total": 540305
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6edd41ee3cd3005077e07647242fb238/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6edd41ee3cd3005077e07647242fb238/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/6edd41ee3cd3005077e07647242fb238/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/78668"
+      },
+      "uri": "deezer:artist:78668"
+    },
+    {
+      "id": "74444",
+      "name": "Fleet Foxes",
+      "popularity": 16,
+      "followers": {
+        "total": 162082
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1b4c457f1b2e33767dc0236c2226034e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1b4c457f1b2e33767dc0236c2226034e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/1b4c457f1b2e33767dc0236c2226034e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/74444"
+      },
+      "uri": "deezer:artist:74444"
+    },
+    {
+      "id": "1653",
+      "name": "Iron & Wine",
+      "popularity": 10,
+      "followers": {
+        "total": 106358
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2e0663823d66f63ee702138b66544d19/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2e0663823d66f63ee702138b66544d19/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/2e0663823d66f63ee702138b66544d19/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1653"
+      },
+      "uri": "deezer:artist:1653"
+    },
+    {
+      "id": "1999",
+      "name": "Sufjan Stevens",
+      "popularity": 25,
+      "followers": {
+        "total": 256802
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c4bcf58198910e8b135ae283ec8ffa76/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c4bcf58198910e8b135ae283ec8ffa76/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c4bcf58198910e8b135ae283ec8ffa76/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1999"
+      },
+      "uri": "deezer:artist:1999"
+    },
+    {
+      "id": "793825",
+      "name": "The Lumineers",
+      "popularity": 91,
+      "followers": {
+        "total": 913428
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a0a4a39ed23545c446aa3e9a517504ea/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a0a4a39ed23545c446aa3e9a517504ea/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a0a4a39ed23545c446aa3e9a517504ea/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/793825"
+      },
+      "uri": "deezer:artist:793825"
+    },
+    {
+      "id": "288092",
+      "name": "Mumford & Sons",
+      "popularity": 99,
+      "followers": {
+        "total": 1047769
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/cc9cd639e4f4b34b441aac4433e20a0b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/cc9cd639e4f4b34b441aac4433e20a0b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/cc9cd639e4f4b34b441aac4433e20a0b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/288092"
+      },
+      "uri": "deezer:artist:288092"
+    },
+    {
+      "id": "1581786",
+      "name": "Of Monsters And Men",
+      "popularity": 55,
+      "followers": {
+        "total": 552896
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f801a55c43f024e37040d7a6acd9c319/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f801a55c43f024e37040d7a6acd9c319/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f801a55c43f024e37040d7a6acd9c319/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1581786"
+      },
+      "uri": "deezer:artist:1581786"
+    },
+    {
+      "id": "4768525",
+      "name": "Vance Joy",
+      "popularity": 51,
+      "followers": {
+        "total": 516879
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7193e13dea1bf3dfd91bf84005bebacf/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7193e13dea1bf3dfd91bf84005bebacf/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/7193e13dea1bf3dfd91bf84005bebacf/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4768525"
+      },
+      "uri": "deezer:artist:4768525"
+    },
+    {
+      "id": "5062414",
+      "name": "Hozier",
+      "popularity": 99,
+      "followers": {
+        "total": 1384074
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4970da41372f40bb2d85b71d41c359e8/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4970da41372f40bb2d85b71d41c359e8/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4970da41372f40bb2d85b71d41c359e8/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5062414"
+      },
+      "uri": "deezer:artist:5062414"
+    },
+    {
+      "id": "1058631",
+      "name": "Phoebe Bridgers",
+      "popularity": 19,
+      "followers": {
+        "total": 192442
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ba22e54b6a9b9696be627955a49c720a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ba22e54b6a9b9696be627955a49c720a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ba22e54b6a9b9696be627955a49c720a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1058631"
+      },
+      "uri": "deezer:artist:1058631"
+    },
+    {
+      "id": "887565",
+      "name": "Lord Huron",
+      "popularity": 11,
+      "followers": {
+        "total": 113248
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b50836bc5fdf0270a52083b977e302aa/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b50836bc5fdf0270a52083b977e302aa/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b50836bc5fdf0270a52083b977e302aa/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/887565"
+      },
+      "uri": "deezer:artist:887565"
+    },
+    {
+      "id": "398727",
+      "name": "Gregory Alan Isakov",
+      "popularity": 3,
+      "followers": {
+        "total": 39010
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b8e67b99d4ec8d894a4c1d46f86ed55c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b8e67b99d4ec8d894a4c1d46f86ed55c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/b8e67b99d4ec8d894a4c1d46f86ed55c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/398727"
+      },
+      "uri": "deezer:artist:398727"
+    },
+    {
+      "id": "1065098",
+      "name": "The Head And The Heart",
+      "popularity": 4,
+      "followers": {
+        "total": 44035
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4649e94dd045e3ecf36b27563c270fca/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4649e94dd045e3ecf36b27563c270fca/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4649e94dd045e3ecf36b27563c270fca/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1065098"
+      },
+      "uri": "deezer:artist:1065098"
+    },
+    {
+      "id": "11218214",
+      "name": "Caamp",
+      "popularity": 85,
+      "followers": {
+        "total": 8587
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a779903412c46b231fc1109da9eb589d/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a779903412c46b231fc1109da9eb589d/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/a779903412c46b231fc1109da9eb589d/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/11218214"
+      },
+      "uri": "deezer:artist:11218214"
+    },
+    {
+      "id": "9829340",
+      "name": "Big Thief",
+      "popularity": 6,
+      "followers": {
+        "total": 64766
+      },
+      "genres": [
+        "indie folk"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/78df44195e9c4927ee83caa0eb2adb18/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/78df44195e9c4927ee83caa0eb2adb18/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/78df44195e9c4927ee83caa0eb2adb18/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/9829340"
+      },
+      "uri": "deezer:artist:9829340"
+    }
+  ]
+}

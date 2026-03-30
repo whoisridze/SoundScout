@@ -1,0 +1,32 @@
+{
+  "id": "2792",
+  "name": "Enrique Iglesias",
+  "popularity": 99,
+  "followers": {
+    "total": 5936772
+  },
+  "genres": [
+    "latin pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/7c0f867fb50b6c9302f991521e42e764/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/7c0f867fb50b6c9302f991521e42e764/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/7c0f867fb50b6c9302f991521e42e764/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/2792"
+  },
+  "uri": "deezer:artist:2792"
+}

@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "4050205",
+      "name": "The Weeknd",
+      "popularity": 99,
+      "followers": {
+        "total": 14374419
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/581693b4724a7fcfa754455101e13a44/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/581693b4724a7fcfa754455101e13a44/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/581693b4724a7fcfa754455101e13a44/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/4050205"
+      },
+      "uri": "deezer:artist:4050205"
+    },
+    {
+      "id": "1350335",
+      "name": "Frank Ocean",
+      "popularity": 99,
+      "followers": {
+        "total": 1205689
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/882155c08dc31d6464d6d580083c968c/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/882155c08dc31d6464d6d580083c968c/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/882155c08dc31d6464d6d580083c968c/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1350335"
+      },
+      "uri": "deezer:artist:1350335"
+    },
+    {
+      "id": "5531258",
+      "name": "SZA",
+      "popularity": 99,
+      "followers": {
+        "total": 1272881
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8ced041da2bed70d5715f0860956169b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8ced041da2bed70d5715f0860956169b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/8ced041da2bed70d5715f0860956169b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5531258"
+      },
+      "uri": "deezer:artist:5531258"
+    },
+    {
+      "id": "5245183",
+      "name": "Daniel Caesar",
+      "popularity": 38,
+      "followers": {
+        "total": 384440
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/973809864ad1c52d8c61238662400089/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/973809864ad1c52d8c61238662400089/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/973809864ad1c52d8c61238662400089/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5245183"
+      },
+      "uri": "deezer:artist:5245183"
+    },
+    {
+      "id": "8114447",
+      "name": "H.E.R.",
+      "popularity": 98,
+      "followers": {
+        "total": 988341
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5d62fd6afd427c956c82730175bab341/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5d62fd6afd427c956c82730175bab341/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/5d62fd6afd427c956c82730175bab341/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8114447"
+      },
+      "uri": "deezer:artist:8114447"
+    },
+    {
+      "id": "362326",
+      "name": "Khalid",
+      "popularity": 99,
+      "followers": {
+        "total": 1747163
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e6237058662af2e9d4815e57071353cd/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e6237058662af2e9d4815e57071353cd/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e6237058662af2e9d4815e57071353cd/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/362326"
+      },
+      "uri": "deezer:artist:362326"
+    },
+    {
+      "id": "14482665",
+      "name": "Summer Walker",
+      "popularity": 68,
+      "followers": {
+        "total": 689762
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/986786f971b3ce755da272982632092b/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/986786f971b3ce755da272982632092b/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/986786f971b3ce755da272982632092b/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/14482665"
+      },
+      "uri": "deezer:artist:14482665"
+    },
+    {
+      "id": "3841221",
+      "name": "Jhené Aiko",
+      "popularity": 99,
+      "followers": {
+        "total": 1321184
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9c336a353852d62e2664f2df3461b052/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9c336a353852d62e2664f2df3461b052/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/9c336a353852d62e2664f2df3461b052/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/3841221"
+      },
+      "uri": "deezer:artist:3841221"
+    },
+    {
+      "id": "7397124",
+      "name": "Brent Faiyaz",
+      "popularity": 31,
+      "followers": {
+        "total": 316305
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/32aa8325aa1323a10f9e934ad7fd0bd1/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/32aa8325aa1323a10f9e934ad7fd0bd1/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/32aa8325aa1323a10f9e934ad7fd0bd1/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7397124"
+      },
+      "uri": "deezer:artist:7397124"
+    },
+    {
+      "id": "9945222",
+      "name": "Jorja Smith",
+      "popularity": 82,
+      "followers": {
+        "total": 829361
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d17df5f785dd2291af1ccbccb9480572/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d17df5f785dd2291af1ccbccb9480572/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d17df5f785dd2291af1ccbccb9480572/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/9945222"
+      },
+      "uri": "deezer:artist:9945222"
+    },
+    {
+      "id": "10375188",
+      "name": "6lack",
+      "popularity": 40,
+      "followers": {
+        "total": 407075
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/99efcda22e449394f3362defa4aeb4bb/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/99efcda22e449394f3362defa4aeb4bb/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/99efcda22e449394f3362defa4aeb4bb/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10375188"
+      },
+      "uri": "deezer:artist:10375188"
+    },
+    {
+      "id": "6068162",
+      "name": "Snoh Aalegra",
+      "popularity": 6,
+      "followers": {
+        "total": 65736
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/83a2034180790dc6121b403114a3b206/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/83a2034180790dc6121b403114a3b206/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/83a2034180790dc6121b403114a3b206/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/6068162"
+      },
+      "uri": "deezer:artist:6068162"
+    },
+    {
+      "id": "5478691",
+      "name": "Ari Lennox",
+      "popularity": 11,
+      "followers": {
+        "total": 111826
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c3bd3ca88d4e029f5d07263442f15e86/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c3bd3ca88d4e029f5d07263442f15e86/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c3bd3ca88d4e029f5d07263442f15e86/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/5478691"
+      },
+      "uri": "deezer:artist:5478691"
+    },
+    {
+      "id": "10318770",
+      "name": "Lucky Daye",
+      "popularity": 5,
+      "followers": {
+        "total": 54138
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4c855904e28f05a01ac91ebd936cdb00/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4c855904e28f05a01ac91ebd936cdb00/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4c855904e28f05a01ac91ebd936cdb00/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10318770"
+      },
+      "uri": "deezer:artist:10318770"
+    },
+    {
+      "id": "8973774",
+      "name": "Ravyn Lenae",
+      "popularity": 1,
+      "followers": {
+        "total": 19061
+      },
+      "genres": [
+        "r&b"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4d50b0c9141ab20606f9bca27f5f83c7/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4d50b0c9141ab20606f9bca27f5f83c7/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/4d50b0c9141ab20606f9bca27f5f83c7/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/8973774"
+      },
+      "uri": "deezer:artist:8973774"
+    }
+  ]
+}

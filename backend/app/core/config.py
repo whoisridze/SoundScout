@@ -25,7 +25,10 @@ class Settings(BaseSettings):
     spotify_client_id: str = ""
     spotify_client_secret: str = ""
 
-    # CORS
+    # Demo mode (serve cached data instead of calling Spotify API)
+    demo_mode: bool = False
+
+    # CORS (extend via EXTRA_CORS_ORIGINS env var, comma-separated)
     cors_origins: List[str] = [
         "http://localhost:5173",
         "http://127.0.0.1:5173",
@@ -34,6 +37,7 @@ class Settings(BaseSettings):
         "http://localhost:3000",
         "http://127.0.0.1:3000",
     ]
+    extra_cors_origins: str = ""
 
     # Uploads
     upload_dir: str = "uploads"

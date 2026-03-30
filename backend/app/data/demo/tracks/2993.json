@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1331764082",
+      "name": "Amazonia",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/5/0/5753e46a3575ffe048b9c713b09314f0.mp3?hdnea=exp=1774860028~acl=/api/1/1/5/7/5/0/5753e46a3575ffe048b9c713b09314f0.mp3*~data=user_id=0,application_id=42~hmac=c55c0c21ee0b96d2d63fb7a3a98d8f84d6a2c7a3a8356544aaa665ff62f3b542",
+      "duration_ms": 300000,
+      "track_number": 1,
+      "album": {
+        "id": "221472042",
+        "name": "Fortitude",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58c0fc2ba2dc8f529a9907be600c2944/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58c0fc2ba2dc8f529a9907be600c2944/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58c0fc2ba2dc8f529a9907be600c2944/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1331764082"
+      }
+    },
+    {
+      "id": "126338367",
+      "name": "Stranded",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/f/0/49f3f309bfaa6d38cc79cc00cc7115cc.mp3?hdnea=exp=1774860028~acl=/api/1/1/4/9/f/0/49f3f309bfaa6d38cc79cc00cc7115cc.mp3*~data=user_id=0,application_id=42~hmac=558ce78ea38804e830a56d240adc8da65d4d5681e1c754bc15602603c909d06d",
+      "duration_ms": 269000,
+      "track_number": 2,
+      "album": {
+        "id": "13304751",
+        "name": "Magma",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc9b867b6847741d0b64b79f85982f1d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc9b867b6847741d0b64b79f85982f1d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc9b867b6847741d0b64b79f85982f1d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/126338367"
+      }
+    },
+    {
+      "id": "288562",
+      "name": "Backbone",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/3/0/e1306c158c11ba431928768ee3c8efda.mp3?hdnea=exp=1774860028~acl=/api/1/1/e/1/3/0/e1306c158c11ba431928768ee3c8efda.mp3*~data=user_id=0,application_id=42~hmac=04ef3137c3e7fb5d1a686340d56e3d0f72cf10b2b33876de5b50172b520157d0",
+      "duration_ms": 258000,
+      "track_number": 3,
+      "album": {
+        "id": "46769",
+        "name": "From Mars to Sirius",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89f33d7ae3e196ccf3f6f0a8f7e497d1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89f33d7ae3e196ccf3f6f0a8f7e497d1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89f33d7ae3e196ccf3f6f0a8f7e497d1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/288562"
+      }
+    },
+    {
+      "id": "288572",
+      "name": "Global Warming",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/e/8/0/ee8678e899f78baf31b2cea3576512ec.mp3?hdnea=exp=1774860028~acl=/api/1/1/e/e/8/0/ee8678e899f78baf31b2cea3576512ec.mp3*~data=user_id=0,application_id=42~hmac=556b329e0c0ed4f4c8b6a19f6c2bd9120a107017287ef70c0409403e0105d168",
+      "duration_ms": 470000,
+      "track_number": 4,
+      "album": {
+        "id": "46769",
+        "name": "From Mars to Sirius",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89f33d7ae3e196ccf3f6f0a8f7e497d1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89f33d7ae3e196ccf3f6f0a8f7e497d1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/89f33d7ae3e196ccf3f6f0a8f7e497d1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/288572"
+      }
+    },
+    {
+      "id": "2152792",
+      "name": "The art of dying",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/e/0/a6e891f67132c9901409428756dc1349.mp3?hdnea=exp=1774860028~acl=/api/1/1/a/6/e/0/a6e891f67132c9901409428756dc1349.mp3*~data=user_id=0,application_id=42~hmac=274140d3e7680d6738c474fb3b95b18b1e229861a5322a111e7eedb759aaf5eb",
+      "duration_ms": 594000,
+      "track_number": 5,
+      "album": {
+        "id": "215576",
+        "name": "The way of all flesh",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e9820633ac4d3e5770d98c695d63d1cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e9820633ac4d3e5770d98c695d63d1cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e9820633ac4d3e5770d98c695d63d1cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2152792"
+      }
+    },
+    {
+      "id": "126338363",
+      "name": "Silvera",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/2/0/5a28a378fab7eaf29889ad9691bb7a4a.mp3?hdnea=exp=1774860028~acl=/api/1/1/5/a/2/0/5a28a378fab7eaf29889ad9691bb7a4a.mp3*~data=user_id=0,application_id=42~hmac=6734a955273d805ccc89be9fbf5ac84313dc8d9c0dc407686b7d01623afcf63a",
+      "duration_ms": 212000,
+      "track_number": 6,
+      "album": {
+        "id": "13304751",
+        "name": "Magma",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc9b867b6847741d0b64b79f85982f1d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc9b867b6847741d0b64b79f85982f1d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc9b867b6847741d0b64b79f85982f1d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/126338363"
+      }
+    },
+    {
+      "id": "283170",
+      "name": "The link",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/8/0/688e4ce7afba18923dfbd2e81e1cca8d.mp3?hdnea=exp=1774860028~acl=/api/1/1/6/8/8/0/688e4ce7afba18923dfbd2e81e1cca8d.mp3*~data=user_id=0,application_id=42~hmac=9029cb7824ab837ba48b9b5cf5e97cd6a66d24e488ebd6ee6df3c5c58a46d320",
+      "duration_ms": 300000,
+      "track_number": 7,
+      "album": {
+        "id": "46497",
+        "name": "The link",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f72b89fe711430829067895cf9674e7e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f72b89fe711430829067895cf9674e7e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f72b89fe711430829067895cf9674e7e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/283170"
+      }
+    },
+    {
+      "id": "3694398952",
+      "name": "Mea Culpa (Ah! Ça ira!)",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/5/0/365adab41901f5d4f9c1ca9c14098095.mp3?hdnea=exp=1774860028~acl=/api/1/1/3/6/5/0/365adab41901f5d4f9c1ca9c14098095.mp3*~data=user_id=0,application_id=42~hmac=8793ac78e74f93272271b7c8d6de8ed7be0ce128ee0308298eaa0bc46c90af38",
+      "duration_ms": 173000,
+      "track_number": 8,
+      "album": {
+        "id": "869595312",
+        "name": "Mea Culpa (Ah! Ça ira!)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/240ea1db8d2525aa5a2b0c16a969b535/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/240ea1db8d2525aa5a2b0c16a969b535/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/240ea1db8d2525aa5a2b0c16a969b535/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3694398952"
+      }
+    },
+    {
+      "id": "1331764092",
+      "name": "Another World",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/2/0/30213696454915f54fb2e2cc908514eb.mp3?hdnea=exp=1774860028~acl=/api/1/1/3/0/2/0/30213696454915f54fb2e2cc908514eb.mp3*~data=user_id=0,application_id=42~hmac=a633c311210f41e6ce67a1c9f30108354db65bb78ba061bbe713072d68b3f407",
+      "duration_ms": 264000,
+      "track_number": 9,
+      "album": {
+        "id": "221472042",
+        "name": "Fortitude",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58c0fc2ba2dc8f529a9907be600c2944/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58c0fc2ba2dc8f529a9907be600c2944/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58c0fc2ba2dc8f529a9907be600c2944/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1331764092"
+      }
+    },
+    {
+      "id": "126338365",
+      "name": "The Cell",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/b/0/73b5dabd7a32723cb03fe49097db8e0e.mp3?hdnea=exp=1774860028~acl=/api/1/1/7/3/b/0/73b5dabd7a32723cb03fe49097db8e0e.mp3*~data=user_id=0,application_id=42~hmac=7286f53e8c7fdec1de5d2cb15c43ea9da9e3a46aa579280eefbc33aec178e54e",
+      "duration_ms": 197000,
+      "track_number": 10,
+      "album": {
+        "id": "13304751",
+        "name": "Magma",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc9b867b6847741d0b64b79f85982f1d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc9b867b6847741d0b64b79f85982f1d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc9b867b6847741d0b64b79f85982f1d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2993",
+          "name": "Gojira"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/126338365"
+      }
+    }
+  ]
+}

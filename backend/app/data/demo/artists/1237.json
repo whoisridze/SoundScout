@@ -1,0 +1,32 @@
+{
+  "id": "1237",
+  "name": "Modest Mouse",
+  "popularity": 17,
+  "followers": {
+    "total": 177194
+  },
+  "genres": [
+    "indie rock"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/38bfaafbc55e3e691b2830c47df29aff/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/38bfaafbc55e3e691b2830c47df29aff/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/38bfaafbc55e3e691b2830c47df29aff/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1237"
+  },
+  "uri": "deezer:artist:1237"
+}

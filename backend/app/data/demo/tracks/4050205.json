@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "908604612",
+      "name": "Blinding Lights",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/2/0/1b27825bf63c36edcdc7fac9f920214e.mp3?hdnea=exp=1774859996~acl=/api/1/1/1/b/2/0/1b27825bf63c36edcdc7fac9f920214e.mp3*~data=user_id=0,application_id=42~hmac=6ddbced12c71a69c1ae2b42083db40dd3a2beedb09f38ec501e3ff6404e0f3e3",
+      "duration_ms": 200000,
+      "track_number": 1,
+      "album": {
+        "id": "137217782",
+        "name": "After Hours",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/908604612"
+      }
+    },
+    {
+      "id": "1713175757",
+      "name": "Moth To A Flame",
+      "popularity": 92,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/7/0/377aa6791bf237646385683093be160d.mp3?hdnea=exp=1774859996~acl=/api/1/1/3/7/7/0/377aa6791bf237646385683093be160d.mp3*~data=user_id=0,application_id=42~hmac=626e7df05d1f01b9aa4d34f26c0f02aae8fe3509eb8c9c36d238176d0560edb0",
+      "duration_ms": 234000,
+      "track_number": 2,
+      "album": {
+        "id": "309395097",
+        "name": "Paradise Again",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9bd2f0768b8b53cb3338f546526796ec/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9bd2f0768b8b53cb3338f546526796ec/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9bd2f0768b8b53cb3338f546526796ec/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1713175757"
+      }
+    },
+    {
+      "id": "2747874731",
+      "name": "We Still Don't Trust You",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/c/0/87c7f3b86fc187b090cd0a19e7c40529.mp3?hdnea=exp=1774859996~acl=/api/1/1/8/7/c/0/87c7f3b86fc187b090cd0a19e7c40529.mp3*~data=user_id=0,application_id=42~hmac=1d2158d651533dd559d801e8785f197202aa073238cb791d4ff247f962a56f86",
+      "duration_ms": 253000,
+      "track_number": 3,
+      "album": {
+        "id": "572346801",
+        "name": "WE STILL DON'T TRUST YOU",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2747874731"
+      }
+    },
+    {
+      "id": "3210598501",
+      "name": "Timeless",
+      "popularity": 95,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/d/0/d1d0f32d011c2139bcff3bf9b591cf67.mp3?hdnea=exp=1774859996~acl=/api/1/1/d/1/d/0/d1d0f32d011c2139bcff3bf9b591cf67.mp3*~data=user_id=0,application_id=42~hmac=7aa9771bf63c5d605d96be9864671af84f0dea678f9d31454a58d7a37c86c229",
+      "duration_ms": 256000,
+      "track_number": 4,
+      "album": {
+        "id": "705649321",
+        "name": "Hurry Up Tomorrow",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/07d837e8865ce86684a86fb79ccece96/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/07d837e8865ce86684a86fb79ccece96/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/07d837e8865ce86684a86fb79ccece96/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3210598501"
+      }
+    },
+    {
+      "id": "3210598411",
+      "name": "São Paulo",
+      "popularity": 95,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/8/0/6788ad8d6618827664850cac0255251e.mp3?hdnea=exp=1774859996~acl=/api/1/1/6/7/8/0/6788ad8d6618827664850cac0255251e.mp3*~data=user_id=0,application_id=42~hmac=895ac2fd8a8c2d451c632715fe267fa5d85e713c828bd7e4825ecf9fe417789a",
+      "duration_ms": 302000,
+      "track_number": 5,
+      "album": {
+        "id": "705649321",
+        "name": "Hurry Up Tomorrow",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/07d837e8865ce86684a86fb79ccece96/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/07d837e8865ce86684a86fb79ccece96/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/07d837e8865ce86684a86fb79ccece96/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3210598411"
+      }
+    },
+    {
+      "id": "136889400",
+      "name": "Starboy",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/1/0/3c19a82aeffd2f6f6adb63c4d8548e06.mp3?hdnea=exp=1774859996~acl=/api/1/1/3/c/1/0/3c19a82aeffd2f6f6adb63c4d8548e06.mp3*~data=user_id=0,application_id=42~hmac=040af4aa768bb3536e76798f53aa7aaedbea6ac077161001468e8a0229e641f5",
+      "duration_ms": 230000,
+      "track_number": 6,
+      "album": {
+        "id": "14652356",
+        "name": "Starboy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/136889400"
+      }
+    },
+    {
+      "id": "908604632",
+      "name": "Save Your Tears",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/3/0/6030d100df57535a6dd78ee08bf99261.mp3?hdnea=exp=1774859996~acl=/api/1/1/6/0/3/0/6030d100df57535a6dd78ee08bf99261.mp3*~data=user_id=0,application_id=42~hmac=e943825c87af74f5243e25f6e0daf5485458b0d3214ff533ffb2a5c484ae87b2",
+      "duration_ms": 215000,
+      "track_number": 7,
+      "album": {
+        "id": "137217782",
+        "name": "After Hours",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd00ebd6d30d7253f813dba3bb1c66a9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/908604632"
+      }
+    },
+    {
+      "id": "2321977215",
+      "name": "Popular (From The Idol Vol. 1 Music from the HBO Original Series)",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/d/0/14d53aa16b2d8f395108c3943ed9a0d5.mp3?hdnea=exp=1774859996~acl=/api/1/1/1/4/d/0/14d53aa16b2d8f395108c3943ed9a0d5.mp3*~data=user_id=0,application_id=42~hmac=0cf63c6d8397c01111d91444188bee465217249b83834b8ce9bc4918cf839b95",
+      "duration_ms": 215000,
+      "track_number": 8,
+      "album": {
+        "id": "451561125",
+        "name": "Popular (Music from the HBO Original Series)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ca27a2716e52eb6f01af4b48e4f7d86/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ca27a2716e52eb6f01af4b48e4f7d86/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ca27a2716e52eb6f01af4b48e4f7d86/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2321977215"
+      }
+    },
+    {
+      "id": "1352360622",
+      "name": "Save Your Tears (Remix)",
+      "popularity": 92,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/f/0/0bf74f87a6e22bbd1befee6c4d22a2cc.mp3?hdnea=exp=1774859996~acl=/api/1/1/0/b/f/0/0bf74f87a6e22bbd1befee6c4d22a2cc.mp3*~data=user_id=0,application_id=42~hmac=14c8085caf5d8199fd7cb191aad1e03f950cb2df9f2b0d070be473866c18725c",
+      "duration_ms": 191000,
+      "track_number": 9,
+      "album": {
+        "id": "225079122",
+        "name": "Save Your Tears (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4acc3760e12996fe21a77115fc67760b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4acc3760e12996fe21a77115fc67760b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4acc3760e12996fe21a77115fc67760b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1352360622"
+      }
+    },
+    {
+      "id": "477452252",
+      "name": "Call Out My Name",
+      "popularity": 89,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/8/0/b283f85569636dd199bb94e324642264.mp3?hdnea=exp=1774859996~acl=/api/1/1/b/2/8/0/b283f85569636dd199bb94e324642264.mp3*~data=user_id=0,application_id=42~hmac=a70622646226380274c06e0c4b418ccdb4e6deb09442dae1032bb1d7f3b307a0",
+      "duration_ms": 228000,
+      "track_number": 10,
+      "album": {
+        "id": "59757482",
+        "name": "My Dear Melancholy,",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/315804a0b7db8ec7dbe0f68413eb2cb5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/315804a0b7db8ec7dbe0f68413eb2cb5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/315804a0b7db8ec7dbe0f68413eb2cb5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4050205",
+          "name": "The Weeknd"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/477452252"
+      }
+    }
+  ]
+}

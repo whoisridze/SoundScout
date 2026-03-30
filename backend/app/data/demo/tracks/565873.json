@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3254237571",
+      "name": "Dudu",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/8/0/258a12cb8a05b9497d81db950c79e98d.mp3?hdnea=exp=1774860113~acl=/api/1/1/2/5/8/0/258a12cb8a05b9497d81db950c79e98d.mp3*~data=user_id=0,application_id=42~hmac=a416d11735fc1ebb272816d62e2def6bf4754fd459f74fe25973c8a722f08c46",
+      "duration_ms": 175000,
+      "track_number": 1,
+      "album": {
+        "id": "719714821",
+        "name": "BlownBoy RU",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2011b1e1c72dec0b8e9397cd129a646a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2011b1e1c72dec0b8e9397cd129a646a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2011b1e1c72dec0b8e9397cd129a646a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3254237571"
+      }
+    },
+    {
+      "id": "956241312",
+      "name": "I Got You",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/e/0/24e2c0f063607a68a7833200b1d0b16f.mp3?hdnea=exp=1774860113~acl=/api/1/1/2/4/e/0/24e2c0f063607a68a7833200b1d0b16f.mp3*~data=user_id=0,application_id=42~hmac=26ae17789b416f33c04e46888c4b5a6e37999f4d5e7798384cde9513e43424eb",
+      "duration_ms": 163000,
+      "track_number": 2,
+      "album": {
+        "id": "147381452",
+        "name": "I Got You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e7ecce21fb95a1c3d80728742eabe695/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e7ecce21fb95a1c3d80728742eabe695/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e7ecce21fb95a1c3d80728742eabe695/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/956241312"
+      }
+    },
+    {
+      "id": "109113334",
+      "name": "Nobody Has to Know",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/a/0/81a83c6e9dc6fc3787e26ade68c53fb0.mp3?hdnea=exp=1774860113~acl=/api/1/1/8/1/a/0/81a83c6e9dc6fc3787e26ade68c53fb0.mp3*~data=user_id=0,application_id=42~hmac=379db33b1570f0c554eac251fd781dd8ed4e6622651ad5dcafa4b2e91ca2227d",
+      "duration_ms": 222000,
+      "track_number": 3,
+      "album": {
+        "id": "11370044",
+        "name": "Rumors",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f367e266401c79960441cb7f7ecda054/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f367e266401c79960441cb7f7ecda054/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f367e266401c79960441cb7f7ecda054/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/109113334"
+      }
+    },
+    {
+      "id": "109113332",
+      "name": "Between Us",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/7/0/f974129b269b0441122d02b3cc07c33e.mp3?hdnea=exp=1774860113~acl=/api/1/1/f/9/7/0/f974129b269b0441122d02b3cc07c33e.mp3*~data=user_id=0,application_id=42~hmac=880647b4e674138b7990ed8abe702b123c00dabb3dd5050fcec32bd99a52c9de",
+      "duration_ms": 210000,
+      "track_number": 4,
+      "album": {
+        "id": "11370044",
+        "name": "Rumors",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f367e266401c79960441cb7f7ecda054/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f367e266401c79960441cb7f7ecda054/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f367e266401c79960441cb7f7ecda054/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/109113332"
+      }
+    },
+    {
+      "id": "992599522",
+      "name": "Gal Policy",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/2/0/6c2f390729aefe10c835bd9b6d2e9291.mp3?hdnea=exp=1774860113~acl=/api/1/1/6/c/2/0/6c2f390729aefe10c835bd9b6d2e9291.mp3*~data=user_id=0,application_id=42~hmac=7fc6645df1b17dcae634296bd66cd86aa0b854ccf7192e33925770d3ecea8fc5",
+      "duration_ms": 136000,
+      "track_number": 5,
+      "album": {
+        "id": "154875472",
+        "name": "Gal Policy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b623d352cbeccb14f1656748174134de/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b623d352cbeccb14f1656748174134de/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b623d352cbeccb14f1656748174134de/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/992599522"
+      }
+    },
+    {
+      "id": "569166742",
+      "name": "Loyal (feat. Kizz Daniel & Kranium)",
+      "popularity": 8,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/b/0/9bb068622570cc14a98e985bb3dc1588.mp3?hdnea=exp=1774860113~acl=/api/1/1/9/b/b/0/9bb068622570cc14a98e985bb3dc1588.mp3*~data=user_id=0,application_id=42~hmac=7237d7b8df36639eb1ee4334b8c4639722a702a3ecae1f931fd9a2c8402d4904",
+      "duration_ms": 186000,
+      "track_number": 6,
+      "album": {
+        "id": "75816422",
+        "name": "Major Lazer Essentials",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd04cc1cae7d8b60fd07035aedd4aedf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd04cc1cae7d8b60fd07035aedd4aedf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd04cc1cae7d8b60fd07035aedd4aedf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/569166742"
+      }
+    },
+    {
+      "id": "132635290",
+      "name": "We Can (feat. Tory Lanez)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/e/0/6cec3530bdf5e1be1c7c5bde8d93f713.mp3?hdnea=exp=1774860113~acl=/api/1/1/6/c/e/0/6cec3530bdf5e1be1c7c5bde8d93f713.mp3*~data=user_id=0,application_id=42~hmac=99bd3c3e70939f7214e07a0b011c24fca5e6f6b13ddd6df3b1d38ac8981f500e",
+      "duration_ms": 194000,
+      "track_number": 7,
+      "album": {
+        "id": "14102044",
+        "name": "We Can (feat. Tory Lanez)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bc68d318dd419c3519df6ed71a4d3e41/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bc68d318dd419c3519df6ed71a4d3e41/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bc68d318dd419c3519df6ed71a4d3e41/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/132635290"
+      }
+    },
+    {
+      "id": "607934412",
+      "name": "Over Dem'",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/6/0/59696712c537086fac6da135d4d66442.mp3?hdnea=exp=1774860113~acl=/api/1/1/5/9/6/0/59696712c537086fac6da135d4d66442.mp3*~data=user_id=0,application_id=42~hmac=edf4a77e01ee8770e2096770591a6c93aef35113f4e0409c9918a95e3bf9e1b1",
+      "duration_ms": 183000,
+      "track_number": 8,
+      "album": {
+        "id": "82454272",
+        "name": "Eid Drop XVIII (Remixes)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f5f3bd7bba94aaaf1397454ba0dd7bd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f5f3bd7bba94aaaf1397454ba0dd7bd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f5f3bd7bba94aaaf1397454ba0dd7bd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/607934412"
+      }
+    },
+    {
+      "id": "3499006131",
+      "name": "Commitment (Pt. 3)",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/f/0/d5f6b71dc16c21f9664a032f7e2190f2.mp3?hdnea=exp=1774860113~acl=/api/1/1/d/5/f/0/d5f6b71dc16c21f9664a032f7e2190f2.mp3*~data=user_id=0,application_id=42~hmac=d38d8c144fdca5c4dad6bd9042bc4afb2230945af10e6a6ef9ca636b92bb7d95",
+      "duration_ms": 237000,
+      "track_number": 9,
+      "album": {
+        "id": "801728851",
+        "name": "Commitment & Rain Vibes",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f57e43e0bc4c0109d9b1a101af0209/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f57e43e0bc4c0109d9b1a101af0209/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f57e43e0bc4c0109d9b1a101af0209/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3499006131"
+      }
+    },
+    {
+      "id": "3172310341",
+      "name": "Cut The Link",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/5/0/d55442c37c3d3b40c0882b065d459eea.mp3?hdnea=exp=1774860113~acl=/api/1/1/d/5/5/0/d55442c37c3d3b40c0882b065d459eea.mp3*~data=user_id=0,application_id=42~hmac=d8c6e563dff143c3898739234a07dee9572bcd9dd47a2883250a2ac051ad457d",
+      "duration_ms": 202000,
+      "track_number": 10,
+      "album": {
+        "id": "693476251",
+        "name": "Cut The Link",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90cfc87941c3e862e6cba1b4af98df1e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90cfc87941c3e862e6cba1b4af98df1e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90cfc87941c3e862e6cba1b4af98df1e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "565873",
+          "name": "Kranium"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3172310341"
+      }
+    }
+  ]
+}

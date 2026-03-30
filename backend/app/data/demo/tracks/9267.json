@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "10969975",
+      "name": "Blood and Thunder",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/d/0/cfd8101e2707ff490a7e38eb0178b822.mp3?hdnea=exp=1774860029~acl=/api/1/1/c/f/d/0/cfd8101e2707ff490a7e38eb0178b822.mp3*~data=user_id=0,application_id=42~hmac=97b03e1f817577e43017f096fff120ee67e7130eda2f290d2a0858bcc55751ef",
+      "duration_ms": 228000,
+      "track_number": 1,
+      "album": {
+        "id": "1003959",
+        "name": "Leviathan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8ee31df76ec6f6a905d802077fff71ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8ee31df76ec6f6a905d802077fff71ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8ee31df76ec6f6a905d802077fff71ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10969975"
+      }
+    },
+    {
+      "id": "144516098",
+      "name": "Show Yourself",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/1/0/6017b91ca2dc4bea12a6c0ac7d619b6a.mp3?hdnea=exp=1774860029~acl=/api/1/1/6/0/1/0/6017b91ca2dc4bea12a6c0ac7d619b6a.mp3*~data=user_id=0,application_id=42~hmac=41c89273d4e095266b530aaa22add2e9f4895ec2aa46e0f00b4c872020ce6e3f",
+      "duration_ms": 182000,
+      "track_number": 2,
+      "album": {
+        "id": "15677336",
+        "name": "Emperor of Sand",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c325f8aefcc86d80b0fb3f8624116417/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c325f8aefcc86d80b0fb3f8624116417/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c325f8aefcc86d80b0fb3f8624116417/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/144516098"
+      }
+    },
+    {
+      "id": "1073695152",
+      "name": "A Commotion",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/5/0/455bc9137e71d9a0273b0ad7fe32b616.mp3?hdnea=exp=1774860029~acl=/api/1/1/4/5/5/0/455bc9137e71d9a0273b0ad7fe32b616.mp3*~data=user_id=0,application_id=42~hmac=5e795617a99dc4b533619e8f6d83faec6e3a500e6c1611bfc5da93aea3816888",
+      "duration_ms": 254000,
+      "track_number": 3,
+      "album": {
+        "id": "171908282",
+        "name": "Medium Rarities",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a42bef9c2a7e307acbed2c1607f4991/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a42bef9c2a7e307acbed2c1607f4991/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a42bef9c2a7e307acbed2c1607f4991/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1073695152"
+      }
+    },
+    {
+      "id": "79978972",
+      "name": "The Motherload",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/3/0/a43480994f7ae7d83d4cc1576c38e999.mp3?hdnea=exp=1774860029~acl=/api/1/1/a/4/3/0/a43480994f7ae7d83d4cc1576c38e999.mp3*~data=user_id=0,application_id=42~hmac=27c26399da146221dc1019a069d69e826412e2076069af54484ca8b0d0b08c56",
+      "duration_ms": 299000,
+      "track_number": 4,
+      "album": {
+        "id": "7976964",
+        "name": "Once More 'Round the Sun",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e42b0b0561dec57751fa0169786284d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e42b0b0561dec57751fa0169786284d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e42b0b0561dec57751fa0169786284d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/79978972"
+      }
+    },
+    {
+      "id": "79977404",
+      "name": "March of the Fire Ants",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/6/0/1260b94ea029237a38b294e5dd603155.mp3?hdnea=exp=1774860029~acl=/api/1/1/1/2/6/0/1260b94ea029237a38b294e5dd603155.mp3*~data=user_id=0,application_id=42~hmac=3497524854e2cc951e3725833b92784b4748384950e7fc33be2d9c75df77b150",
+      "duration_ms": 265000,
+      "track_number": 5,
+      "album": {
+        "id": "7976740",
+        "name": "Remission (Reissue)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f306b2251e69c541ee4f5f3a85e5df32/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f306b2251e69c541ee4f5f3a85e5df32/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f306b2251e69c541ee4f5f3a85e5df32/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/79977404"
+      }
+    },
+    {
+      "id": "1517036422",
+      "name": "Teardrinker",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/c/0/f2ca0ecf05223053725caa353090e144.mp3?hdnea=exp=1774860029~acl=/api/1/1/f/2/c/0/f2ca0ecf05223053725caa353090e144.mp3*~data=user_id=0,application_id=42~hmac=a2f36e684013f98fcc9789801cc8b4ed0c167320da7c6c1ead33686a6f5fa777",
+      "duration_ms": 320000,
+      "track_number": 6,
+      "album": {
+        "id": "264468002",
+        "name": "Hushed and Grim",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1919c0700f529f32e54667891ad7c4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1919c0700f529f32e54667891ad7c4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d1919c0700f529f32e54667891ad7c4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1517036422"
+      }
+    },
+    {
+      "id": "2924700",
+      "name": "Oblivion",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/3/0/d533407d6e72c54e22dcd377516be93a.mp3?hdnea=exp=1774860029~acl=/api/1/1/d/5/3/0/d533407d6e72c54e22dcd377516be93a.mp3*~data=user_id=0,application_id=42~hmac=4fea64ec47ea2b3d6e4282aec17203dcd60f73a8261af33dcd804af3c5477391",
+      "duration_ms": 346000,
+      "track_number": 7,
+      "album": {
+        "id": "284555",
+        "name": "Crack the Skye",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/571841458b28644037602a74578cc8fc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/571841458b28644037602a74578cc8fc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/571841458b28644037602a74578cc8fc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2924700"
+      }
+    },
+    {
+      "id": "144516102",
+      "name": "Steambreather",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/3/0/2434d2bdbd2318bfea1a5e33866d456d.mp3?hdnea=exp=1774860029~acl=/api/1/1/2/4/3/0/2434d2bdbd2318bfea1a5e33866d456d.mp3*~data=user_id=0,application_id=42~hmac=fb1e87a43b757df5157094ff4769c6656ca88600b60a00cf1fdfee12c7783086",
+      "duration_ms": 303000,
+      "track_number": 8,
+      "album": {
+        "id": "15677336",
+        "name": "Emperor of Sand",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c325f8aefcc86d80b0fb3f8624116417/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c325f8aefcc86d80b0fb3f8624116417/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c325f8aefcc86d80b0fb3f8624116417/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/144516102"
+      }
+    },
+    {
+      "id": "144516116",
+      "name": "Jaguar God",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/d/0/b9d03e950eee8eaef28b05a3679498e4.mp3?hdnea=exp=1774860029~acl=/api/1/1/b/9/d/0/b9d03e950eee8eaef28b05a3679498e4.mp3*~data=user_id=0,application_id=42~hmac=ff0456b131442ea3dd5333ff3f63bce4038508e9d9f3106e3dff7fc6401e6a49",
+      "duration_ms": 476000,
+      "track_number": 9,
+      "album": {
+        "id": "15677336",
+        "name": "Emperor of Sand",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c325f8aefcc86d80b0fb3f8624116417/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c325f8aefcc86d80b0fb3f8624116417/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c325f8aefcc86d80b0fb3f8624116417/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/144516116"
+      }
+    },
+    {
+      "id": "13805856",
+      "name": "The Sparrow",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/5/0/3a50e44a34cdcd90a6969ff230105aa9.mp3?hdnea=exp=1774860029~acl=/api/1/1/3/a/5/0/3a50e44a34cdcd90a6969ff230105aa9.mp3*~data=user_id=0,application_id=42~hmac=c2be60fa0526cee782eb125b1ada54811556d649446ad60792fec0a8d9353a78",
+      "duration_ms": 330000,
+      "track_number": 10,
+      "album": {
+        "id": "1263285",
+        "name": "The Hunter (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/604f9529a5c5a64c3170ed1f0aab37d7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/604f9529a5c5a64c3170ed1f0aab37d7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/604f9529a5c5a64c3170ed1f0aab37d7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9267",
+          "name": "Mastodon"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13805856"
+      }
+    }
+  ]
+}

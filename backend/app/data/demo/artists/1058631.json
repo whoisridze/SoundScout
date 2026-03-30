@@ -1,0 +1,32 @@
+{
+  "id": "1058631",
+  "name": "Phoebe Bridgers",
+  "popularity": 19,
+  "followers": {
+    "total": 192442
+  },
+  "genres": [
+    "indie folk"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/ba22e54b6a9b9696be627955a49c720a/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/ba22e54b6a9b9696be627955a49c720a/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/ba22e54b6a9b9696be627955a49c720a/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1058631"
+  },
+  "uri": "deezer:artist:1058631"
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "570784872",
+      "name": "Love Is All",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/4/0/7e4870f13701b0a8b72ab74251a8a7c1.mp3?hdnea=exp=1774860095~acl=/api/1/1/7/e/4/0/7e4870f13701b0a8b72ab74251a8a7c1.mp3*~data=user_id=0,application_id=42~hmac=c03ff3aab60c95913c839336942331ca57f542c1c3c1d8edbe4d5b87366a40bb",
+      "duration_ms": 327000,
+      "track_number": 1,
+      "album": {
+        "id": "76070112",
+        "name": "Tribute",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee125777cdc1341287a617f75faa9b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee125777cdc1341287a617f75faa9b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee125777cdc1341287a617f75faa9b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/570784872"
+      }
+    },
+    {
+      "id": "1076846",
+      "name": "Flight Of Fantasy (260 652)",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/5/0/fd5dd135545484a13af01d5d89c794f0.mp3?hdnea=exp=1774860095~acl=/api/1/1/f/d/5/0/fd5dd135545484a13af01d5d89c794f0.mp3*~data=user_id=0,application_id=42~hmac=27cfb03bf4a5a5e7949c9b98dfbed5a2355eaf4cb9bc67a512b646f9b5346241",
+      "duration_ms": 341000,
+      "track_number": 2,
+      "album": {
+        "id": "116316",
+        "name": "Reflections Of Passion",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b02c85e7cdb0457be5bc0fc12f9e597/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b02c85e7cdb0457be5bc0fc12f9e597/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5b02c85e7cdb0457be5bc0fc12f9e597/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1076846"
+      }
+    },
+    {
+      "id": "570784822",
+      "name": "Adagio in C Minor",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/9/0/269c373647147ea25283c21d730d726e.mp3?hdnea=exp=1774860095~acl=/api/1/1/2/6/9/0/269c373647147ea25283c21d730d726e.mp3*~data=user_id=0,application_id=42~hmac=d4b1df6ff443e25b403bc6e62d1c10e922b34b5558d58428d4742924e25d523c",
+      "duration_ms": 230000,
+      "track_number": 3,
+      "album": {
+        "id": "76070112",
+        "name": "Tribute",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee125777cdc1341287a617f75faa9b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee125777cdc1341287a617f75faa9b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee125777cdc1341287a617f75faa9b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/570784822"
+      }
+    },
+    {
+      "id": "75373678",
+      "name": "Come un sospiro (Almost A Whisper)",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/e/0/f8e84dcb6a930605dbc95eebc9821420.mp3?hdnea=exp=1774860095~acl=/api/1/1/f/8/e/0/f8e84dcb6a930605dbc95eebc9821420.mp3*~data=user_id=0,application_id=42~hmac=d7ca86b294e8f18ebfb82ae3d3c2a015279c8830f906fa5a33bcc9a36740068b",
+      "duration_ms": 222000,
+      "track_number": 4,
+      "album": {
+        "id": "7461582",
+        "name": "Inspirato",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc996a2d6a58423f9873a204b5edb1c3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc996a2d6a58423f9873a204b5edb1c3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/dc996a2d6a58423f9873a204b5edb1c3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75373678"
+      }
+    },
+    {
+      "id": "570784812",
+      "name": "Deliverance",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/8/0/ed848598db5426377f9e81a9155f7346.mp3?hdnea=exp=1774860095~acl=/api/1/1/e/d/8/0/ed848598db5426377f9e81a9155f7346.mp3*~data=user_id=0,application_id=42~hmac=54f36a21a617e6dcb60661e620483e063a39b6e91d8910d6a4029e8b931ef193",
+      "duration_ms": 514000,
+      "track_number": 5,
+      "album": {
+        "id": "76070112",
+        "name": "Tribute",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee125777cdc1341287a617f75faa9b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee125777cdc1341287a617f75faa9b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ee125777cdc1341287a617f75faa9b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/570784812"
+      }
+    },
+    {
+      "id": "455888732",
+      "name": "The Storm (Live)",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/a/0/93adda378dfa2ae8fdd34c3ce900fd63.mp3?hdnea=exp=1774860095~acl=/api/1/1/9/3/a/0/93adda378dfa2ae8fdd34c3ce900fd63.mp3*~data=user_id=0,application_id=42~hmac=7fa5485d381b2e50a70be786d94b4cf381e1cccf984b5d33fd4fbfbf0e5a26cd",
+      "duration_ms": 307000,
+      "track_number": 6,
+      "album": {
+        "id": "56051462",
+        "name": "Yanni Live!: The Concert Event",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c703126fd348bb22fc52978d0c465986/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c703126fd348bb22fc52978d0c465986/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c703126fd348bb22fc52978d0c465986/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/455888732"
+      }
+    },
+    {
+      "id": "1026135942",
+      "name": "The Rain Must Fall",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/9/0/ef9134145eb8b331cbdef4fc450e84cf.mp3?hdnea=exp=1774860095~acl=/api/1/1/e/f/9/0/ef9134145eb8b331cbdef4fc450e84cf.mp3*~data=user_id=0,application_id=42~hmac=d2d08bdc181fa21cdaaee0d5f2c063c078f7a20ee8d58be9a3796f925482016b",
+      "duration_ms": 292000,
+      "track_number": 7,
+      "album": {
+        "id": "161627442",
+        "name": "In His Purest Form",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c751071559d50103fe4684c9e3f610/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c751071559d50103fe4684c9e3f610/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c751071559d50103fe4684c9e3f610/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1026135942"
+      }
+    },
+    {
+      "id": "1026135862",
+      "name": "If I Could Tell You",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/3/0/403766b6b60b94173a4ee44f4a6ff6ca.mp3?hdnea=exp=1774860095~acl=/api/1/1/4/0/3/0/403766b6b60b94173a4ee44f4a6ff6ca.mp3*~data=user_id=0,application_id=42~hmac=3ac36b7d5f20757f2b1610ee51ff04b9cc5ae25bdb2434063e8d23696f34ca3a",
+      "duration_ms": 380000,
+      "track_number": 8,
+      "album": {
+        "id": "161627442",
+        "name": "In His Purest Form",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c751071559d50103fe4684c9e3f610/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c751071559d50103fe4684c9e3f610/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c751071559d50103fe4684c9e3f610/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1026135862"
+      }
+    },
+    {
+      "id": "1026135902",
+      "name": "Almost a Whisper (Seléna’s Theme)",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/3/0/6035cf09f1c161044530e3507fd053a1.mp3?hdnea=exp=1774860095~acl=/api/1/1/6/0/3/0/6035cf09f1c161044530e3507fd053a1.mp3*~data=user_id=0,application_id=42~hmac=7242945c2e15b6c7b84dc8da481a8e6fc5691ea9b12daac64411c2fd3ddc6362",
+      "duration_ms": 209000,
+      "track_number": 9,
+      "album": {
+        "id": "161627442",
+        "name": "In His Purest Form",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c751071559d50103fe4684c9e3f610/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c751071559d50103fe4684c9e3f610/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c751071559d50103fe4684c9e3f610/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1026135902"
+      }
+    },
+    {
+      "id": "566986772",
+      "name": "Aria (Bonus Track) (Remastered)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/6/0/7a626d50d53abae3d137d7c161d72add.mp3?hdnea=exp=1774860095~acl=/api/1/1/7/a/6/0/7a626d50d53abae3d137d7c161d72add.mp3*~data=user_id=0,application_id=42~hmac=84ef1a888bcf3c540f86742175522efb55dd228cb335b3d6ef874aee24791e15",
+      "duration_ms": 278000,
+      "track_number": 10,
+      "album": {
+        "id": "75395592",
+        "name": "Yanni - Live at the Acropolis - 25th Anniversary Deluxe Edition (Remastered)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74b789004570327f3875452a2f9b67f4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74b789004570327f3875452a2f9b67f4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74b789004570327f3875452a2f9b67f4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "494",
+          "name": "Yanni"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/566986772"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "199149",
+  "name": "Electric Youth",
+  "popularity": 1,
+  "followers": {
+    "total": 14228
+  },
+  "genres": [
+    "synthwave"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6f2d1cfdfe5702c96b56345107a67f6b/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6f2d1cfdfe5702c96b56345107a67f6b/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/6f2d1cfdfe5702c96b56345107a67f6b/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/199149"
+  },
+  "uri": "deezer:artist:199149"
+}

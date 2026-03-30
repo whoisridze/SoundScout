@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "355698401",
+      "name": "Don't Leave Me Here",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/5/0/50502413a4b77de5bddf5f36510e5cab.mp3?hdnea=exp=1774860077~acl=/api/1/1/5/0/5/0/50502413a4b77de5bddf5f36510e5cab.mp3*~data=user_id=0,application_id=42~hmac=fa904c817d70e6cc76c15c8811a054c8c7a4f41a7622f08dde05f81211e5b6f0",
+      "duration_ms": 303000,
+      "track_number": 1,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698401"
+      }
+    },
+    {
+      "id": "355698451",
+      "name": "That's Who I Am",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/7/0/9a7361a7c4b58b9c82926ef212ccafbb.mp3?hdnea=exp=1774860077~acl=/api/1/1/9/a/7/0/9a7361a7c4b58b9c82926ef212ccafbb.mp3*~data=user_id=0,application_id=42~hmac=fecbad26ae9bb83596dac756597b786663905ba1207eb9c03a7d4664251bed28",
+      "duration_ms": 256000,
+      "track_number": 2,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698451"
+      }
+    },
+    {
+      "id": "355698441",
+      "name": "Shake Me In Your Arms",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/b/0/85bc23a269ca596b7c4f2ce694c4805f.mp3?hdnea=exp=1774860077~acl=/api/1/1/8/5/b/0/85bc23a269ca596b7c4f2ce694c4805f.mp3*~data=user_id=0,application_id=42~hmac=ddb2a58b81deca355d4658fb0a07d96e6029039b21518e94edf48126430a6c33",
+      "duration_ms": 358000,
+      "track_number": 3,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698441"
+      }
+    },
+    {
+      "id": "355698481",
+      "name": "Ain't Nobody Talkin'",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/8/0/4d88a13a6ca2ad1a5e50129913a10415.mp3?hdnea=exp=1774860077~acl=/api/1/1/4/d/8/0/4d88a13a6ca2ad1a5e50129913a10415.mp3*~data=user_id=0,application_id=42~hmac=96dc51883c542d0c2f1cef7ccb1a19a6ba1bd06500b2ce684582239437b6bfa2",
+      "duration_ms": 240000,
+      "track_number": 4,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698481"
+      }
+    },
+    {
+      "id": "3850281681",
+      "name": "Time",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/4/0/2044aa6c920a7b24a6260f26fe87dc46.mp3?hdnea=exp=1774860077~acl=/api/1/1/2/0/4/0/2044aa6c920a7b24a6260f26fe87dc46.mp3*~data=user_id=0,application_id=42~hmac=e67e3bbe602455a42cb822df3013f01306d151cdc05039ffd3f5df29e34bbb97",
+      "duration_ms": 221000,
+      "track_number": 5,
+      "album": {
+        "id": "921355931",
+        "name": "Time",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4fd61fda22df007792e6c939f66b4250/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4fd61fda22df007792e6c939f66b4250/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4fd61fda22df007792e6c939f66b4250/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3850281681"
+      }
+    },
+    {
+      "id": "355698491",
+      "name": "Soul",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/f/0/7afa1d3489bc559058391246856c238d.mp3?hdnea=exp=1774860077~acl=/api/1/1/7/a/f/0/7afa1d3489bc559058391246856c238d.mp3*~data=user_id=0,application_id=42~hmac=ece80452fc69e9215662f206ebc750e90da4a60805269cb49f9cce3afa279731",
+      "duration_ms": 358000,
+      "track_number": 6,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698491"
+      }
+    },
+    {
+      "id": "571600",
+      "name": "Ain't Gwine Whistle Dixie (Anymo') (Live)",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/6/0/276280520003cdc4163f7042012c477c.mp3?hdnea=exp=1774860077~acl=/api/1/1/2/7/6/0/276280520003cdc4163f7042012c477c.mp3*~data=user_id=0,application_id=42~hmac=84c413af0ae2e479c9831303cf310925faf88a34c4f571cf84cf82c4ca1b73bb",
+      "duration_ms": 517000,
+      "track_number": 7,
+      "album": {
+        "id": "74074",
+        "name": "The Essential Taj Mahal",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef8c846b18df0a6846a0f593f8811ed5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef8c846b18df0a6846a0f593f8811ed5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef8c846b18df0a6846a0f593f8811ed5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/571600"
+      }
+    },
+    {
+      "id": "355698461",
+      "name": "Diving Duck Blues",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/9/0/75981df81d517f1d1cd63c5c25205065.mp3?hdnea=exp=1774860077~acl=/api/1/1/7/5/9/0/75981df81d517f1d1cd63c5c25205065.mp3*~data=user_id=0,application_id=42~hmac=834633f16d8f5bcaac6f90b3d3eba3e32b0f5ea213d0aa236cc41ea43520880b",
+      "duration_ms": 268000,
+      "track_number": 8,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698461"
+      }
+    },
+    {
+      "id": "3286169191",
+      "name": "Junkyard Dog",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/1/0/a41b30630cfc3c0231367bf458fb8dc7.mp3?hdnea=exp=1774860077~acl=/api/1/1/a/4/1/0/a41b30630cfc3c0231367bf458fb8dc7.mp3*~data=user_id=0,application_id=42~hmac=057664df9489bbb97dbe50d9af7a1d2476ea6b2ceaaa20828b17e852d927eb64",
+      "duration_ms": 260000,
+      "track_number": 9,
+      "album": {
+        "id": "730095971",
+        "name": "Junkyard Dog",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/71777baf609454209cc2cd9fa84a603f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/71777baf609454209cc2cd9fa84a603f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/71777baf609454209cc2cd9fa84a603f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3286169191"
+      }
+    },
+    {
+      "id": "355698471",
+      "name": "Squeeze Box",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/f/0/8ff5193ba1267d87088c287cb1c8d9d5.mp3?hdnea=exp=1774860077~acl=/api/1/1/8/f/f/0/8ff5193ba1267d87088c287cb1c8d9d5.mp3*~data=user_id=0,application_id=42~hmac=40322003eaa5f883d1f55acc1272ef7c6e312cccea5866ffe0ab541d9a2a50ed",
+      "duration_ms": 196000,
+      "track_number": 10,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4418",
+          "name": "Taj Mahal"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698471"
+      }
+    }
+  ]
+}

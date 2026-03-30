@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "355698401",
+      "name": "Don't Leave Me Here",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/5/0/50502413a4b77de5bddf5f36510e5cab.mp3?hdnea=exp=1774860076~acl=/api/1/1/5/0/5/0/50502413a4b77de5bddf5f36510e5cab.mp3*~data=user_id=0,application_id=42~hmac=762bb970248bd05982bc039d03299b230206cad8bf9e83ba0aa57ec59cd80f71",
+      "duration_ms": 303000,
+      "track_number": 1,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698401"
+      }
+    },
+    {
+      "id": "1507324242",
+      "name": "The Medicine Man",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/d/5/0/2d5fe338f1339931e6a7800eafd5c329.mp3?hdnea=exp=1774860076~acl=/api/1/1/2/d/5/0/2d5fe338f1339931e6a7800eafd5c329.mp3*~data=user_id=0,application_id=42~hmac=3592570380cbd924d24c1b2be7548ee3c3602d4aeb0a4e9818034242725cdc65",
+      "duration_ms": 218000,
+      "track_number": 2,
+      "album": {
+        "id": "262034532",
+        "name": "Good To Be...",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67b66936b82fbe5be7a7a37a62dbfde8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67b66936b82fbe5be7a7a37a62dbfde8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67b66936b82fbe5be7a7a37a62dbfde8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1507324242"
+      }
+    },
+    {
+      "id": "355698451",
+      "name": "That's Who I Am",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/7/0/9a7361a7c4b58b9c82926ef212ccafbb.mp3?hdnea=exp=1774860076~acl=/api/1/1/9/a/7/0/9a7361a7c4b58b9c82926ef212ccafbb.mp3*~data=user_id=0,application_id=42~hmac=f57646d1cccff6c71f73979862398e51f37ee80da3ce41dbbad8b31a731f3e38",
+      "duration_ms": 256000,
+      "track_number": 3,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698451"
+      }
+    },
+    {
+      "id": "774818522",
+      "name": "Please Come Home For Christmas",
+      "popularity": 7,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/f/0/9afc042e4dddb8e7c7812d100238ec61.mp3?hdnea=exp=1774860076~acl=/api/1/1/9/a/f/0/9afc042e4dddb8e7c7812d100238ec61.mp3*~data=user_id=0,application_id=42~hmac=5a69807e6dd5a1c0d4d91395355cf50777491cac5899e5e8561e1220e1d07972",
+      "duration_ms": 180000,
+      "track_number": 4,
+      "album": {
+        "id": "114726462",
+        "name": "Moonlight, Mistletoe & You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba60e499a8c8d322e3686596923e81f0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba60e499a8c8d322e3686596923e81f0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba60e499a8c8d322e3686596923e81f0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/774818522"
+      }
+    },
+    {
+      "id": "355698441",
+      "name": "Shake Me In Your Arms",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/b/0/85bc23a269ca596b7c4f2ce694c4805f.mp3?hdnea=exp=1774860076~acl=/api/1/1/8/5/b/0/85bc23a269ca596b7c4f2ce694c4805f.mp3*~data=user_id=0,application_id=42~hmac=3755e47b3f7fda8c3e8447772bcf43a5beafa732e207add76eb1224bc3258721",
+      "duration_ms": 358000,
+      "track_number": 5,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698441"
+      }
+    },
+    {
+      "id": "355698481",
+      "name": "Ain't Nobody Talkin'",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/8/0/4d88a13a6ca2ad1a5e50129913a10415.mp3?hdnea=exp=1774860076~acl=/api/1/1/4/d/8/0/4d88a13a6ca2ad1a5e50129913a10415.mp3*~data=user_id=0,application_id=42~hmac=03036884abeaacae443f61eb183f3a6b853bf6ac5d159713275f0006bd25bb99",
+      "duration_ms": 240000,
+      "track_number": 6,
+      "album": {
+        "id": "40798121",
+        "name": "TajMo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5e1bb1f55274dc00f1babcff86f121df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/355698481"
+      }
+    },
+    {
+      "id": "693407292",
+      "name": "Oklahoma",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/8/0/13830e6296d7c42268767ccd00941309.mp3?hdnea=exp=1774860076~acl=/api/1/1/1/3/8/0/13830e6296d7c42268767ccd00941309.mp3*~data=user_id=0,application_id=42~hmac=ff6f82b81771944267f4a26119482fecf2ff333589463324349d660a835d1579",
+      "duration_ms": 293000,
+      "track_number": 7,
+      "album": {
+        "id": "99689762",
+        "name": "Oklahoma",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/444520df91b20610e0d2f40dbca7405a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/444520df91b20610e0d2f40dbca7405a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/444520df91b20610e0d2f40dbca7405a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/693407292"
+      }
+    },
+    {
+      "id": "1507324222",
+      "name": "Sunny And Warm",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/9/0/029bd5d7bdf8c4b2c94f10f504c42072.mp3?hdnea=exp=1774860076~acl=/api/1/1/0/2/9/0/029bd5d7bdf8c4b2c94f10f504c42072.mp3*~data=user_id=0,application_id=42~hmac=5984a52f4e31be6d82606e49191b6bbf872e1de6b6860af0454c46f47c4ed056",
+      "duration_ms": 205000,
+      "track_number": 8,
+      "album": {
+        "id": "262034532",
+        "name": "Good To Be...",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67b66936b82fbe5be7a7a37a62dbfde8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67b66936b82fbe5be7a7a37a62dbfde8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67b66936b82fbe5be7a7a37a62dbfde8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1507324222"
+      }
+    },
+    {
+      "id": "693407282",
+      "name": "I Remember You",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/1/0/9e139052a67284aec5997f898d6bad11.mp3?hdnea=exp=1774860076~acl=/api/1/1/9/e/1/0/9e139052a67284aec5997f898d6bad11.mp3*~data=user_id=0,application_id=42~hmac=8fb86e07e2fba3bcd33ed5dc00574fe834bd3f3c63a204387c2785b5c8fd30bd",
+      "duration_ms": 297000,
+      "track_number": 9,
+      "album": {
+        "id": "99689762",
+        "name": "Oklahoma",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/444520df91b20610e0d2f40dbca7405a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/444520df91b20610e0d2f40dbca7405a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/444520df91b20610e0d2f40dbca7405a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/693407282"
+      }
+    },
+    {
+      "id": "774818532",
+      "name": "Moonlight, Mistletoe & You",
+      "popularity": 4,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/3/0/e53a4e5a142d6dbc1f57c929696c99a1.mp3?hdnea=exp=1774860076~acl=/api/1/1/e/5/3/0/e53a4e5a142d6dbc1f57c929696c99a1.mp3*~data=user_id=0,application_id=42~hmac=a4bb48ea1cd258e52374e2bf42eab3d4f9e891b920595a67dfe274237ee65158",
+      "duration_ms": 209000,
+      "track_number": 10,
+      "album": {
+        "id": "114726462",
+        "name": "Moonlight, Mistletoe & You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba60e499a8c8d322e3686596923e81f0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba60e499a8c8d322e3686596923e81f0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba60e499a8c8d322e3686596923e81f0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "69959",
+          "name": "Keb' Mo'"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/774818532"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "9267",
+  "name": "Mastodon",
+  "popularity": 20,
+  "followers": {
+    "total": 203497
+  },
+  "genres": [
+    "metal"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/af45126915cbb781b16ecae51d2c8a46/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/af45126915cbb781b16ecae51d2c8a46/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/af45126915cbb781b16ecae51d2c8a46/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/9267"
+  },
+  "uri": "deezer:artist:9267"
+}

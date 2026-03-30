@@ -1,0 +1,32 @@
+{
+  "id": "896",
+  "name": "Jack Johnson",
+  "popularity": 99,
+  "followers": {
+    "total": 1159142
+  },
+  "genres": [
+    "easy listening"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5ab2307c596f9814abcd223467c54fb2/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5ab2307c596f9814abcd223467c54fb2/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/5ab2307c596f9814abcd223467c54fb2/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/896"
+  },
+  "uri": "deezer:artist:896"
+}

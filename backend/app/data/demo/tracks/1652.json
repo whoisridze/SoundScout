@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1108606322",
+      "name": "Slow Hands",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/5/0/ea5317df3348fa2c3c81682d2630148e.mp3?hdnea=exp=1774859883~acl=/api/1/1/e/a/5/0/ea5317df3348fa2c3c81682d2630148e.mp3*~data=user_id=0,application_id=42~hmac=6aeb9b4fa15c465958c95d1793e71e5235f3194ebec7f61e004ad57ed63d1afc",
+      "duration_ms": 184000,
+      "track_number": 1,
+      "album": {
+        "id": "179494452",
+        "name": "Antics",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/421557b41380ab41d6dc23f0b5964df4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/421557b41380ab41d6dc23f0b5964df4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/421557b41380ab41d6dc23f0b5964df4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1108606322"
+      }
+    },
+    {
+      "id": "540158772",
+      "name": "If You Really Love Nothing",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/c/0/73c8c7a5237aed535d3016d8675196e6.mp3?hdnea=exp=1774859883~acl=/api/1/1/7/3/c/0/73c8c7a5237aed535d3016d8675196e6.mp3*~data=user_id=0,application_id=42~hmac=1a9b79c8cc13b49356cb5d417990fd502d44b4c344889ca3daf9dc6851e3f65f",
+      "duration_ms": 265000,
+      "track_number": 2,
+      "album": {
+        "id": "70484372",
+        "name": "Marauder",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c878f03c1b7ea48812f4c65235377ac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c878f03c1b7ea48812f4c65235377ac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8c878f03c1b7ea48812f4c65235377ac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/540158772"
+      }
+    },
+    {
+      "id": "1912817457",
+      "name": "Rest My Chemistry",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/c/0/dbca002e248e06bb7eb87955d6a10246.mp3?hdnea=exp=1774859883~acl=/api/1/1/d/b/c/0/dbca002e248e06bb7eb87955d6a10246.mp3*~data=user_id=0,application_id=42~hmac=d9af4d18c09175ae3c0fcc8e27e9ebe3451992af45bf474945e96263bde34849",
+      "duration_ms": 301000,
+      "track_number": 3,
+      "album": {
+        "id": "356420237",
+        "name": "Our Love To Admire",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05ac0a918bf19fdff9671e0379db677a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05ac0a918bf19fdff9671e0379db677a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05ac0a918bf19fdff9671e0379db677a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1912817457"
+      }
+    },
+    {
+      "id": "1108606082",
+      "name": "Evil",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/9/0/569b822029e71038354050ddd16c5310.mp3?hdnea=exp=1774859883~acl=/api/1/1/5/6/9/0/569b822029e71038354050ddd16c5310.mp3*~data=user_id=0,application_id=42~hmac=0e72246b06b634402f7a1a93bb21588f3fcac16e6f765e8ecec002e1cc429195",
+      "duration_ms": 215000,
+      "track_number": 4,
+      "album": {
+        "id": "179494422",
+        "name": "Antics (The Special Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/421557b41380ab41d6dc23f0b5964df4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/421557b41380ab41d6dc23f0b5964df4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/421557b41380ab41d6dc23f0b5964df4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1108606082"
+      }
+    },
+    {
+      "id": "1912817417",
+      "name": "The Heinrich Maneuver",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/2/0/112ba77c65bbafbf0c25e5db57eed0fc.mp3?hdnea=exp=1774859883~acl=/api/1/1/1/1/2/0/112ba77c65bbafbf0c25e5db57eed0fc.mp3*~data=user_id=0,application_id=42~hmac=bcc38d5ff8bde99242476a2d555cab59f55de63f5a8daf117593c95a06cea2e5",
+      "duration_ms": 208000,
+      "track_number": 5,
+      "album": {
+        "id": "356420237",
+        "name": "Our Love To Admire",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05ac0a918bf19fdff9671e0379db677a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05ac0a918bf19fdff9671e0379db677a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05ac0a918bf19fdff9671e0379db677a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1912817417"
+      }
+    },
+    {
+      "id": "2313101435",
+      "name": "My Desire",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/6/0/33632b8c5022b124e61e7ccadb2b8678.mp3?hdnea=exp=1774859883~acl=/api/1/1/3/3/6/0/33632b8c5022b124e61e7ccadb2b8678.mp3*~data=user_id=0,application_id=42~hmac=5fb712828f7ca3f487f377e9ac505fa8c3917e9b4ea18756b2a4e477bbec96d4",
+      "duration_ms": 300000,
+      "track_number": 6,
+      "album": {
+        "id": "449154085",
+        "name": "El Pintor",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/949febe95629e41601d07cc3864e67f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/949febe95629e41601d07cc3864e67f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/949febe95629e41601d07cc3864e67f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2313101435"
+      }
+    },
+    {
+      "id": "2313101425",
+      "name": "All the Rage Back Home",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/2/0/3b2038abe26802662c1b3411b6bf617c.mp3?hdnea=exp=1774859883~acl=/api/1/1/3/b/2/0/3b2038abe26802662c1b3411b6bf617c.mp3*~data=user_id=0,application_id=42~hmac=e664a8e4b527c8e32b584e4c32e75e973ee00d2c118311ac019f189e71461924",
+      "duration_ms": 262000,
+      "track_number": 7,
+      "album": {
+        "id": "449154085",
+        "name": "El Pintor",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/949febe95629e41601d07cc3864e67f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/949febe95629e41601d07cc3864e67f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/949febe95629e41601d07cc3864e67f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2313101425"
+      }
+    },
+    {
+      "id": "1108612442",
+      "name": "A Time to Be So Small (Second Demo - 2012 Remaster)",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/3/0/eb3d9da0e32e830ff8c5f5e35e6e8056.mp3?hdnea=exp=1774859883~acl=/api/1/1/e/b/3/0/eb3d9da0e32e830ff8c5f5e35e6e8056.mp3*~data=user_id=0,application_id=42~hmac=287029f7c81eff6d501f1f46dd1f3875bf9cdfc7621104b94dbba356cf5fcc1c",
+      "duration_ms": 346000,
+      "track_number": 8,
+      "album": {
+        "id": "179495612",
+        "name": "Turn On The Bright Lights (The Tenth Anniversary Edition - 2012 Remaster)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/083e283ed72b02cf9202041bb96c2495/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/083e283ed72b02cf9202041bb96c2495/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/083e283ed72b02cf9202041bb96c2495/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1108612442"
+      }
+    },
+    {
+      "id": "1912817387",
+      "name": "Pioneer To The Falls",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/5/0/1d5340a36d19b685f55064683abf411e.mp3?hdnea=exp=1774859883~acl=/api/1/1/1/d/5/0/1d5340a36d19b685f55064683abf411e.mp3*~data=user_id=0,application_id=42~hmac=154377fb9a12bf09e14f69aac02c8026985b64b2423609ed1994ef3fe0441556",
+      "duration_ms": 342000,
+      "track_number": 9,
+      "album": {
+        "id": "356420237",
+        "name": "Our Love To Admire",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05ac0a918bf19fdff9671e0379db677a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05ac0a918bf19fdff9671e0379db677a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05ac0a918bf19fdff9671e0379db677a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1912817387"
+      }
+    },
+    {
+      "id": "1108605962",
+      "name": "Untitled",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/d/0/ced87b3b6f636269c644c2c407fb0934.mp3?hdnea=exp=1774859883~acl=/api/1/1/c/e/d/0/ced87b3b6f636269c644c2c407fb0934.mp3*~data=user_id=0,application_id=42~hmac=f2b57716af7366407b23ccfc1a586a94b94900cdb8cdf437e0e9f0aefd0cb5e9",
+      "duration_ms": 236000,
+      "track_number": 10,
+      "album": {
+        "id": "179494412",
+        "name": "Turn On The Bright Lights",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c4b691fd7ae41ef532dc848745826b5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c4b691fd7ae41ef532dc848745826b5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2c4b691fd7ae41ef532dc848745826b5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1652",
+          "name": "Interpol"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1108605962"
+      }
+    }
+  ]
+}

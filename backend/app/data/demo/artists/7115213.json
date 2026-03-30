@@ -1,0 +1,32 @@
+{
+  "id": "7115213",
+  "name": "Philanthrope",
+  "popularity": 35,
+  "followers": {
+    "total": 3517
+  },
+  "genres": [
+    "lo-fi beats"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/48a6a95e9fe53d70b0ace28dfe18835a/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/48a6a95e9fe53d70b0ace28dfe18835a/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/48a6a95e9fe53d70b0ace28dfe18835a/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/7115213"
+  },
+  "uri": "deezer:artist:7115213"
+}

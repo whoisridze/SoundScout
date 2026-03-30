@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3872210291",
+      "name": "Beyond the Curse",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/0/0/43044cdf3c986c536b92ef0f639457a2.mp3?hdnea=exp=1774859928~acl=/api/1/1/4/3/0/0/43044cdf3c986c536b92ef0f639457a2.mp3*~data=user_id=0,application_id=42~hmac=552581c46b44f4fa8ec85f893ae2b29356e5ae7ce9e172c98a67a41ad3bdb675",
+      "duration_ms": 255000,
+      "track_number": 1,
+      "album": {
+        "id": "929090981",
+        "name": "Malombra",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3872210291"
+      }
+    },
+    {
+      "id": "3872210381",
+      "name": "Ad Astra",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/a/0/62aba8745ad2de626db393132db3c87d.mp3?hdnea=exp=1774859928~acl=/api/1/1/6/2/a/0/62aba8745ad2de626db393132db3c87d.mp3*~data=user_id=0,application_id=42~hmac=403311d15554235c84896499aa5d108a99e8cd8a65df02061eb457ef229cbf3c",
+      "duration_ms": 218000,
+      "track_number": 2,
+      "album": {
+        "id": "929090981",
+        "name": "Malombra",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3872210381"
+      }
+    },
+    {
+      "id": "3872210301",
+      "name": "Black Clouds",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/e/0/93efe1340a0a50b19517b7eb6aa1668a.mp3?hdnea=exp=1774859928~acl=/api/1/1/9/3/e/0/93efe1340a0a50b19517b7eb6aa1668a.mp3*~data=user_id=0,application_id=42~hmac=cbb9f525c404366234c7b028ec50736b56d982be2dedec90e8410846b953fa33",
+      "duration_ms": 240000,
+      "track_number": 3,
+      "album": {
+        "id": "929090981",
+        "name": "Malombra",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3872210301"
+      }
+    },
+    {
+      "id": "3872210351",
+      "name": "Ghost Party",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/4/0/ae4aaeb34d9d3f531e1519d405ee2f23.mp3?hdnea=exp=1774859928~acl=/api/1/1/a/e/4/0/ae4aaeb34d9d3f531e1519d405ee2f23.mp3*~data=user_id=0,application_id=42~hmac=5ccbee980fd0dc2f77a53dee5629215e053dc68884cfe490064f37f874d17ed1",
+      "duration_ms": 234000,
+      "track_number": 4,
+      "album": {
+        "id": "929090981",
+        "name": "Malombra",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b16ec56209fd56025b634a7a9a0616/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3872210351"
+      }
+    },
+    {
+      "id": "527328161",
+      "name": "Go!",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/0/0/df05f5705ccf05da3380d309a098f3a4.mp3?hdnea=exp=1774859928~acl=/api/1/1/d/f/0/0/df05f5705ccf05da3380d309a098f3a4.mp3*~data=user_id=0,application_id=42~hmac=2e6ce1397fad0ec3192325d68dacba81a0b7727577c11e7fa4e449f361b62ad4",
+      "duration_ms": 192000,
+      "track_number": 5,
+      "album": {
+        "id": "68179841",
+        "name": "Loved to Death",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f8582d3f5bd546c5ecc69519a3e543/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f8582d3f5bd546c5ecc69519a3e543/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f8582d3f5bd546c5ecc69519a3e543/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/527328161"
+      }
+    },
+    {
+      "id": "3746480902",
+      "name": "Chaos Theory",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/3/0/93365984ff36a578afe51726b9c2aed7.mp3?hdnea=exp=1774859928~acl=/api/1/1/9/3/3/0/93365984ff36a578afe51726b9c2aed7.mp3*~data=user_id=0,application_id=42~hmac=3c9b454b3d38313e67fa7832ac768ad6bb31a57f32c3495c73de9a96e6714aa8",
+      "duration_ms": 253000,
+      "track_number": 6,
+      "album": {
+        "id": "887473812",
+        "name": "Chaos Theory",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0eabc975ddc6f56e741036a0557ba5fb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0eabc975ddc6f56e741036a0557ba5fb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0eabc975ddc6f56e741036a0557ba5fb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3746480902"
+      }
+    },
+    {
+      "id": "140605101",
+      "name": "Get Out",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/5/0/b856cba042e18b2afce39df37245796e.mp3?hdnea=exp=1774859928~acl=/api/1/1/b/8/5/0/b856cba042e18b2afce39df37245796e.mp3*~data=user_id=0,application_id=42~hmac=ce920ceabb24554b42cf955049a5fb118ac89bdcf8da255e98f907d0e3ba55ea",
+      "duration_ms": 156000,
+      "track_number": 7,
+      "album": {
+        "id": "15145529",
+        "name": "B-Sides: Vol. 1",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8a2a6b54313be55b3878ab3e5d70bd6b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8a2a6b54313be55b3878ab3e5d70bd6b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8a2a6b54313be55b3878ab3e5d70bd6b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/140605101"
+      }
+    },
+    {
+      "id": "92560200",
+      "name": "Take Me There",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/a/0/82abe9b4a706626e0bfe6366bb6c98f3.mp3?hdnea=exp=1774859928~acl=/api/1/1/8/2/a/0/82abe9b4a706626e0bfe6366bb6c98f3.mp3*~data=user_id=0,application_id=42~hmac=3772ed3009a0a89e62ae731d03f74197fe9cf4db90241306008f24186189eb89",
+      "duration_ms": 280000,
+      "track_number": 8,
+      "album": {
+        "id": "9393622",
+        "name": "Send the Signal",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c85e62bbf5cb29b64517c8cc31b9a945/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c85e62bbf5cb29b64517c8cc31b9a945/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c85e62bbf5cb29b64517c8cc31b9a945/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/92560200"
+      }
+    },
+    {
+      "id": "92560198",
+      "name": "Signals",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/7/8/0/3789b1ac9db9aba30f4a4b69c3b354bd.mp3?hdnea=exp=1774859928~acl=/api/1/1/3/7/8/0/3789b1ac9db9aba30f4a4b69c3b354bd.mp3*~data=user_id=0,application_id=42~hmac=bcf1f2a1da454988b2cca43836d2cbd9ad1badc6f3adb2c05e60a94eca101989",
+      "duration_ms": 220000,
+      "track_number": 9,
+      "album": {
+        "id": "9393622",
+        "name": "Send the Signal",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c85e62bbf5cb29b64517c8cc31b9a945/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c85e62bbf5cb29b64517c8cc31b9a945/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c85e62bbf5cb29b64517c8cc31b9a945/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/92560198"
+      }
+    },
+    {
+      "id": "140605107",
+      "name": "Stoic",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/7/0/847bd0533c178b29a9072a11b424dc4f.mp3?hdnea=exp=1774859928~acl=/api/1/1/8/4/7/0/847bd0533c178b29a9072a11b424dc4f.mp3*~data=user_id=0,application_id=42~hmac=69660297e09f0f2f39699b417f53a523aa150fd62abaeaf77614c60d11e45097",
+      "duration_ms": 220000,
+      "track_number": 10,
+      "album": {
+        "id": "15145529",
+        "name": "B-Sides: Vol. 1",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8a2a6b54313be55b3878ab3e5d70bd6b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8a2a6b54313be55b3878ab3e5d70bd6b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8a2a6b54313be55b3878ab3e5d70bd6b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5319227",
+          "name": "Dance With the Dead"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/140605107"
+      }
+    }
+  ]
+}

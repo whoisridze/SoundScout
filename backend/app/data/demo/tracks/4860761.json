@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "482986842",
+      "name": "I Like It",
+      "popularity": 87,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/e/0/0def0dfb110c6e00efc2386d0711768f.mp3?hdnea=exp=1774859935~acl=/api/1/1/0/d/e/0/0def0dfb110c6e00efc2386d0711768f.mp3*~data=user_id=0,application_id=42~hmac=9d3a2470847114e89547f1eff783ec725bd488df8a50b775520e7ce10449ca5c",
+      "duration_ms": 253000,
+      "track_number": 1,
+      "album": {
+        "id": "60711332",
+        "name": "Invasion of Privacy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9617334140532d2a13584042f38e67fa/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9617334140532d2a13584042f38e67fa/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9617334140532d2a13584042f38e67fa/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/482986842"
+      }
+    },
+    {
+      "id": "553056592",
+      "name": "Say My Name",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/9/0/7d973f561ecb9540c487181f653a220e.mp3?hdnea=exp=1774859935~acl=/api/1/1/7/d/9/0/7d973f561ecb9540c487181f653a220e.mp3*~data=user_id=0,application_id=42~hmac=d9d85c94eb8bcee499e7794fd1e3994e3346ef9d77a85c70c11ec15d2bf3ab49",
+      "duration_ms": 198000,
+      "track_number": 2,
+      "album": {
+        "id": "72839592",
+        "name": "7",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c292dc8a43814f6617f0e24e62c33489/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c292dc8a43814f6617f0e24e62c33489/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c292dc8a43814f6617f0e24e62c33489/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/553056592"
+      }
+    },
+    {
+      "id": "3920012581",
+      "name": "Pal Agua",
+      "popularity": 86,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/8/0/4b8608c7f5bffa2b74fdff4d8632f37c.mp3?hdnea=exp=1774859935~acl=/api/1/1/4/b/8/0/4b8608c7f5bffa2b74fdff4d8632f37c.mp3*~data=user_id=0,application_id=42~hmac=4fabe24c5c1b8393b0642d62f22d0daa508922d8fee5fd705e0e04c024761e8d",
+      "duration_ms": 206000,
+      "track_number": 3,
+      "album": {
+        "id": "946889991",
+        "name": "Pal Agua",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f002be08aae95743bca176873ad892f1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f002be08aae95743bca176873ad892f1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f002be08aae95743bca176873ad892f1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3920012581"
+      }
+    },
+    {
+      "id": "903698362",
+      "name": "Azul",
+      "popularity": 95,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/0/0/d60f303f43d6950922f9d6176c376bb0.mp3?hdnea=exp=1774859935~acl=/api/1/1/d/6/0/0/d60f303f43d6950922f9d6176c376bb0.mp3*~data=user_id=0,application_id=42~hmac=87f69b7a3b362d9ea6067f256e1b7ce300a04ec631689c5cca00872124dcf105",
+      "duration_ms": 205000,
+      "track_number": 4,
+      "album": {
+        "id": "136387572",
+        "name": "Colores",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38b80954bf64148690fc6047582e98c1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38b80954bf64148690fc6047582e98c1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/38b80954bf64148690fc6047582e98c1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/903698362"
+      }
+    },
+    {
+      "id": "376989861",
+      "name": "Mi Gente",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/2/0/102e796478cc967233c52a60ffa75823.mp3?hdnea=exp=1774859935~acl=/api/1/1/1/0/2/0/102e796478cc967233c52a60ffa75823.mp3*~data=user_id=0,application_id=42~hmac=30990969c30947dcd010af8da85960d1a8a704f73cf7ca518129970ff27f4019",
+      "duration_ms": 189000,
+      "track_number": 5,
+      "album": {
+        "id": "43681651",
+        "name": "Mi Gente",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aad5dfbfd03587d830cb7dec810d92e0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aad5dfbfd03587d830cb7dec810d92e0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aad5dfbfd03587d830cb7dec810d92e0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/376989861"
+      }
+    },
+    {
+      "id": "3812251372",
+      "name": "COOK",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/4/0/6d4fc55b78d056947eec48883c49a7d0.mp3?hdnea=exp=1774859935~acl=/api/1/1/6/d/4/0/6d4fc55b78d056947eec48883c49a7d0.mp3*~data=user_id=0,application_id=42~hmac=355312699fb58387b492a53bf898091edcfc66d838553375b8845311a20b8c1c",
+      "duration_ms": 170000,
+      "track_number": 6,
+      "album": {
+        "id": "908070432",
+        "name": "COOK",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b312534c2c019c9e364aee79be69cc11/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b312534c2c019c9e364aee79be69cc11/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b312534c2c019c9e364aee79be69cc11/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3812251372"
+      }
+    },
+    {
+      "id": "653790782",
+      "name": "Contra La Pared",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/7/0/717fb49c187fbe78b34b15610d9d6182.mp3?hdnea=exp=1774859935~acl=/api/1/1/7/1/7/0/717fb49c187fbe78b34b15610d9d6182.mp3*~data=user_id=0,application_id=42~hmac=9c114b6409fd5bed2b2b42a689a5c1f13826de9435d8aa36da21e24ab8230050",
+      "duration_ms": 224000,
+      "track_number": 7,
+      "album": {
+        "id": "91338992",
+        "name": "Contra La Pared",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c703aefe0b521caca270940dee70384/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c703aefe0b521caca270940dee70384/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c703aefe0b521caca270940dee70384/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/653790782"
+      }
+    },
+    {
+      "id": "772603752",
+      "name": "RITMO (Bad Boys For Life)",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/2/0/b72a1f6e5111cf6f079e2d170f4b8d65.mp3?hdnea=exp=1774859935~acl=/api/1/1/b/7/2/0/b72a1f6e5111cf6f079e2d170f4b8d65.mp3*~data=user_id=0,application_id=42~hmac=ffee59d607568b6f8c6dd2c3e2f7fff3a0042083db03c6e7e4b5ea1352df85fe",
+      "duration_ms": 222000,
+      "track_number": 8,
+      "album": {
+        "id": "114324482",
+        "name": "RITMO (Bad Boys For Life)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39e98d2bd759fe5bf9dc95d0e8553424/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39e98d2bd759fe5bf9dc95d0e8553424/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39e98d2bd759fe5bf9dc95d0e8553424/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/772603752"
+      }
+    },
+    {
+      "id": "2857441322",
+      "name": "Eyes Closed",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/5/0/285994bce9fa1cc5825afc71acfcf080.mp3?hdnea=exp=1774859935~acl=/api/1/1/2/8/5/0/285994bce9fa1cc5825afc71acfcf080.mp3*~data=user_id=0,application_id=42~hmac=e7842af23c6c9e9ded045ec938e329a65510e1721866400d67135360a4e69234",
+      "duration_ms": 200000,
+      "track_number": 9,
+      "album": {
+        "id": "604614962",
+        "name": "LOOM",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a3e5538d0d0caa37a76de4a34266191/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a3e5538d0d0caa37a76de4a34266191/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4a3e5538d0d0caa37a76de4a34266191/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2857441322"
+      }
+    },
+    {
+      "id": "3080632561",
+      "name": "I Adore You",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/e/0/28e1bed23af26be59da0c5f38b761d16.mp3?hdnea=exp=1774859935~acl=/api/1/1/2/8/e/0/28e1bed23af26be59da0c5f38b761d16.mp3*~data=user_id=0,application_id=42~hmac=a2f8cb2d83438ac01ea269d329f829367beb35d14d578e1b551fbc02934fd26d",
+      "duration_ms": 180000,
+      "track_number": 10,
+      "album": {
+        "id": "667103151",
+        "name": "I Adore You",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91d5cb2f8f42ac6b21f4f67bc9ef1da9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91d5cb2f8f42ac6b21f4f67bc9ef1da9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91d5cb2f8f42ac6b21f4f67bc9ef1da9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4860761",
+          "name": "J Balvin"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3080632561"
+      }
+    }
+  ]
+}

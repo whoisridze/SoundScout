@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3451046521",
+      "name": "THIS IS FOR",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/d/0/05d3d42da67b7f1ba3de7220c7c7ca09.mp3?hdnea=exp=1774859948~acl=/api/1/1/0/5/d/0/05d3d42da67b7f1ba3de7220c7c7ca09.mp3*~data=user_id=0,application_id=42~hmac=f45ae4b5ab4f66597d3cf1e52abab3338fad03a0080de0d355090738b42ac5f0",
+      "duration_ms": 131000,
+      "track_number": 1,
+      "album": {
+        "id": "785086621",
+        "name": "THIS IS FOR",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1c4761773e4107f7bf7c810b15feb84/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1c4761773e4107f7bf7c810b15feb84/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1c4761773e4107f7bf7c810b15feb84/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3451046521"
+      }
+    },
+    {
+      "id": "3125530581",
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/5/0/4a51d0b67667b04e6364a74ee6919e20.mp3?hdnea=exp=1774859948~acl=/api/1/1/4/a/5/0/4a51d0b67667b04e6364a74ee6919e20.mp3*~data=user_id=0,application_id=42~hmac=92f7d47519e8954de0ca07eaeb5f7619bd657ba9127f2caf9b7697ed28a21d42",
+      "duration_ms": 201000,
+      "track_number": 2,
+      "album": {
+        "id": "679256121",
+        "name": "STRATEGY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0da99d80ee9ebbe451b84f7a85f6e78e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0da99d80ee9ebbe451b84f7a85f6e78e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0da99d80ee9ebbe451b84f7a85f6e78e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3125530581"
+      }
+    },
+    {
+      "id": "3412534541",
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/f/0/64fa55325849ffd73a50cb1723eb2641.mp3?hdnea=exp=1774859948~acl=/api/1/1/6/4/f/0/64fa55325849ffd73a50cb1723eb2641.mp3*~data=user_id=0,application_id=42~hmac=11221fcf604692dd5f170f83bb6c7307632a7da02930a11ab3ed0b917a7fcdc1",
+      "duration_ms": 180000,
+      "track_number": 3,
+      "album": {
+        "id": "771853201",
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3412534541"
+      }
+    },
+    {
+      "id": "1114415022",
+      "name": "I CAN'T STOP ME",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/d/0/f1dd0c25e9b43979d3d8eb4a37385aa6.mp3?hdnea=exp=1774859948~acl=/api/1/1/f/1/d/0/f1dd0c25e9b43979d3d8eb4a37385aa6.mp3*~data=user_id=0,application_id=42~hmac=d7a14f41d3ead20b7cd73256ae8afe47ab523ec8d23c2433db6bbbfb105078e9",
+      "duration_ms": 205000,
+      "track_number": 4,
+      "album": {
+        "id": "180628682",
+        "name": "Eyes Wide Open",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/464f5d095862d82564531ed8cfc21002/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/464f5d095862d82564531ed8cfc21002/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/464f5d095862d82564531ed8cfc21002/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1114415022"
+      }
+    },
+    {
+      "id": "1256486032",
+      "name": "Like Ooh-Ahh",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/f/0/a6fdf5c76d2921469aea3f23a080108e.mp3?hdnea=exp=1774859948~acl=/api/1/1/a/6/f/0/a6fdf5c76d2921469aea3f23a080108e.mp3*~data=user_id=0,application_id=42~hmac=ad475890d8a8bc601f6d2ec4251dcc2bb95a73de26c80955a328a13f9c074142",
+      "duration_ms": 215000,
+      "track_number": 5,
+      "album": {
+        "id": "210486292",
+        "name": "The Story Begins",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67bdb1f4b2aca6d707274c8e5a39da02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67bdb1f4b2aca6d707274c8e5a39da02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/67bdb1f4b2aca6d707274c8e5a39da02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1256486032"
+      }
+    },
+    {
+      "id": "3412534591",
+      "name": "Strategy",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/5/0/1b573abdc24ef0d3aadfc486f9563bee.mp3?hdnea=exp=1774859948~acl=/api/1/1/1/b/5/0/1b573abdc24ef0d3aadfc486f9563bee.mp3*~data=user_id=0,application_id=42~hmac=5a6fd83e2462edcdd6bd65473b52d7916805ac40897cb2c419a2e848612fb1d5",
+      "duration_ms": 166000,
+      "track_number": 6,
+      "album": {
+        "id": "771853201",
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e54bda0628749119f7a9a05b71b40283/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3412534591"
+      }
+    },
+    {
+      "id": "1533348982",
+      "name": "The Feels",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/7/0/7b72a9def50a1d6adec9ca3be5fdeca9.mp3?hdnea=exp=1774859948~acl=/api/1/1/7/b/7/0/7b72a9def50a1d6adec9ca3be5fdeca9.mp3*~data=user_id=0,application_id=42~hmac=352bb19bfbe127cd1a17ac831c6aad6a0aa13cb695d34d1edb90a14307123495",
+      "duration_ms": 198000,
+      "track_number": 7,
+      "album": {
+        "id": "268310522",
+        "name": "Formula of Love: O+T=<3",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39443bfe03b4e82da2a4f35ae423cace/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39443bfe03b4e82da2a4f35ae423cace/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39443bfe03b4e82da2a4f35ae423cace/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1533348982"
+      }
+    },
+    {
+      "id": "3451046551",
+      "name": "RIGHT HAND GIRL",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/2/0/002facba4dc13c6390d1c34ab98eaa18.mp3?hdnea=exp=1774859948~acl=/api/1/1/0/0/2/0/002facba4dc13c6390d1c34ab98eaa18.mp3*~data=user_id=0,application_id=42~hmac=9cf3725eb48e70e03d24d03345c32cb6a99bffcd5194476d0f22cfbe98561fcf",
+      "duration_ms": 151000,
+      "track_number": 8,
+      "album": {
+        "id": "785086621",
+        "name": "THIS IS FOR",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1c4761773e4107f7bf7c810b15feb84/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1c4761773e4107f7bf7c810b15feb84/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c1c4761773e4107f7bf7c810b15feb84/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3451046551"
+      }
+    },
+    {
+      "id": "1256485112",
+      "name": "Dance The Night Away",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/2/0/41228821d76920fdde314eebb650fa72.mp3?hdnea=exp=1774859948~acl=/api/1/1/4/1/2/0/41228821d76920fdde314eebb650fa72.mp3*~data=user_id=0,application_id=42~hmac=bec224ede49c30c15920e56338f3b33a4ed80ce7cdb1c9626330f58a37a2065a",
+      "duration_ms": 180000,
+      "track_number": 9,
+      "album": {
+        "id": "210486142",
+        "name": "Summer Nights",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03c5877a6bb848df6f1cfb6b91776bae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03c5877a6bb848df6f1cfb6b91776bae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03c5877a6bb848df6f1cfb6b91776bae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1256485112"
+      }
+    },
+    {
+      "id": "3314045411",
+      "name": "WE PRAY (TWICE Version)",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/5/0/d85bfd009798bdcf65b537bd8fa5417a.mp3?hdnea=exp=1774859948~acl=/api/1/1/d/8/5/0/d85bfd009798bdcf65b537bd8fa5417a.mp3*~data=user_id=0,application_id=42~hmac=e1b7d74ca63f275d5eb648a243b685e72c24e3bf1576511b861050c38974f2fe",
+      "duration_ms": 247000,
+      "track_number": 10,
+      "album": {
+        "id": "739063121",
+        "name": "WE PRAY (TWICE Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2782ca04969c44e8c88b6b73a0f9d993/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2782ca04969c44e8c88b6b73a0f9d993/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2782ca04969c44e8c88b6b73a0f9d993/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "161553",
+          "name": "TWICE"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3314045411"
+      }
+    }
+  ]
+}

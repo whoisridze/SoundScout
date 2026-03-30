@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2607923062",
+      "name": "UNTOUCHABLE",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/9/0/8d9e65057d4f7e63627cd89e9a2e90bf.mp3?hdnea=exp=1774859954~acl=/api/1/1/8/d/9/0/8d9e65057d4f7e63627cd89e9a2e90bf.mp3*~data=user_id=0,application_id=42~hmac=3de032dd8e052c4dc37cc679ae6942f0d6f9a3de471de3b11b3b6d4c6af51f25",
+      "duration_ms": 194000,
+      "track_number": 1,
+      "album": {
+        "id": "530940902",
+        "name": "BORN TO BE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9feca7d33732f216de35c36e7ca27b2a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9feca7d33732f216de35c36e7ca27b2a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9feca7d33732f216de35c36e7ca27b2a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2607923062"
+      }
+    },
+    {
+      "id": "3641465642",
+      "name": "TUNNEL VISION",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/6/0/c569b6196d4331c0211d1b38cfa43909.mp3?hdnea=exp=1774859954~acl=/api/1/1/c/5/6/0/c569b6196d4331c0211d1b38cfa43909.mp3*~data=user_id=0,application_id=42~hmac=dc2929a63692057472fd4b997517b637c8941125dcad1061ddcf3b0a07dafb9e",
+      "duration_ms": 185000,
+      "track_number": 2,
+      "album": {
+        "id": "851462932",
+        "name": "TUNNEL VISION",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/561f16b818981f79964e8b5c7a33bd2a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/561f16b818981f79964e8b5c7a33bd2a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/561f16b818981f79964e8b5c7a33bd2a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3641465642"
+      }
+    },
+    {
+      "id": "2607923052",
+      "name": "BORN TO BE",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/a/0/ada32341fb8b42a603aeda1682a26977.mp3?hdnea=exp=1774859954~acl=/api/1/1/a/d/a/0/ada32341fb8b42a603aeda1682a26977.mp3*~data=user_id=0,application_id=42~hmac=60590133f86aca8dac849236ff4953dd7513c1e55a0d5f5c46604e37d972cfd8",
+      "duration_ms": 178000,
+      "track_number": 3,
+      "album": {
+        "id": "530940902",
+        "name": "BORN TO BE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9feca7d33732f216de35c36e7ca27b2a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9feca7d33732f216de35c36e7ca27b2a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9feca7d33732f216de35c36e7ca27b2a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2607923052"
+      }
+    },
+    {
+      "id": "3641465682",
+      "name": "8-BIT HEART",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/7/0/4a744c1d385629cc26d13fd50e1de1b2.mp3?hdnea=exp=1774859954~acl=/api/1/1/4/a/7/0/4a744c1d385629cc26d13fd50e1de1b2.mp3*~data=user_id=0,application_id=42~hmac=8fe80d1a0ad2ae53743e9618bd317a852db493d82e91d208d41b692969e271e0",
+      "duration_ms": 190000,
+      "track_number": 4,
+      "album": {
+        "id": "851462932",
+        "name": "TUNNEL VISION",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/561f16b818981f79964e8b5c7a33bd2a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/561f16b818981f79964e8b5c7a33bd2a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/561f16b818981f79964e8b5c7a33bd2a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3641465682"
+      }
+    },
+    {
+      "id": "3041140891",
+      "name": "VAY (Feat. Changbin of Stray Kids)",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/9/0/619db0420dc058dafdace80d209116b8.mp3?hdnea=exp=1774859954~acl=/api/1/1/6/1/9/0/619db0420dc058dafdace80d209116b8.mp3*~data=user_id=0,application_id=42~hmac=19e3dcc7a568b6953bf1de19bd456ef68e7c534a9b4ace2375027ada36687e98",
+      "duration_ms": 161000,
+      "track_number": 5,
+      "album": {
+        "id": "655291281",
+        "name": "GOLD",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3041140891"
+      }
+    },
+    {
+      "id": "3041140851",
+      "name": "Imaginary Friend",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/4/0/df4dee0b759ed0738c9aee6b9accecbf.mp3?hdnea=exp=1774859954~acl=/api/1/1/d/f/4/0/df4dee0b759ed0738c9aee6b9accecbf.mp3*~data=user_id=0,application_id=42~hmac=1e4fcf8e5cb61458b61b6b545acc4173ddc7990b488cb707f2bf082e139af495",
+      "duration_ms": 202000,
+      "track_number": 6,
+      "album": {
+        "id": "655291281",
+        "name": "GOLD",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3041140851"
+      }
+    },
+    {
+      "id": "1642054622",
+      "name": "WANNABE",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/8/0/1286ab66f0b95b678ba2b519f2819aed.mp3?hdnea=exp=1774859954~acl=/api/1/1/1/2/8/0/1286ab66f0b95b678ba2b519f2819aed.mp3*~data=user_id=0,application_id=42~hmac=8e913cf79fb2c0297fad59fd8c475d7524b564adc1f8ced1d90bbba8d2f6bb94",
+      "duration_ms": 191000,
+      "track_number": 7,
+      "album": {
+        "id": "292340552",
+        "name": "IT'z ME",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4712557125cdfc3c4eddb7908f726b0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4712557125cdfc3c4eddb7908f726b0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a4712557125cdfc3c4eddb7908f726b0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1642054622"
+      }
+    },
+    {
+      "id": "3041140861",
+      "name": "Bad Girls R Us",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/0/0/a20ece9ab229648ebd568fbe918c4fcc.mp3?hdnea=exp=1774859954~acl=/api/1/1/a/2/0/0/a20ece9ab229648ebd568fbe918c4fcc.mp3*~data=user_id=0,application_id=42~hmac=b42237852472c4902408b41933520c98907a0aa5dde9bec9358a26c9e8da0d69",
+      "duration_ms": 182000,
+      "track_number": 8,
+      "album": {
+        "id": "655291281",
+        "name": "GOLD",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cd8efea007bae3e51e6794be2f28b77e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3041140861"
+      }
+    },
+    {
+      "id": "3400461701",
+      "name": "Girls Will Be Girls",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/c/0/eacf12e53781173aa84ec9aabeebbc5c.mp3?hdnea=exp=1774859954~acl=/api/1/1/e/a/c/0/eacf12e53781173aa84ec9aabeebbc5c.mp3*~data=user_id=0,application_id=42~hmac=38c492ec9ea1573b24cea76204b2b0628a873309dcbe6b4212b2ab28b81cfe07",
+      "duration_ms": 168000,
+      "track_number": 9,
+      "album": {
+        "id": "767788771",
+        "name": "Girls Will Be Girls",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f3e6c2255435c2a34319c378aaace12/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f3e6c2255435c2a34319c378aaace12/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f3e6c2255435c2a34319c378aaace12/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3400461701"
+      }
+    },
+    {
+      "id": "1642053602",
+      "name": "SWIPE",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/0/0/dd03338a2e051dedf15f6383fea0c581.mp3?hdnea=exp=1774859954~acl=/api/1/1/d/d/0/0/dd03338a2e051dedf15f6383fea0c581.mp3*~data=user_id=0,application_id=42~hmac=41537b6fd01e2e4f07e0904c972d0d67d3d85aeeba816e7075692669cfdf049b",
+      "duration_ms": 177000,
+      "track_number": 10,
+      "album": {
+        "id": "292340222",
+        "name": "CRAZY IN LOVE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b89c0bd869b2330ef565249c7e1dbfe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b89c0bd869b2330ef565249c7e1dbfe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3b89c0bd869b2330ef565249c7e1dbfe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3649631",
+          "name": "ITZY"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1642053602"
+      }
+    }
+  ]
+}

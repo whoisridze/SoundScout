@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3495737481",
+      "name": "wgft (feat. Burna Boy)",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/e/0/97e8f79ff414eefa64d4d745088f0c67.mp3?hdnea=exp=1774859905~acl=/api/1/1/9/7/e/0/97e8f79ff414eefa64d4d745088f0c67.mp3*~data=user_id=0,application_id=42~hmac=1ab705026c7ed79be917290dae4a8db01fc3fc04efdd6a5730bfc077b540a5e5",
+      "duration_ms": 184000,
+      "track_number": 1,
+      "album": {
+        "id": "800710621",
+        "name": "The Last Wun",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/332d8393d5c9e2d7c5345b8e5fd2a049/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/332d8393d5c9e2d7c5345b8e5fd2a049/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/332d8393d5c9e2d7c5345b8e5fd2a049/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3495737481"
+      }
+    },
+    {
+      "id": "2497030721",
+      "name": "Lemonade (feat. NAV)",
+      "popularity": 79,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/8/0/6682416ad0f2cccdec4e0b59a333af51.mp3?hdnea=exp=1774859905~acl=/api/1/1/6/6/8/0/6682416ad0f2cccdec4e0b59a333af51.mp3*~data=user_id=0,application_id=42~hmac=185113d9976957348db74d336f6d57b4e2d704d49fc381c1d3eaf01df3b4b4ca",
+      "duration_ms": 195000,
+      "track_number": 2,
+      "album": {
+        "id": "499695641",
+        "name": "B4 The Storm",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d0e47782cd55788cfcbf54670f58231/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d0e47782cd55788cfcbf54670f58231/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7d0e47782cd55788cfcbf54670f58231/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2497030721"
+      }
+    },
+    {
+      "id": "2790188042",
+      "name": "one of wun",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/2/0/0b2e71e24fb2f7dff81bce3293729a52.mp3?hdnea=exp=1774859905~acl=/api/1/1/0/b/2/0/0b2e71e24fb2f7dff81bce3293729a52.mp3*~data=user_id=0,application_id=42~hmac=f8e4814630237491a38344b603de1eb15f5a710d056acc0d1cb9b0639092e843",
+      "duration_ms": 144000,
+      "track_number": 3,
+      "album": {
+        "id": "583995182",
+        "name": "One of Wun",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a32e96724b42fba8b1b4f094ba4ffda5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a32e96724b42fba8b1b4f094ba4ffda5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a32e96724b42fba8b1b4f094ba4ffda5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2790188042"
+      }
+    },
+    {
+      "id": "1032146632",
+      "name": "NASTY GIRL / ON CAMERA",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/7/0/c67ec300a5d6744ace0a1b9443b8c86c.mp3?hdnea=exp=1774859905~acl=/api/1/1/c/6/7/0/c67ec300a5d6744ace0a1b9443b8c86c.mp3*~data=user_id=0,application_id=42~hmac=34ad71125d805bfaa24dd3b9c1f029b66076c055404e4eeee73c6dd00623fc45",
+      "duration_ms": 230000,
+      "track_number": 4,
+      "album": {
+        "id": "162883832",
+        "name": "WUNNA (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ea0c4d2356247c2563f97e64f48d495/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ea0c4d2356247c2563f97e64f48d495/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ea0c4d2356247c2563f97e64f48d495/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1032146632"
+      }
+    },
+    {
+      "id": "2329875155",
+      "name": "fukumean",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/6/0/ba606a6a6c575c8e38e4124548727674.mp3?hdnea=exp=1774859905~acl=/api/1/1/b/a/6/0/ba606a6a6c575c8e38e4124548727674.mp3*~data=user_id=0,application_id=42~hmac=54d05537dd8d31b85856eb9ae02e48c6aa11412e63e72a5d82cc9525bfb2ea5b",
+      "duration_ms": 125000,
+      "track_number": 5,
+      "album": {
+        "id": "453946145",
+        "name": "a Gift & a Curse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35446b14e181f0a3fe415c06fec08d0b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35446b14e181f0a3fe415c06fec08d0b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/35446b14e181f0a3fe415c06fec08d0b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2329875155"
+      }
+    },
+    {
+      "id": "3047808531",
+      "name": "him all along",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/5/0/da57f83e8dfca74426b28a327dbbb338.mp3?hdnea=exp=1774859905~acl=/api/1/1/d/a/5/0/da57f83e8dfca74426b28a327dbbb338.mp3*~data=user_id=0,application_id=42~hmac=014b6269f77f156b1a458cba3d7c4ea5b3210540d016eed0f7bca5dfdd3aaa85",
+      "duration_ms": 158000,
+      "track_number": 6,
+      "album": {
+        "id": "657542251",
+        "name": "him all along",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b7a52f5483b436692af7dd58b690c2b1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b7a52f5483b436692af7dd58b690c2b1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b7a52f5483b436692af7dd58b690c2b1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3047808531"
+      }
+    },
+    {
+      "id": "3495737421",
+      "name": "just say dat",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/0/0/f30c9e56bccbfb7dbf2a1ea663742c72.mp3?hdnea=exp=1774859905~acl=/api/1/1/f/3/0/0/f30c9e56bccbfb7dbf2a1ea663742c72.mp3*~data=user_id=0,application_id=42~hmac=3e48d82b97d3bd11c5161522ffa37798c494687d8af81be2c10ef9a42446b618",
+      "duration_ms": 123000,
+      "track_number": 7,
+      "album": {
+        "id": "800710621",
+        "name": "The Last Wun",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/332d8393d5c9e2d7c5345b8e5fd2a049/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/332d8393d5c9e2d7c5345b8e5fd2a049/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/332d8393d5c9e2d7c5345b8e5fd2a049/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3495737421"
+      }
+    },
+    {
+      "id": "968626532",
+      "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/1/0/e71e0d498b6df12bfbdc28620fb9bac4.mp3?hdnea=exp=1774859905~acl=/api/1/1/e/7/1/0/e71e0d498b6df12bfbdc28620fb9bac4.mp3*~data=user_id=0,application_id=42~hmac=d5a09b3323759bec28fca06d06a4c261b6ff1beab3ec3b70262aa68e3bb998c2",
+      "duration_ms": 197000,
+      "track_number": 8,
+      "album": {
+        "id": "149937242",
+        "name": "WUNNA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4296f042aa802d6943e02b2362fc69f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4296f042aa802d6943e02b2362fc69f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4296f042aa802d6943e02b2362fc69f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/968626532"
+      }
+    },
+    {
+      "id": "1032146432",
+      "name": "200 FOR LUNCH",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/e/0/98e90d12d94618c27747a66d06289f5a.mp3?hdnea=exp=1774859905~acl=/api/1/1/9/8/e/0/98e90d12d94618c27747a66d06289f5a.mp3*~data=user_id=0,application_id=42~hmac=584d14db03984e640ed20c7220733e0d70bb60e635730feb6d6000582b9cc40a",
+      "duration_ms": 149000,
+      "track_number": 9,
+      "album": {
+        "id": "162883832",
+        "name": "WUNNA (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ea0c4d2356247c2563f97e64f48d495/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ea0c4d2356247c2563f97e64f48d495/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0ea0c4d2356247c2563f97e64f48d495/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1032146432"
+      }
+    },
+    {
+      "id": "3776513382",
+      "name": "wgft (Remix) [feat. Chris Brown]",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/3/0/9b3d469849ec2b2cf5da5747aba667f6.mp3?hdnea=exp=1774859905~acl=/api/1/1/9/b/3/0/9b3d469849ec2b2cf5da5747aba667f6.mp3*~data=user_id=0,application_id=42~hmac=8ec5503fbfd3036767d4cafe5b26dc32774331d1a231c660816c291251dff300",
+      "duration_ms": 187000,
+      "track_number": 10,
+      "album": {
+        "id": "898274312",
+        "name": "wgft (Remix) [feat. Chris Brown]",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/619b8e44c36919d21beec0fccb4249fb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/619b8e44c36919d21beec0fccb4249fb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/619b8e44c36919d21beec0fccb4249fb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4344192",
+          "name": "Gunna"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3776513382"
+      }
+    }
+  ]
+}

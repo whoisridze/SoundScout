@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "15546830",
+      "name": "Pumped Up Kicks",
+      "popularity": 89,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/8/0/eb86469502f0571746a40d280c53bc5a.mp3?hdnea=exp=1774859880~acl=/api/1/1/e/b/8/0/eb86469502f0571746a40d280c53bc5a.mp3*~data=user_id=0,application_id=42~hmac=defde81bb2952524764744ebefd0104512bb888cf5b38484feb51ab8c71733c3",
+      "duration_ms": 239000,
+      "track_number": 1,
+      "album": {
+        "id": "1437015",
+        "name": "Torches",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15546830"
+      }
+    },
+    {
+      "id": "75802463",
+      "name": "Best Friend",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/0/0/b006857b5e9637e8df6a6ca312125336.mp3?hdnea=exp=1774859880~acl=/api/1/1/b/0/0/0/b006857b5e9637e8df6a6ca312125336.mp3*~data=user_id=0,application_id=42~hmac=ff5695c83e532b1f7ebfd61aa7c591e5f7f4e5b5f378979e154be2341ceb7e18",
+      "duration_ms": 267000,
+      "track_number": 2,
+      "album": {
+        "id": "7509946",
+        "name": "Supermodel",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e5e4bdc809dbdcd2be4a7ccbc0215b4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e5e4bdc809dbdcd2be4a7ccbc0215b4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e5e4bdc809dbdcd2be4a7ccbc0215b4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75802463"
+      }
+    },
+    {
+      "id": "15546835",
+      "name": "Houdini",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/1/0/6213bb05240cd1877f9d7ed7cc8fa64b.mp3?hdnea=exp=1774859880~acl=/api/1/1/6/2/1/0/6213bb05240cd1877f9d7ed7cc8fa64b.mp3*~data=user_id=0,application_id=42~hmac=adce3e063f8ff7af709c5dd2b08a746811dc5435a3d276d10cc7aee3a41d61a2",
+      "duration_ms": 202000,
+      "track_number": 3,
+      "album": {
+        "id": "1437015",
+        "name": "Torches",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15546835"
+      }
+    },
+    {
+      "id": "384053091",
+      "name": "Sit Next to Me",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/1/0/731ac87f56a4797335eadb9f1fa60336.mp3?hdnea=exp=1774859880~acl=/api/1/1/7/3/1/0/731ac87f56a4797335eadb9f1fa60336.mp3*~data=user_id=0,application_id=42~hmac=d3396cf261fc31e923584a98183eb75d88ae43d7d810174f8d1ac5410b10f52f",
+      "duration_ms": 243000,
+      "track_number": 4,
+      "album": {
+        "id": "44711571",
+        "name": "Sacred Hearts Club",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b3ef738402b3f8c395d3b3514b35a7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b3ef738402b3f8c395d3b3514b35a7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/34b3ef738402b3f8c395d3b3514b35a7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/384053091"
+      }
+    },
+    {
+      "id": "1269975712",
+      "name": "Lamb's Wool (with Poolside)",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/1/0/a41357744b3b64717ee4037d3b1e6aa4.mp3?hdnea=exp=1774859880~acl=/api/1/1/a/4/1/0/a41357744b3b64717ee4037d3b1e6aa4.mp3*~data=user_id=0,application_id=42~hmac=bb93c1f2a46adab6de7e0d2fa482e76d7d568a63493610f312605f6d5ac4b1d0",
+      "duration_ms": 294000,
+      "track_number": 5,
+      "album": {
+        "id": "213525242",
+        "name": "Lamb's Wool (with Poolside)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3da26ff10bb48b9ce2f4e230f0ce401b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3da26ff10bb48b9ce2f4e230f0ce401b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3da26ff10bb48b9ce2f4e230f0ce401b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1269975712"
+      }
+    },
+    {
+      "id": "75802459",
+      "name": "Coming of Age",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/c/0/cdc9a2542a7729fd3212fb19c85a5a39.mp3?hdnea=exp=1774859880~acl=/api/1/1/c/d/c/0/cdc9a2542a7729fd3212fb19c85a5a39.mp3*~data=user_id=0,application_id=42~hmac=9816fc89db14b235221545d646081a5801d5f2bef3ba0ac13810e4bb6024f3ea",
+      "duration_ms": 280000,
+      "track_number": 6,
+      "album": {
+        "id": "7509946",
+        "name": "Supermodel",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e5e4bdc809dbdcd2be4a7ccbc0215b4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e5e4bdc809dbdcd2be4a7ccbc0215b4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e5e4bdc809dbdcd2be4a7ccbc0215b4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75802459"
+      }
+    },
+    {
+      "id": "15546832",
+      "name": "Don't Stop (Color on the Walls)",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/7/0/ba7501b99258324d15b760e61b53c884.mp3?hdnea=exp=1774859880~acl=/api/1/1/b/a/7/0/ba7501b99258324d15b760e61b53c884.mp3*~data=user_id=0,application_id=42~hmac=89890f2db9d3b1a2a263291815acbac0dc5f620fd0c0d058b02fa89902761abf",
+      "duration_ms": 176000,
+      "track_number": 7,
+      "album": {
+        "id": "1437015",
+        "name": "Torches",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15546832"
+      }
+    },
+    {
+      "id": "696429242",
+      "name": "Imagination",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/2/0/7d2846f29d2ae3a7a2c6a3595e09a7a8.mp3?hdnea=exp=1774859880~acl=/api/1/1/7/d/2/0/7d2846f29d2ae3a7a2c6a3595e09a7a8.mp3*~data=user_id=0,application_id=42~hmac=4833182e4e78ed14d29978383cc647890351308758018393df38e38dbf462f03",
+      "duration_ms": 256000,
+      "track_number": 8,
+      "album": {
+        "id": "100316762",
+        "name": "Imagination",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d276dbeda6dc4a61060031f8953c2d8b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d276dbeda6dc4a61060031f8953c2d8b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d276dbeda6dc4a61060031f8953c2d8b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/696429242"
+      }
+    },
+    {
+      "id": "15546836",
+      "name": "Life on the Nickel",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/6/0/646273dc60f4eb19f4eeb35cf74dfd8b.mp3?hdnea=exp=1774859880~acl=/api/1/1/6/4/6/0/646273dc60f4eb19f4eeb35cf74dfd8b.mp3*~data=user_id=0,application_id=42~hmac=7b3bc6cacd96f117be3eb04183d948b439fb5bbdf7327b1726ed2366bdbc4f65",
+      "duration_ms": 216000,
+      "track_number": 9,
+      "album": {
+        "id": "1437015",
+        "name": "Torches",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fc73624907c40d356ca26152754cef43/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/15546836"
+      }
+    },
+    {
+      "id": "75802460",
+      "name": "Nevermind",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/9/2/0/a92b29785550831094ac9bc2b8f4d7eb.mp3?hdnea=exp=1774859880~acl=/api/1/1/a/9/2/0/a92b29785550831094ac9bc2b8f4d7eb.mp3*~data=user_id=0,application_id=42~hmac=eaa3c18f29362597eddce7c84d15affb80c7528f559b53d239481aff3da1e5fe",
+      "duration_ms": 317000,
+      "track_number": 10,
+      "album": {
+        "id": "7509946",
+        "name": "Supermodel",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e5e4bdc809dbdcd2be4a7ccbc0215b4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e5e4bdc809dbdcd2be4a7ccbc0215b4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e5e4bdc809dbdcd2be4a7ccbc0215b4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "417037",
+          "name": "Foster the People"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/75802460"
+      }
+    }
+  ]
+}

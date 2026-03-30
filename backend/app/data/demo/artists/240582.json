@@ -1,0 +1,32 @@
+{
+  "id": "240582",
+  "name": "SEVENTEEN",
+  "popularity": 62,
+  "followers": {
+    "total": 627622
+  },
+  "genres": [
+    "k-pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f24702900c1454ea23c573a3eed5b149/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f24702900c1454ea23c573a3eed5b149/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/f24702900c1454ea23c573a3eed5b149/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/240582"
+  },
+  "uri": "deezer:artist:240582"
+}

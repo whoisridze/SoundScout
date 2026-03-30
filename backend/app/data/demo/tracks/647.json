@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3788156052",
+      "name": "Paranoid (Remastered 2009)",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/a/0/2fae3cdf8b3dddd5cc6487572b160277.mp3?hdnea=exp=1774860025~acl=/api/1/1/2/f/a/0/2fae3cdf8b3dddd5cc6487572b160277.mp3*~data=user_id=0,application_id=42~hmac=a88b21c5c428650030b989a63d24a5315d2c19c40a7ab80b9fb15c542ff18edd",
+      "duration_ms": 167000,
+      "track_number": 1,
+      "album": {
+        "id": "902085772",
+        "name": "Paranoid",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788156052"
+      }
+    },
+    {
+      "id": "3788156072",
+      "name": "Iron Man (Remastered 2009)",
+      "popularity": 80,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/c/0/c4cd297f98da3085a01d0a9da110043e.mp3?hdnea=exp=1774860025~acl=/api/1/1/c/4/c/0/c4cd297f98da3085a01d0a9da110043e.mp3*~data=user_id=0,application_id=42~hmac=ef192b899d3c22136cda6a87e5ba70acd4dc7f7b0ec38705337bd55e51b3cedf",
+      "duration_ms": 354000,
+      "track_number": 2,
+      "album": {
+        "id": "902085772",
+        "name": "Paranoid",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788156072"
+      }
+    },
+    {
+      "id": "3788156042",
+      "name": "War Pigs (Remastered 2009)",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/7/0/e07b751cbb0384b7ae0b69c72b8ebd77.mp3?hdnea=exp=1774860025~acl=/api/1/1/e/0/7/0/e07b751cbb0384b7ae0b69c72b8ebd77.mp3*~data=user_id=0,application_id=42~hmac=1647bb2bbc2fb49aeffae47217bb819cdc3be9c692f313d8cbfcd97d82ca3e6c",
+      "duration_ms": 475000,
+      "track_number": 3,
+      "album": {
+        "id": "902085772",
+        "name": "Paranoid",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788156042"
+      }
+    },
+    {
+      "id": "3788156062",
+      "name": "Planet Caravan (Remastered 2009)",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/0/c/0/00c825eebb23535c41b6a8b347dd0c36.mp3?hdnea=exp=1774860025~acl=/api/1/1/0/0/c/0/00c825eebb23535c41b6a8b347dd0c36.mp3*~data=user_id=0,application_id=42~hmac=fb75b5c21d17b1b7656c33c1902fcee6711a52c3ca9d0d6fbbd01b998372ec67",
+      "duration_ms": 269000,
+      "track_number": 4,
+      "album": {
+        "id": "902085772",
+        "name": "Paranoid",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb3b4d0378c91d2fca5204bac48f5e71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788156062"
+      }
+    },
+    {
+      "id": "4191990",
+      "name": "N.I.B. (Remastered 2009)",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/7/0/0c7c35bf10bacb6cf1675e3f078e9c93.mp3?hdnea=exp=1774860025~acl=/api/1/1/0/c/7/0/0c7c35bf10bacb6cf1675e3f078e9c93.mp3*~data=user_id=0,application_id=42~hmac=c1c425b2d1517705b37caf1fc99a0e1e6b32e9506ee2415df322d1a8e2d236c4",
+      "duration_ms": 364000,
+      "track_number": 5,
+      "album": {
+        "id": "390725",
+        "name": "Greatest Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd2d8f8c3e52979d60aab4579461d0e4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd2d8f8c3e52979d60aab4579461d0e4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd2d8f8c3e52979d60aab4579461d0e4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4191990"
+      }
+    },
+    {
+      "id": "67929404",
+      "name": "God Is Dead?",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/1/0/1b1c3a1b022d74d8901e931410176b74.mp3?hdnea=exp=1774860025~acl=/api/1/1/1/b/1/0/1b1c3a1b022d74d8901e931410176b74.mp3*~data=user_id=0,application_id=42~hmac=c5049728d9b93575a1111b71464bfb9c9583cdb9184113314798ec99223946a0",
+      "duration_ms": 532000,
+      "track_number": 6,
+      "album": {
+        "id": "6651515",
+        "name": "13 (Deluxe Version)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83daeaa3ef0e564c26816d920793f8c9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/67929404"
+      }
+    },
+    {
+      "id": "3783164742",
+      "name": "Heaven and Hell",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/6/0/b46c62d2d2de456f7605ca26807be28c.mp3?hdnea=exp=1774860025~acl=/api/1/1/b/4/6/0/b46c62d2d2de456f7605ca26807be28c.mp3*~data=user_id=0,application_id=42~hmac=f11635573e25efaf5c8154f021a12bd9fed261ae4d03eb4b84d9cb45ee560670",
+      "duration_ms": 417000,
+      "track_number": 7,
+      "album": {
+        "id": "900596582",
+        "name": "Heaven & Hell",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91552607491a3e136a0449a645b59fe5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91552607491a3e136a0449a645b59fe5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91552607491a3e136a0449a645b59fe5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3783164742"
+      }
+    },
+    {
+      "id": "3783164452",
+      "name": "Sweet Leaf (Remastered 2009)",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/a/0/b6ac079cd2ab5c9e5a87d4833ddc5def.mp3?hdnea=exp=1774860025~acl=/api/1/1/b/6/a/0/b6ac079cd2ab5c9e5a87d4833ddc5def.mp3*~data=user_id=0,application_id=42~hmac=e4e9c28dc68be6fc8a97f4df473828dfe30cc106f03dc894226444bef60c7358",
+      "duration_ms": 302000,
+      "track_number": 8,
+      "album": {
+        "id": "900596522",
+        "name": "Master of Reality",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b5a1f83fe2fc286ff10c9c93a4f010b2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b5a1f83fe2fc286ff10c9c93a4f010b2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b5a1f83fe2fc286ff10c9c93a4f010b2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3783164452"
+      }
+    },
+    {
+      "id": "3761267832",
+      "name": "Headless Cross (Remastered 2024)",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/3/0/943bdf15a2bff4a5dfb390aa733d26bb.mp3?hdnea=exp=1774860025~acl=/api/1/1/9/4/3/0/943bdf15a2bff4a5dfb390aa733d26bb.mp3*~data=user_id=0,application_id=42~hmac=7b51b4fbb0696a354966825a672ffd04da9ea171d1fdbc6fa4bdbb32305dd228",
+      "duration_ms": 389000,
+      "track_number": 9,
+      "album": {
+        "id": "892843642",
+        "name": "Headless Cross (Remastered 2024)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/49f880452553ed37643a2ecc6ffdce7a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/49f880452553ed37643a2ecc6ffdce7a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/49f880452553ed37643a2ecc6ffdce7a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3761267832"
+      }
+    },
+    {
+      "id": "3788269322",
+      "name": "Heaven and Hell",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/8/0/d98fde85ba44e2afed8b04ad4e44bac0.mp3?hdnea=exp=1774860025~acl=/api/1/1/d/9/8/0/d98fde85ba44e2afed8b04ad4e44bac0.mp3*~data=user_id=0,application_id=42~hmac=d914386fb217cb452b34f61df7516c4bb2571a9127371f8af5e2a776bf689444",
+      "duration_ms": 417000,
+      "track_number": 10,
+      "album": {
+        "id": "902118642",
+        "name": "Heaven and Hell (Remastered and Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3add69b67fbe4b09f6b30e7b6259305/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3add69b67fbe4b09f6b30e7b6259305/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d3add69b67fbe4b09f6b30e7b6259305/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "647",
+          "name": "Black Sabbath"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3788269322"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1380184",
+  "name": "Casiopea",
+  "popularity": 1,
+  "followers": {
+    "total": 15396
+  },
+  "genres": [
+    "jazz fusion"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/bf31874c67f448d151fa2f727dfba534/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/bf31874c67f448d151fa2f727dfba534/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/bf31874c67f448d151fa2f727dfba534/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/1380184"
+  },
+  "uri": "deezer:artist:1380184"
+}

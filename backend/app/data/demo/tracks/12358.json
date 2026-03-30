@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3720034542",
+      "name": "Afternoon",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/b/0/c6be883217f672cf2981dd63be897fc4.mp3?hdnea=exp=1774859910~acl=/api/1/1/c/6/b/0/c6be883217f672cf2981dd63be897fc4.mp3*~data=user_id=0,application_id=42~hmac=415179a4fc1543b5eb502331a1eb454c0f63be3ec9e46dc1ac9e85b9df60ab3d",
+      "duration_ms": 283000,
+      "track_number": 1,
+      "album": {
+        "id": "878611302",
+        "name": "Speaking of Now",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09fb3ab0be10a6fd1e93c7a99236e599/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09fb3ab0be10a6fd1e93c7a99236e599/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09fb3ab0be10a6fd1e93c7a99236e599/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3720034542"
+      }
+    },
+    {
+      "id": "3720034472",
+      "name": "Another Life",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/2/0/82275fda02d4cb50049f07894580b287.mp3?hdnea=exp=1774859910~acl=/api/1/1/8/2/2/0/82275fda02d4cb50049f07894580b287.mp3*~data=user_id=0,application_id=42~hmac=df43e3802aafcf22899a9048ffc71f1044cd51b2b6fe9b51bb457aff75c60f2b",
+      "duration_ms": 428000,
+      "track_number": 2,
+      "album": {
+        "id": "878611302",
+        "name": "Speaking of Now",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09fb3ab0be10a6fd1e93c7a99236e599/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09fb3ab0be10a6fd1e93c7a99236e599/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09fb3ab0be10a6fd1e93c7a99236e599/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3720034472"
+      }
+    },
+    {
+      "id": "3720034452",
+      "name": "As It Is",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/0/0/b3071eda9e816cd563827032ecfa576d.mp3?hdnea=exp=1774859910~acl=/api/1/1/b/3/0/0/b3071eda9e816cd563827032ecfa576d.mp3*~data=user_id=0,application_id=42~hmac=fe05f97d520c0f43136fb0a542c3e5e24694460cfa260b8b457d9ad83fa08fb0",
+      "duration_ms": 460000,
+      "track_number": 3,
+      "album": {
+        "id": "878611302",
+        "name": "Speaking of Now",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09fb3ab0be10a6fd1e93c7a99236e599/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09fb3ab0be10a6fd1e93c7a99236e599/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09fb3ab0be10a6fd1e93c7a99236e599/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3720034452"
+      }
+    },
+    {
+      "id": "3677053782",
+      "name": "So Far, So Good",
+      "popularity": 35,
+      "preview_url": "",
+      "duration_ms": 346000,
+      "track_number": 4,
+      "album": {
+        "id": "863633872",
+        "name": "Side-Eye III+",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8400da2816d16029b227c8417d99b50/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8400da2816d16029b227c8417d99b50/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8400da2816d16029b227c8417d99b50/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3677053782"
+      }
+    },
+    {
+      "id": "4125689",
+      "name": "Phase Dance",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/2/0/7b27d9f9273549366fb52a54dcd7b941.mp3?hdnea=exp=1774859910~acl=/api/1/1/7/b/2/0/7b27d9f9273549366fb52a54dcd7b941.mp3*~data=user_id=0,application_id=42~hmac=9deae803962bd3f4bfdf427ce2ea6c15ae645ab8bb5043b790b32dd1eefe7aad",
+      "duration_ms": 498000,
+      "track_number": 5,
+      "album": {
+        "id": "384326",
+        "name": "Pat Metheny Group",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bbcbb3bcfa1bb3d8dbce3a63fbe9f703/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bbcbb3bcfa1bb3d8dbce3a63fbe9f703/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bbcbb3bcfa1bb3d8dbce3a63fbe9f703/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4125689"
+      }
+    },
+    {
+      "id": "3677053712",
+      "name": "In On It",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/6/0/316cbb000478d521b6cdb2cd4b19e61f.mp3?hdnea=exp=1774859910~acl=/api/1/1/3/1/6/0/316cbb000478d521b6cdb2cd4b19e61f.mp3*~data=user_id=0,application_id=42~hmac=b2d8181ac9cbc3e84fd8d2d90669465c4b6aff9ab5e7229a0631cc1ab09a1ff9",
+      "duration_ms": 476000,
+      "track_number": 6,
+      "album": {
+        "id": "863633872",
+        "name": "Side-Eye III+",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8400da2816d16029b227c8417d99b50/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8400da2816d16029b227c8417d99b50/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8400da2816d16029b227c8417d99b50/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3677053712"
+      }
+    },
+    {
+      "id": "3628383872",
+      "name": "Something to Remind You",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/8/0/958fcf208f391b405ef4bd02844c7310.mp3?hdnea=exp=1774859910~acl=/api/1/1/9/5/8/0/958fcf208f391b405ef4bd02844c7310.mp3*~data=user_id=0,application_id=42~hmac=c71e122e7ec65e74bd4d3a786ae399adf8a2ef95c11073ddb023c5a5aff1afa6",
+      "duration_ms": 423000,
+      "track_number": 7,
+      "album": {
+        "id": "846933382",
+        "name": "We Live Here",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd08197f533857a47bedfd0013e54e16/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd08197f533857a47bedfd0013e54e16/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd08197f533857a47bedfd0013e54e16/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3628383872"
+      }
+    },
+    {
+      "id": "3677053722",
+      "name": "Don't Look Down",
+      "popularity": 39,
+      "preview_url": "",
+      "duration_ms": 676000,
+      "track_number": 8,
+      "album": {
+        "id": "863633872",
+        "name": "Side-Eye III+",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8400da2816d16029b227c8417d99b50/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8400da2816d16029b227c8417d99b50/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e8400da2816d16029b227c8417d99b50/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3677053722"
+      }
+    },
+    {
+      "id": "921402",
+      "name": "Cinema Paradiso [Love Theme]",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/0/0/32068eed7ae5dea5c002ad345da443a9.mp3?hdnea=exp=1774859910~acl=/api/1/1/3/2/0/0/32068eed7ae5dea5c002ad345da443a9.mp3*~data=user_id=0,application_id=42~hmac=fe18a6e9388bc765728e5687517c842279543b8022abb1de8e09d5bebd426037",
+      "duration_ms": 216000,
+      "track_number": 9,
+      "album": {
+        "id": "103740",
+        "name": "Beyond The Missouri Sky",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03de7e1a58b73df75c91563db717b454/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03de7e1a58b73df75c91563db717b454/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03de7e1a58b73df75c91563db717b454/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/921402"
+      }
+    },
+    {
+      "id": "3628531042",
+      "name": "Minuano (Six Eight)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/9/0/7d90e5db30a3a235f10f936593ecba9e.mp3?hdnea=exp=1774859910~acl=/api/1/1/7/d/9/0/7d90e5db30a3a235f10f936593ecba9e.mp3*~data=user_id=0,application_id=42~hmac=2157e52de17fd3dc69770fc266f1f5b06589b9d1939cb462bfcd32037b031ac9",
+      "duration_ms": 566000,
+      "track_number": 10,
+      "album": {
+        "id": "846984642",
+        "name": "Still Life (Talking)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a0439b32cecac0b698dad536e4bca7cb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a0439b32cecac0b698dad536e4bca7cb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a0439b32cecac0b698dad536e4bca7cb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12358",
+          "name": "Pat Metheny"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3628531042"
+      }
+    }
+  ]
+}

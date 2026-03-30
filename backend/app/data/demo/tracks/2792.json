@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3218898811",
+      "name": "Tamo Bien",
+      "popularity": 87,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/a/0/c1ab956efdc954d5acbecedb4fbea33b.mp3?hdnea=exp=1774859942~acl=/api/1/1/c/1/a/0/c1ab956efdc954d5acbecedb4fbea33b.mp3*~data=user_id=0,application_id=42~hmac=214db20c2e0316111dbad7387c26cbc7030b080480cafa5e9368985dfad19cad",
+      "duration_ms": 186000,
+      "track_number": 1,
+      "album": {
+        "id": "708401121",
+        "name": "Tamo Bien",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e90d1a8ba3dbef97427dadd79134b25/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e90d1a8ba3dbef97427dadd79134b25/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0e90d1a8ba3dbef97427dadd79134b25/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3218898811"
+      }
+    },
+    {
+      "id": "765849012",
+      "name": "Bailando (Spanish Version)",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/3/0/0834e84c3c2f9e6ab92bd6200ce795d1.mp3?hdnea=exp=1774859942~acl=/api/1/1/0/8/3/0/0834e84c3c2f9e6ab92bd6200ce795d1.mp3*~data=user_id=0,application_id=42~hmac=e9efb47161d0eb330f767d29fc77e9694fe534d40ea487813fc215e07fb9e8db",
+      "duration_ms": 244000,
+      "track_number": 2,
+      "album": {
+        "id": "113019482",
+        "name": "Greatest Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/765849012"
+      }
+    },
+    {
+      "id": "931416",
+      "name": "Ring My Bells",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/4/0/534ba9e91859bff68f5faecc810456ad.mp3?hdnea=exp=1774859942~acl=/api/1/1/5/3/4/0/534ba9e91859bff68f5faecc810456ad.mp3*~data=user_id=0,application_id=42~hmac=92d0d100225ae950442ede09abcd25c0d804978accb2779ec86c5e35c810698c",
+      "duration_ms": 235000,
+      "track_number": 3,
+      "album": {
+        "id": "104809",
+        "name": "Insomniac",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92997f5d7137bbb3cbe10d5f40222917/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92997f5d7137bbb3cbe10d5f40222917/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/92997f5d7137bbb3cbe10d5f40222917/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/931416"
+      }
+    },
+    {
+      "id": "123103236",
+      "name": "DUELE EL CORAZON (feat. Wisin)",
+      "popularity": 84,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/1/0/d0174bf3be14df89124f59dd0f5ba529.mp3?hdnea=exp=1774859942~acl=/api/1/1/d/0/1/0/d0174bf3be14df89124f59dd0f5ba529.mp3*~data=user_id=0,application_id=42~hmac=7dcb2e510d080c0df7362dd0172943007493725076f96c0e780570b387211634",
+      "duration_ms": 200000,
+      "track_number": 4,
+      "album": {
+        "id": "12889906",
+        "name": "DUELE EL CORAZON (feat. Wisin)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da52a3f89aee0c921f2e4a8316c8567f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da52a3f89aee0c921f2e4a8316c8567f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da52a3f89aee0c921f2e4a8316c8567f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/123103236"
+      }
+    },
+    {
+      "id": "10202476",
+      "name": "Tonight (I'm Fuckin' You)",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/6/0/136ccfb35462a9b89b44a140a9c60809.mp3?hdnea=exp=1774859942~acl=/api/1/1/1/3/6/0/136ccfb35462a9b89b44a140a9c60809.mp3*~data=user_id=0,application_id=42~hmac=039839d90561ce659f52bd48127fa040b79069378057c4eef5e3ba54b2f12ce7",
+      "duration_ms": 234000,
+      "track_number": 5,
+      "album": {
+        "id": "932823",
+        "name": "Euphoria",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/335464b3bab374dbc53bfe2a05f22a8f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/335464b3bab374dbc53bfe2a05f22a8f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/335464b3bab374dbc53bfe2a05f22a8f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10202476"
+      }
+    },
+    {
+      "id": "142748736",
+      "name": "SUBEME LA RADIO",
+      "popularity": 83,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/d/0/45d2096b221ae8d288d87882d8c1a1a8.mp3?hdnea=exp=1774859942~acl=/api/1/1/4/5/d/0/45d2096b221ae8d288d87882d8c1a1a8.mp3*~data=user_id=0,application_id=42~hmac=7169afba478ef1eae1358bed8b84cdb6bac55ccaa463985ccf60795dd7e125b3",
+      "duration_ms": 207000,
+      "track_number": 6,
+      "album": {
+        "id": "15444116",
+        "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da52a3f89aee0c921f2e4a8316c8567f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da52a3f89aee0c921f2e4a8316c8567f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da52a3f89aee0c921f2e4a8316c8567f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/142748736"
+      }
+    },
+    {
+      "id": "765849102",
+      "name": "Tired Of Being Sorry",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/3/0/143f40e5d20fe2ca968872e2ed4bbbb8.mp3?hdnea=exp=1774859942~acl=/api/1/1/1/4/3/0/143f40e5d20fe2ca968872e2ed4bbbb8.mp3*~data=user_id=0,application_id=42~hmac=cab52eb01afbfe1ec52ea90a5cbb4ab66f0b0a73076a53ffc5dc30a3b3ade3ce",
+      "duration_ms": 241000,
+      "track_number": 7,
+      "album": {
+        "id": "113019482",
+        "name": "Greatest Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/765849102"
+      }
+    },
+    {
+      "id": "765849122",
+      "name": "Could I Have This Kiss Forever",
+      "popularity": 54,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/4/0/404658d7a81e798c1835d70eff415930.mp3?hdnea=exp=1774859942~acl=/api/1/1/4/0/4/0/404658d7a81e798c1835d70eff415930.mp3*~data=user_id=0,application_id=42~hmac=7d7ded0d2bc1e47412bc5e4fc7a84c998873962b1068304014129d5ec9709cbf",
+      "duration_ms": 235000,
+      "track_number": 8,
+      "album": {
+        "id": "113019482",
+        "name": "Greatest Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d279a6951118f211a9248ce49b95751/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/765849122"
+      }
+    },
+    {
+      "id": "10202477",
+      "name": "I Like It",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/5/0/515c1b8bdfdff321b06fc9f7b91d71db.mp3?hdnea=exp=1774859942~acl=/api/1/1/5/1/5/0/515c1b8bdfdff321b06fc9f7b91d71db.mp3*~data=user_id=0,application_id=42~hmac=052946a1337baf685af136a45ac24046a4b7aaf23f69d445b3ea92382658139b",
+      "duration_ms": 232000,
+      "track_number": 9,
+      "album": {
+        "id": "932823",
+        "name": "Euphoria",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/335464b3bab374dbc53bfe2a05f22a8f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/335464b3bab374dbc53bfe2a05f22a8f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/335464b3bab374dbc53bfe2a05f22a8f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/10202477"
+      }
+    },
+    {
+      "id": "2279352",
+      "name": "Bailamos (From \"Wild Wild West\")",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/a/0/24a54b47cb3b64c5c5a28070628c5b45.mp3?hdnea=exp=1774859942~acl=/api/1/1/2/4/a/0/24a54b47cb3b64c5c5a28070628c5b45.mp3*~data=user_id=0,application_id=42~hmac=b95486db4672f576d63b9895a9675356779c30e5521bb142d12bac8edd62fc6c",
+      "duration_ms": 212000,
+      "track_number": 10,
+      "album": {
+        "id": "227580",
+        "name": "Enrique",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/283dbe1ebd46cc2892f75238aac2db71/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/283dbe1ebd46cc2892f75238aac2db71/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/283dbe1ebd46cc2892f75238aac2db71/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2792",
+          "name": "Enrique Iglesias"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2279352"
+      }
+    }
+  ]
+}

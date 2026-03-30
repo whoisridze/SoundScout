@@ -1,0 +1,32 @@
+{
+  "id": "3249",
+  "name": "Keith Urban",
+  "popularity": 39,
+  "followers": {
+    "total": 396287
+  },
+  "genres": [
+    "country"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8b0262e628aa7b13e65018358c9327b2/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8b0262e628aa7b13e65018358c9327b2/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/8b0262e628aa7b13e65018358c9327b2/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/3249"
+  },
+  "uri": "deezer:artist:3249"
+}

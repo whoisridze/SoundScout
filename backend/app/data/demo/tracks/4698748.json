@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3916835521",
+      "name": "MARATHON",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/2/0/242d8550cc58128f6d1033e02c3db67c.mp3?hdnea=exp=1774859940~acl=/api/1/1/2/4/2/0/242d8550cc58128f6d1033e02c3db67c.mp3*~data=user_id=0,application_id=42~hmac=1a1452b0e037e9f69f5d59cbf67b4a762066f6a7b937b3c8cf206520b5e0784c",
+      "duration_ms": 169000,
+      "track_number": 1,
+      "album": {
+        "id": "945684961",
+        "name": "MARATHON",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f181ac0e705f0066254e01174e8e9165/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f181ac0e705f0066254e01174e8e9165/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f181ac0e705f0066254e01174e8e9165/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3916835521"
+      }
+    },
+    {
+      "id": "77861338",
+      "name": "Shower",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/3/0/3e3f12c594327e1ea048f1380af0a9a3.mp3?hdnea=exp=1774859940~acl=/api/1/1/3/e/3/0/3e3f12c594327e1ea048f1380af0a9a3.mp3*~data=user_id=0,application_id=42~hmac=65f15bd4b0413fd5d3412061a34e67671d53630adfab23f0dead9996117b77d5",
+      "duration_ms": 205000,
+      "track_number": 2,
+      "album": {
+        "id": "7738427",
+        "name": "Shower",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c646208f455371fc46c45078a414fc7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c646208f455371fc46c45078a414fc7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c646208f455371fc46c45078a414fc7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/77861338"
+      }
+    },
+    {
+      "id": "1345231832",
+      "name": "Ram Pam Pam",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/4/0/93405ca12324caabd64313d2dc9dff01.mp3?hdnea=exp=1774859940~acl=/api/1/1/9/3/4/0/93405ca12324caabd64313d2dc9dff01.mp3*~data=user_id=0,application_id=42~hmac=daf98e644cf07ae2b004344cd34e93eb90ffb3fe8e9d4732d018df162fa2b1c3",
+      "duration_ms": 200000,
+      "track_number": 3,
+      "album": {
+        "id": "223252242",
+        "name": "Ram Pam Pam",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b5faf480ed208c9f94628794b1f4f17/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b5faf480ed208c9f94628794b1f4f17/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b5faf480ed208c9f94628794b1f4f17/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1345231832"
+      }
+    },
+    {
+      "id": "2517745041",
+      "name": "Amigos",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/3/0/b73527a969bae4617fa976d1de0baa15.mp3?hdnea=exp=1774859940~acl=/api/1/1/b/7/3/0/b73527a969bae4617fa976d1de0baa15.mp3*~data=user_id=0,application_id=42~hmac=1bf268a105d20829022ce4bca6d8012127a87e9abeabb99f9c031b5256d33e66",
+      "duration_ms": 151000,
+      "track_number": 4,
+      "album": {
+        "id": "505686041",
+        "name": "Amigos",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a3ae2313832394576ca9f5e114d29f7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a3ae2313832394576ca9f5e114d29f7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9a3ae2313832394576ca9f5e114d29f7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2517745041"
+      }
+    },
+    {
+      "id": "776076902",
+      "name": "Mayores",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/c/0/74c486c688883a179a5718b89b0fe4ce.mp3?hdnea=exp=1774859940~acl=/api/1/1/7/4/c/0/74c486c688883a179a5718b89b0fe4ce.mp3*~data=user_id=0,application_id=42~hmac=5867bdc4323476182f1c74bd7de617799a2281475cb690055257e73afc04a94d",
+      "duration_ms": 202000,
+      "track_number": 5,
+      "album": {
+        "id": "115000722",
+        "name": "MALA SANTA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39fe1c12b2803537b35eec48c9bf5d4e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39fe1c12b2803537b35eec48c9bf5d4e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/39fe1c12b2803537b35eec48c9bf5d4e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/776076902"
+      }
+    },
+    {
+      "id": "488242202",
+      "name": "Sin Pijama",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/8/0/7482592604e70f4bf3a9fec2881d21dc.mp3?hdnea=exp=1774859940~acl=/api/1/1/7/4/8/0/7482592604e70f4bf3a9fec2881d21dc.mp3*~data=user_id=0,application_id=42~hmac=12523d8060a7acf7933dba34551f11837685555a4c6436f9423b579c02b71c8f",
+      "duration_ms": 187000,
+      "track_number": 6,
+      "album": {
+        "id": "61617252",
+        "name": "Sin Pijama",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a15a7915a0d81e6a9dd07897f60c7157/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a15a7915a0d81e6a9dd07897f60c7157/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a15a7915a0d81e6a9dd07897f60c7157/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/488242202"
+      }
+    },
+    {
+      "id": "2786000282",
+      "name": "TONIGHT (Bad Boys: Ride Or Die) (feat. Becky G)",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/7/0/4471ef7ed5cde63bbb93553bf52bd3e0.mp3?hdnea=exp=1774859940~acl=/api/1/1/4/4/7/0/4471ef7ed5cde63bbb93553bf52bd3e0.mp3*~data=user_id=0,application_id=42~hmac=b1667305ab8350221f2623a55580669c1e9b0ac71f707fd1039a43eb88171beb",
+      "duration_ms": 218000,
+      "track_number": 7,
+      "album": {
+        "id": "582967352",
+        "name": "TONIGHT (Bad Boys: Ride Or Die) (feat. Becky G)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b0d443510f8ca62dbebffccdb03e132/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b0d443510f8ca62dbebffccdb03e132/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9b0d443510f8ca62dbebffccdb03e132/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2786000282"
+      }
+    },
+    {
+      "id": "1564271992",
+      "name": "Bella Ciao",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/b/8/0/ab8704b2f5a88fbe2ab190075b8b0a82.mp3?hdnea=exp=1774859940~acl=/api/1/1/a/b/8/0/ab8704b2f5a88fbe2ab190075b8b0a82.mp3*~data=user_id=0,application_id=42~hmac=fff8c5f4416ad8a1df2e57e0e908e29f166272b745b9a109c13ed92853464a54",
+      "duration_ms": 160000,
+      "track_number": 8,
+      "album": {
+        "id": "274997752",
+        "name": "Bella Ciao",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aefb710f666f85c925cab2a2c1db8523/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aefb710f666f85c925cab2a2c1db8523/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aefb710f666f85c925cab2a2c1db8523/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1564271992"
+      }
+    },
+    {
+      "id": "1384472652",
+      "name": "FULANITO",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/5/0/d95cf0ad6adb76105ff58776f190386c.mp3?hdnea=exp=1774859940~acl=/api/1/1/d/9/5/0/d95cf0ad6adb76105ff58776f190386c.mp3*~data=user_id=0,application_id=42~hmac=a5003b8e6b444de67973f2f5dca9358d4fe3d26b59eb7dba66dc954b821ee822",
+      "duration_ms": 157000,
+      "track_number": 9,
+      "album": {
+        "id": "233042282",
+        "name": "FULANITO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/023a2960ded61c28e3d8681ec66ce40d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/023a2960ded61c28e3d8681ec66ce40d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/023a2960ded61c28e3d8681ec66ce40d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1384472652"
+      }
+    },
+    {
+      "id": "58390561",
+      "name": "Problem (The Monster Remix) (feat. will.i.am)",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/9/0/459da012d7130678abea85a2239f0c4d.mp3?hdnea=exp=1774859940~acl=/api/1/1/4/5/9/0/459da012d7130678abea85a2239f0c4d.mp3*~data=user_id=0,application_id=42~hmac=6ce93195b80a37710b1974d7e659820d9270e5153a9653b5d68376e5a47d007f",
+      "duration_ms": 201000,
+      "track_number": 10,
+      "album": {
+        "id": "5707331",
+        "name": "Problem (The Monster Remix) (feat. will.i.am)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21827a0fa589b3d7993540c5d6273d9d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21827a0fa589b3d7993540c5d6273d9d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/21827a0fa589b3d7993540c5d6273d9d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4698748",
+          "name": "Becky G"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/58390561"
+      }
+    }
+  ]
+}

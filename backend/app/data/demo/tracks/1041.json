@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "105292190",
+      "name": "Lorelei",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/a/0/aaa5606cc605d574251770b50ac2a7bb.mp3?hdnea=exp=1774859886~acl=/api/1/1/a/a/a/0/aaa5606cc605d574251770b50ac2a7bb.mp3*~data=user_id=0,application_id=42~hmac=f6d2b9d78ab6bc2f71320662a1fd1117158f025d197ae123c3e1decf1fdb73c4",
+      "duration_ms": 223000,
+      "track_number": 1,
+      "album": {
+        "id": "10966656",
+        "name": "Treasure",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2012b95ece144e2354a6acfed86a8dd7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2012b95ece144e2354a6acfed86a8dd7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2012b95ece144e2354a6acfed86a8dd7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/105292190"
+      }
+    },
+    {
+      "id": "105292188",
+      "name": "Ivo",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/f/0/7cf6dc1ed527a95022d999def148d0d9.mp3?hdnea=exp=1774859886~acl=/api/1/1/7/c/f/0/7cf6dc1ed527a95022d999def148d0d9.mp3*~data=user_id=0,application_id=42~hmac=24574e39d3e4b91e6ee7e085bce86c021fb02fa2fcf25b30ff107838b23695bf",
+      "duration_ms": 233000,
+      "track_number": 2,
+      "album": {
+        "id": "10966656",
+        "name": "Treasure",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2012b95ece144e2354a6acfed86a8dd7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2012b95ece144e2354a6acfed86a8dd7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2012b95ece144e2354a6acfed86a8dd7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/105292188"
+      }
+    },
+    {
+      "id": "951806",
+      "name": "She Will Destroy You",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/9/0/6392c883c2d67c0e47c9ed1dfa0b73c8.mp3?hdnea=exp=1774859886~acl=/api/1/1/6/3/9/0/6392c883c2d67c0e47c9ed1dfa0b73c8.mp3*~data=user_id=0,application_id=42~hmac=c1ece4aa2f44d826870a8044b3835ae1c54686ac6892dc042cfcddb3de8dc5a0",
+      "duration_ms": 257000,
+      "track_number": 3,
+      "album": {
+        "id": "107083",
+        "name": "The Moon and the Melodies",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dd28f59a8334d056452a671a3bc20a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dd28f59a8334d056452a671a3bc20a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dd28f59a8334d056452a671a3bc20a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/951806"
+      }
+    },
+    {
+      "id": "942505",
+      "name": "Heaven or Las Vegas",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/0/0/e30f992663504879c2a9b557927be578.mp3?hdnea=exp=1774859886~acl=/api/1/1/e/3/0/0/e30f992663504879c2a9b557927be578.mp3*~data=user_id=0,application_id=42~hmac=a79c836f7e259da1d6f58a5318a08287caa0cf708609f4aeba989fed11f0ab90",
+      "duration_ms": 298000,
+      "track_number": 4,
+      "album": {
+        "id": "106054",
+        "name": "Heaven or Las Vegas",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be62b1479e0baf17d8f9beca911ee8cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be62b1479e0baf17d8f9beca911ee8cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be62b1479e0baf17d8f9beca911ee8cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/942505"
+      }
+    },
+    {
+      "id": "942518",
+      "name": "Frou-frou Foxes in Midsummer Fires",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/7/0/877092a70c27ad3a61ed6365b0493300.mp3?hdnea=exp=1774859886~acl=/api/1/1/8/7/7/0/877092a70c27ad3a61ed6365b0493300.mp3*~data=user_id=0,application_id=42~hmac=3a36dc3f491bbfb41113c0fde7bce718fbd356981149308050d67e5b0af6cd97",
+      "duration_ms": 338000,
+      "track_number": 5,
+      "album": {
+        "id": "106054",
+        "name": "Heaven or Las Vegas",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be62b1479e0baf17d8f9beca911ee8cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be62b1479e0baf17d8f9beca911ee8cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be62b1479e0baf17d8f9beca911ee8cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/942518"
+      }
+    },
+    {
+      "id": "948638",
+      "name": "Cico Buff",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/1/0/721a75b47f066fc2220671d0ffcbe0f8.mp3?hdnea=exp=1774859886~acl=/api/1/1/7/2/1/0/721a75b47f066fc2220671d0ffcbe0f8.mp3*~data=user_id=0,application_id=42~hmac=ea75e18dece9116ecbaa3f162b3f43c872f7c57cb3a1c96d337ece950115df0f",
+      "duration_ms": 226000,
+      "track_number": 6,
+      "album": {
+        "id": "106730",
+        "name": "Blue Bell Knoll",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7c6bb18c40a84d85ad1a6a49bceb656/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7c6bb18c40a84d85ad1a6a49bceb656/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c7c6bb18c40a84d85ad1a6a49bceb656/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/948638"
+      }
+    },
+    {
+      "id": "942495",
+      "name": "Cherry-coloured Funk",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/c/0/f3cdbf612dd146cff3036f7a8aef6265.mp3?hdnea=exp=1774859886~acl=/api/1/1/f/3/c/0/f3cdbf612dd146cff3036f7a8aef6265.mp3*~data=user_id=0,application_id=42~hmac=f1e7abae8472e85c037e599943262cb50b76cbaa2995308171936df6a347759c",
+      "duration_ms": 192000,
+      "track_number": 7,
+      "album": {
+        "id": "106054",
+        "name": "Heaven or Las Vegas",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be62b1479e0baf17d8f9beca911ee8cd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be62b1479e0baf17d8f9beca911ee8cd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be62b1479e0baf17d8f9beca911ee8cd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/942495"
+      }
+    },
+    {
+      "id": "105292194",
+      "name": "Persephone",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/6/0/fa64ee3058f6be79940d28a742cd8aaa.mp3?hdnea=exp=1774859886~acl=/api/1/1/f/a/6/0/fa64ee3058f6be79940d28a742cd8aaa.mp3*~data=user_id=0,application_id=42~hmac=10ea07d0d94ecc63cf3c5f76e383b67f372a37e31a0c9c328787a92b52348acb",
+      "duration_ms": 260000,
+      "track_number": 8,
+      "album": {
+        "id": "10966656",
+        "name": "Treasure",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2012b95ece144e2354a6acfed86a8dd7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2012b95ece144e2354a6acfed86a8dd7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2012b95ece144e2354a6acfed86a8dd7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/105292194"
+      }
+    },
+    {
+      "id": "2633901342",
+      "name": "Evangeline (Remastered 2024)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/8/0/f086c0c95a9d8589f40b434dab2b4146.mp3?hdnea=exp=1774859886~acl=/api/1/1/f/0/8/0/f086c0c95a9d8589f40b434dab2b4146.mp3*~data=user_id=0,application_id=42~hmac=6dbc0bfb1bf1273e4620b9bc5918c3df582a67feb659d93679bfa6090748c66f",
+      "duration_ms": 269000,
+      "track_number": 9,
+      "album": {
+        "id": "539088922",
+        "name": "Four-Calendar Café (Remastered 2024)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a399da69db41b8d3c7529aac6e9a4534/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a399da69db41b8d3c7529aac6e9a4534/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a399da69db41b8d3c7529aac6e9a4534/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2633901342"
+      }
+    },
+    {
+      "id": "948578",
+      "name": "Shallow Then Halo",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/b/0/f2b8a719de78236860557c1879f5cb28.mp3?hdnea=exp=1774859886~acl=/api/1/1/f/2/b/0/f2b8a719de78236860557c1879f5cb28.mp3*~data=user_id=0,application_id=42~hmac=c2f42921a9734b2948611663003242165a93fdde5dade34e4cea69045822a4b0",
+      "duration_ms": 316000,
+      "track_number": 10,
+      "album": {
+        "id": "106722",
+        "name": "Garlands",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/66079b0b6415670eedb44bb37b03d160/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/66079b0b6415670eedb44bb37b03d160/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/66079b0b6415670eedb44bb37b03d160/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1041",
+          "name": "Cocteau Twins"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/948578"
+      }
+    }
+  ]
+}

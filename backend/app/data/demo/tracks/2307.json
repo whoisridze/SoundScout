@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3872261421",
+      "name": "Can You Feel the Love Tonight (feat. The Gay Men's Chorus of Los Angeles)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/4/0/1c4f9295cf4c75161909a3d5fbf385cf.mp3?hdnea=exp=1774860088~acl=/api/1/1/1/c/4/0/1c4f9295cf4c75161909a3d5fbf385cf.mp3*~data=user_id=0,application_id=42~hmac=be2930373d450a4b8634f09f71e3377f8f408b909ce9938c1e0580140e48ca0f",
+      "duration_ms": 287000,
+      "track_number": 1,
+      "album": {
+        "id": "929111021",
+        "name": "Can You Feel the Love Tonight (feat. The Gay Men's Chorus of Los Angeles)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9e089cac1270231caf660b1a32826932/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9e089cac1270231caf660b1a32826932/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9e089cac1270231caf660b1a32826932/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3872261421"
+      }
+    },
+    {
+      "id": "14632486",
+      "name": "You Raise Me Up",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/7/0/457fc888e81e8e95cf845acc5cdbf851.mp3?hdnea=exp=1774860088~acl=/api/1/1/4/5/7/0/457fc888e81e8e95cf845acc5cdbf851.mp3*~data=user_id=0,application_id=42~hmac=e78259b3de7a11e182a515049082086437b42b07108d7e71c884bdd4791e1fdd",
+      "duration_ms": 292000,
+      "track_number": 2,
+      "album": {
+        "id": "1347014",
+        "name": "A Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ce2a154f495b92889b5f8e615329fcc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ce2a154f495b92889b5f8e615329fcc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ce2a154f495b92889b5f8e615329fcc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14632486"
+      }
+    },
+    {
+      "id": "772893",
+      "name": "Believe",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/1/0/9d1755a0f9cd8fc52b48c1cba6579d37.mp3?hdnea=exp=1774860088~acl=/api/1/1/9/d/1/0/9d1755a0f9cd8fc52b48c1cba6579d37.mp3*~data=user_id=0,application_id=42~hmac=a5d1da2ea114ef0569a7915c977c72000edea04057d5a0e36f392b6d73fe8520",
+      "duration_ms": 258000,
+      "track_number": 3,
+      "album": {
+        "id": "90762",
+        "name": "The Polar Express (Original Motion Picture Soundtrack) (Special Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/531ef2aae9a3cb3a87d157c3a25fd34e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/531ef2aae9a3cb3a87d157c3a25fd34e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/531ef2aae9a3cb3a87d157c3a25fd34e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/772893"
+      }
+    },
+    {
+      "id": "2436542495",
+      "name": "The Ballad of Sweeney Todd (Finale)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/f/0/80fb2912c349ba022f841b590af0f905.mp3?hdnea=exp=1774860088~acl=/api/1/1/8/0/f/0/80fb2912c349ba022f841b590af0f905.mp3*~data=user_id=0,application_id=42~hmac=1b3819fb8fb15dd1cb5e2661e12c911428a1fd3d7459da33c7a65940bfc3ebbd",
+      "duration_ms": 186000,
+      "track_number": 4,
+      "album": {
+        "id": "483195995",
+        "name": "Sweeney Todd: The Demon Barber of Fleet Street (2023 Broadway Cast Recording)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2dc2e36406bb8b0a9a051c2798547f98/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2dc2e36406bb8b0a9a051c2798547f98/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2dc2e36406bb8b0a9a051c2798547f98/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2436542495"
+      }
+    },
+    {
+      "id": "14632492",
+      "name": "Per Te",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/8/0/dc83271ef04b4488fe33a52b9b20a8d2.mp3?hdnea=exp=1774860088~acl=/api/1/1/d/c/8/0/dc83271ef04b4488fe33a52b9b20a8d2.mp3*~data=user_id=0,application_id=42~hmac=3d683c9b2d8614ac4ed5dee0a10afff779395b1b4688fa93e26c3ee24495bde5",
+      "duration_ms": 255000,
+      "track_number": 5,
+      "album": {
+        "id": "1347014",
+        "name": "A Collection",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ce2a154f495b92889b5f8e615329fcc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ce2a154f495b92889b5f8e615329fcc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ce2a154f495b92889b5f8e615329fcc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14632492"
+      }
+    },
+    {
+      "id": "1145132272",
+      "name": "She",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/a/0/e2a67c91068592cc72f834597baf2b17.mp3?hdnea=exp=1774860088~acl=/api/1/1/e/2/a/0/e2a67c91068592cc72f834597baf2b17.mp3*~data=user_id=0,application_id=42~hmac=9e0bfa824bd1e77eb1206c06dbad9e3b1a1b5310ea97a5a7f80e857e8df9e731",
+      "duration_ms": 227000,
+      "track_number": 6,
+      "album": {
+        "id": "186981872",
+        "name": "Harmony",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03397600cf36db7925993818b5a4a9ca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03397600cf36db7925993818b5a4a9ca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/03397600cf36db7925993818b5a4a9ca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1145132272"
+      }
+    },
+    {
+      "id": "97232880",
+      "name": "Le temps des cathédrales (from \"Notre-Dame de Paris\")",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/4/a/0/74aa13946c08f5319f7a6b85bc86c3ac.mp3?hdnea=exp=1774860088~acl=/api/1/1/7/4/a/0/74aa13946c08f5319f7a6b85bc86c3ac.mp3*~data=user_id=0,application_id=42~hmac=8bdb91d39f3b81a509dde46c6216304107376c0cb4b9cc9823345810992ff443",
+      "duration_ms": 242000,
+      "track_number": 7,
+      "album": {
+        "id": "9899930",
+        "name": "Le temps des cathédrales (from \"Notre-Dame de Paris\")",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e869d015d975f276170df1ad219426ab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e869d015d975f276170df1ad219426ab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e869d015d975f276170df1ad219426ab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/97232880"
+      }
+    },
+    {
+      "id": "1558967302",
+      "name": "Aléjate",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/0/0/030704bee6bb35e5a125339cd5fc163c.mp3?hdnea=exp=1774860088~acl=/api/1/1/0/3/0/0/030704bee6bb35e5a125339cd5fc163c.mp3*~data=user_id=0,application_id=42~hmac=45178eac23bd1e71f46f13ce508b9da40bcb90b107bb0ab773c8e298b3282db2",
+      "duration_ms": 290000,
+      "track_number": 8,
+      "album": {
+        "id": "273774542",
+        "name": "Josh Groban (20th Anniversary Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10a6653dd9934c7d278a455614c2ab02/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10a6653dd9934c7d278a455614c2ab02/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/10a6653dd9934c7d278a455614c2ab02/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1558967302"
+      }
+    },
+    {
+      "id": "420324602",
+      "name": "O Holy Night",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/b/0/83bcbb702aa5fb2d0f1dfa6523d09dee.mp3?hdnea=exp=1774860088~acl=/api/1/1/8/3/b/0/83bcbb702aa5fb2d0f1dfa6523d09dee.mp3*~data=user_id=0,application_id=42~hmac=214f1792f58735b3057090e3379499a94e1bc16fd75c4299d9f0fdb31281b663",
+      "duration_ms": 288000,
+      "track_number": 9,
+      "album": {
+        "id": "50313162",
+        "name": "Noël (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ed95eda61e5b590a0872858eff6d2c8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ed95eda61e5b590a0872858eff6d2c8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ed95eda61e5b590a0872858eff6d2c8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/420324602"
+      }
+    },
+    {
+      "id": "5093753",
+      "name": "Hymne à l'amour",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/7/0/e47f7d79eed3ee726c4b59a4be0537f7.mp3?hdnea=exp=1774860088~acl=/api/1/1/e/4/7/0/e47f7d79eed3ee726c4b59a4be0537f7.mp3*~data=user_id=0,application_id=42~hmac=ff3b03cf75378df281cbd9efc1cae1aec6e97687aadee78b7382af7e248ffea0",
+      "duration_ms": 243000,
+      "track_number": 10,
+      "album": {
+        "id": "467273",
+        "name": "Closer (Special Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ab6cb85b9fe505f6fddddac1e2a3fa4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ab6cb85b9fe505f6fddddac1e2a3fa4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ab6cb85b9fe505f6fddddac1e2a3fa4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2307",
+          "name": "Josh Groban"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/5093753"
+      }
+    }
+  ]
+}

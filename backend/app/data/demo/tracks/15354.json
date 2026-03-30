@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1270326332",
+      "name": "Brand New Day",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/1/0/441598b3a76acbe937711ef72354648a.mp3?hdnea=exp=1774859914~acl=/api/1/1/4/4/1/0/441598b3a76acbe937711ef72354648a.mp3*~data=user_id=0,application_id=42~hmac=979ee8a1e13aa784e58a8804f79b8aa78ccb93a796b7a222419f82745fe998a4",
+      "duration_ms": 421000,
+      "track_number": 1,
+      "album": {
+        "id": "213601902",
+        "name": "Move",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1270326332"
+      }
+    },
+    {
+      "id": "1270326342",
+      "name": "Endeavor",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/f/0/44f3fca023cc37b806dece237b6c1d93.mp3?hdnea=exp=1774859914~acl=/api/1/1/4/4/f/0/44f3fca023cc37b806dece237b6c1d93.mp3*~data=user_id=0,application_id=42~hmac=018e9a35d23b494ba298963c84ff95386eabc9ab289ced02794ac765c87b957a",
+      "duration_ms": 444000,
+      "track_number": 2,
+      "album": {
+        "id": "213601902",
+        "name": "Move",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1270326342"
+      }
+    },
+    {
+      "id": "1270326322",
+      "name": "Move",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/d/0/69dd1019e6f979e85ca53d6bc1dc4728.mp3?hdnea=exp=1774859914~acl=/api/1/1/6/9/d/0/69dd1019e6f979e85ca53d6bc1dc4728.mp3*~data=user_id=0,application_id=42~hmac=92cf96e8958448383b6edb093c7fab1b23fb5124a884ff01dbcd4281f67c31e5",
+      "duration_ms": 514000,
+      "track_number": 3,
+      "album": {
+        "id": "213601902",
+        "name": "Move",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1270326322"
+      }
+    },
+    {
+      "id": "1270326382",
+      "name": "Suite Escapism: In Between",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/1/0/c71d725a79322f452813787fa5a4719f.mp3?hdnea=exp=1774859914~acl=/api/1/1/c/7/1/0/c71d725a79322f452813787fa5a4719f.mp3*~data=user_id=0,application_id=42~hmac=b91840aa367fbf19ee49fb706573b199c04b8643d9def35a70455f174d7395c6",
+      "duration_ms": 470000,
+      "track_number": 4,
+      "album": {
+        "id": "213601902",
+        "name": "Move",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1270326382"
+      }
+    },
+    {
+      "id": "1270326352",
+      "name": "Rainmaker",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/c/0/7ecf70dda9d69296442e8efb3962188e.mp3?hdnea=exp=1774859914~acl=/api/1/1/7/e/c/0/7ecf70dda9d69296442e8efb3962188e.mp3*~data=user_id=0,application_id=42~hmac=49ced675be4f902abd1277e9248f5b8fbe64bde6a4cc58ffec73de6d6c8f494d",
+      "duration_ms": 447000,
+      "track_number": 5,
+      "album": {
+        "id": "213601902",
+        "name": "Move",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1270326352"
+      }
+    },
+    {
+      "id": "1270353842",
+      "name": "Seeker",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/2/0/84262514de715b06f4cfce09cd86dd11.mp3?hdnea=exp=1774859914~acl=/api/1/1/8/4/2/0/84262514de715b06f4cfce09cd86dd11.mp3*~data=user_id=0,application_id=42~hmac=f21ffc4bc1f3787bff34ecf4089fcb311a728e8aadcce7e84eaa08a72ee18138",
+      "duration_ms": 445000,
+      "track_number": 6,
+      "album": {
+        "id": "213609332",
+        "name": "Alive",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6fba47f0f0b8e29a078ab4f5be80d86/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6fba47f0f0b8e29a078ab4f5be80d86/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e6fba47f0f0b8e29a078ab4f5be80d86/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1270353842"
+      }
+    },
+    {
+      "id": "1270326372",
+      "name": "Suite Escapism: Fantasy",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/a/0/bda919bd04125f5e14785b2772aa3964.mp3?hdnea=exp=1774859914~acl=/api/1/1/b/d/a/0/bda919bd04125f5e14785b2772aa3964.mp3*~data=user_id=0,application_id=42~hmac=f22caebf65eac916a4435038ff9556abce5dc9320967c1dacd741e229a1af0fb",
+      "duration_ms": 396000,
+      "track_number": 7,
+      "album": {
+        "id": "213601902",
+        "name": "Move",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1270326372"
+      }
+    },
+    {
+      "id": "1270326392",
+      "name": "Margarita!",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/b/0/41bec504fd4d9245abcf91f5be312ad7.mp3?hdnea=exp=1774859914~acl=/api/1/1/4/1/b/0/41bec504fd4d9245abcf91f5be312ad7.mp3*~data=user_id=0,application_id=42~hmac=ad235621d4d00c505c9f0bae64fe7526ee6ccd115bd47b191358fb1d7b0b794d",
+      "duration_ms": 448000,
+      "track_number": 8,
+      "album": {
+        "id": "213601902",
+        "name": "Move",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d1fd833a50effc9b0b6d62d0a68b3d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1270326392"
+      }
+    },
+    {
+      "id": "1270592272",
+      "name": "Voice",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/4/0/7d436c062637102824bdb40c16e409c6.mp3?hdnea=exp=1774859914~acl=/api/1/1/7/d/4/0/7d436c062637102824bdb40c16e409c6.mp3*~data=user_id=0,application_id=42~hmac=a70df66c9be23d30c47def2c4e522af40bbf06ce215777ca42d23dc0f70f0fb5",
+      "duration_ms": 553000,
+      "track_number": 9,
+      "album": {
+        "id": "213667242",
+        "name": "Voice",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a61eababb8092440be1464192c81ca6f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a61eababb8092440be1464192c81ca6f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a61eababb8092440be1464192c81ca6f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1270592272"
+      }
+    },
+    {
+      "id": "121974844",
+      "name": "Indulgence",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/9/0/c198d562aceb5b1f3c52e8b665104f75.mp3?hdnea=exp=1774859914~acl=/api/1/1/c/1/9/0/c198d562aceb5b1f3c52e8b665104f75.mp3*~data=user_id=0,application_id=42~hmac=f053bc8ff0c1eeafe50204b84d7fa3cdc89f3f56b9f81d855ab9267c1edaefe6",
+      "duration_ms": 494000,
+      "track_number": 10,
+      "album": {
+        "id": "12757520",
+        "name": "Spark",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73c68be31e3087f419b71fb84546b389/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73c68be31e3087f419b71fb84546b389/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/73c68be31e3087f419b71fb84546b389/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "15354",
+          "name": "Hiromi"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/121974844"
+      }
+    }
+  ]
+}

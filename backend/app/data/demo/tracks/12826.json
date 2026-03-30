@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2502797391",
+      "name": "Lady Fantasy: Encounter / Smiles For You / Lady Fantasy (Remastered 2023)",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/1/0/e21c90887cd9d4231274dd26c1d59bf7.mp3?hdnea=exp=1774859992~acl=/api/1/1/e/2/1/0/e21c90887cd9d4231274dd26c1d59bf7.mp3*~data=user_id=0,application_id=42~hmac=6d5e957b772ea8bf54ea0c2080939206e281560d8e7bcb81bbb10bda88c1927c",
+      "duration_ms": 768000,
+      "track_number": 1,
+      "album": {
+        "id": "501450491",
+        "name": "Mirage (2023 Remastered & Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2502797391"
+      }
+    },
+    {
+      "id": "2502797351",
+      "name": "Freefall (Remastered 2023)",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/4/0/a44d04540b5ebbdf2d6580d384190ad1.mp3?hdnea=exp=1774859992~acl=/api/1/1/a/4/4/0/a44d04540b5ebbdf2d6580d384190ad1.mp3*~data=user_id=0,application_id=42~hmac=edce1ccabcb3efb0921b497b2259cbbd1b82f4f56354e3c596a71368ade8aeb6",
+      "duration_ms": 354000,
+      "track_number": 2,
+      "album": {
+        "id": "501450491",
+        "name": "Mirage (2023 Remastered & Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2502797351"
+      }
+    },
+    {
+      "id": "2502797371",
+      "name": "Nimrodel / The Procession / The White Rider (Remastered 2023)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/d/0/e2d567ff85583e8e4b41688af5380778.mp3?hdnea=exp=1774859992~acl=/api/1/1/e/2/d/0/e2d567ff85583e8e4b41688af5380778.mp3*~data=user_id=0,application_id=42~hmac=f81f435a20c59226a5094e5d9e00a51ceaa598f0d37720700d28d6e03d1ce407",
+      "duration_ms": 557000,
+      "track_number": 3,
+      "album": {
+        "id": "501450491",
+        "name": "Mirage (2023 Remastered & Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2502797371"
+      }
+    },
+    {
+      "id": "2502797381",
+      "name": "Earthrise (Remastered 2023)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/e/0/bae3ea7937228196f9189fd0183d7713.mp3?hdnea=exp=1774859992~acl=/api/1/1/b/a/e/0/bae3ea7937228196f9189fd0183d7713.mp3*~data=user_id=0,application_id=42~hmac=30e6ddd72d2bd8ccfae8aadddb02b1ce4b580bf8657c578077b9fb877d46235e",
+      "duration_ms": 401000,
+      "track_number": 4,
+      "album": {
+        "id": "501450491",
+        "name": "Mirage (2023 Remastered & Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2502797381"
+      }
+    },
+    {
+      "id": "2502797361",
+      "name": "Supertwister (Remastered 2023)",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/3/0/af333347140d3d850fba4d0f937ddb06.mp3?hdnea=exp=1774859992~acl=/api/1/1/a/f/3/0/af333347140d3d850fba4d0f937ddb06.mp3*~data=user_id=0,application_id=42~hmac=c2fdc2bdda7062fbccbd0daedb9077783dacfab03679059b027fe22eb35d2908",
+      "duration_ms": 202000,
+      "track_number": 5,
+      "album": {
+        "id": "501450491",
+        "name": "Mirage (2023 Remastered & Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4e6b4a6bf62f0a1d3a24e3e90d36c0c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2502797361"
+      }
+    },
+    {
+      "id": "525012332",
+      "name": "Rhayader Goes To Town",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/3/0/7a38685da96e156e5c5ab73df0e4afd6.mp3?hdnea=exp=1774859992~acl=/api/1/1/7/a/3/0/7a38685da96e156e5c5ab73df0e4afd6.mp3*~data=user_id=0,application_id=42~hmac=03e86d998cfc2a7745736397de08f24f4cad5a65f3bbb8e86184f4a9a61fc93c",
+      "duration_ms": 320000,
+      "track_number": 6,
+      "album": {
+        "id": "67759572",
+        "name": "The Snow Goose",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8eee7ae39991084a19276fc6e3641088/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8eee7ae39991084a19276fc6e3641088/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8eee7ae39991084a19276fc6e3641088/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/525012332"
+      }
+    },
+    {
+      "id": "525012362",
+      "name": "The Snow Goose",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/f/0/76faa5f428dfdd3c0f1ce88310e0bcbd.mp3?hdnea=exp=1774859992~acl=/api/1/1/7/6/f/0/76faa5f428dfdd3c0f1ce88310e0bcbd.mp3*~data=user_id=0,application_id=42~hmac=bbb911de8e24d6ede957231b8e1967e48c601abe53b6311d1de042ad30899a8e",
+      "duration_ms": 192000,
+      "track_number": 7,
+      "album": {
+        "id": "67759572",
+        "name": "The Snow Goose",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8eee7ae39991084a19276fc6e3641088/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8eee7ae39991084a19276fc6e3641088/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8eee7ae39991084a19276fc6e3641088/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/525012362"
+      }
+    },
+    {
+      "id": "2546258312",
+      "name": "Hymn To Her (Remastered 2023)",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/6/0/3e60ac14c756d056741c13d944c8bf8a.mp3?hdnea=exp=1774859992~acl=/api/1/1/3/e/6/0/3e60ac14c756d056741c13d944c8bf8a.mp3*~data=user_id=0,application_id=42~hmac=b905f156b01a92b4cf887320378d1b2e2be8677fb9478cd03ea2fd203cd4e3f4",
+      "duration_ms": 336000,
+      "track_number": 8,
+      "album": {
+        "id": "513617352",
+        "name": "I Can See Your House From Here (2023 Remastered & Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5af0654000c1a6a580a153b338763cb9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5af0654000c1a6a580a153b338763cb9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5af0654000c1a6a580a153b338763cb9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2546258312"
+      }
+    },
+    {
+      "id": "2546258392",
+      "name": "Heroes (Remastered 2023)",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/c/0/64ce0791f5bc8cae2b544459eaaf8a1b.mp3?hdnea=exp=1774859992~acl=/api/1/1/6/4/c/0/64ce0791f5bc8cae2b544459eaaf8a1b.mp3*~data=user_id=0,application_id=42~hmac=19e9d39640cc6a8bddf5f0e64ce236addb09b7e906c45f85ca1e7f63571d213d",
+      "duration_ms": 289000,
+      "track_number": 9,
+      "album": {
+        "id": "513617382",
+        "name": "The Single Factor (2023 Remastered & Expanded Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90352ccbaba52bf7c591f4794aa34aea/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90352ccbaba52bf7c591f4794aa34aea/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90352ccbaba52bf7c591f4794aa34aea/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2546258392"
+      }
+    },
+    {
+      "id": "1156259",
+      "name": "Lady Fantasy (Medley / Original Mix)",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/b/0/71bfb91e6610a5cb942b8a0ac8dd8f97.mp3?hdnea=exp=1774859992~acl=/api/1/1/7/1/b/0/71bfb91e6610a5cb942b8a0ac8dd8f97.mp3*~data=user_id=0,application_id=42~hmac=797231cff339c6349a4b0320641fd5eb220b346628b32158c90496934af23b59",
+      "duration_ms": 779000,
+      "track_number": 10,
+      "album": {
+        "id": "123830",
+        "name": "Mirage",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9147bf7d06989effaf8332663982d8e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9147bf7d06989effaf8332663982d8e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a9147bf7d06989effaf8332663982d8e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12826",
+          "name": "Camel"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1156259"
+      }
+    }
+  ]
+}

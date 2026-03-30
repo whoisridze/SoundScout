@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "660710",
+      "name": "My Curse",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/2/0/c525ccc1cb89d3b74cc674f2926dbb46.mp3?hdnea=exp=1774860031~acl=/api/1/1/c/5/2/0/c525ccc1cb89d3b74cc674f2926dbb46.mp3*~data=user_id=0,application_id=42~hmac=1e85e7d1f1b63a0bb799f83c0011709a95ba7cb13a65d41f57f388d3e1d4cae2",
+      "duration_ms": 244000,
+      "track_number": 1,
+      "album": {
+        "id": "80236",
+        "name": "As Daylight Dies",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c625bf2687ef8d990473d1ba99d81cfe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c625bf2687ef8d990473d1ba99d81cfe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c625bf2687ef8d990473d1ba99d81cfe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/660710"
+      }
+    },
+    {
+      "id": "3026351751",
+      "name": "Aftermath",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/e/0/e1ef67bc126c5a0864f8b258a7ba3136.mp3?hdnea=exp=1774860031~acl=/api/1/1/e/1/e/0/e1ef67bc126c5a0864f8b258a7ba3136.mp3*~data=user_id=0,application_id=42~hmac=4e024b2613dfc55cfdaa7590fc4b7a83f92cec6516806792177f4fffafd44d3b",
+      "duration_ms": 218000,
+      "track_number": 2,
+      "album": {
+        "id": "650895601",
+        "name": "This Consequence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3026351751"
+      }
+    },
+    {
+      "id": "827686",
+      "name": "The End of Heartache",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/0/0/3804601963cd26315c8e976f12a31baa.mp3?hdnea=exp=1774860031~acl=/api/1/1/3/8/0/0/3804601963cd26315c8e976f12a31baa.mp3*~data=user_id=0,application_id=42~hmac=5972460fdf68ab21546052a31c82fdc79d34eba0a83948256495540e1e0dd43d",
+      "duration_ms": 298000,
+      "track_number": 3,
+      "album": {
+        "id": "95746",
+        "name": "The End of Heartache",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/55ec70a47fc7fef523cc4d0bd30b5af1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/55ec70a47fc7fef523cc4d0bd30b5af1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/55ec70a47fc7fef523cc4d0bd30b5af1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/827686"
+      }
+    },
+    {
+      "id": "717896",
+      "name": "Holy Diver",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/6/0/856c9773e42b3dc2c4d8f6eb96f11594.mp3?hdnea=exp=1774860031~acl=/api/1/1/8/5/6/0/856c9773e42b3dc2c4d8f6eb96f11594.mp3*~data=user_id=0,application_id=42~hmac=fb1ed44e0675a634d24fae7b97b1045be176822f257e0990e0bef37387effb01",
+      "duration_ms": 250000,
+      "track_number": 4,
+      "album": {
+        "id": "85810",
+        "name": "Holy Diver",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/837dd5f795b36f930ead82119637ea17/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/837dd5f795b36f930ead82119637ea17/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/837dd5f795b36f930ead82119637ea17/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/717896"
+      }
+    },
+    {
+      "id": "3659103",
+      "name": "This Fire",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/b/0/31b4aedc8bd40c5e2b94e2118822dc03.mp3?hdnea=exp=1774860031~acl=/api/1/1/3/1/b/0/31b4aedc8bd40c5e2b94e2118822dc03.mp3*~data=user_id=0,application_id=42~hmac=81950d3e135453fcea7fef4df54d44eb171760bad69d6c7bf2efe66097a70ff6",
+      "duration_ms": 189000,
+      "track_number": 5,
+      "album": {
+        "id": "344554",
+        "name": "As Daylight Dies (Special Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b3cb34ff2560dd3228d6721dc1649436/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b3cb34ff2560dd3228d6721dc1649436/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b3cb34ff2560dd3228d6721dc1649436/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3659103"
+      }
+    },
+    {
+      "id": "847236",
+      "name": "My Last Serenade",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/c/0/cecedb5a8c9ebf30d8c45653243402ec.mp3?hdnea=exp=1774860031~acl=/api/1/1/c/e/c/0/cecedb5a8c9ebf30d8c45653243402ec.mp3*~data=user_id=0,application_id=42~hmac=c29fa4c1968a3871e9f5fbb89408a5b51adc2981916cdea8264686fa765f991d",
+      "duration_ms": 253000,
+      "track_number": 6,
+      "album": {
+        "id": "97427",
+        "name": "Alive or Just Breathing",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/66f2ca7aee6e54bf58760587ba584ce6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/66f2ca7aee6e54bf58760587ba584ce6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/66f2ca7aee6e54bf58760587ba584ce6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/847236"
+      }
+    },
+    {
+      "id": "3026351761",
+      "name": "Forever Aligned",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/5/3/0/953f6e8b92a3b07aa52c54da9221aeb9.mp3?hdnea=exp=1774860031~acl=/api/1/1/9/5/3/0/953f6e8b92a3b07aa52c54da9221aeb9.mp3*~data=user_id=0,application_id=42~hmac=8d94e1cf5bfe68048368798aa90108534639f7fb75ee9719be0d783b04615d12",
+      "duration_ms": 245000,
+      "track_number": 7,
+      "album": {
+        "id": "650895601",
+        "name": "This Consequence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3026351761"
+      }
+    },
+    {
+      "id": "3026351801",
+      "name": "Collusion",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/2/0/382799ec981f077c0c2e4cb97091ac68.mp3?hdnea=exp=1774860031~acl=/api/1/1/3/8/2/0/382799ec981f077c0c2e4cb97091ac68.mp3*~data=user_id=0,application_id=42~hmac=351e45f1ba3bee8c1b44d882f0fdfdd2750916e0864d3eb4e68bbdde3cacd1f4",
+      "duration_ms": 202000,
+      "track_number": 8,
+      "album": {
+        "id": "650895601",
+        "name": "This Consequence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3026351801"
+      }
+    },
+    {
+      "id": "3026351831",
+      "name": "Requiem",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/7/0/81783c5ee3d3b7cd8ae973ece2609c53.mp3?hdnea=exp=1774860031~acl=/api/1/1/8/1/7/0/81783c5ee3d3b7cd8ae973ece2609c53.mp3*~data=user_id=0,application_id=42~hmac=043cca3a36aba0cbcbb5b61d2b29ceacdcb5890d9d31b42338a885f6f1742b99",
+      "duration_ms": 209000,
+      "track_number": 9,
+      "album": {
+        "id": "650895601",
+        "name": "This Consequence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3026351831"
+      }
+    },
+    {
+      "id": "3026351791",
+      "name": "Where It Dies",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/f/0/c0fcf917e7209410a14228f806536fdc.mp3?hdnea=exp=1774860031~acl=/api/1/1/c/0/f/0/c0fcf917e7209410a14228f806536fdc.mp3*~data=user_id=0,application_id=42~hmac=2c924d4e18b7c67e77eec74dcef3d8224a403b5299f662a2496ee39356cdc1aa",
+      "duration_ms": 207000,
+      "track_number": 10,
+      "album": {
+        "id": "650895601",
+        "name": "This Consequence",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ab7d9bc9db5ba1dec9580b52d8dcd30/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2124",
+          "name": "Killswitch Engage"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3026351791"
+      }
+    }
+  ]
+}

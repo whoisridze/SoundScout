@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2755315691",
+      "name": "Love Me Not",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/c/0/66c749bb1dba9587c4fd2fff30b0c89a.mp3?hdnea=exp=1774860008~acl=/api/1/1/6/6/c/0/66c749bb1dba9587c4fd2fff30b0c89a.mp3*~data=user_id=0,application_id=42~hmac=677d445aceeccd5056365bedf8a01dc9b144f38fccc45716ce4cfce9391be1ca",
+      "duration_ms": 213000,
+      "track_number": 1,
+      "album": {
+        "id": "574707311",
+        "name": "Love Me Not / Love Is Blind",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9801ef458ad49afbc613ca2abeb79734/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9801ef458ad49afbc613ca2abeb79734/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9801ef458ad49afbc613ca2abeb79734/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2755315691"
+      }
+    },
+    {
+      "id": "3031260821",
+      "name": "Love Me Not (feat. Rex Orange County)",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/6/0/1c6b7a2007d3cca17f6b989e9a7cfe5e.mp3?hdnea=exp=1774860008~acl=/api/1/1/1/c/6/0/1c6b7a2007d3cca17f6b989e9a7cfe5e.mp3*~data=user_id=0,application_id=42~hmac=a4485604bfb8959e8804a8c70698e80c25f102bc93439742faee8582cfcf8d13",
+      "duration_ms": 188000,
+      "track_number": 2,
+      "album": {
+        "id": "652210081",
+        "name": "Love Me Not (feat. Rex Orange County)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05589991c61f6a7305e78aec8414b5ac/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05589991c61f6a7305e78aec8414b5ac/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/05589991c61f6a7305e78aec8414b5ac/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3031260821"
+      }
+    },
+    {
+      "id": "3824532301",
+      "name": "New Jersey",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/9/0/269f0517b01169bf22028caa9af8a6ad.mp3?hdnea=exp=1774860008~acl=/api/1/1/2/6/9/0/269f0517b01169bf22028caa9af8a6ad.mp3*~data=user_id=0,application_id=42~hmac=25b483403372ff7e1f6cd002cb1d42ec103792d77f17d578a22d7a7a7c6d5f00",
+      "duration_ms": 135000,
+      "track_number": 3,
+      "album": {
+        "id": "911990301",
+        "name": "Whatever's Clever!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b2d470eead5f3929d23d4d72d8cb84e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b2d470eead5f3929d23d4d72d8cb84e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2b2d470eead5f3929d23d4d72d8cb84e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3824532301"
+      }
+    },
+    {
+      "id": "3728864742",
+      "name": "Bicycle Race",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/b/0/42b78bca6b4f3ed6123922a779c9aeea.mp3?hdnea=exp=1774860008~acl=/api/1/1/4/2/b/0/42b78bca6b4f3ed6123922a779c9aeea.mp3*~data=user_id=0,application_id=42~hmac=8e61ca71e43b4f1675a8789c89e08d0e813fdf8068fea611a3f881f8752dc375",
+      "duration_ms": 155000,
+      "track_number": 4,
+      "album": {
+        "id": "881275242",
+        "name": "Bicycle Race",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63873046513cfc6ff4cd7a0cc021abba/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63873046513cfc6ff4cd7a0cc021abba/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/63873046513cfc6ff4cd7a0cc021abba/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3728864742"
+      }
+    },
+    {
+      "id": "1632294942",
+      "name": "Skin Tight (feat. Steve Lacy)",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/c/0/88c04869993b9af974c4df1177fcb32c.mp3?hdnea=exp=1774860008~acl=/api/1/1/8/8/c/0/88c04869993b9af974c4df1177fcb32c.mp3*~data=user_id=0,application_id=42~hmac=b051c3119d827a099311f9bf64c55330a47bbdfbcf64faf40f0291a784fb1eb3",
+      "duration_ms": 227000,
+      "track_number": 5,
+      "album": {
+        "id": "290117242",
+        "name": "Skin Tight (feat. Steve Lacy)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ce2a949f66d239074418aa18c9d0af6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ce2a949f66d239074418aa18c9d0af6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9ce2a949f66d239074418aa18c9d0af6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1632294942"
+      }
+    },
+    {
+      "id": "3348923421",
+      "name": "pink + pink",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/f/0/47f99181fdabce0901b906f2e4d0debe.mp3?hdnea=exp=1774860008~acl=/api/1/1/4/7/f/0/47f99181fdabce0901b906f2e4d0debe.mp3*~data=user_id=0,application_id=42~hmac=45f1db2d21a988ae7b516fde267b9f834986fb2f2fee60bf28aee847544895c3",
+      "duration_ms": 182000,
+      "track_number": 6,
+      "album": {
+        "id": "750647751",
+        "name": "DAISY",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aebe40b2139578eb681392711e41e47d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aebe40b2139578eb681392711e41e47d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aebe40b2139578eb681392711e41e47d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3348923421"
+      }
+    },
+    {
+      "id": "457307432",
+      "name": "Sticky",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/8/0/aa872f5e2e9e8f6a75a5f05910bdd77e.mp3?hdnea=exp=1774860008~acl=/api/1/1/a/a/8/0/aa872f5e2e9e8f6a75a5f05910bdd77e.mp3*~data=user_id=0,application_id=42~hmac=b15db5fddd0e91490b4f4ab63a834e5a6961bc4d4c813d9b4642d88cacdc1b22",
+      "duration_ms": 196000,
+      "track_number": 7,
+      "album": {
+        "id": "56253712",
+        "name": "Crush EP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bfbad9f6cc40f6c51d38235dc453dac3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bfbad9f6cc40f6c51d38235dc453dac3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bfbad9f6cc40f6c51d38235dc453dac3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/457307432"
+      }
+    },
+    {
+      "id": "3546679141",
+      "name": "Cry about it!",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/5/0/485b2798c30c71b265087d892d206325.mp3?hdnea=exp=1774860008~acl=/api/1/1/4/8/5/0/485b2798c30c71b265087d892d206325.mp3*~data=user_id=0,application_id=42~hmac=def503d428ea2b45e713111c99477429e021dbe7868cb27cd9c8ff6c276ba76f",
+      "duration_ms": 171000,
+      "track_number": 8,
+      "album": {
+        "id": "818153761",
+        "name": "Cry about it!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dd9464afb85b48ab09b0456fb469385/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dd9464afb85b48ab09b0456fb469385/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dd9464afb85b48ab09b0456fb469385/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3546679141"
+      }
+    },
+    {
+      "id": "2936029141",
+      "name": "Days",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/f/0/e6fb34291bc8d0e96076acd93f740b4c.mp3?hdnea=exp=1774860008~acl=/api/1/1/e/6/f/0/e6fb34291bc8d0e96076acd93f740b4c.mp3*~data=user_id=0,application_id=42~hmac=e8a3eecf0c3a14509641d7e7755cdc9709de614d12daf14f4c942a64389d1463",
+      "duration_ms": 243000,
+      "track_number": 9,
+      "album": {
+        "id": "625763521",
+        "name": "Bird's Eye",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f1f16a89fc40e1b4453d28a2a25376c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f1f16a89fc40e1b4453d28a2a25376c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8f1f16a89fc40e1b4453d28a2a25376c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2936029141"
+      }
+    },
+    {
+      "id": "394000732",
+      "name": "Spice (feat. Smino) (Remix)",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/5/0/7c557f06891e15693fc10f96f25791bb.mp3?hdnea=exp=1774860008~acl=/api/1/1/7/c/5/0/7c557f06891e15693fc10f96f25791bb.mp3*~data=user_id=0,application_id=42~hmac=cd2e9a1cb0ef13d62106e30980d4248bfd38a9ee10b7e6460b9104838aecab51",
+      "duration_ms": 244000,
+      "track_number": 10,
+      "album": {
+        "id": "46179982",
+        "name": "Spice (feat. Smino) (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/708905bbd60f1b08f8963cde0addf80c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/708905bbd60f1b08f8963cde0addf80c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/708905bbd60f1b08f8963cde0addf80c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8973774",
+          "name": "Ravyn Lenae"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/394000732"
+      }
+    }
+  ]
+}

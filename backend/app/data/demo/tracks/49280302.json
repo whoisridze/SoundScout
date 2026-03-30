@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3762104002",
+      "name": "Adrenaline",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/7/e/0/77e0a1de8f09131c0d8f6988adc37aaf.mp3?hdnea=exp=1774859958~acl=/api/1/1/7/7/e/0/77e0a1de8f09131c0d8f6988adc37aaf.mp3*~data=user_id=0,application_id=42~hmac=d0a8d3c1fc4f2c02f052574db30fb0f38e5841c19b23009baaa22ce7d2bacf0d",
+      "duration_ms": 219000,
+      "track_number": 1,
+      "album": {
+        "id": "893158882",
+        "name": "GOLDEN HOUR : Part.4",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c78e562b3db6dda0b127c097ee081dcd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c78e562b3db6dda0b127c097ee081dcd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c78e562b3db6dda0b127c097ee081dcd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3762104002"
+      }
+    },
+    {
+      "id": "3428993811",
+      "name": "NO1 (HONGJOONG)",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/f/0/bbfd5335f139fbe0722c64d752e402cd.mp3?hdnea=exp=1774859958~acl=/api/1/1/b/b/f/0/bbfd5335f139fbe0722c64d752e402cd.mp3*~data=user_id=0,application_id=42~hmac=0383704fecd777261257a3cb72987409e25743fb805fbdb0124728858c61005c",
+      "duration_ms": 153000,
+      "track_number": 2,
+      "album": {
+        "id": "777598571",
+        "name": "GOLDEN HOUR : Part.3 'In Your Fantasy Edition'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da9dad45d52e5c70e7fd70bab386dce0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da9dad45d52e5c70e7fd70bab386dce0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da9dad45d52e5c70e7fd70bab386dce0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3428993811"
+      }
+    },
+    {
+      "id": "2320139425",
+      "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/4/0/a849c713306b34b3347fc0031c51a5f9.mp3?hdnea=exp=1774859958~acl=/api/1/1/a/8/4/0/a849c713306b34b3347fc0031c51a5f9.mp3*~data=user_id=0,application_id=42~hmac=b4d8883b601f64fd7629ddf639cbb9c418080d989e7c19de8101ba2a0592edbd",
+      "duration_ms": 187000,
+      "track_number": 3,
+      "album": {
+        "id": "450972105",
+        "name": "THE WORLD EP.2 : OUTLAW",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4531f6caacd34f0adb5c3ebb7cd99ed1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4531f6caacd34f0adb5c3ebb7cd99ed1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4531f6caacd34f0adb5c3ebb7cd99ed1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2320139425"
+      }
+    },
+    {
+      "id": "3762104012",
+      "name": "NASA",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/c/0/f6c2d614837e0908c0503c7318202287.mp3?hdnea=exp=1774859958~acl=/api/1/1/f/6/c/0/f6c2d614837e0908c0503c7318202287.mp3*~data=user_id=0,application_id=42~hmac=2a68dadb812ba32fc2a6aeb8e6051e90147682067237fea1fa9fe8b667a1d35b",
+      "duration_ms": 190000,
+      "track_number": 4,
+      "album": {
+        "id": "893158882",
+        "name": "GOLDEN HOUR : Part.4",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c78e562b3db6dda0b127c097ee081dcd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c78e562b3db6dda0b127c097ee081dcd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c78e562b3db6dda0b127c097ee081dcd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3762104012"
+      }
+    },
+    {
+      "id": "3428993801",
+      "name": "In Your Fantasy",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/f/0/01f90b87ddd3a2281513582ca7959601.mp3?hdnea=exp=1774859958~acl=/api/1/1/0/1/f/0/01f90b87ddd3a2281513582ca7959601.mp3*~data=user_id=0,application_id=42~hmac=1a01c9335ac87a758dceb1b9d8bc6597fc251238eb94b27ef13896462468c818",
+      "duration_ms": 192000,
+      "track_number": 5,
+      "album": {
+        "id": "777598571",
+        "name": "GOLDEN HOUR : Part.3 'In Your Fantasy Edition'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da9dad45d52e5c70e7fd70bab386dce0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da9dad45d52e5c70e7fd70bab386dce0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da9dad45d52e5c70e7fd70bab386dce0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3428993801"
+      }
+    },
+    {
+      "id": "3386137971",
+      "name": "Lemon Drop",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/9/0/449d6640c7f6793656b66088b7b79849.mp3?hdnea=exp=1774859958~acl=/api/1/1/4/4/9/0/449d6640c7f6793656b66088b7b79849.mp3*~data=user_id=0,application_id=42~hmac=52674360f39cea750f35c8fddfeec9001b7bcf5ba03b9fd8e4bacea8848238f0",
+      "duration_ms": 179000,
+      "track_number": 6,
+      "album": {
+        "id": "763063191",
+        "name": "GOLDEN HOUR : Part.3",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28e2879642c67832e1422a629b047767/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28e2879642c67832e1422a629b047767/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/28e2879642c67832e1422a629b047767/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3386137971"
+      }
+    },
+    {
+      "id": "3762103992",
+      "name": "Ghost",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/d/0/dadb5abbbfa7c9109647f816666c0b99.mp3?hdnea=exp=1774859958~acl=/api/1/1/d/a/d/0/dadb5abbbfa7c9109647f816666c0b99.mp3*~data=user_id=0,application_id=42~hmac=1e79bed267d04e731c73c933c32c0351206af69a3c193cd986a7924700c77ba0",
+      "duration_ms": 167000,
+      "track_number": 7,
+      "album": {
+        "id": "893158882",
+        "name": "GOLDEN HOUR : Part.4",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c78e562b3db6dda0b127c097ee081dcd/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c78e562b3db6dda0b127c097ee081dcd/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c78e562b3db6dda0b127c097ee081dcd/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3762103992"
+      }
+    },
+    {
+      "id": "3075722491",
+      "name": "Ice On My Teeth",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/6/0/a460ff6a4cb0931d4cb4ea913bc147bf.mp3?hdnea=exp=1774859958~acl=/api/1/1/a/4/6/0/a460ff6a4cb0931d4cb4ea913bc147bf.mp3*~data=user_id=0,application_id=42~hmac=4634678582750c1ad939ee20dee4de22054f8938228ec07bced84bd46eca0fc4",
+      "duration_ms": 183000,
+      "track_number": 8,
+      "album": {
+        "id": "665919931",
+        "name": "GOLDEN HOUR : Part.2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bcb90609b6f021fbca5918e78f98093f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bcb90609b6f021fbca5918e78f98093f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bcb90609b6f021fbca5918e78f98093f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3075722491"
+      }
+    },
+    {
+      "id": "3428993821",
+      "name": "Skin (SEONGHWA)",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/d/0/d2dd8edee28ca9cdef2be93bd6d6f0cd.mp3?hdnea=exp=1774859958~acl=/api/1/1/d/2/d/0/d2dd8edee28ca9cdef2be93bd6d6f0cd.mp3*~data=user_id=0,application_id=42~hmac=1bd3dc2857e1adb1de946cd6c1988512ece64207fcd03a01d9f488b74f6de761",
+      "duration_ms": 200000,
+      "track_number": 9,
+      "album": {
+        "id": "777598571",
+        "name": "GOLDEN HOUR : Part.3 'In Your Fantasy Edition'",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da9dad45d52e5c70e7fd70bab386dce0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da9dad45d52e5c70e7fd70bab386dce0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/da9dad45d52e5c70e7fd70bab386dce0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3428993821"
+      }
+    },
+    {
+      "id": "2062079467",
+      "name": "HALAZIA",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/f/0/3df6f53c24794a0597f9846059926d38.mp3?hdnea=exp=1774859958~acl=/api/1/1/3/d/f/0/3df6f53c24794a0597f9846059926d38.mp3*~data=user_id=0,application_id=42~hmac=d015588ea9ce74258a5d5aa88cac74f09847730f36462fd399ebf7f9f2e9548b",
+      "duration_ms": 197000,
+      "track_number": 10,
+      "album": {
+        "id": "385050847",
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb51654f01a862927f01d6357d0b61d5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb51654f01a862927f01d6357d0b61d5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bb51654f01a862927f01d6357d0b61d5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "49280302",
+          "name": "ATEEZ"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2062079467"
+      }
+    }
+  ]
+}

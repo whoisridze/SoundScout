@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "89391527",
+      "name": "Aap Sahaee Hoa (Krishan Liquid Mix)",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/8/0/4f80211aef8dbc9e71ce7e075b1ba2c1.mp3?hdnea=exp=1774860107~acl=/api/1/1/4/f/8/0/4f80211aef8dbc9e71ce7e075b1ba2c1.mp3*~data=user_id=0,application_id=42~hmac=2405d61b0f430c03d33d10c4e14a801227b6ddadd00eda0ebf4ceac77056eec2",
+      "duration_ms": 380000,
+      "track_number": 1,
+      "album": {
+        "id": "9049211",
+        "name": "Kundalini Chillout: Liquid Mantra Remixes",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5a54352ccf1d1574539eee2c84281fc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5a54352ccf1d1574539eee2c84281fc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5a54352ccf1d1574539eee2c84281fc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/89391527"
+      }
+    },
+    {
+      "id": "29759411",
+      "name": "Aad Guray Nameh",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/0/0/7c0c3a2ac5949e895b77fcbf4c3f5c76.mp3?hdnea=exp=1774860107~acl=/api/1/1/7/c/0/0/7c0c3a2ac5949e895b77fcbf4c3f5c76.mp3*~data=user_id=0,application_id=42~hmac=7dfc8e02c94180f81638e181e22f5d1774a457282bcc5da716021b1f4f31b4a5",
+      "duration_ms": 422000,
+      "track_number": 2,
+      "album": {
+        "id": "2840411",
+        "name": "I Am Thine",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09403834b7fd2f2b370fba3be405cf1c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09403834b7fd2f2b370fba3be405cf1c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09403834b7fd2f2b370fba3be405cf1c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/29759411"
+      }
+    },
+    {
+      "id": "1586138362",
+      "name": "Siempre Contigo",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/2/0/b322b6d6606aeae6c0155296c9cbf5e7.mp3?hdnea=exp=1774860107~acl=/api/1/1/b/3/2/0/b322b6d6606aeae6c0155296c9cbf5e7.mp3*~data=user_id=0,application_id=42~hmac=1d6e2417c57a17e68e7caf5f232b89d407e35b09c15c0fc8c234a8149e8d10cc",
+      "duration_ms": 264000,
+      "track_number": 3,
+      "album": {
+        "id": "279473672",
+        "name": "Siempre Contigo",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef5d4163e488ad64b6a256342a324349/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef5d4163e488ad64b6a256342a324349/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ef5d4163e488ad64b6a256342a324349/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1586138362"
+      }
+    },
+    {
+      "id": "711215902",
+      "name": "Guru Ram Das Chant",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/7/0/d57d8bc7c278bac10c1eb52efc579826.mp3?hdnea=exp=1774860107~acl=/api/1/1/d/5/7/0/d57d8bc7c278bac10c1eb52efc579826.mp3*~data=user_id=0,application_id=42~hmac=146786ebdd957e87a9f8704f02dfa07ff7f43ae365eb4796a37295f50c7c506e",
+      "duration_ms": 354000,
+      "track_number": 4,
+      "album": {
+        "id": "103375162",
+        "name": "All is Now Light",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d85dcb7249725286a0c2bdd61dac941a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d85dcb7249725286a0c2bdd61dac941a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d85dcb7249725286a0c2bdd61dac941a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/711215902"
+      }
+    },
+    {
+      "id": "69968022",
+      "name": "In Dreams",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/4/0/914639e59ecc3dd7f962234270000220.mp3?hdnea=exp=1774860107~acl=/api/1/1/9/1/4/0/914639e59ecc3dd7f962234270000220.mp3*~data=user_id=0,application_id=42~hmac=96b3feb1956edc79742fec22a8b9c120c3487bdee4f35944e86e27fba2a18f27",
+      "duration_ms": 466000,
+      "track_number": 5,
+      "album": {
+        "id": "6861748",
+        "name": "Of Heaven & Earth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/343e8ff27e975cb8777c5f8d95f50d26/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/343e8ff27e975cb8777c5f8d95f50d26/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/343e8ff27e975cb8777c5f8d95f50d26/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69968022"
+      }
+    },
+    {
+      "id": "69968015",
+      "name": "Invocation",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/9/0/949b4ff83f7edd4275c56fab086ef491.mp3?hdnea=exp=1774860107~acl=/api/1/1/9/4/9/0/949b4ff83f7edd4275c56fab086ef491.mp3*~data=user_id=0,application_id=42~hmac=b04de7b6d754224ad1c1ec07a4217f365c9820dda393d7b5d5fad61d1f237a47",
+      "duration_ms": 370000,
+      "track_number": 6,
+      "album": {
+        "id": "6861748",
+        "name": "Of Heaven & Earth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/343e8ff27e975cb8777c5f8d95f50d26/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/343e8ff27e975cb8777c5f8d95f50d26/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/343e8ff27e975cb8777c5f8d95f50d26/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69968015"
+      }
+    },
+    {
+      "id": "69968018",
+      "name": "Hallelujah",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/b/0/8cb38cd7df9d223451e2117945c218d1.mp3?hdnea=exp=1774860107~acl=/api/1/1/8/c/b/0/8cb38cd7df9d223451e2117945c218d1.mp3*~data=user_id=0,application_id=42~hmac=2873b47d13c1ecaa738b0506bfcc3b8196a556c22a03a5114d5cd14c7c3bf2a1",
+      "duration_ms": 381000,
+      "track_number": 7,
+      "album": {
+        "id": "6861748",
+        "name": "Of Heaven & Earth",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/343e8ff27e975cb8777c5f8d95f50d26/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/343e8ff27e975cb8777c5f8d95f50d26/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/343e8ff27e975cb8777c5f8d95f50d26/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/69968018"
+      }
+    },
+    {
+      "id": "95973862",
+      "name": "The Miracle of Miracles (Ardas Bhaee)",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/f/0/63f56548afe74763d63b8be3720eb73e.mp3?hdnea=exp=1774860107~acl=/api/1/1/6/3/f/0/63f56548afe74763d63b8be3720eb73e.mp3*~data=user_id=0,application_id=42~hmac=63adac4a8b7b58203fce3273de4e188fb9ac90e6df727a1aed0cebd6078f2aeb",
+      "duration_ms": 803000,
+      "track_number": 8,
+      "album": {
+        "id": "9760848",
+        "name": "Miracles Abound: Meditations for Transformation",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c278ce97159d167dfc13fd4d74aeff7c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c278ce97159d167dfc13fd4d74aeff7c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c278ce97159d167dfc13fd4d74aeff7c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/95973862"
+      }
+    },
+    {
+      "id": "2021650207",
+      "name": "Cúrame",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/0/0/350126713e3365cd8bc396f55f668371.mp3?hdnea=exp=1774860107~acl=/api/1/1/3/5/0/0/350126713e3365cd8bc396f55f668371.mp3*~data=user_id=0,application_id=42~hmac=0a149714e91b278bbbfa22e5bbd76ba364e93773bb868540eed3020035b20d4c",
+      "duration_ms": 207000,
+      "track_number": 9,
+      "album": {
+        "id": "376594887",
+        "name": "From Dust",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59311829801c945cd2549ff6fc68905f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59311829801c945cd2549ff6fc68905f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59311829801c945cd2549ff6fc68905f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2021650207"
+      }
+    },
+    {
+      "id": "29759471",
+      "name": "Aap Sahaaee Hoaa",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/2/0/7f26120ad47e085f7748d9f232dc9018.mp3?hdnea=exp=1774860107~acl=/api/1/1/7/f/2/0/7f26120ad47e085f7748d9f232dc9018.mp3*~data=user_id=0,application_id=42~hmac=2903b5b7d3a4e4ca4a3c15cf1cc938de00e44ef25fcaeeb4950cd59817355fe7",
+      "duration_ms": 582000,
+      "track_number": 10,
+      "album": {
+        "id": "2840411",
+        "name": "I Am Thine",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09403834b7fd2f2b370fba3be405cf1c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09403834b7fd2f2b370fba3be405cf1c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/09403834b7fd2f2b370fba3be405cf1c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "2305201",
+          "name": "Jai-Jagdeesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/29759471"
+      }
+    }
+  ]
+}

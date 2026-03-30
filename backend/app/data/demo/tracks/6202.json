@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "72305850",
+      "name": "Solitude",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/c/0/cac658f787a319010e21d38e0aa23a7e.mp3?hdnea=exp=1774860103~acl=/api/1/1/c/a/c/0/cac658f787a319010e21d38e0aa23a7e.mp3*~data=user_id=0,application_id=42~hmac=4b2f1b25b808b8f77d6d0e44e9a93e1424857df5d6c5c40440b8acfd1457088e",
+      "duration_ms": 407000,
+      "track_number": 1,
+      "album": {
+        "id": "7105733",
+        "name": "Buddha Bar - Best Of",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74314581846f0a6cab3dff4de48d3656/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74314581846f0a6cab3dff4de48d3656/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/74314581846f0a6cab3dff4de48d3656/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/72305850"
+      }
+    },
+    {
+      "id": "63708358",
+      "name": "Call Of The Tribes (Remix)",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/8/0/ca8ceb3689bd6a668e3c7db25169f497.mp3?hdnea=exp=1774860103~acl=/api/1/1/c/a/8/0/ca8ceb3689bd6a668e3c7db25169f497.mp3*~data=user_id=0,application_id=42~hmac=ec0c07a71ae6e4d709a5f1e0be8085f3588a7805b032b144667dbbda5ceba18d",
+      "duration_ms": 276000,
+      "track_number": 2,
+      "album": {
+        "id": "6257604",
+        "name": "Mystic Karma Lounge",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7c08d7983d747eb590337c1b3fe17328/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7c08d7983d747eb590337c1b3fe17328/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7c08d7983d747eb590337c1b3fe17328/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63708358"
+      }
+    },
+    {
+      "id": "2595802022",
+      "name": "Blessings Rain",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/3/0/023f5d507d20ecaec89ff7fc2e827a64.mp3?hdnea=exp=1774860103~acl=/api/1/1/0/2/3/0/023f5d507d20ecaec89ff7fc2e827a64.mp3*~data=user_id=0,application_id=42~hmac=890199de0a5660dfe1736a2897e25b44073b6f28cc45846cef85c68b7bb94f5f",
+      "duration_ms": 348000,
+      "track_number": 3,
+      "album": {
+        "id": "526770562",
+        "name": "Path of Compassion",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ca2271aa6e3de1dc7fa225d0bf70d6e2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ca2271aa6e3de1dc7fa225d0bf70d6e2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ca2271aa6e3de1dc7fa225d0bf70d6e2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2595802022"
+      }
+    },
+    {
+      "id": "3635574942",
+      "name": "Earthsong",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/0/0/d106e4acf12bb73eee397a7d80a2eb93.mp3?hdnea=exp=1774860103~acl=/api/1/1/d/1/0/0/d106e4acf12bb73eee397a7d80a2eb93.mp3*~data=user_id=0,application_id=42~hmac=ed65fa689f594270c547dfcf47a007375eedad2f6a3555cbfb88bdae2d401961",
+      "duration_ms": 346000,
+      "track_number": 4,
+      "album": {
+        "id": "849465672",
+        "name": "Global Spirit",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d0098660bc84a8c770f0173329d9f46/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d0098660bc84a8c770f0173329d9f46/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4d0098660bc84a8c770f0173329d9f46/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3635574942"
+      }
+    },
+    {
+      "id": "130944412",
+      "name": "Moola Mantra",
+      "popularity": 38,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/8/0/2780fe77deb0313365fd11eee616f5f6.mp3?hdnea=exp=1774860103~acl=/api/1/1/2/7/8/0/2780fe77deb0313365fd11eee616f5f6.mp3*~data=user_id=0,application_id=42~hmac=5ab13c8831780819b1e3c529846d8212e1422a65d6842b64a7ca6a3ff1b95eaa",
+      "duration_ms": 539000,
+      "track_number": 5,
+      "album": {
+        "id": "13902608",
+        "name": "Sun Within",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f190634da87a327f096916ec6475f27/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f190634da87a327f096916ec6475f27/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f190634da87a327f096916ec6475f27/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/130944412"
+      }
+    },
+    {
+      "id": "63724559",
+      "name": "Spirits In The Forest",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/8/0/988c85f6802dbe8bf6a1a58f48c175e9.mp3?hdnea=exp=1774860103~acl=/api/1/1/9/8/8/0/988c85f6802dbe8bf6a1a58f48c175e9.mp3*~data=user_id=0,application_id=42~hmac=6e1d90f6e659aa670a1e184903b3212ef3a4166ca5513dfe74330796c713f1a7",
+      "duration_ms": 357000,
+      "track_number": 6,
+      "album": {
+        "id": "6258523",
+        "name": "The Way of the Heart",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd8b189a5a0176ada3a3bcd791e241ae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd8b189a5a0176ada3a3bcd791e241ae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd8b189a5a0176ada3a3bcd791e241ae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63724559"
+      }
+    },
+    {
+      "id": "12020425",
+      "name": "The Inner Temple",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/2/0/072035dc115990890253afe138dab72c.mp3?hdnea=exp=1774860103~acl=/api/1/1/0/7/2/0/072035dc115990890253afe138dab72c.mp3*~data=user_id=0,application_id=42~hmac=60764ad67e0891f46d0ac6a87865efb0deb83215136faea383c2d74d5ec5d70f",
+      "duration_ms": 359000,
+      "track_number": 7,
+      "album": {
+        "id": "1102501",
+        "name": "Heart Chakra Meditation",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ccfb3eb6b186bfc4fd6e29f25b7c199/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ccfb3eb6b186bfc4fd6e29f25b7c199/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5ccfb3eb6b186bfc4fd6e29f25b7c199/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/12020425"
+      }
+    },
+    {
+      "id": "62589209",
+      "name": "Heaven & Earth",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/a/0/c3af58c0b316b3e61ac82237067b26ee.mp3?hdnea=exp=1774860103~acl=/api/1/1/c/3/a/0/c3af58c0b316b3e61ac82237067b26ee.mp3*~data=user_id=0,application_id=42~hmac=2f8ddb06f9dbe9dac6bfe2ced2d536665ac904e7e93dee58d57e3692b92937fb",
+      "duration_ms": 494000,
+      "track_number": 8,
+      "album": {
+        "id": "6144828",
+        "name": "Heart Chakra Meditation II - Coming Home",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f6b82611ef3d5637aa52af39be2f9fe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f6b82611ef3d5637aa52af39be2f9fe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1f6b82611ef3d5637aa52af39be2f9fe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/62589209"
+      }
+    },
+    {
+      "id": "63724561",
+      "name": "Beyond The Horizon",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/f/0/e2f946a00da24b177a03295b6d39452c.mp3?hdnea=exp=1774860103~acl=/api/1/1/e/2/f/0/e2f946a00da24b177a03295b6d39452c.mp3*~data=user_id=0,application_id=42~hmac=4d92eaac5729482fa4fb19c2b2631ec39a9d154ea3e066ef2f46be93f53fb2c6",
+      "duration_ms": 364000,
+      "track_number": 9,
+      "album": {
+        "id": "6258523",
+        "name": "The Way of the Heart",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd8b189a5a0176ada3a3bcd791e241ae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd8b189a5a0176ada3a3bcd791e241ae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fd8b189a5a0176ada3a3bcd791e241ae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/63724561"
+      }
+    },
+    {
+      "id": "130944414",
+      "name": "Desert Traveller",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/b/0/50b7e76a660917ae7dff13390c86b36c.mp3?hdnea=exp=1774860103~acl=/api/1/1/5/0/b/0/50b7e76a660917ae7dff13390c86b36c.mp3*~data=user_id=0,application_id=42~hmac=bdbe55d670c51a59f6f4c873a65d8e433201196ab9034f328781d780f86e24cb",
+      "duration_ms": 383000,
+      "track_number": 10,
+      "album": {
+        "id": "13902608",
+        "name": "Sun Within",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f190634da87a327f096916ec6475f27/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f190634da87a327f096916ec6475f27/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3f190634da87a327f096916ec6475f27/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "6202",
+          "name": "Karunesh"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/130944414"
+      }
+    }
+  ]
+}

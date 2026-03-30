@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3517190161",
+      "name": "Lavender",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/4/0/ce43852d7395ba2f9aae1e2dd9e0572b.mp3?hdnea=exp=1774859975~acl=/api/1/1/c/e/4/0/ce43852d7395ba2f9aae1e2dd9e0572b.mp3*~data=user_id=0,application_id=42~hmac=c267b8d418933a8ca2637db3c01059dcf9a07529c11ec39602000e33d2ca18c2",
+      "duration_ms": 155000,
+      "track_number": 1,
+      "album": {
+        "id": "807920311",
+        "name": "Best-of lofi hip-hop 2021",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be34f502d0fdf0685becf51a8da44b57/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be34f502d0fdf0685becf51a8da44b57/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/be34f502d0fdf0685becf51a8da44b57/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3517190161"
+      }
+    },
+    {
+      "id": "2364143795",
+      "name": "Soft to Touch",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/8/0/db838ff9c23e91f419497ef9ac8cf3d2.mp3?hdnea=exp=1774859975~acl=/api/1/1/d/b/8/0/db838ff9c23e91f419497ef9ac8cf3d2.mp3*~data=user_id=0,application_id=42~hmac=5d481173bed1f025012f90a152898ed5797ec14b542826aa20b4d8191861d13b",
+      "duration_ms": 169000,
+      "track_number": 2,
+      "album": {
+        "id": "463403685",
+        "name": "Lazy Sunday",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4aeafe6e3037971ea41a4a3dee16aca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4aeafe6e3037971ea41a4a3dee16aca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e4aeafe6e3037971ea41a4a3dee16aca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2364143795"
+      }
+    },
+    {
+      "id": "2480698551",
+      "name": "Endurance",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/9/0/f19d070c61a33a45f8dd9e3667b8a471.mp3?hdnea=exp=1774859975~acl=/api/1/1/f/1/9/0/f19d070c61a33a45f8dd9e3667b8a471.mp3*~data=user_id=0,application_id=42~hmac=2bcd0ef02ded94c6dede495f0f2fde2f013726891d8866ac9d77e4e03e3af8fe",
+      "duration_ms": 201000,
+      "track_number": 3,
+      "album": {
+        "id": "495183681",
+        "name": "Somewhere. Nowhere.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8384b29a8bab08d777555591122e10e4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8384b29a8bab08d777555591122e10e4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8384b29a8bab08d777555591122e10e4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2480698551"
+      }
+    },
+    {
+      "id": "2480698571",
+      "name": "Elsewhere",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/3/0/a43001df65d9a5b222404a8355fe9c3c.mp3?hdnea=exp=1774859975~acl=/api/1/1/a/4/3/0/a43001df65d9a5b222404a8355fe9c3c.mp3*~data=user_id=0,application_id=42~hmac=9c798f8add1558174654d7ddbd0fcf491397bca61eab282201930cbfd7a25ee1",
+      "duration_ms": 125000,
+      "track_number": 4,
+      "album": {
+        "id": "495183681",
+        "name": "Somewhere. Nowhere.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8384b29a8bab08d777555591122e10e4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8384b29a8bab08d777555591122e10e4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8384b29a8bab08d777555591122e10e4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2480698571"
+      }
+    },
+    {
+      "id": "2945405341",
+      "name": "Unity",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/6/0/cd66d55238c3dc2ecf63105409ed8b99.mp3?hdnea=exp=1774859975~acl=/api/1/1/c/d/6/0/cd66d55238c3dc2ecf63105409ed8b99.mp3*~data=user_id=0,application_id=42~hmac=40ce688dd612b518fc7a1bc7057abea78cd8e3d69f9fc8b4e7dcf573df680ff8",
+      "duration_ms": 152000,
+      "track_number": 5,
+      "album": {
+        "id": "628850661",
+        "name": "Dragonfly",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44d31bd1b631a38f882347faf8344cca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44d31bd1b631a38f882347faf8344cca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44d31bd1b631a38f882347faf8344cca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2945405341"
+      }
+    },
+    {
+      "id": "2945405351",
+      "name": "We Traveled the World Together",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/2/0/b929165907b4ea5221dc36b8ee3ea129.mp3?hdnea=exp=1774859975~acl=/api/1/1/b/9/2/0/b929165907b4ea5221dc36b8ee3ea129.mp3*~data=user_id=0,application_id=42~hmac=fcde077a582ddaefab029b680b477b0f939a8677f6c3c8364a2a63ab445ecab2",
+      "duration_ms": 152000,
+      "track_number": 6,
+      "album": {
+        "id": "628850661",
+        "name": "Dragonfly",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44d31bd1b631a38f882347faf8344cca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44d31bd1b631a38f882347faf8344cca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44d31bd1b631a38f882347faf8344cca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2945405351"
+      }
+    },
+    {
+      "id": "459099352",
+      "name": "Never Forget",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/3/0/ec384602ab382ea0d9d97dad31d51779.mp3?hdnea=exp=1774859975~acl=/api/1/1/e/c/3/0/ec384602ab382ea0d9d97dad31d51779.mp3*~data=user_id=0,application_id=42~hmac=e3ed501ee9c183485d55f9af352cc2483c058cab03f4de164855e77fd7c32c76",
+      "duration_ms": 112000,
+      "track_number": 7,
+      "album": {
+        "id": "56538992",
+        "name": "All Natural",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b8776f28758b26cbac2af7fb64c1d1e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b8776f28758b26cbac2af7fb64c1d1e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6b8776f28758b26cbac2af7fb64c1d1e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/459099352"
+      }
+    },
+    {
+      "id": "2365136055",
+      "name": "Eons",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/1/0/6316ad19f093df104f211ba241646d28.mp3?hdnea=exp=1774859975~acl=/api/1/1/6/3/1/0/6316ad19f093df104f211ba241646d28.mp3*~data=user_id=0,application_id=42~hmac=e2e736caee96b35b503689cade4d22dcf180d768b9c2bf42aea2aeaa7e81faf9",
+      "duration_ms": 207000,
+      "track_number": 8,
+      "album": {
+        "id": "463723375",
+        "name": "Life Forms",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f5ded72fe3eb00abc3398f859e17eed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f5ded72fe3eb00abc3398f859e17eed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f5ded72fe3eb00abc3398f859e17eed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2365136055"
+      }
+    },
+    {
+      "id": "766490622",
+      "name": "The Past, The Present",
+      "popularity": 4,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/b/0/36b2de0a7ff0112788a940649484bac5.mp3?hdnea=exp=1774859975~acl=/api/1/1/3/6/b/0/36b2de0a7ff0112788a940649484bac5.mp3*~data=user_id=0,application_id=42~hmac=49c6031c0cc9ebf5d6f301936ca8c403ad56741f16ba14aa2237920146fb34ab",
+      "duration_ms": 185000,
+      "track_number": 9,
+      "album": {
+        "id": "113095832",
+        "name": "The Past, The Present",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f69c68c8449639c7df91fa380c4553db/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f69c68c8449639c7df91fa380c4553db/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f69c68c8449639c7df91fa380c4553db/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/766490622"
+      }
+    },
+    {
+      "id": "2365136145",
+      "name": "Distant Lands",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/f/0/e2f79991f136a15c34ce2b045b47703b.mp3?hdnea=exp=1774859975~acl=/api/1/1/e/2/f/0/e2f79991f136a15c34ce2b045b47703b.mp3*~data=user_id=0,application_id=42~hmac=69c864b330ea0e08a578635b9b392b88f0d86a3b4d1e0868e2bf962161054e84",
+      "duration_ms": 170000,
+      "track_number": 10,
+      "album": {
+        "id": "463723375",
+        "name": "Life Forms",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f5ded72fe3eb00abc3398f859e17eed/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f5ded72fe3eb00abc3398f859e17eed/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6f5ded72fe3eb00abc3398f859e17eed/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5941718",
+          "name": "Kupla"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2365136145"
+      }
+    }
+  ]
+}

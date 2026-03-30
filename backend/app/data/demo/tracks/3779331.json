@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2836205262",
+      "name": "Serenity Found",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/9/0/9b9a43bbc475bc51d3a7b37d540cf3ec.mp3?hdnea=exp=1774860066~acl=/api/1/1/9/b/9/0/9b9a43bbc475bc51d3a7b37d540cf3ec.mp3*~data=user_id=0,application_id=42~hmac=f8327a0da2a34b37dba92879963660fb0592c08db561aac6895d45fdbfee09af",
+      "duration_ms": 264000,
+      "track_number": 1,
+      "album": {
+        "id": "597945722",
+        "name": "Duality",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f2a744844aec5ad1dc58268f612ceb59/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f2a744844aec5ad1dc58268f612ceb59/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f2a744844aec5ad1dc58268f612ceb59/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2836205262"
+      }
+    },
+    {
+      "id": "568148612",
+      "name": "Carol Of The Bells",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/a/0/b5a01f2cae1288c3b77f4af81e6694fa.mp3?hdnea=exp=1774860066~acl=/api/1/1/b/5/a/0/b5a01f2cae1288c3b77f4af81e6694fa.mp3*~data=user_id=0,application_id=42~hmac=33281f4bdd0122e45cf375fe6d1666bbc5bf68470f0b5a3a8987676c9c03a1ce",
+      "duration_ms": 166000,
+      "track_number": 2,
+      "album": {
+        "id": "75624482",
+        "name": "Warmer In The Winter (Deluxe Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/201b1f4c04938d06088f4dab37492674/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/201b1f4c04938d06088f4dab37492674/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/201b1f4c04938d06088f4dab37492674/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/568148612"
+      }
+    },
+    {
+      "id": "3560256241",
+      "name": "Shatter Me",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/5/0/6f55bec815f5e4a77f41322dba5834df.mp3?hdnea=exp=1774860066~acl=/api/1/1/6/f/5/0/6f55bec815f5e4a77f41322dba5834df.mp3*~data=user_id=0,application_id=42~hmac=90c5fcc9787725565766a149a024d479c86e79bfc3c2257d466e436cae4b69d7",
+      "duration_ms": 281000,
+      "track_number": 3,
+      "album": {
+        "id": "823056721",
+        "name": "Shatter Me (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2505e2d392c8f915e260d353e8eb555f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2505e2d392c8f915e260d353e8eb555f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2505e2d392c8f915e260d353e8eb555f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3560256241"
+      }
+    },
+    {
+      "id": "71347057",
+      "name": "Crystallize",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/3/0/4d3798d889f7f97a4ca025f6b539dc3d.mp3?hdnea=exp=1774860066~acl=/api/1/1/4/d/3/0/4d3798d889f7f97a4ca025f6b539dc3d.mp3*~data=user_id=0,application_id=42~hmac=067588a71396e1c7ef8194637374e35419f0bf6ed1d934154fec1b1de1f9ce2f",
+      "duration_ms": 259000,
+      "track_number": 4,
+      "album": {
+        "id": "7005536",
+        "name": "Lindsey Stirling",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83216f577fe220ff93a7fb6d10225ad9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83216f577fe220ff93a7fb6d10225ad9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83216f577fe220ff93a7fb6d10225ad9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/71347057"
+      }
+    },
+    {
+      "id": "127793475",
+      "name": "The Arena",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/5/0/505a6bf9450381298e7024b27eeca445.mp3?hdnea=exp=1774860066~acl=/api/1/1/5/0/5/0/505a6bf9450381298e7024b27eeca445.mp3*~data=user_id=0,application_id=42~hmac=d44282ba62efaf0cdc1b1fb21165290a94a569a1eb088174a2fc7e8d9b316fb5",
+      "duration_ms": 233000,
+      "track_number": 5,
+      "album": {
+        "id": "13490723",
+        "name": "Brave Enough",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8b390f390700606c032a61ac4680191/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8b390f390700606c032a61ac4680191/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b8b390f390700606c032a61ac4680191/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/127793475"
+      }
+    },
+    {
+      "id": "3768775282",
+      "name": "Love Goes On And On",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/c/0/edce620438f4df99804ed11b86c2d2c1.mp3?hdnea=exp=1774860066~acl=/api/1/1/e/d/c/0/edce620438f4df99804ed11b86c2d2c1.mp3*~data=user_id=0,application_id=42~hmac=fdd9b147fc38e14ca27a222b1c5f68f5f68371c6c0788fba77da528961a0ff81",
+      "duration_ms": 180000,
+      "track_number": 6,
+      "album": {
+        "id": "895745862",
+        "name": "Artemis",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/800d42332abe7bc8458ab8af5a1772f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/800d42332abe7bc8458ab8af5a1772f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/800d42332abe7bc8458ab8af5a1772f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3768775282"
+      }
+    },
+    {
+      "id": "3694243352",
+      "name": "Untamed (feat. Lindsey Stirling) (Ingame version)",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/1/0/861abfc35a42cde25138e1b0d6f35c63.mp3?hdnea=exp=1774860066~acl=/api/1/1/8/6/1/0/861abfc35a42cde25138e1b0d6f35c63.mp3*~data=user_id=0,application_id=42~hmac=3ec40784775bb1a8f580829f5f810db7032eb57f46a1ddfd4e816f1d8603fa51",
+      "duration_ms": 186000,
+      "track_number": 7,
+      "album": {
+        "id": "869541942",
+        "name": "Untamed (feat. Lindsey Stirling) [Ingame version]",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/314419abc78a86728a1e9fce1d65953b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/314419abc78a86728a1e9fce1d65953b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/314419abc78a86728a1e9fce1d65953b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3694243352"
+      }
+    },
+    {
+      "id": "3560256261",
+      "name": "Roundtable Rival",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/2/0/9d271b2525bcb45e7cd12806b55d61ef.mp3?hdnea=exp=1774860066~acl=/api/1/1/9/d/2/0/9d271b2525bcb45e7cd12806b55d61ef.mp3*~data=user_id=0,application_id=42~hmac=3080e541210b3bbb6cb0b7615dbbc48148533191ceeed8349389c5ed2f6a50d1",
+      "duration_ms": 204000,
+      "track_number": 8,
+      "album": {
+        "id": "823056721",
+        "name": "Shatter Me (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2505e2d392c8f915e260d353e8eb555f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2505e2d392c8f915e260d353e8eb555f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2505e2d392c8f915e260d353e8eb555f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3560256261"
+      }
+    },
+    {
+      "id": "71347062",
+      "name": "Elements",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/e/0/49e9d1818c060d278c4159cdf8c9979f.mp3?hdnea=exp=1774860066~acl=/api/1/1/4/9/e/0/49e9d1818c060d278c4159cdf8c9979f.mp3*~data=user_id=0,application_id=42~hmac=b6a98ffc0e92bfd644750a11d21bf0ab09d06e5cf0a312318c8c407c7fd64d8a",
+      "duration_ms": 248000,
+      "track_number": 9,
+      "album": {
+        "id": "7005536",
+        "name": "Lindsey Stirling",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83216f577fe220ff93a7fb6d10225ad9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83216f577fe220ff93a7fb6d10225ad9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/83216f577fe220ff93a7fb6d10225ad9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/71347062"
+      }
+    },
+    {
+      "id": "3773671832",
+      "name": "Artemis",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/c/0/9ec2c67a06a243eb4baead7f9c6e6485.mp3?hdnea=exp=1774860066~acl=/api/1/1/9/e/c/0/9ec2c67a06a243eb4baead7f9c6e6485.mp3*~data=user_id=0,application_id=42~hmac=e516d961f166a07c9d172925782b1af8115ae593d34a05150653802ec51c490b",
+      "duration_ms": 237000,
+      "track_number": 10,
+      "album": {
+        "id": "897282852",
+        "name": "Artemis",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/800d42332abe7bc8458ab8af5a1772f9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/800d42332abe7bc8458ab8af5a1772f9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/800d42332abe7bc8458ab8af5a1772f9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3779331",
+          "name": "Lindsey Stirling"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3773671832"
+      }
+    }
+  ]
+}

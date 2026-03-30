@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2747874731",
+      "name": "We Still Don't Trust You",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/c/0/87c7f3b86fc187b090cd0a19e7c40529.mp3?hdnea=exp=1774859898~acl=/api/1/1/8/7/c/0/87c7f3b86fc187b090cd0a19e7c40529.mp3*~data=user_id=0,application_id=42~hmac=dbc3c906d09604c77822ebf24f7370c4c09531bca4825a20c14cf79fe7764832",
+      "duration_ms": 253000,
+      "track_number": 1,
+      "album": {
+        "id": "572346801",
+        "name": "WE STILL DON'T TRUST YOU",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/475b27916ce9ad78b45236d307cd3b94/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2747874731"
+      }
+    },
+    {
+      "id": "380537271",
+      "name": "Solo",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/3/0/cc347b08a62b63d3a5aa04edb62a980a.mp3?hdnea=exp=1774859898~acl=/api/1/1/c/c/3/0/cc347b08a62b63d3a5aa04edb62a980a.mp3*~data=user_id=0,application_id=42~hmac=0ef474232a85a24873027d653586123637661881bae627128820269a2b4864dc",
+      "duration_ms": 265000,
+      "track_number": 2,
+      "album": {
+        "id": "44182161",
+        "name": "HNDRXX",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf48c4a628e2f4e92f80dff32275a237/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf48c4a628e2f4e92f80dff32275a237/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bf48c4a628e2f4e92f80dff32275a237/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/380537271"
+      }
+    },
+    {
+      "id": "2047662407",
+      "name": "Too Many Nights",
+      "popularity": 77,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/7/0/40729c449f6e279625fae4b7c6eec530.mp3?hdnea=exp=1774859898~acl=/api/1/1/4/0/7/0/40729c449f6e279625fae4b7c6eec530.mp3*~data=user_id=0,application_id=42~hmac=016f72cc4c6c3ce57eb3e498a1bf884c95bfaa5d267fcea7a483afd2117f157e",
+      "duration_ms": 199000,
+      "track_number": 3,
+      "album": {
+        "id": "382760377",
+        "name": "HEROES & VILLAINS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2047662407"
+      }
+    },
+    {
+      "id": "142337683",
+      "name": "Mask Off",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/4/0/f24eb3845ff02fae3022d102a7d27e6a.mp3?hdnea=exp=1774859898~acl=/api/1/1/f/2/4/0/f24eb3845ff02fae3022d102a7d27e6a.mp3*~data=user_id=0,application_id=42~hmac=9260741f92500797e3dd622189839713df0f0883d7a6c1f655d87fb70e0b9452",
+      "duration_ms": 204000,
+      "track_number": 4,
+      "album": {
+        "id": "15384917",
+        "name": "FUTURE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5186078c5bd5623ebec9b2753d8aaebe/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5186078c5bd5623ebec9b2753d8aaebe/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5186078c5bd5623ebec9b2753d8aaebe/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/142337683"
+      }
+    },
+    {
+      "id": "2715581062",
+      "name": "Like That",
+      "popularity": 78,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/8/0/3f821376c0f287fd45e26d0480527cee.mp3?hdnea=exp=1774859898~acl=/api/1/1/3/f/8/0/3f821376c0f287fd45e26d0480527cee.mp3*~data=user_id=0,application_id=42~hmac=2b4a3ce57be1f1efa8da74545a1bee4047248296ce9cc90b4827eb9aa8f1bbc7",
+      "duration_ms": 267000,
+      "track_number": 5,
+      "album": {
+        "id": "563224412",
+        "name": "WE DON'T TRUST YOU",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d20cf6d65607e406213afbb3b62ce0d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d20cf6d65607e406213afbb3b62ce0d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d20cf6d65607e406213afbb3b62ce0d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2715581062"
+      }
+    },
+    {
+      "id": "2047662397",
+      "name": "Superhero (Heroes & Villains)",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/0/0/810fefaa1cf60f72ca4c5f0488fefa72.mp3?hdnea=exp=1774859898~acl=/api/1/1/8/1/0/0/810fefaa1cf60f72ca4c5f0488fefa72.mp3*~data=user_id=0,application_id=42~hmac=0a76f9c4ca0f2aed91b833f70ac9e5dcd11f4c7656ca9fe1ce7e4e67c80231d9",
+      "duration_ms": 182000,
+      "track_number": 6,
+      "album": {
+        "id": "382760377",
+        "name": "HEROES & VILLAINS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/862ab860ff69c30deeb5979db6e46b62/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2047662397"
+      }
+    },
+    {
+      "id": "2715581042",
+      "name": "Type Shit",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/5/0/b7563bc3976e2443b7b70cd3ee6b404a.mp3?hdnea=exp=1774859898~acl=/api/1/1/b/7/5/0/b7563bc3976e2443b7b70cd3ee6b404a.mp3*~data=user_id=0,application_id=42~hmac=eff6fb2c8a062cad64dfb2886e4b0722f5a8af6883c64010d65072862dada31e",
+      "duration_ms": 228000,
+      "track_number": 7,
+      "album": {
+        "id": "563224412",
+        "name": "WE DON'T TRUST YOU",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d20cf6d65607e406213afbb3b62ce0d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d20cf6d65607e406213afbb3b62ce0d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d20cf6d65607e406213afbb3b62ce0d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2715581042"
+      }
+    },
+    {
+      "id": "3827462101",
+      "name": "Bunce Road Blues",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/6/0/1868b2720d166d2b2935a9ba2562e737.mp3?hdnea=exp=1774859898~acl=/api/1/1/1/8/6/0/1868b2720d166d2b2935a9ba2562e737.mp3*~data=user_id=0,application_id=42~hmac=ca26fb2cd3b1c2fefcefbd3c649736d318e14db455c3d5250ed92ace1e8a5550",
+      "duration_ms": 311000,
+      "track_number": 8,
+      "album": {
+        "id": "913034781",
+        "name": "The Fall-Off",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba58221a878715b6d99912ce63ea63d5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba58221a878715b6d99912ce63ea63d5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ba58221a878715b6d99912ce63ea63d5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3827462101"
+      }
+    },
+    {
+      "id": "2715581132",
+      "name": "Everyday Hustle",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/2/0/e6252e93f98c003c0dad771b0c140663.mp3?hdnea=exp=1774859898~acl=/api/1/1/e/6/2/0/e6252e93f98c003c0dad771b0c140663.mp3*~data=user_id=0,application_id=42~hmac=c1d35fbce7f6757102fb6c2ac71c8e2e6f5cfa483034a43ee0fd75c649f4a262",
+      "duration_ms": 226000,
+      "track_number": 9,
+      "album": {
+        "id": "563224412",
+        "name": "WE DON'T TRUST YOU",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d20cf6d65607e406213afbb3b62ce0d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d20cf6d65607e406213afbb3b62ce0d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d20cf6d65607e406213afbb3b62ce0d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2715581132"
+      }
+    },
+    {
+      "id": "960396352",
+      "name": "Hard To Choose One",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/9/0/6791b7ae04c63c2a15611debcd39e5ef.mp3?hdnea=exp=1774859898~acl=/api/1/1/6/7/9/0/6791b7ae04c63c2a15611debcd39e5ef.mp3*~data=user_id=0,application_id=42~hmac=dbc52321625b14189ee69e1372a3ab55cb954ee4d989492fe560d137d6f08ebf",
+      "duration_ms": 193000,
+      "track_number": 10,
+      "album": {
+        "id": "148218402",
+        "name": "High Off Life",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2e1fee15d10cc193b131edb91194b145/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2e1fee15d10cc193b131edb91194b145/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2e1fee15d10cc193b131edb91194b145/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "165930",
+          "name": "Future"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/960396352"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3734606262",
+      "name": "What You Saying",
+      "popularity": 98,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/c/0/23c33d09733445a37031a73510559b32.mp3?hdnea=exp=1774859901~acl=/api/1/1/2/3/c/0/23c33d09733445a37031a73510559b32.mp3*~data=user_id=0,application_id=42~hmac=d08b8cad92f1261cdea108554bb5ee9791c389e49ff67b9b51bbefff51bc553b",
+      "duration_ms": 131000,
+      "track_number": 1,
+      "album": {
+        "id": "883208992",
+        "name": "What You Saying",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8f9f42a8ef7f1c7936317440be09d3c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8f9f42a8ef7f1c7936317440be09d3c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8f9f42a8ef7f1c7936317440be09d3c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3734606262"
+      }
+    },
+    {
+      "id": "144949268",
+      "name": "XO Tour Llif3",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/e/0/1de55b46e46aca300e03b20f4d93faf4.mp3?hdnea=exp=1774859901~acl=/api/1/1/1/d/e/0/1de55b46e46aca300e03b20f4d93faf4.mp3*~data=user_id=0,application_id=42~hmac=b0536d1d2d33c949b237c030ac2e2aab1b3c40d5271b49e02534bdaaf4da9a29",
+      "duration_ms": 182000,
+      "track_number": 2,
+      "album": {
+        "id": "15733128",
+        "name": "XO Tour Llif3",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/77d464b429890070fecdf853bbe426ff/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/77d464b429890070fecdf853bbe426ff/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/77d464b429890070fecdf853bbe426ff/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/144949268"
+      }
+    },
+    {
+      "id": "125536818",
+      "name": "You Was Right",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/e/0/b5e4e40e013ad0af1240eb73cdf43fa1.mp3?hdnea=exp=1774859901~acl=/api/1/1/b/5/e/0/b5e4e40e013ad0af1240eb73cdf43fa1.mp3*~data=user_id=0,application_id=42~hmac=5b98e6de8fd5b7c4b6bef2b9f4e90ec9ba2b819384f6f4da55259d14aa69d90d",
+      "duration_ms": 163000,
+      "track_number": 3,
+      "album": {
+        "id": "13203512",
+        "name": "Lil Uzi Vert vs. The World",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e67037fb4abb754a234bd3f77752450d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e67037fb4abb754a234bd3f77752450d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e67037fb4abb754a234bd3f77752450d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/125536818"
+      }
+    },
+    {
+      "id": "428537532",
+      "name": "20 Min",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/9/0/6a96f191b6491231cb7d5d2209814486.mp3?hdnea=exp=1774859901~acl=/api/1/1/6/a/9/0/6a96f191b6491231cb7d5d2209814486.mp3*~data=user_id=0,application_id=42~hmac=5934676ef53f679d40a6a613e6d67b375cc54b46bf38de4eae7687016d9252f1",
+      "duration_ms": 220000,
+      "track_number": 4,
+      "album": {
+        "id": "51605122",
+        "name": "Luv Is Rage 2 (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5786e1b86286cc386722ae62a4f3e6f1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5786e1b86286cc386722ae62a4f3e6f1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5786e1b86286cc386722ae62a4f3e6f1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/428537532"
+      }
+    },
+    {
+      "id": "2308843115",
+      "name": "AmEN! (feat. Lil Uzi Vert, Daryl Palumbo & Glassjaw)",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/8/0/6681e2a224e6eaa4bb8b5b83fbeebf2a.mp3?hdnea=exp=1774859901~acl=/api/1/1/6/6/8/0/6681e2a224e6eaa4bb8b5b83fbeebf2a.mp3*~data=user_id=0,application_id=42~hmac=acd58107800344eade09f035e5e9367b69b00bd3fe9be4ff336ebb703153dd29",
+      "duration_ms": 189000,
+      "track_number": 5,
+      "album": {
+        "id": "448355855",
+        "name": "AmEN! (feat. Lil Uzi Vert, Daryl Palumbo & Glassjaw)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a72bf7f83c658e9ca82eb4c332dbe460/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a72bf7f83c658e9ca82eb4c332dbe460/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a72bf7f83c658e9ca82eb4c332dbe460/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2308843115"
+      }
+    },
+    {
+      "id": "143173344",
+      "name": "Go Off",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/d/0/d1de29c78a25cd5cd20103c178282749.mp3?hdnea=exp=1774859901~acl=/api/1/1/d/1/d/0/d1de29c78a25cd5cd20103c178282749.mp3*~data=user_id=0,application_id=42~hmac=7bb92466bf82593ee20aa1f62f0aaf9c15bcf8bd3ff5b25710a63ffa6c0912d4",
+      "duration_ms": 217000,
+      "track_number": 6,
+      "album": {
+        "id": "15498662",
+        "name": "Go Off",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/adaf5779ad3ce2d7a8bd3aef9b38d29a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/adaf5779ad3ce2d7a8bd3aef9b38d29a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/adaf5779ad3ce2d7a8bd3aef9b38d29a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/143173344"
+      }
+    },
+    {
+      "id": "1965920237",
+      "name": "Just Wanna Rock",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/c/0/78cd7965310fc361b407bb1f862d0661.mp3?hdnea=exp=1774859901~acl=/api/1/1/7/8/c/0/78cd7965310fc361b407bb1f862d0661.mp3*~data=user_id=0,application_id=42~hmac=ed5c5a9b0dca81746debcd484f290154e4f8838c37f254bdea0935b90629dcf2",
+      "duration_ms": 123000,
+      "track_number": 7,
+      "album": {
+        "id": "366584667",
+        "name": "Just Wanna Rock",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/50095c1df005d6f544431d23f6698f72/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/50095c1df005d6f544431d23f6698f72/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/50095c1df005d6f544431d23f6698f72/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1965920237"
+      }
+    },
+    {
+      "id": "898025732",
+      "name": "Homecoming",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/f/0/2bfcee2327934e73ca277f2f2e8f6243.mp3?hdnea=exp=1774859901~acl=/api/1/1/2/b/f/0/2bfcee2327934e73ca277f2f2e8f6243.mp3*~data=user_id=0,application_id=42~hmac=a22fae927811ceaf35bd198924a655e09a167c2ca6bcdb44d3cc5b22f6ddd0d4",
+      "duration_ms": 213000,
+      "track_number": 8,
+      "album": {
+        "id": "135172192",
+        "name": "Eternal Atake",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dfc30f6832a56913bedb5430007b64a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dfc30f6832a56913bedb5430007b64a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1dfc30f6832a56913bedb5430007b64a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/898025732"
+      }
+    },
+    {
+      "id": "125536822",
+      "name": "Ps & Qs",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/1/0/3e12dc0604203cbf8ebe697bd504f284.mp3?hdnea=exp=1774859901~acl=/api/1/1/3/e/1/0/3e12dc0604203cbf8ebe697bd504f284.mp3*~data=user_id=0,application_id=42~hmac=91af8be388dd67ec17a9ad7382f2bf892d265eb48a2ff1d4cd24293009a2422c",
+      "duration_ms": 221000,
+      "track_number": 9,
+      "album": {
+        "id": "13203512",
+        "name": "Lil Uzi Vert vs. The World",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e67037fb4abb754a234bd3f77752450d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e67037fb4abb754a234bd3f77752450d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e67037fb4abb754a234bd3f77752450d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/125536822"
+      }
+    },
+    {
+      "id": "2309928765",
+      "name": "All The Way Live (Spider-Man: Across the Spider-Verse)",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/9/0/2b987ed00b58e40d51a830110837090c.mp3?hdnea=exp=1774859901~acl=/api/1/1/2/b/9/0/2b987ed00b58e40d51a830110837090c.mp3*~data=user_id=0,application_id=42~hmac=25ca434596f71f1ff3719a3e6daf43da76cdfc4991f49d9b2db87fa00956a344",
+      "duration_ms": 245000,
+      "track_number": 10,
+      "album": {
+        "id": "448581475",
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bec6e38cb8986f3e5b3b7bd70e154d4f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bec6e38cb8986f3e5b3b7bd70e154d4f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/bec6e38cb8986f3e5b3b7bd70e154d4f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "7101343",
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2309928765"
+      }
+    }
+  ]
+}

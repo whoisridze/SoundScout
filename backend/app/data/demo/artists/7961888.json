@@ -1,0 +1,32 @@
+{
+  "id": "7961888",
+  "name": "Anuel AA",
+  "popularity": 99,
+  "followers": {
+    "total": 2441992
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/d128822eb60817b362b9d6e8c696e933/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/d128822eb60817b362b9d6e8c696e933/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/d128822eb60817b362b9d6e8c696e933/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/7961888"
+  },
+  "uri": "deezer:artist:7961888"
+}

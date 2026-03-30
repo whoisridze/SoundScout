@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3360821",
+      "name": "Fade Into You",
+      "popularity": 89,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/b/0/28bba46a2f7f86069f5f287cff70cf1c.mp3?hdnea=exp=1774859887~acl=/api/1/1/2/8/b/0/28bba46a2f7f86069f5f287cff70cf1c.mp3*~data=user_id=0,application_id=42~hmac=16ac47729eac5df78a159d29bb2ae4c7baad866e416ffd3c93191fce495d9d04",
+      "duration_ms": 292000,
+      "track_number": 1,
+      "album": {
+        "id": "319814",
+        "name": "So Tonight That I Might See",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3360821"
+      }
+    },
+    {
+      "id": "70051782",
+      "name": "Common Burn",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/5/9/0/759a79ff0df6214a5e056d6fde0c7b2a.mp3?hdnea=exp=1774859887~acl=/api/1/1/7/5/9/0/759a79ff0df6214a5e056d6fde0c7b2a.mp3*~data=user_id=0,application_id=42~hmac=a5b0c1f91c94bf77beb5fb08a714c9ebcfa132a556aa28d735ad86e29660230b",
+      "duration_ms": 309000,
+      "track_number": 2,
+      "album": {
+        "id": "6869730",
+        "name": "Seasons of Your Day",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58dcc1a3b7fdba871be8e79018ed0bf2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58dcc1a3b7fdba871be8e79018ed0bf2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/58dcc1a3b7fdba871be8e79018ed0bf2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/70051782"
+      }
+    },
+    {
+      "id": "3360829",
+      "name": "Into Dust",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/1/0/1013dac5aa6f636d3f91233391d70beb.mp3?hdnea=exp=1774859887~acl=/api/1/1/1/0/1/0/1013dac5aa6f636d3f91233391d70beb.mp3*~data=user_id=0,application_id=42~hmac=93fdb81911b8c1f47f6acf108595dbf1d416927db9f67a99c4ce8d2b7f6926f1",
+      "duration_ms": 336000,
+      "track_number": 3,
+      "album": {
+        "id": "319814",
+        "name": "So Tonight That I Might See",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3360829"
+      }
+    },
+    {
+      "id": "3130630",
+      "name": "Look On Down From The Bridge",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/b/0/f8b665633a0434a514cb7067de061475.mp3?hdnea=exp=1774859887~acl=/api/1/1/f/8/b/0/f8b665633a0434a514cb7067de061475.mp3*~data=user_id=0,application_id=42~hmac=20eb952034bcb70e08c0d804f931d228731a562c8ea9887dacdf213c4f9f6da2",
+      "duration_ms": 287000,
+      "track_number": 4,
+      "album": {
+        "id": "301802",
+        "name": "Among My Swan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118edee1ac46ee295ac30d60387f673b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118edee1ac46ee295ac30d60387f673b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118edee1ac46ee295ac30d60387f673b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3130630"
+      }
+    },
+    {
+      "id": "95375704",
+      "name": "The Wanderings of The Avener (Continuous Mix)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/4/9/0/349ee6aeb741e99b4625a774b62b7e7b.mp3?hdnea=exp=1774859887~acl=/api/1/1/3/4/9/0/349ee6aeb741e99b4625a774b62b7e7b.mp3*~data=user_id=0,application_id=42~hmac=bfc3768ac7300cf0ddd2fa79e80739a14f4f195d04592815090351a83c24b0ad",
+      "duration_ms": 3250000,
+      "track_number": 5,
+      "album": {
+        "id": "9703822",
+        "name": "The Wanderings Of The Avener",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/72a02f7727eaaa38c6faa2ed3eec9d4f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/72a02f7727eaaa38c6faa2ed3eec9d4f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/72a02f7727eaaa38c6faa2ed3eec9d4f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/95375704"
+      }
+    },
+    {
+      "id": "111780316",
+      "name": "Fade Into You (The Avener Rework)",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/d/0/f1dd944731464de2c388d4340ed40154.mp3?hdnea=exp=1774859887~acl=/api/1/1/f/1/d/0/f1dd944731464de2c388d4340ed40154.mp3*~data=user_id=0,application_id=42~hmac=c43ec7a7f5e3488bca20b49ed9516a93374d75f3678502c5d192b48ac6f4a47f",
+      "duration_ms": 252000,
+      "track_number": 6,
+      "album": {
+        "id": "11603594",
+        "name": "The Wanderings Of The Avener",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c88e65a2de07dfd8f9df5359b264ae/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c88e65a2de07dfd8f9df5359b264ae/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/75c88e65a2de07dfd8f9df5359b264ae/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/111780316"
+      }
+    },
+    {
+      "id": "3360825",
+      "name": "Blue Light",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/6/0/52699fd31b946bb938ff6b043dfffec7.mp3?hdnea=exp=1774859887~acl=/api/1/1/5/2/6/0/52699fd31b946bb938ff6b043dfffec7.mp3*~data=user_id=0,application_id=42~hmac=b03c4c4b373c1ec88f33bda627480b51e9ce06a50f45ad85010e78ff0097366c",
+      "duration_ms": 310000,
+      "track_number": 7,
+      "album": {
+        "id": "319814",
+        "name": "So Tonight That I Might See",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5d3703e81301662626cc06a8b2843c78/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3360825"
+      }
+    },
+    {
+      "id": "3130627",
+      "name": "Roseblood",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/3/0/943c027c9032d4ebc12deee9856eb9fd.mp3?hdnea=exp=1774859887~acl=/api/1/1/9/4/3/0/943c027c9032d4ebc12deee9856eb9fd.mp3*~data=user_id=0,application_id=42~hmac=2c15572f6fb964f025a7f4588b8184e266c5cdb2035fc04378a347bb8b858644",
+      "duration_ms": 289000,
+      "track_number": 8,
+      "album": {
+        "id": "301802",
+        "name": "Among My Swan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118edee1ac46ee295ac30d60387f673b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118edee1ac46ee295ac30d60387f673b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118edee1ac46ee295ac30d60387f673b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3130627"
+      }
+    },
+    {
+      "id": "3123228",
+      "name": "Be My Angel",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/0/0/ef06980e87d6d660894b7980593f8f46.mp3?hdnea=exp=1774859887~acl=/api/1/1/e/f/0/0/ef06980e87d6d660894b7980593f8f46.mp3*~data=user_id=0,application_id=42~hmac=84377f1ba0dbce98ff0c2dfedbeff5da04dad2f58e06f6eb77de89eed98a6bc1",
+      "duration_ms": 194000,
+      "track_number": 9,
+      "album": {
+        "id": "301328",
+        "name": "She Hangs Brightly",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/521ac36d93b85c30c7b297a8039e12ab/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/521ac36d93b85c30c7b297a8039e12ab/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/521ac36d93b85c30c7b297a8039e12ab/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3123228"
+      }
+    },
+    {
+      "id": "3130620",
+      "name": "Flowers In December",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/1/8/0/e184b2a53a57b37548a779b3f8e78e73.mp3?hdnea=exp=1774859887~acl=/api/1/1/e/1/8/0/e184b2a53a57b37548a779b3f8e78e73.mp3*~data=user_id=0,application_id=42~hmac=d36ac6c8a2b41d88df9ee713afab89b97d2ef098d8f06100077cdac0c93f83aa",
+      "duration_ms": 295000,
+      "track_number": 10,
+      "album": {
+        "id": "301802",
+        "name": "Among My Swan",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118edee1ac46ee295ac30d60387f673b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118edee1ac46ee295ac30d60387f673b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/118edee1ac46ee295ac30d60387f673b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1306",
+          "name": "Mazzy Star"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3130620"
+      }
+    }
+  ]
+}

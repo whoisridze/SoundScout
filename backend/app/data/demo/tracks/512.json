@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3898424231",
+      "name": "Hit With Music",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/e/0/6eee76c0b5ac7b57d545b73cf35ba4b9.mp3?hdnea=exp=1774860109~acl=/api/1/1/6/e/e/0/6eee76c0b5ac7b57d545b73cf35ba4b9.mp3*~data=user_id=0,application_id=42~hmac=cca07aa63e27b8c259413fbfde045cc1d7a3e98badaf8e4170d816af3bfb4dcc",
+      "duration_ms": 195000,
+      "track_number": 1,
+      "album": {
+        "id": "938914951",
+        "name": "Hit With Music",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0afce422f0d6a1819f348268380eba98/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0afce422f0d6a1819f348268380eba98/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0afce422f0d6a1819f348268380eba98/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3898424231"
+      }
+    },
+    {
+      "id": "3087706",
+      "name": "Street Life",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/9/0/0d9fc6d4be044a64ff6cb036ffdc0a30.mp3?hdnea=exp=1774860109~acl=/api/1/1/0/d/9/0/0d9fc6d4be044a64ff6cb036ffdc0a30.mp3*~data=user_id=0,application_id=42~hmac=a42d350e9f93d49e1dd795c7120d0ce65b02d48f682011862a48aedbe782c8e7",
+      "duration_ms": 207000,
+      "track_number": 2,
+      "album": {
+        "id": "299079",
+        "name": "Tropical Storm",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/829c08b18f0870b750fe2cbb860737d2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/829c08b18f0870b750fe2cbb860737d2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/829c08b18f0870b750fe2cbb860737d2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3087706"
+      }
+    },
+    {
+      "id": "3658611",
+      "name": "Romie",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/5/0/0b5ef6fd6c77571be19a3bfadeb277cf.mp3?hdnea=exp=1774860109~acl=/api/1/1/0/b/5/0/0b5ef6fd6c77571be19a3bfadeb277cf.mp3*~data=user_id=0,application_id=42~hmac=f41309ca0c03829da91d668bea14693152e58ce8b8199d6aa573c04d13d965cb",
+      "duration_ms": 231000,
+      "track_number": 3,
+      "album": {
+        "id": "344510",
+        "name": "Total Reggae: Summer Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fdbee93dae39926d9f228b0d2db4017/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fdbee93dae39926d9f228b0d2db4017/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fdbee93dae39926d9f228b0d2db4017/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3658611"
+      }
+    },
+    {
+      "id": "3393663",
+      "name": "Street Life",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/0/0/3f0c96113871326d878030e5b87666ae.mp3?hdnea=exp=1774860109~acl=/api/1/1/3/f/0/0/3f0c96113871326d878030e5b87666ae.mp3*~data=user_id=0,application_id=42~hmac=4a625b727a30e16d4ef19cecd805e3f442ecde35fa4557d7ff0c608cd465b496",
+      "duration_ms": 207000,
+      "track_number": 4,
+      "album": {
+        "id": "322552",
+        "name": "Street Life",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f1842f2d021ad0b81dc21e9ee1eed9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f1842f2d021ad0b81dc21e9ee1eed9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d4f1842f2d021ad0b81dc21e9ee1eed9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3393663"
+      }
+    },
+    {
+      "id": "1947537057",
+      "name": "No Time (feat. Nia Archives, Beenie Man, Cristale & ShaSimone) (Kilburn Lane V.I.P)",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/0/0/9b0ff3528446d04633aba2bd774f3e3f.mp3?hdnea=exp=1774860109~acl=/api/1/1/9/b/0/0/9b0ff3528446d04633aba2bd774f3e3f.mp3*~data=user_id=0,application_id=42~hmac=94f73adb1d501d4f26a27fb6684b5a641d0abd96b22c4d6111056c49448764c9",
+      "duration_ms": 207000,
+      "track_number": 5,
+      "album": {
+        "id": "363145917",
+        "name": "No Time (feat. Nia Archives, Beenie Man, Cristale & ShaSimone) (Kilburn Lane V.I.P)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a17edbbb9bce4c4272814bec902c9c5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a17edbbb9bce4c4272814bec902c9c5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a17edbbb9bce4c4272814bec902c9c5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1947537057"
+      }
+    },
+    {
+      "id": "3122389",
+      "name": "Girls",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/5/0/e7510e3adb6b535120f1724fed1f2e65.mp3?hdnea=exp=1774860109~acl=/api/1/1/e/7/5/0/e7510e3adb6b535120f1724fed1f2e65.mp3*~data=user_id=0,application_id=42~hmac=1d271050fe061a475d39d7bc4756ace3fa5d4b2574afdfa1686ea347e50d9129",
+      "duration_ms": 243000,
+      "track_number": 6,
+      "album": {
+        "id": "301283",
+        "name": "Undisputed",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d48df9ce2e5a67deffb99e792de8b4b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d48df9ce2e5a67deffb99e792de8b4b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8d48df9ce2e5a67deffb99e792de8b4b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3122389"
+      }
+    },
+    {
+      "id": "620701792",
+      "name": "Still Around",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/6/0/9d66a63629af64d4b3e069a8a44b0481.mp3?hdnea=exp=1774860109~acl=/api/1/1/9/d/6/0/9d66a63629af64d4b3e069a8a44b0481.mp3*~data=user_id=0,application_id=42~hmac=8d37146940e8ccf30914cfe18add46272e3117c56d1e0077b4b541e0776c5fdc",
+      "duration_ms": 178000,
+      "track_number": 7,
+      "album": {
+        "id": "84981842",
+        "name": "Still Around",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2ce1c27c3c6e49818188b2d04506f5be/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2ce1c27c3c6e49818188b2d04506f5be/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2ce1c27c3c6e49818188b2d04506f5be/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/620701792"
+      }
+    },
+    {
+      "id": "6706537",
+      "name": "Under Mi Sensi (Jungle Spliff) X Project Remix",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/b/0/aeb28a0710acf8e5be3db4a437e321af.mp3?hdnea=exp=1774860109~acl=/api/1/1/a/e/b/0/aeb28a0710acf8e5be3db4a437e321af.mp3*~data=user_id=0,application_id=42~hmac=9cb4c968f30cb814ac90d3adbf2e2a74412259d1e5fbd76b48bd689abc4282b7",
+      "duration_ms": 320000,
+      "track_number": 8,
+      "album": {
+        "id": "620061",
+        "name": "Ragga Jungle Anthems Vol. One",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab7752cf930c11eeaf3839b8ed87c46e/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab7752cf930c11eeaf3839b8ed87c46e/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ab7752cf930c11eeaf3839b8ed87c46e/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/6706537"
+      }
+    },
+    {
+      "id": "3393923",
+      "name": "King Of The Dancehall",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/a/d/0/6ad901fd4ecdfac3bb8eb649f8c08e18.mp3?hdnea=exp=1774860109~acl=/api/1/1/6/a/d/0/6ad901fd4ecdfac3bb8eb649f8c08e18.mp3*~data=user_id=0,application_id=42~hmac=149fa941a4533e84350035b1092e88a386fbb4551a32dac0a5bb4f296afc3e4e",
+      "duration_ms": 217000,
+      "track_number": 9,
+      "album": {
+        "id": "322575",
+        "name": "King Of The Dancehall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ca942127830833c5302a0466bc12f81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ca942127830833c5302a0466bc12f81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3ca942127830833c5302a0466bc12f81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3393923"
+      }
+    },
+    {
+      "id": "3393740",
+      "name": "Dude",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/8/0/1c8cd40bdd583b1ec0d2ec932ec1a558.mp3?hdnea=exp=1774860109~acl=/api/1/1/1/c/8/0/1c8cd40bdd583b1ec0d2ec932ec1a558.mp3*~data=user_id=0,application_id=42~hmac=a260e0e36f1831a198072edc8a02dd87987f6df12e9959a28929215106e082ae",
+      "duration_ms": 255000,
+      "track_number": 10,
+      "album": {
+        "id": "322562",
+        "name": "Back To Basics",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46fdb8de5e0390244723ef9b1d297e26/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46fdb8de5e0390244723ef9b1d297e26/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/46fdb8de5e0390244723ef9b1d297e26/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "512",
+          "name": "Beenie Man"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3393740"
+      }
+    }
+  ]
+}

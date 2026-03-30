@@ -1,0 +1,32 @@
+{
+  "id": "710",
+  "name": "Thalia",
+  "popularity": 99,
+  "followers": {
+    "total": 1485512
+  },
+  "genres": [
+    "latin pop"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e33972e57d491ed494ccd588f486c427/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e33972e57d491ed494ccd588f486c427/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/e33972e57d491ed494ccd588f486c427/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/710"
+  },
+  "uri": "deezer:artist:710"
+}

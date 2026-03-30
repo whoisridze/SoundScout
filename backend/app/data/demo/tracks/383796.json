@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1085395052",
+      "name": "Matamua",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/1/0/9410b005ee1a14e75c37b250d22bccf0.mp3?hdnea=exp=1774860099~acl=/api/1/1/9/4/1/0/9410b005ee1a14e75c37b250d22bccf0.mp3*~data=user_id=0,application_id=42~hmac=e51e3b8888539fd6f1954bc9878921042b3aad66bd63d27d2080fb2d8e92aa56",
+      "duration_ms": 587000,
+      "track_number": 1,
+      "album": {
+        "id": "174402022",
+        "name": "Illumination of the Heart",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce3b208031feba90e586a5e8f624b711/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce3b208031feba90e586a5e8f624b711/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ce3b208031feba90e586a5e8f624b711/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085395052"
+      }
+    },
+    {
+      "id": "1085395532",
+      "name": "Huit",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/a/0/a8ae78c11910c3d8d4bccb216d3da57e.mp3?hdnea=exp=1774860099~acl=/api/1/1/a/8/a/0/a8ae78c11910c3d8d4bccb216d3da57e.mp3*~data=user_id=0,application_id=42~hmac=56f3f2c1c1b6b01645c083088be89b8264a0e50a89713bc3e37e2a50827f6151",
+      "duration_ms": 522000,
+      "track_number": 2,
+      "album": {
+        "id": "174402082",
+        "name": "Atmospheres",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a9cd5831b40e4feb99f16498eb1d3f1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a9cd5831b40e4feb99f16498eb1d3f1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a9cd5831b40e4feb99f16498eb1d3f1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085395532"
+      }
+    },
+    {
+      "id": "1085395492",
+      "name": "Four",
+      "popularity": 24,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/4/0/8746652c98d1599cf7da6d9a5c6ad720.mp3?hdnea=exp=1774860099~acl=/api/1/1/8/7/4/0/8746652c98d1599cf7da6d9a5c6ad720.mp3*~data=user_id=0,application_id=42~hmac=0e0f3c79d109af1f41bcdb23785fc6cb2aa9af5d63daae565356ec2f80b24e54",
+      "duration_ms": 420000,
+      "track_number": 3,
+      "album": {
+        "id": "174402082",
+        "name": "Atmospheres",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a9cd5831b40e4feb99f16498eb1d3f1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a9cd5831b40e4feb99f16498eb1d3f1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a9cd5831b40e4feb99f16498eb1d3f1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085395492"
+      }
+    },
+    {
+      "id": "1085394522",
+      "name": "Morning Light Silhouettes 2",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/9/0/0/190e355d772cea16a815d6497c236baf.mp3?hdnea=exp=1774860099~acl=/api/1/1/1/9/0/0/190e355d772cea16a815d6497c236baf.mp3*~data=user_id=0,application_id=42~hmac=7918c08bc59e83044e47beaf12e1bafed4a84861e1319f1fd4dba2c932ae4bf9",
+      "duration_ms": 321000,
+      "track_number": 4,
+      "album": {
+        "id": "174401922",
+        "name": "Reiki Hands of Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085394522"
+      }
+    },
+    {
+      "id": "1085394542",
+      "name": "Love's Winged Messenger",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/6/0/d462285a566285087eef642d88c07f85.mp3?hdnea=exp=1774860099~acl=/api/1/1/d/4/6/0/d462285a566285087eef642d88c07f85.mp3*~data=user_id=0,application_id=42~hmac=413881327ee9bf3b243794c18786aba4601a1434c22714f9f37d345ae6a29843",
+      "duration_ms": 433000,
+      "track_number": 5,
+      "album": {
+        "id": "174401922",
+        "name": "Reiki Hands of Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085394542"
+      }
+    },
+    {
+      "id": "1085394012",
+      "name": "Temple of Silence",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/a/0/f3a91f7f63a63368ec51a1b25007a8e7.mp3?hdnea=exp=1774860099~acl=/api/1/1/f/3/a/0/f3a91f7f63a63368ec51a1b25007a8e7.mp3*~data=user_id=0,application_id=42~hmac=b4ddd4964c79f91fe19df092f861bb7b543dc47422e61166461c8726abf842ef",
+      "duration_ms": 556000,
+      "track_number": 6,
+      "album": {
+        "id": "174401872",
+        "name": "Garden of the Gods",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f6e39760ab27578303c509e499b1717/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f6e39760ab27578303c509e499b1717/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f6e39760ab27578303c509e499b1717/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085394012"
+      }
+    },
+    {
+      "id": "1085394572",
+      "name": "Deeper than the Sky",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/b/0/97bf882f54f7153c0af6e71513d54d85.mp3?hdnea=exp=1774860099~acl=/api/1/1/9/7/b/0/97bf882f54f7153c0af6e71513d54d85.mp3*~data=user_id=0,application_id=42~hmac=348da671c3d2969d1f91d8bf7422e86994961817b6d091c15a97a84f743332b5",
+      "duration_ms": 297000,
+      "track_number": 7,
+      "album": {
+        "id": "174401922",
+        "name": "Reiki Hands of Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085394572"
+      }
+    },
+    {
+      "id": "1085395502",
+      "name": "Cinque",
+      "popularity": 22,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/3/0/523ac5808941d93409ac72ce67d2550f.mp3?hdnea=exp=1774860099~acl=/api/1/1/5/2/3/0/523ac5808941d93409ac72ce67d2550f.mp3*~data=user_id=0,application_id=42~hmac=bf44705f79a191839e745878abc5cde34ca9b62b3bd58ca1a21f8f182b63a906",
+      "duration_ms": 416000,
+      "track_number": 8,
+      "album": {
+        "id": "174402082",
+        "name": "Atmospheres",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a9cd5831b40e4feb99f16498eb1d3f1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a9cd5831b40e4feb99f16498eb1d3f1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3a9cd5831b40e4feb99f16498eb1d3f1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085395502"
+      }
+    },
+    {
+      "id": "1085394562",
+      "name": "Unknown Doors",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/0/0/6906ba6e59696d321bbeb2baabe719b1.mp3?hdnea=exp=1774860099~acl=/api/1/1/6/9/0/0/6906ba6e59696d321bbeb2baabe719b1.mp3*~data=user_id=0,application_id=42~hmac=bed2bc5cac829405a2116b362ba4116fa7c6dfd2435295aa1295e7d772f0abc5",
+      "duration_ms": 349000,
+      "track_number": 9,
+      "album": {
+        "id": "174401922",
+        "name": "Reiki Hands of Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085394562"
+      }
+    },
+    {
+      "id": "1085394532",
+      "name": "Cloud Surfing",
+      "popularity": 30,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/7/0/ba7323a297d9a29bf63cae50cdee761a.mp3?hdnea=exp=1774860099~acl=/api/1/1/b/a/7/0/ba7323a297d9a29bf63cae50cdee761a.mp3*~data=user_id=0,application_id=42~hmac=f28035a6407c863a99c85916a08f1933ecd2ad4914baaf9ea0ca70f02a0075ee",
+      "duration_ms": 298000,
+      "track_number": 10,
+      "album": {
+        "id": "174401922",
+        "name": "Reiki Hands of Love",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/704a8e2982514fa497c53d869e2e5a36/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "383796",
+          "name": "Deuter"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1085394532"
+      }
+    }
+  ]
+}

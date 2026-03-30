@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "423589402",
+      "name": "Mystery of Love",
+      "popularity": 87,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/6/0/d664b3fedd26911dd00248e322364f13.mp3?hdnea=exp=1774860049~acl=/api/1/1/d/6/6/0/d664b3fedd26911dd00248e322364f13.mp3*~data=user_id=0,application_id=42~hmac=b603f6cb8117cf59be9208f8fa63339861e266da614a835a05d6eddd0f70e2c1",
+      "duration_ms": 249000,
+      "track_number": 1,
+      "album": {
+        "id": "50846532",
+        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb53b83c1a284596a9be09f8187f0178/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb53b83c1a284596a9be09f8187f0178/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb53b83c1a284596a9be09f8187f0178/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/423589402"
+      }
+    },
+    {
+      "id": "96861532",
+      "name": "Should Have Known Better",
+      "popularity": 70,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/6/0/0a63b3f81a676ea19f77bf62de83fa6f.mp3?hdnea=exp=1774860049~acl=/api/1/1/0/a/6/0/0a63b3f81a676ea19f77bf62de83fa6f.mp3*~data=user_id=0,application_id=42~hmac=2b8fac6eae0c03b568a6ea8bff06cbc61783cf9387c470de3e40275cb70e5a30",
+      "duration_ms": 308000,
+      "track_number": 2,
+      "album": {
+        "id": "9859372",
+        "name": "Carrie & Lowell",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/96861532"
+      }
+    },
+    {
+      "id": "96861530",
+      "name": "Death with Dignity",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/d/0/e7dcfb3cb54a6384bd89a6c3c914f797.mp3?hdnea=exp=1774860049~acl=/api/1/1/e/7/d/0/e7dcfb3cb54a6384bd89a6c3c914f797.mp3*~data=user_id=0,application_id=42~hmac=821a937f00e95929ec95e2343c55c19b2bd941a20a49b727428558b11335b65a",
+      "duration_ms": 240000,
+      "track_number": 3,
+      "album": {
+        "id": "9859372",
+        "name": "Carrie & Lowell",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/96861530"
+      }
+    },
+    {
+      "id": "3221436061",
+      "name": "Death with Dignity (Demo)",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/7/0/417f53312ca10fc3a54d2fba612443c4.mp3?hdnea=exp=1774860049~acl=/api/1/1/4/1/7/0/417f53312ca10fc3a54d2fba612443c4.mp3*~data=user_id=0,application_id=42~hmac=a9cb8744819b716d74c4c541a3e82e1f672a813bf809eb4322330d384c26f4eb",
+      "duration_ms": 243000,
+      "track_number": 4,
+      "album": {
+        "id": "709129651",
+        "name": "Death With Dignity (Demo)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c4eb32ab32723339f5dcf6eb0f8d7be/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c4eb32ab32723339f5dcf6eb0f8d7be/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3c4eb32ab32723339f5dcf6eb0f8d7be/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3221436061"
+      }
+    },
+    {
+      "id": "62719572",
+      "name": "Futile Devices",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/0/0/420ef7f31865dc0b1ca3d2fe772dbfb2.mp3?hdnea=exp=1774860049~acl=/api/1/1/4/2/0/0/420ef7f31865dc0b1ca3d2fe772dbfb2.mp3*~data=user_id=0,application_id=42~hmac=bf300ab8142d3499570e1edf433eb641fecedd60ce47446add16aa81a04d7890",
+      "duration_ms": 133000,
+      "track_number": 5,
+      "album": {
+        "id": "6156571",
+        "name": "The Age of Adz",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9dd4b3ca48decea703f3fb1941339ae4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9dd4b3ca48decea703f3fb1941339ae4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9dd4b3ca48decea703f3fb1941339ae4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/62719572"
+      }
+    },
+    {
+      "id": "423589442",
+      "name": "Visions of Gideon",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/e/0/18e853cd5b08e877be34b056fc1077ff.mp3?hdnea=exp=1774860049~acl=/api/1/1/1/8/e/0/18e853cd5b08e877be34b056fc1077ff.mp3*~data=user_id=0,application_id=42~hmac=915e06fe016c34e86ec3c89ad43746e7fc22e3d7948579630d5a64901a97ef6b",
+      "duration_ms": 248000,
+      "track_number": 6,
+      "album": {
+        "id": "50846532",
+        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb53b83c1a284596a9be09f8187f0178/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb53b83c1a284596a9be09f8187f0178/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb53b83c1a284596a9be09f8187f0178/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/423589442"
+      }
+    },
+    {
+      "id": "96861536",
+      "name": "Drawn to the Blood",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/9/0/e49e3eb890950ba1a0917e84d8bbe44b.mp3?hdnea=exp=1774860049~acl=/api/1/1/e/4/9/0/e49e3eb890950ba1a0917e84d8bbe44b.mp3*~data=user_id=0,application_id=42~hmac=ffff4c63918a5f158b291455935a0a3c22ff2716ad4237cd33d0e54d74054c3b",
+      "duration_ms": 198000,
+      "track_number": 7,
+      "album": {
+        "id": "9859372",
+        "name": "Carrie & Lowell",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/96861536"
+      }
+    },
+    {
+      "id": "1407472682",
+      "name": "Back To Oz",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/6/0/096dbdd6a154381c6d4dc15d5f70d5db.mp3?hdnea=exp=1774860049~acl=/api/1/1/0/9/6/0/096dbdd6a154381c6d4dc15d5f70d5db.mp3*~data=user_id=0,application_id=42~hmac=d6dfb0c841552a83eeaa594670ffca460222656748a633095bcd4bc287d1f35b",
+      "duration_ms": 252000,
+      "track_number": 8,
+      "album": {
+        "id": "237984452",
+        "name": "A Beginner's Mind",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7acb99834b4d638e132b5713435921ef/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7acb99834b4d638e132b5713435921ef/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7acb99834b4d638e132b5713435921ef/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1407472682"
+      }
+    },
+    {
+      "id": "2393697965",
+      "name": "So You Are Tired",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/0/0/f102f986f115eb4313673d0466a41004.mp3?hdnea=exp=1774860049~acl=/api/1/1/f/1/0/0/f102f986f115eb4313673d0466a41004.mp3*~data=user_id=0,application_id=42~hmac=5f0b3fc8670c2ee93a2ce7015b09cf3b00c7311e7ff762c43e3a0f0ab92fda1f",
+      "duration_ms": 290000,
+      "track_number": 9,
+      "album": {
+        "id": "471667525",
+        "name": "Javelin",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e27baa7ae983b626fc5434e3175e32c6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e27baa7ae983b626fc5434e3175e32c6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e27baa7ae983b626fc5434e3175e32c6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2393697965"
+      }
+    },
+    {
+      "id": "96861550",
+      "name": "Blue Bucket of Gold",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/0/0/fe0721cdcd6b64767338bcb8b375141f.mp3?hdnea=exp=1774860049~acl=/api/1/1/f/e/0/0/fe0721cdcd6b64767338bcb8b375141f.mp3*~data=user_id=0,application_id=42~hmac=c2dd28e073e0105a4549bd94e75896b6c574cbdf58c49251ba3193c73e0b3ea4",
+      "duration_ms": 285000,
+      "track_number": 10,
+      "album": {
+        "id": "9859372",
+        "name": "Carrie & Lowell",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/122a6ace3852ad75a05aa435d17b38b3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1999",
+          "name": "Sufjan Stevens"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/96861550"
+      }
+    }
+  ]
+}

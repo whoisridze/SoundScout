@@ -1,0 +1,484 @@
+{
+  "items": [
+    {
+      "id": "266523712",
+      "name": "Sean Paul",
+      "popularity": 1,
+      "followers": {
+        "total": 75
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c834467563c989d45d43522bcff8770f/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c834467563c989d45d43522bcff8770f/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c834467563c989d45d43522bcff8770f/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/266523712"
+      },
+      "uri": "deezer:artist:266523712"
+    },
+    {
+      "id": "461",
+      "name": "Shaggy",
+      "popularity": 86,
+      "followers": {
+        "total": 864098
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ba29e3dd35e56a063fa6cf1cee460517/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ba29e3dd35e56a063fa6cf1cee460517/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/ba29e3dd35e56a063fa6cf1cee460517/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/461"
+      },
+      "uri": "deezer:artist:461"
+    },
+    {
+      "id": "512",
+      "name": "Beenie Man",
+      "popularity": 39,
+      "followers": {
+        "total": 399103
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c631fe0f39db902e3ab5a13db7fdc3f8/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c631fe0f39db902e3ab5a13db7fdc3f8/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/c631fe0f39db902e3ab5a13db7fdc3f8/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/512"
+      },
+      "uri": "deezer:artist:512"
+    },
+    {
+      "id": "7081",
+      "name": "Buju Banton",
+      "popularity": 24,
+      "followers": {
+        "total": 249360
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0c00f0b85c93362c4e7f8f8d5daf6c5d/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0c00f0b85c93362c4e7f8f8d5daf6c5d/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/0c00f0b85c93362c4e7f8f8d5daf6c5d/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/7081"
+      },
+      "uri": "deezer:artist:7081"
+    },
+    {
+      "id": "100675",
+      "name": "Vybz Kartel",
+      "popularity": 99,
+      "followers": {
+        "total": 1040314
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f7b3120a56baee2381d61054658d6077/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f7b3120a56baee2381d61054658d6077/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/f7b3120a56baee2381d61054658d6077/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/100675"
+      },
+      "uri": "deezer:artist:100675"
+    },
+    {
+      "id": "377827",
+      "name": "Popcaan",
+      "popularity": 33,
+      "followers": {
+        "total": 332176
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/17a66041a82cd6ead846178a104ecdf4/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/17a66041a82cd6ead846178a104ecdf4/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/17a66041a82cd6ead846178a104ecdf4/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/377827"
+      },
+      "uri": "deezer:artist:377827"
+    },
+    {
+      "id": "1654286",
+      "name": "Alkaline",
+      "popularity": 25,
+      "followers": {
+        "total": 251722
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/cc784c1783e5ffd461a6e0ff051a0a93/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/cc784c1783e5ffd461a6e0ff051a0a93/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/cc784c1783e5ffd461a6e0ff051a0a93/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/1654286"
+      },
+      "uri": "deezer:artist:1654286"
+    },
+    {
+      "id": "164002",
+      "name": "Konshens",
+      "popularity": 41,
+      "followers": {
+        "total": 415894
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/963b548af5975c1ad7b572b870c40cd2/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/963b548af5975c1ad7b572b870c40cd2/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/963b548af5975c1ad7b572b870c40cd2/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/164002"
+      },
+      "uri": "deezer:artist:164002"
+    },
+    {
+      "id": "565873",
+      "name": "Kranium",
+      "popularity": 8,
+      "followers": {
+        "total": 86613
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bfb84043ae24937e45a01fa12345f2a4/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bfb84043ae24937e45a01fa12345f2a4/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/bfb84043ae24937e45a01fa12345f2a4/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/565873"
+      },
+      "uri": "deezer:artist:565873"
+    },
+    {
+      "id": "63631212",
+      "name": "Koffee",
+      "popularity": 1,
+      "followers": {
+        "total": 15
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/38babf9761c09b12c8c1d4b77b6cf799/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/38babf9761c09b12c8c1d4b77b6cf799/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/38babf9761c09b12c8c1d4b77b6cf799/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/63631212"
+      },
+      "uri": "deezer:artist:63631212"
+    },
+    {
+      "id": "874562",
+      "name": "Skeng",
+      "popularity": 1,
+      "followers": {
+        "total": 13916
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d8555ee4bf96e94eec561731549f3ddf/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d8555ee4bf96e94eec561731549f3ddf/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/d8555ee4bf96e94eec561731549f3ddf/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/874562"
+      },
+      "uri": "deezer:artist:874562"
+    },
+    {
+      "id": "17008",
+      "name": "Spice",
+      "popularity": 7,
+      "followers": {
+        "total": 72402
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/83e3c5365a7710d6ce8c113e2e1979ec/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/83e3c5365a7710d6ce8c113e2e1979ec/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/83e3c5365a7710d6ce8c113e2e1979ec/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/17008"
+      },
+      "uri": "deezer:artist:17008"
+    },
+    {
+      "id": "10668885",
+      "name": "Shenseea",
+      "popularity": 12,
+      "followers": {
+        "total": 125439
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/04c0476cd30400df4b58a283393d4711/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/04c0476cd30400df4b58a283393d4711/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/04c0476cd30400df4b58a283393d4711/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/10668885"
+      },
+      "uri": "deezer:artist:10668885"
+    },
+    {
+      "id": "249563132",
+      "name": "Stylo G",
+      "popularity": 1,
+      "followers": {
+        "total": 2
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/27d46174b938e36ddc8f2d66a3c6a45a/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/27d46174b938e36ddc8f2d66a3c6a45a/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/27d46174b938e36ddc8f2d66a3c6a45a/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/249563132"
+      },
+      "uri": "deezer:artist:249563132"
+    },
+    {
+      "id": "116337",
+      "name": "Busy Signal",
+      "popularity": 48,
+      "followers": {
+        "total": 483679
+      },
+      "genres": [
+        "dancehall"
+      ],
+      "images": [
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e301b4f45ac1fb313cb8c6783473d43e/1000x1000-000000-80-0-0.jpg",
+          "height": 1000,
+          "width": 1000
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e301b4f45ac1fb313cb8c6783473d43e/500x500-000000-80-0-0.jpg",
+          "height": 500,
+          "width": 500
+        },
+        {
+          "url": "https://cdn-images.dzcdn.net/images/artist/e301b4f45ac1fb313cb8c6783473d43e/250x250-000000-80-0-0.jpg",
+          "height": 250,
+          "width": 250
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/artist/116337"
+      },
+      "uri": "deezer:artist:116337"
+    }
+  ]
+}

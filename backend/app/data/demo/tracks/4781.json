@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "7731922",
+      "name": "Blues Deluxe",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/2/0/0b2e50cd936dd0fdd131022f6bebc1bb.mp3?hdnea=exp=1774859959~acl=/api/1/1/0/b/2/0/0b2e50cd936dd0fdd131022f6bebc1bb.mp3*~data=user_id=0,application_id=42~hmac=4a5de03347c758604120d2cf283a7bd3851806d0bcf3f67d86c936592100ba1c",
+      "duration_ms": 440000,
+      "track_number": 1,
+      "album": {
+        "id": "713829",
+        "name": "Blues Deluxe",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c5f017cf9f7386ed615823fa4a56da27/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c5f017cf9f7386ed615823fa4a56da27/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c5f017cf9f7386ed615823fa4a56da27/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/7731922"
+      }
+    },
+    {
+      "id": "117463796",
+      "name": "Drive",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/e/0/9eef22437bcb214951365532e8ca19a3.mp3?hdnea=exp=1774859959~acl=/api/1/1/9/e/e/0/9eef22437bcb214951365532e8ca19a3.mp3*~data=user_id=0,application_id=42~hmac=f3faa78a3e1d4fa657ff0adc238c16562e9ebae4ffcc25c3629a9d0cac0f606c",
+      "duration_ms": 347000,
+      "track_number": 2,
+      "album": {
+        "id": "12195560",
+        "name": "Blues Of Desperation",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cfd3539c4c83372bffb7f643494681e7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cfd3539c4c83372bffb7f643494681e7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cfd3539c4c83372bffb7f643494681e7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/117463796"
+      }
+    },
+    {
+      "id": "3885420961",
+      "name": "Walk On Hot Coals (Live)",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/2/0/f628d9b77f611ffa92ef0ebf0966b4c1.mp3?hdnea=exp=1774859959~acl=/api/1/1/f/6/2/0/f628d9b77f611ffa92ef0ebf0966b4c1.mp3*~data=user_id=0,application_id=42~hmac=10f2ed48a8ccbb4b18c0ed19d0e62026b29a7125df2fa57bb34d91686a6f910e",
+      "duration_ms": 258000,
+      "track_number": 3,
+      "album": {
+        "id": "934082941",
+        "name": "Walk On Hot Coals (Live)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3383fb016622855d3f975f248bc1ade/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3383fb016622855d3f975f248bc1ade/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a3383fb016622855d3f975f248bc1ade/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3885420961"
+      }
+    },
+    {
+      "id": "1466893662",
+      "name": "Mind’s Eye",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/7/e/0/f7ebe1bde59d0c162a82fea264b6b027.mp3?hdnea=exp=1774859959~acl=/api/1/1/f/7/e/0/f7ebe1bde59d0c162a82fea264b6b027.mp3*~data=user_id=0,application_id=42~hmac=ebf3b961257102fbbfd1ba605220ff9e07a44d105c3423f458df8ca81483fc8f",
+      "duration_ms": 377000,
+      "track_number": 4,
+      "album": {
+        "id": "252278922",
+        "name": "Time Clocks",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/db99e6817e0bbbe9a76171184b1442b8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/db99e6817e0bbbe9a76171184b1442b8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/db99e6817e0bbbe9a76171184b1442b8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1466893662"
+      }
+    },
+    {
+      "id": "117463798",
+      "name": "No Good Place For The Lonely",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/c/0/03ce7291dc673bfae9e8af9e1e33ee90.mp3?hdnea=exp=1774859959~acl=/api/1/1/0/3/c/0/03ce7291dc673bfae9e8af9e1e33ee90.mp3*~data=user_id=0,application_id=42~hmac=86114813c702a2919eb3d8ed0a2ee7164f1412126f7c23afce59e320647d4f38",
+      "duration_ms": 518000,
+      "track_number": 5,
+      "album": {
+        "id": "12195560",
+        "name": "Blues Of Desperation",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cfd3539c4c83372bffb7f643494681e7/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cfd3539c4c83372bffb7f643494681e7/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cfd3539c4c83372bffb7f643494681e7/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/117463798"
+      }
+    },
+    {
+      "id": "3261922921",
+      "name": "Broken Record",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/2/0/f221ed98044589f8dc96632d204c9ccf.mp3?hdnea=exp=1774859959~acl=/api/1/1/f/2/2/0/f221ed98044589f8dc96632d204c9ccf.mp3*~data=user_id=0,application_id=42~hmac=f4e537be7c44f94a6491f452a74f0c9f06ddc8dd3b71f7b35e657e3abd7c4d41",
+      "duration_ms": 418000,
+      "track_number": 6,
+      "album": {
+        "id": "722020981",
+        "name": "Breakthrough",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4fe84a04284c3666aaa7848d1cf4c93/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4fe84a04284c3666aaa7848d1cf4c93/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4fe84a04284c3666aaa7848d1cf4c93/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3261922921"
+      }
+    },
+    {
+      "id": "3333228341",
+      "name": "Drive By The Exit Sign",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/6/0/8466c782eaf1ae5a578ee5ebd5d09d4a.mp3?hdnea=exp=1774859959~acl=/api/1/1/8/4/6/0/8466c782eaf1ae5a578ee5ebd5d09d4a.mp3*~data=user_id=0,application_id=42~hmac=588516786ad33d1376756e8b792a99028b02424d1d6a39e6f64bcad0b6a33735",
+      "duration_ms": 259000,
+      "track_number": 7,
+      "album": {
+        "id": "745418361",
+        "name": "Drive By The Exit Sign",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b6e55e080acc0ac7f4786804bf03cead/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b6e55e080acc0ac7f4786804bf03cead/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b6e55e080acc0ac7f4786804bf03cead/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3333228341"
+      }
+    },
+    {
+      "id": "3261922901",
+      "name": "I'll Take The Blame",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/c/0/bdc7eee12e41feb2f8f8fcfb3dabb956.mp3?hdnea=exp=1774859959~acl=/api/1/1/b/d/c/0/bdc7eee12e41feb2f8f8fcfb3dabb956.mp3*~data=user_id=0,application_id=42~hmac=ad54f3c2e7b25e99e26638edda7db5fb8b01ea606d9c6a3589167075ad39aaae",
+      "duration_ms": 214000,
+      "track_number": 8,
+      "album": {
+        "id": "722020981",
+        "name": "Breakthrough",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4fe84a04284c3666aaa7848d1cf4c93/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4fe84a04284c3666aaa7848d1cf4c93/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f4fe84a04284c3666aaa7848d1cf4c93/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3261922901"
+      }
+    },
+    {
+      "id": "76580144",
+      "name": "High Water Everywhere (Live)",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/b/0/7dba0714de4eb7da2c0607eed97b139c.mp3?hdnea=exp=1774859959~acl=/api/1/1/7/d/b/0/7dba0714de4eb7da2c0607eed97b139c.mp3*~data=user_id=0,application_id=42~hmac=e23721df8a225107805c868acef51035b624385d2d7dcd1d2403522ba29edbcd",
+      "duration_ms": 307000,
+      "track_number": 9,
+      "album": {
+        "id": "7596426",
+        "name": "Joe Bonamassa Live from the Royal Albert Hall",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c17b43a33261cefdad69f21b22ce2156/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c17b43a33261cefdad69f21b22ce2156/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c17b43a33261cefdad69f21b22ce2156/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/76580144"
+      }
+    },
+    {
+      "id": "129356640",
+      "name": "Going Down (Live)",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/8/0/278a6c11ae2b4b0eabdfee253169325e.mp3?hdnea=exp=1774859959~acl=/api/1/1/2/7/8/0/278a6c11ae2b4b0eabdfee253169325e.mp3*~data=user_id=0,application_id=42~hmac=8a1b7569b49a627f664c611e4b0552103d8dd9133639b40b0a707f143b89874a",
+      "duration_ms": 373000,
+      "track_number": 10,
+      "album": {
+        "id": "13687020",
+        "name": "Live at the Greek Theatre",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d138b2e998837cffbc130ea944922d8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d138b2e998837cffbc130ea944922d8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3d138b2e998837cffbc130ea944922d8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4781",
+          "name": "Joe Bonamassa"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/129356640"
+      }
+    }
+  ]
+}

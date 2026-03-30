@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "3466585",
+      "name": "Ain't No Sunshine",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/c/0/bfc858c9588d5456c9e2c8ab0a9a97e0.mp3?hdnea=exp=1774860075~acl=/api/1/1/b/f/c/0/bfc858c9588d5456c9e2c8ab0a9a97e0.mp3*~data=user_id=0,application_id=42~hmac=fee3e0b3cb4c15be93aa55c9862df1f91b8bc5bda81de12f573c084755e1a9a7",
+      "duration_ms": 200000,
+      "track_number": 1,
+      "album": {
+        "id": "328813",
+        "name": "Texas Cannonball",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3374e1b8111cce7f880d6aec7668fba2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3374e1b8111cce7f880d6aec7668fba2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3374e1b8111cce7f880d6aec7668fba2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3466585"
+      }
+    },
+    {
+      "id": "1383653",
+      "name": "Hide Away",
+      "popularity": 16,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/d/0/20d53460c7c66096f1dfa3ce2098eb90.mp3?hdnea=exp=1774860075~acl=/api/1/1/2/0/d/0/20d53460c7c66096f1dfa3ce2098eb90.mp3*~data=user_id=0,application_id=42~hmac=88c74ae39ae6d55d7f5d3d8662706bd4c4f754e994fb9301026c27a52ebf74df",
+      "duration_ms": 264000,
+      "track_number": 2,
+      "album": {
+        "id": "141987",
+        "name": "Are You Ready For Freddie",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4aac41f55d24efc2cec3552fbf00c2c6/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4aac41f55d24efc2cec3552fbf00c2c6/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4aac41f55d24efc2cec3552fbf00c2c6/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1383653"
+      }
+    },
+    {
+      "id": "108319250",
+      "name": "You've Got To Love Her With A Feeling",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/b/0/c5b8195dcd7a78ab2c13ea8f71aaf639.mp3?hdnea=exp=1774860075~acl=/api/1/1/c/5/b/0/c5b8195dcd7a78ab2c13ea8f71aaf639.mp3*~data=user_id=0,application_id=42~hmac=2fd16dde7eea76574d075927c4feee87793b0c3638a71be947014bfa917e7396",
+      "duration_ms": 194000,
+      "track_number": 3,
+      "album": {
+        "id": "11295822",
+        "name": "17 Greatest Hits",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/705715f96224bb1c72396c0ffa5057f3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/705715f96224bb1c72396c0ffa5057f3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/705715f96224bb1c72396c0ffa5057f3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/108319250"
+      }
+    },
+    {
+      "id": "3310693571",
+      "name": "Have You Ever Loved A Woman? (Live)",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/6/0/2263f4a4872b94fb281d9c7e0506a019.mp3?hdnea=exp=1774860075~acl=/api/1/1/2/2/6/0/2263f4a4872b94fb281d9c7e0506a019.mp3*~data=user_id=0,application_id=42~hmac=9d5a1c47b17441cdc26bb6c0602ef78e7ac088a9c9a939f19d96b4c6871729bd",
+      "duration_ms": 733000,
+      "track_number": 4,
+      "album": {
+        "id": "737900161",
+        "name": "Deep Inside (Live Montreaux '73)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94ab3043ce21016cd4c77c240084a79c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94ab3043ce21016cd4c77c240084a79c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/94ab3043ce21016cd4c77c240084a79c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3310693571"
+      }
+    },
+    {
+      "id": "3466067",
+      "name": "Five Long Years (Remastered)",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/1/0/69124b5e7f03aa87473649c40249d467.mp3?hdnea=exp=1774860075~acl=/api/1/1/6/9/1/0/69124b5e7f03aa87473649c40249d467.mp3*~data=user_id=0,application_id=42~hmac=039c6e576129b9d2acda8ceb74213ee57903d364fa487805fbb02e6d20fa98a8",
+      "duration_ms": 260000,
+      "track_number": 5,
+      "album": {
+        "id": "328784",
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d046c7ec7e28a5877a8b8d536c237b59/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d046c7ec7e28a5877a8b8d536c237b59/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d046c7ec7e28a5877a8b8d536c237b59/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3466067"
+      }
+    },
+    {
+      "id": "3465163",
+      "name": "Going Down",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/0/0/6e0f5524d046b5fa2edfd9d245022282.mp3?hdnea=exp=1774860075~acl=/api/1/1/6/e/0/0/6e0f5524d046b5fa2edfd9d245022282.mp3*~data=user_id=0,application_id=42~hmac=dcf8684a448b8faab7911c6286620c0b81aaa190d7aa8531bccd2cfae93d83fd",
+      "duration_ms": 200000,
+      "track_number": 6,
+      "album": {
+        "id": "328711",
+        "name": "Getting Ready... (World)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5db0926102589208b0fd14b2b1694452/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5db0926102589208b0fd14b2b1694452/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5db0926102589208b0fd14b2b1694452/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3465163"
+      }
+    },
+    {
+      "id": "3466577",
+      "name": "Lowdown In Lodi",
+      "popularity": 11,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/0/0/9102dcd89dfe902e2c9fba8a169c5c32.mp3?hdnea=exp=1774860075~acl=/api/1/1/9/1/0/0/9102dcd89dfe902e2c9fba8a169c5c32.mp3*~data=user_id=0,application_id=42~hmac=672fe0bc2bc6247e7f7f1f7b74dd241a7279bb319597ae6c5b7da68cb8e014a9",
+      "duration_ms": 188000,
+      "track_number": 7,
+      "album": {
+        "id": "328813",
+        "name": "Texas Cannonball",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3374e1b8111cce7f880d6aec7668fba2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3374e1b8111cce7f880d6aec7668fba2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3374e1b8111cce7f880d6aec7668fba2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3466577"
+      }
+    },
+    {
+      "id": "3132000",
+      "name": "Same Old Blues",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/2/0/51272c5a50825ab84782cdb23006eca3.mp3?hdnea=exp=1774860075~acl=/api/1/1/5/1/2/0/51272c5a50825ab84782cdb23006eca3.mp3*~data=user_id=0,application_id=42~hmac=d2dbbe215da82f2d3fef8c116232bb3695a11ebb990187bbac3772cf870f4c40",
+      "duration_ms": 236000,
+      "track_number": 8,
+      "album": {
+        "id": "301880",
+        "name": "King Of The Blues",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a90c44d1e4cc4f36649ec33bc54ab319/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a90c44d1e4cc4f36649ec33bc54ab319/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a90c44d1e4cc4f36649ec33bc54ab319/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3132000"
+      }
+    },
+    {
+      "id": "2502221",
+      "name": "Gambling Woman Blues",
+      "popularity": 19,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/b/0/78b4da2803104f1c202c492666feb447.mp3?hdnea=exp=1774860075~acl=/api/1/1/7/8/b/0/78b4da2803104f1c202c492666feb447.mp3*~data=user_id=0,application_id=42~hmac=6b21891af164d7bd703a7972bbde86913a6c403f4b00486067779e6a2ce8fa26",
+      "duration_ms": 526000,
+      "track_number": 9,
+      "album": {
+        "id": "245960",
+        "name": "Stayin' Home With The Blues",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c82b77aab0811a7cfa1e7eaef1b801f1/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c82b77aab0811a7cfa1e7eaef1b801f1/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c82b77aab0811a7cfa1e7eaef1b801f1/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2502221"
+      }
+    },
+    {
+      "id": "3466066",
+      "name": "Going Down (Remastered 2000)",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/9/0/e39d67bb4d653c9f6520a13178ed0237.mp3?hdnea=exp=1774860075~acl=/api/1/1/e/3/9/0/e39d67bb4d653c9f6520a13178ed0237.mp3*~data=user_id=0,application_id=42~hmac=f3af2691a52e990b4ff60933cc7432791386b91c83f96f1a2e4c72436f033bd2",
+      "duration_ms": 201000,
+      "track_number": 10,
+      "album": {
+        "id": "328784",
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d046c7ec7e28a5877a8b8d536c237b59/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d046c7ec7e28a5877a8b8d536c237b59/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d046c7ec7e28a5877a8b8d536c237b59/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8569",
+          "name": "Freddie King"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3466066"
+      }
+    }
+  ]
+}

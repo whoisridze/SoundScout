@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "976145452",
+      "name": "Samurai Metropolis",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/8/0/d18c619483bce474ba13d2f1e452fb98.mp3?hdnea=exp=1774859919~acl=/api/1/1/d/1/8/0/d18c619483bce474ba13d2f1e452fb98.mp3*~data=user_id=0,application_id=42~hmac=e66c42b9923e842e74a3f0ad4be0a7aa53fa6c10b9f1bf98789d64deddc8568f",
+      "duration_ms": 468000,
+      "track_number": 1,
+      "album": {
+        "id": "151827972",
+        "name": "Blue in Red",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90460a425fed39414ad92c8f02668d6b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90460a425fed39414ad92c8f02668d6b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/90460a425fed39414ad92c8f02668d6b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/976145452"
+      }
+    },
+    {
+      "id": "976500762",
+      "name": "Explorer",
+      "popularity": 23,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/9/0/fc9cf9dd87d7bbf3ddac4b8b6fd218b8.mp3?hdnea=exp=1774859919~acl=/api/1/1/f/c/9/0/fc9cf9dd87d7bbf3ddac4b8b6fd218b8.mp3*~data=user_id=0,application_id=42~hmac=77d11767fea043eb2747cfe61f9eca9e8324609901422ca24ad308e033874e22",
+      "duration_ms": 333000,
+      "track_number": 2,
+      "album": {
+        "id": "151873972",
+        "name": "Gravity",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8ca2efc80af196dfd751e5f701e6a865/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8ca2efc80af196dfd751e5f701e6a865/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8ca2efc80af196dfd751e5f701e6a865/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/976500762"
+      }
+    },
+    {
+      "id": "976127772",
+      "name": "Twilight in Upper West",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/b/0/40bff71333ba25dc0aa9f51e75caf52e.mp3?hdnea=exp=1774859919~acl=/api/1/1/4/0/b/0/40bff71333ba25dc0aa9f51e75caf52e.mp3*~data=user_id=0,application_id=42~hmac=aaf38710ca3720480286e302800695ac61b0e0cc3da3440798702d767d60dffa",
+      "duration_ms": 325000,
+      "track_number": 3,
+      "album": {
+        "id": "151824522",
+        "name": "TRUTH",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4e78fa3f0df4f863fb4fc4d78fae440/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4e78fa3f0df4f863fb4fc4d78fae440/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4e78fa3f0df4f863fb4fc4d78fae440/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/976127772"
+      }
+    },
+    {
+      "id": "976127732",
+      "name": "Truth",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/0/0/140163d8e72fc2c69a72614cfaa862e2.mp3?hdnea=exp=1774859919~acl=/api/1/1/1/4/0/0/140163d8e72fc2c69a72614cfaa862e2.mp3*~data=user_id=0,application_id=42~hmac=7f8f89fc0bcef298c13a56a67b48e9d027f4373331c1c9f588bf682302691f6d",
+      "duration_ms": 259000,
+      "track_number": 4,
+      "album": {
+        "id": "151824522",
+        "name": "TRUTH",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4e78fa3f0df4f863fb4fc4d78fae440/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4e78fa3f0df4f863fb4fc4d78fae440/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4e78fa3f0df4f863fb4fc4d78fae440/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/976127732"
+      }
+    },
+    {
+      "id": "1374490002",
+      "name": "Dans Sa Chambre",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/4/0/6c4ccef635f9b0ce36a0e5ede74f005f.mp3?hdnea=exp=1774859919~acl=/api/1/1/6/c/4/0/6c4ccef635f9b0ce36a0e5ede74f005f.mp3*~data=user_id=0,application_id=42~hmac=64b2a7c6fdb667c19510d684644940534ee993b115bcd9a4186db2ee653f25ee",
+      "duration_ms": 342000,
+      "track_number": 5,
+      "album": {
+        "id": "230651362",
+        "name": "Crème de la Crème",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3237ab1aad62a53fe5dd646cc769cdca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3237ab1aad62a53fe5dd646cc769cdca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3237ab1aad62a53fe5dd646cc769cdca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1374490002"
+      }
+    },
+    {
+      "id": "1374489992",
+      "name": "Takarajima",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/b/0/20b1ff7baa6033354636aff8ed58b1f2.mp3?hdnea=exp=1774859919~acl=/api/1/1/2/0/b/0/20b1ff7baa6033354636aff8ed58b1f2.mp3*~data=user_id=0,application_id=42~hmac=e68fdd9ddceb463be5f53e516a36f9c9d022d40762a60503f90c214a4497a515",
+      "duration_ms": 319000,
+      "track_number": 6,
+      "album": {
+        "id": "230651362",
+        "name": "Crème de la Crème",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3237ab1aad62a53fe5dd646cc769cdca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3237ab1aad62a53fe5dd646cc769cdca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3237ab1aad62a53fe5dd646cc769cdca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1374489992"
+      }
+    },
+    {
+      "id": "976127702",
+      "name": "Celebration",
+      "popularity": 18,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41938414bd6e5d519bdb536286339646.mp3?hdnea=exp=1774859919~acl=/api/1/1/4/1/9/0/41938414bd6e5d519bdb536286339646.mp3*~data=user_id=0,application_id=42~hmac=2776e392beb7a1091890ebaf44de35650136210a24946357e65f30d1ca781b99",
+      "duration_ms": 285000,
+      "track_number": 7,
+      "album": {
+        "id": "151824522",
+        "name": "TRUTH",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4e78fa3f0df4f863fb4fc4d78fae440/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4e78fa3f0df4f863fb4fc4d78fae440/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b4e78fa3f0df4f863fb4fc4d78fae440/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/976127702"
+      }
+    },
+    {
+      "id": "1374489982",
+      "name": "NEXT2020",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/6/0/fc60570a89ebc61f0b31d14c804c952c.mp3?hdnea=exp=1774859919~acl=/api/1/1/f/c/6/0/fc60570a89ebc61f0b31d14c804c952c.mp3*~data=user_id=0,application_id=42~hmac=4623f37128d653ce8a508e43da9365fd78a7a2d96b0d58da4464cf3b08cb4549",
+      "duration_ms": 369000,
+      "track_number": 8,
+      "album": {
+        "id": "230651362",
+        "name": "Crème de la Crème",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3237ab1aad62a53fe5dd646cc769cdca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3237ab1aad62a53fe5dd646cc769cdca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/3237ab1aad62a53fe5dd646cc769cdca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1374489982"
+      }
+    },
+    {
+      "id": "976437132",
+      "name": "Morning Star",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/2/0/a32d0ff39b7370c42c58bfe0caace997.mp3?hdnea=exp=1774859919~acl=/api/1/1/a/3/2/0/a32d0ff39b7370c42c58bfe0caace997.mp3*~data=user_id=0,application_id=42~hmac=258752289f69bb38cb2fc2bd25b672c3d246536aa679f0a1c22011107a92f19d",
+      "duration_ms": 381000,
+      "track_number": 9,
+      "album": {
+        "id": "151867372",
+        "name": "WAVE",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44407c3394d275a96e3797192c646f0d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44407c3394d275a96e3797192c646f0d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/44407c3394d275a96e3797192c646f0d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/976437132"
+      }
+    },
+    {
+      "id": "976500792",
+      "name": "Japanese Soul Brothers",
+      "popularity": 5,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/3/0/3d33815a29b457ddbc621ccb72cb9a1f.mp3?hdnea=exp=1774859919~acl=/api/1/1/3/d/3/0/3d33815a29b457ddbc621ccb72cb9a1f.mp3*~data=user_id=0,application_id=42~hmac=cd04d5c336cb94e8a8ef23a55917ebd57ba5c2d8728bf5bc0ed6b16ccd33a721",
+      "duration_ms": 575000,
+      "track_number": 10,
+      "album": {
+        "id": "151873972",
+        "name": "Gravity",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8ca2efc80af196dfd751e5f701e6a865/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8ca2efc80af196dfd751e5f701e6a865/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8ca2efc80af196dfd751e5f701e6a865/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "452745",
+          "name": "T-Square"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/976500792"
+      }
+    }
+  ]
+}

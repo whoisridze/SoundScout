@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "453844292",
+      "name": "Walk It Talk It",
+      "popularity": 72,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/e/0/52e3fdca7dc61bc6e1c4cb35c773afc0.mp3?hdnea=exp=1774859899~acl=/api/1/1/5/2/e/0/52e3fdca7dc61bc6e1c4cb35c773afc0.mp3*~data=user_id=0,application_id=42~hmac=337a4452421dabcfec4a4a16fbeaf8a48f328a039f57e69db83af1404a67019f",
+      "duration_ms": 276000,
+      "track_number": 1,
+      "album": {
+        "id": "55727052",
+        "name": "Culture II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/453844292"
+      }
+    },
+    {
+      "id": "453844432",
+      "name": "Notice Me",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/6/0/f069668014e7fdf36230533f205e3ea2.mp3?hdnea=exp=1774859899~acl=/api/1/1/f/0/6/0/f069668014e7fdf36230533f205e3ea2.mp3*~data=user_id=0,application_id=42~hmac=ed9bfd188eaed4461de59598133e3e237db96e782a7737d973fe49aee376951e",
+      "duration_ms": 234000,
+      "track_number": 2,
+      "album": {
+        "id": "55727052",
+        "name": "Culture II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/453844432"
+      }
+    },
+    {
+      "id": "453844262",
+      "name": "Narcos",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/2/0/ef26792eb1521da975f6c4f68b1c46e9.mp3?hdnea=exp=1774859899~acl=/api/1/1/e/f/2/0/ef26792eb1521da975f6c4f68b1c46e9.mp3*~data=user_id=0,application_id=42~hmac=9d079e27f1f8221aecdf0e6e5420e1ecf3a149b6e7f83e3c941a873003bbf559",
+      "duration_ms": 255000,
+      "track_number": 3,
+      "album": {
+        "id": "55727052",
+        "name": "Culture II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/453844262"
+      }
+    },
+    {
+      "id": "435175362",
+      "name": "Danger",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/c/0/54c425733cfd7ea7accba125ce724f23.mp3?hdnea=exp=1774859899~acl=/api/1/1/5/4/c/0/54c425733cfd7ea7accba125ce724f23.mp3*~data=user_id=0,application_id=42~hmac=c6805bcd8abd461275ccfa1fa550adff00bb9eaca1f0f66e277293e6a266a440",
+      "duration_ms": 214000,
+      "track_number": 4,
+      "album": {
+        "id": "52562572",
+        "name": "Danger",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17f187bb626b885e109cb3fc99591926/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17f187bb626b885e109cb3fc99591926/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/17f187bb626b885e109cb3fc99591926/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/435175362"
+      }
+    },
+    {
+      "id": "1693337777",
+      "name": "Slippery",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/d/0/c2de0d9b74f86a90946195165b4f242f.mp3?hdnea=exp=1774859899~acl=/api/1/1/c/2/d/0/c2de0d9b74f86a90946195165b4f242f.mp3*~data=user_id=0,application_id=42~hmac=4079a1850084c22902ca4a655bcd7da064169d6059d1c7ff13789fd01dd3ac97",
+      "duration_ms": 304000,
+      "track_number": 5,
+      "album": {
+        "id": "304785627",
+        "name": "Culture",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5331113a173b70b4394381ff0c6c0f4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5331113a173b70b4394381ff0c6c0f4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5331113a173b70b4394381ff0c6c0f4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1693337777"
+      }
+    },
+    {
+      "id": "1402141562",
+      "name": "Having Our Way",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/1/0/5919acdba30f2b4c66759cb6fb0f5893.mp3?hdnea=exp=1774859899~acl=/api/1/1/5/9/1/0/5919acdba30f2b4c66759cb6fb0f5893.mp3*~data=user_id=0,application_id=42~hmac=0576af74b3f845d221c6705eec6132e35d0448b32485bb6b2b116e30acd89948",
+      "duration_ms": 278000,
+      "track_number": 6,
+      "album": {
+        "id": "236731862",
+        "name": "Culture III",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e0bfe5eab416fcff62d5756bbcb9e8b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e0bfe5eab416fcff62d5756bbcb9e8b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8e0bfe5eab416fcff62d5756bbcb9e8b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1402141562"
+      }
+    },
+    {
+      "id": "703231522",
+      "name": "Pure Water",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/6/a/0/96a0e76ff2d38c146648a990afb6586c.mp3?hdnea=exp=1774859899~acl=/api/1/1/9/6/a/0/96a0e76ff2d38c146648a990afb6586c.mp3*~data=user_id=0,application_id=42~hmac=82979f140d672d95dfa902fc20b89bac2b0cb90c91589df94b5b5a89bf6f6a26",
+      "duration_ms": 194000,
+      "track_number": 7,
+      "album": {
+        "id": "101649612",
+        "name": "Perfect Ten",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fb181f3a78169fe954d8a55f51acc13/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fb181f3a78169fe954d8a55f51acc13/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fb181f3a78169fe954d8a55f51acc13/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/703231522"
+      }
+    },
+    {
+      "id": "1693337757",
+      "name": "Bad and Boujee",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/8/0/de88bc9fc93c3418be679a8133ebbd17.mp3?hdnea=exp=1774859899~acl=/api/1/1/d/e/8/0/de88bc9fc93c3418be679a8133ebbd17.mp3*~data=user_id=0,application_id=42~hmac=c16bf72aa620a31233c5be49c7868ad35712736eb96518ef7566882970d3fb53",
+      "duration_ms": 343000,
+      "track_number": 8,
+      "album": {
+        "id": "304785627",
+        "name": "Culture",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5331113a173b70b4394381ff0c6c0f4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5331113a173b70b4394381ff0c6c0f4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5331113a173b70b4394381ff0c6c0f4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1693337757"
+      }
+    },
+    {
+      "id": "453844402",
+      "name": "MotorSport",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/6/3/0/86390d9f7b6f59a4dde28d20b4279ce1.mp3?hdnea=exp=1774859899~acl=/api/1/1/8/6/3/0/86390d9f7b6f59a4dde28d20b4279ce1.mp3*~data=user_id=0,application_id=42~hmac=8ade29c30056acc605ef4fbfb2d861820263c59299b4b0cad3def75306c0f450",
+      "duration_ms": 308000,
+      "track_number": 9,
+      "album": {
+        "id": "55727052",
+        "name": "Culture II",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fbf468e6ead9a88670c36e236787bfce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/453844402"
+      }
+    },
+    {
+      "id": "1693337737",
+      "name": "T-Shirt",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/1/0/4615f622bde89dca1cf293c2743c8dad.mp3?hdnea=exp=1774859899~acl=/api/1/1/4/6/1/0/4615f622bde89dca1cf293c2743c8dad.mp3*~data=user_id=0,application_id=42~hmac=c7418509b2c4709474316a5f3920ff87a1682a1816bee1214a671b755e5e707f",
+      "duration_ms": 242000,
+      "track_number": 10,
+      "album": {
+        "id": "304785627",
+        "name": "Culture",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5331113a173b70b4394381ff0c6c0f4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5331113a173b70b4394381ff0c6c0f4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f5331113a173b70b4394381ff0c6c0f4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "4962010",
+          "name": "Migos"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1693337737"
+      }
+    }
+  ]
+}

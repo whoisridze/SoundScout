@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "585354262",
+      "name": "Shea Butter Baby",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/9/0/d999cb16aa65916454b0772b6f60b91e.mp3?hdnea=exp=1774860007~acl=/api/1/1/d/9/9/0/d999cb16aa65916454b0772b6f60b91e.mp3*~data=user_id=0,application_id=42~hmac=c0ad15a442c52acbedde330a6b5a4f0e852a52a06b7d6a6fa880ef2c12b1d532",
+      "duration_ms": 210000,
+      "track_number": 1,
+      "album": {
+        "id": "78584382",
+        "name": "Creed II: The Album",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b443b32933e20e5055202cb1259e993c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b443b32933e20e5055202cb1259e993c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b443b32933e20e5055202cb1259e993c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/585354262"
+      }
+    },
+    {
+      "id": "1195857092",
+      "name": "On It",
+      "popularity": 40,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/f/0/56f9b89e6f784c9b76b0d637b3a8c08e.mp3?hdnea=exp=1774860007~acl=/api/1/1/5/6/f/0/56f9b89e6f784c9b76b0d637b3a8c08e.mp3*~data=user_id=0,application_id=42~hmac=ca4c49334b779f50448e210b86c6e2f1dd8cc9c1b26df1ad17ca5a215731d55c",
+      "duration_ms": 205000,
+      "track_number": 2,
+      "album": {
+        "id": "197279822",
+        "name": "Heaux Tales",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c3676dca9998e210623e0912f104e8c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c3676dca9998e210623e0912f104e8c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9c3676dca9998e210623e0912f104e8c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1195857092"
+      }
+    },
+    {
+      "id": "134524198",
+      "name": "Night Drive",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/f/0/30fabc4f1928714edc4bf3ab40fc21f2.mp3?hdnea=exp=1774860007~acl=/api/1/1/3/0/f/0/30fabc4f1928714edc4bf3ab40fc21f2.mp3*~data=user_id=0,application_id=42~hmac=27de1de9624557fa61d61528ae40224c92b1f150d5444cb6ac0106fa62e5f3ff",
+      "duration_ms": 150000,
+      "track_number": 3,
+      "album": {
+        "id": "14344610",
+        "name": "PHO EP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fc4448bbe0515f5684fca3ac27b7341/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fc4448bbe0515f5684fca3ac27b7341/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8fc4448bbe0515f5684fca3ac27b7341/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/134524198"
+      }
+    },
+    {
+      "id": "1902968477",
+      "name": "Hoodie",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/e/0/27ea00ba3d680a6cf641f1ea43ab4e42.mp3?hdnea=exp=1774860007~acl=/api/1/1/2/7/e/0/27ea00ba3d680a6cf641f1ea43ab4e42.mp3*~data=user_id=0,application_id=42~hmac=695b8d381339935700506478bbf7e7ad4ca197f29e70ce081329a5e54bf9e76f",
+      "duration_ms": 246000,
+      "track_number": 4,
+      "album": {
+        "id": "354146967",
+        "name": "age/sex/location",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/295c7b4adcf5f60e4e671848613669d4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/295c7b4adcf5f60e4e671848613669d4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/295c7b4adcf5f60e4e671848613669d4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1902968477"
+      }
+    },
+    {
+      "id": "1686756117",
+      "name": "Coolest Things (feat. Ari Lennox)",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/9/0/709cddc2267795d91780a9deaff843f7.mp3?hdnea=exp=1774860007~acl=/api/1/1/7/0/9/0/709cddc2267795d91780a9deaff843f7.mp3*~data=user_id=0,application_id=42~hmac=d8b2e5f6c44b6ac86678a364c1d4f7dc681610575560799c67ab7cff678aa430",
+      "duration_ms": 208000,
+      "track_number": 5,
+      "album": {
+        "id": "303222737",
+        "name": "Superghetto",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/131f6a415142c0628bd360528cf7a7a4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/131f6a415142c0628bd360528cf7a7a4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/131f6a415142c0628bd360528cf7a7a4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1686756117"
+      }
+    },
+    {
+      "id": "3786400772",
+      "name": "Horoscope",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/f/0/28f0c579bef711ddae659f8fa3181876.mp3?hdnea=exp=1774860007~acl=/api/1/1/2/8/f/0/28f0c579bef711ddae659f8fa3181876.mp3*~data=user_id=0,application_id=42~hmac=69a4be35b0bbea49928d4c24569bc7224c703ed637890635bbcf35f001c101b3",
+      "duration_ms": 267000,
+      "track_number": 6,
+      "album": {
+        "id": "901484752",
+        "name": "Vacancy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cbc88afd605c06c8b347d93ceee99ed0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cbc88afd605c06c8b347d93ceee99ed0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cbc88afd605c06c8b347d93ceee99ed0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3786400772"
+      }
+    },
+    {
+      "id": "3786400712",
+      "name": "High Key",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/6/0/656cff9808736b5011fb2b3831d25b4b.mp3?hdnea=exp=1774860007~acl=/api/1/1/6/5/6/0/656cff9808736b5011fb2b3831d25b4b.mp3*~data=user_id=0,application_id=42~hmac=8de691eedf306a25a6188fb948a002701a1066ee06e15205e829a8b351576e7f",
+      "duration_ms": 132000,
+      "track_number": 7,
+      "album": {
+        "id": "901484752",
+        "name": "Vacancy",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cbc88afd605c06c8b347d93ceee99ed0/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cbc88afd605c06c8b347d93ceee99ed0/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cbc88afd605c06c8b347d93ceee99ed0/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3786400712"
+      }
+    },
+    {
+      "id": "675037512",
+      "name": "Static",
+      "popularity": 21,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/4/0/094898f96412085181d6ca35cdc6edfd.mp3?hdnea=exp=1774860007~acl=/api/1/1/0/9/4/0/094898f96412085181d6ca35cdc6edfd.mp3*~data=user_id=0,application_id=42~hmac=7b54c84b364610110813301b6efaec0d199e3937719be2a9cf9ecc17ae787bb1",
+      "duration_ms": 251000,
+      "track_number": 8,
+      "album": {
+        "id": "95752122",
+        "name": "Shea Butter Baby",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a7e5cf69b2d8999e8eec48639e6497ca/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a7e5cf69b2d8999e8eec48639e6497ca/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a7e5cf69b2d8999e8eec48639e6497ca/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/675037512"
+      }
+    },
+    {
+      "id": "1704142347",
+      "name": "Blackberry Sap",
+      "popularity": 12,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/f/0/0bf37d098418df4c1348874b96ad0a55.mp3?hdnea=exp=1774860007~acl=/api/1/1/0/b/f/0/0bf37d098418df4c1348874b96ad0a55.mp3*~data=user_id=0,application_id=42~hmac=d1e5495d6e99284e0044e439b5e3adc6b43ec36d450a70133c872953a63df57d",
+      "duration_ms": 149000,
+      "track_number": 9,
+      "album": {
+        "id": "307288167",
+        "name": "D-Day: A Gangsta Grillz Mixtape",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e1980182f52f6ad2bf90c9c03bb1fdc/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e1980182f52f6ad2bf90c9c03bb1fdc/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7e1980182f52f6ad2bf90c9c03bb1fdc/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1704142347"
+      }
+    },
+    {
+      "id": "1902990217",
+      "name": "Queen Space",
+      "popularity": 35,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/c/0/30c0ff044380a489f8d6c33c8fd25ebe.mp3?hdnea=exp=1774860007~acl=/api/1/1/3/0/c/0/30c0ff044380a489f8d6c33c8fd25ebe.mp3*~data=user_id=0,application_id=42~hmac=0a820b0a6c48d2fbbfa7c64521a1d426f29437f90b3edbb9d40bcf337539d066",
+      "duration_ms": 231000,
+      "track_number": 10,
+      "album": {
+        "id": "354149347",
+        "name": "age/sex/location",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ec515743e66e723c2895fb31ead5577/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ec515743e66e723c2895fb31ead5577/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7ec515743e66e723c2895fb31ead5577/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5478691",
+          "name": "Ari Lennox"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1902990217"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "377386421",
+      "name": "The Suburbs",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/0/0/360b4f3a3e8b115868cf909a7f8d5faf.mp3?hdnea=exp=1774859878~acl=/api/1/1/3/6/0/0/360b4f3a3e8b115868cf909a7f8d5faf.mp3*~data=user_id=0,application_id=42~hmac=b9038024fc9d1ea1d983e964c4736d99bbdccef0e5aa0957984b2ec44d8a2b06",
+      "duration_ms": 315000,
+      "track_number": 1,
+      "album": {
+        "id": "43734931",
+        "name": "The Suburbs",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/377386421"
+      }
+    },
+    {
+      "id": "374205501",
+      "name": "Wake Up",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/6/0/af6bf2a570e949c7767feabb8bd31970.mp3?hdnea=exp=1774859878~acl=/api/1/1/a/f/6/0/af6bf2a570e949c7767feabb8bd31970.mp3*~data=user_id=0,application_id=42~hmac=ff33236d7a55df6ad35b0df462019181c485f1a551f328d369b625c072d0c2ec",
+      "duration_ms": 335000,
+      "track_number": 2,
+      "album": {
+        "id": "43265861",
+        "name": "Funeral",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/374205501"
+      }
+    },
+    {
+      "id": "377386431",
+      "name": "Ready to Start",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/d/0/cbdc5b628679d3861d2fd79d8a1ce13e.mp3?hdnea=exp=1774859878~acl=/api/1/1/c/b/d/0/cbdc5b628679d3861d2fd79d8a1ce13e.mp3*~data=user_id=0,application_id=42~hmac=7409739c57649b98a18753c0872ca69d4acf9ee39dc82b39a52c1b9425b162cc",
+      "duration_ms": 255000,
+      "track_number": 3,
+      "album": {
+        "id": "43734931",
+        "name": "The Suburbs",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/377386431"
+      }
+    },
+    {
+      "id": "377386411",
+      "name": "My Body Is a Cage",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/3/0/bc33b84faa7955479bd97d72cda04bfa.mp3?hdnea=exp=1774859878~acl=/api/1/1/b/c/3/0/bc33b84faa7955479bd97d72cda04bfa.mp3*~data=user_id=0,application_id=42~hmac=f59c1abda58ef64c1c674037c4f57f4e5ce96a87aa98a74966ce2bce51cd0489",
+      "duration_ms": 287000,
+      "track_number": 4,
+      "album": {
+        "id": "43734921",
+        "name": "Neon Bible",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9730632d20fbe04a1109fb9ccb850c5d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9730632d20fbe04a1109fb9ccb850c5d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9730632d20fbe04a1109fb9ccb850c5d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/377386411"
+      }
+    },
+    {
+      "id": "374205521",
+      "name": "Rebellion (Lies)",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/0/0/570b77a46ab772caebbeb9785e93c76c.mp3?hdnea=exp=1774859878~acl=/api/1/1/5/7/0/0/570b77a46ab772caebbeb9785e93c76c.mp3*~data=user_id=0,application_id=42~hmac=514e4ceb5313e6877d0a03e764c2ae74d4d40efd9c75d497b3ca19db69a6afab",
+      "duration_ms": 310000,
+      "track_number": 5,
+      "album": {
+        "id": "43265861",
+        "name": "Funeral",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/374205521"
+      }
+    },
+    {
+      "id": "374205451",
+      "name": "Neighborhood #2 (Laika)",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/1/0/1b173a3007eb28ce1fa1036af13ccf2f.mp3?hdnea=exp=1774859878~acl=/api/1/1/1/b/1/0/1b173a3007eb28ce1fa1036af13ccf2f.mp3*~data=user_id=0,application_id=42~hmac=f7f2b67319f524b2534722770dfcc530562898c561564330e42e3b8ad91504e8",
+      "duration_ms": 212000,
+      "track_number": 6,
+      "album": {
+        "id": "43265861",
+        "name": "Funeral",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/374205451"
+      }
+    },
+    {
+      "id": "374205471",
+      "name": "Neighborhood #3 (Power Out)",
+      "popularity": 48,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/a/0/0da25f6849e27dff05fd71d276514ed0.mp3?hdnea=exp=1774859878~acl=/api/1/1/0/d/a/0/0da25f6849e27dff05fd71d276514ed0.mp3*~data=user_id=0,application_id=42~hmac=745c339a72e8abee60d0763e370d7225eb044ac29daccdc74e193eb470b184e5",
+      "duration_ms": 312000,
+      "track_number": 7,
+      "album": {
+        "id": "43265861",
+        "name": "Funeral",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d73ebc04554b4ab4a334fa9acaa5f9af/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/374205471"
+      }
+    },
+    {
+      "id": "377386401",
+      "name": "No Cars Go",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/c/0/1cc166430e308db7623bf21b45471cf0.mp3?hdnea=exp=1774859878~acl=/api/1/1/1/c/c/0/1cc166430e308db7623bf21b45471cf0.mp3*~data=user_id=0,application_id=42~hmac=8263e4e1fbb8d0745ee605af749eba83c4960795277359dcec31ece9ec775910",
+      "duration_ms": 343000,
+      "track_number": 8,
+      "album": {
+        "id": "43734921",
+        "name": "Neon Bible",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9730632d20fbe04a1109fb9ccb850c5d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9730632d20fbe04a1109fb9ccb850c5d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9730632d20fbe04a1109fb9ccb850c5d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/377386401"
+      }
+    },
+    {
+      "id": "377386501",
+      "name": "Suburban War",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/4/7/0/d470e57154205ba562e2301b721a9947.mp3?hdnea=exp=1774859878~acl=/api/1/1/d/4/7/0/d470e57154205ba562e2301b721a9947.mp3*~data=user_id=0,application_id=42~hmac=5bd5aee78382bc39e6bc1681ac58a3a5295c13a30565b0ac5bf21f73381b1676",
+      "duration_ms": 285000,
+      "track_number": 9,
+      "album": {
+        "id": "43734931",
+        "name": "The Suburbs",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/377386501"
+      }
+    },
+    {
+      "id": "377386551",
+      "name": "Sprawl I (Flatland)",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/4/0/f34b6635af16319c5996e0b27d50f098.mp3?hdnea=exp=1774859878~acl=/api/1/1/f/3/4/0/f34b6635af16319c5996e0b27d50f098.mp3*~data=user_id=0,application_id=42~hmac=e179c879cee6246628e0e5541012c9622d9ab3ff6d0bb58c6434ddb297ed8c52",
+      "duration_ms": 174000,
+      "track_number": 10,
+      "album": {
+        "id": "43734931",
+        "name": "The Suburbs",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d6764ed9d1f942942fb47ecde23919eb/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1201",
+          "name": "Arcade Fire"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/377386551"
+      }
+    }
+  ]
+}

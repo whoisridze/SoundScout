@@ -1,0 +1,32 @@
+{
+  "id": "199",
+  "name": "Bonnie Raitt",
+  "popularity": 4,
+  "followers": {
+    "total": 44166
+  },
+  "genres": [
+    "blues"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/27b9db3be31b77737029586cf3e1dfa5/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/27b9db3be31b77737029586cf3e1dfa5/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/27b9db3be31b77737029586cf3e1dfa5/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/199"
+  },
+  "uri": "deezer:artist:199"
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "144010758",
+      "name": "Apocalypse",
+      "popularity": 94,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/7/0/bd7a8a10416dbf46796afc06fb9750e2.mp3?hdnea=exp=1774859888~acl=/api/1/1/b/d/7/0/bd7a8a10416dbf46796afc06fb9750e2.mp3*~data=user_id=0,application_id=42~hmac=77deac3079842dc06911b764b615e66ba6f086ba439d977df0518554027eb2cb",
+      "duration_ms": 290000,
+      "track_number": 1,
+      "album": {
+        "id": "15605454",
+        "name": "Cigarettes After Sex",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/144010758"
+      }
+    },
+    {
+      "id": "781948852",
+      "name": "Cry",
+      "popularity": 87,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/5/0/ae5619b7cb77de55cbf4b0c29142a63d.mp3?hdnea=exp=1774859888~acl=/api/1/1/a/e/5/0/ae5619b7cb77de55cbf4b0c29142a63d.mp3*~data=user_id=0,application_id=42~hmac=eb8b80f9dc84c03e786e0195afce997a6bed357e0a5cd3189d1a8ed9ba2e6b9b",
+      "duration_ms": 256000,
+      "track_number": 2,
+      "album": {
+        "id": "115928592",
+        "name": "Cry",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5028d62c1e1c82588f67c596b134f618/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5028d62c1e1c82588f67c596b134f618/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5028d62c1e1c82588f67c596b134f618/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/781948852"
+      }
+    },
+    {
+      "id": "144010752",
+      "name": "K.",
+      "popularity": 88,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/a/0/f2a7f234e58266432f6ad82c203a8863.mp3?hdnea=exp=1774859888~acl=/api/1/1/f/2/a/0/f2a7f234e58266432f6ad82c203a8863.mp3*~data=user_id=0,application_id=42~hmac=d0a66747b4321781402fedb4d5ac15d349a725c737a1556473d0b0337dbc7b1c",
+      "duration_ms": 319000,
+      "track_number": 3,
+      "album": {
+        "id": "15605454",
+        "name": "Cigarettes After Sex",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/144010752"
+      }
+    },
+    {
+      "id": "144010756",
+      "name": "Sunsetz",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/7/0/697b2adc2271af95c13106c0ff0e433e.mp3?hdnea=exp=1774859888~acl=/api/1/1/6/9/7/0/697b2adc2271af95c13106c0ff0e433e.mp3*~data=user_id=0,application_id=42~hmac=366c2f7c91b824e57ed9a648705d3dd383e908fdf83697628af64a7763c96669",
+      "duration_ms": 214000,
+      "track_number": 4,
+      "album": {
+        "id": "15605454",
+        "name": "Cigarettes After Sex",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/144010756"
+      }
+    },
+    {
+      "id": "3125076941",
+      "name": "Tejano Blue",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/5/0/9c52e3a84505c247647663adbecca05b.mp3?hdnea=exp=1774859888~acl=/api/1/1/9/c/5/0/9c52e3a84505c247647663adbecca05b.mp3*~data=user_id=0,application_id=42~hmac=b1c6eda6fc2e77110e69a726f63eb54aa552f4fb22a0f0b207276f9c545447a1",
+      "duration_ms": 234000,
+      "track_number": 5,
+      "album": {
+        "id": "679154011",
+        "name": "X's",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f11926510cb055fdddac8f1b61875ce4/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f11926510cb055fdddac8f1b61875ce4/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f11926510cb055fdddac8f1b61875ce4/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3125076941"
+      }
+    },
+    {
+      "id": "144010762",
+      "name": "Sweet",
+      "popularity": 82,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/3/0/f4359f7646ecb2172fdf8c6e37fe3503.mp3?hdnea=exp=1774859888~acl=/api/1/1/f/4/3/0/f4359f7646ecb2172fdf8c6e37fe3503.mp3*~data=user_id=0,application_id=42~hmac=074e06d5ff45a360f2f1f36bcd6ae82d14b10f65c6c67f264ac50c63b6921c39",
+      "duration_ms": 291000,
+      "track_number": 6,
+      "album": {
+        "id": "15605454",
+        "name": "Cigarettes After Sex",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2db20377876da16feb8ec9652e835a81/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/144010762"
+      }
+    },
+    {
+      "id": "781948812",
+      "name": "Heavenly",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/6/3/0/c63040e7727db70e5b16ec615ef2a02c.mp3?hdnea=exp=1774859888~acl=/api/1/1/c/6/3/0/c63040e7727db70e5b16ec615ef2a02c.mp3*~data=user_id=0,application_id=42~hmac=f856e46558a2c9ca20f7680b5eb61e672ecabfa5a64f556c610323e6d46406bc",
+      "duration_ms": 286000,
+      "track_number": 7,
+      "album": {
+        "id": "115928592",
+        "name": "Cry",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5028d62c1e1c82588f67c596b134f618/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5028d62c1e1c82588f67c596b134f618/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5028d62c1e1c82588f67c596b134f618/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/781948812"
+      }
+    },
+    {
+      "id": "781948792",
+      "name": "Don't Let Me Go",
+      "popularity": 65,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/4/0/0/840db7725d01507fc2cae658e40136d6.mp3?hdnea=exp=1774859888~acl=/api/1/1/8/4/0/0/840db7725d01507fc2cae658e40136d6.mp3*~data=user_id=0,application_id=42~hmac=5f62aef23c0f0a983ea9a034553fef2c4ad3ff35ec00393748dc4be0ef582e50",
+      "duration_ms": 262000,
+      "track_number": 8,
+      "album": {
+        "id": "115928592",
+        "name": "Cry",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5028d62c1e1c82588f67c596b134f618/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5028d62c1e1c82588f67c596b134f618/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5028d62c1e1c82588f67c596b134f618/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/781948792"
+      }
+    },
+    {
+      "id": "936615982",
+      "name": "You're All I Want",
+      "popularity": 59,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/e/0/dde1b8b08d374ce5d62de1cdcbb1bdb5.mp3?hdnea=exp=1774859888~acl=/api/1/1/d/d/e/0/dde1b8b08d374ce5d62de1cdcbb1bdb5.mp3*~data=user_id=0,application_id=42~hmac=954bc1f3bdcd8bd4d77e76092f05ce3a3b62cd14f70bd3c4c67251cc00ffd118",
+      "duration_ms": 264000,
+      "track_number": 9,
+      "album": {
+        "id": "143210522",
+        "name": "You're All I Want",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8072860cc9bee58c72b94f3fce059186/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8072860cc9bee58c72b94f3fce059186/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8072860cc9bee58c72b94f3fce059186/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/936615982"
+      }
+    },
+    {
+      "id": "3124748521",
+      "name": "Stop Waiting",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/d/0/0cde05ba99894bda8cd86bda8bc681ac.mp3?hdnea=exp=1774859888~acl=/api/1/1/0/c/d/0/0cde05ba99894bda8cd86bda8bc681ac.mp3*~data=user_id=0,application_id=42~hmac=0edba9cb50e34834443bc5c63ca7d3b59f12d6e1ba7f39716e6d806fcf58dcce",
+      "duration_ms": 362000,
+      "track_number": 10,
+      "album": {
+        "id": "679062191",
+        "name": "Bubblegum",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb34d665c9e14ffb2b8201de0c2381df/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb34d665c9e14ffb2b8201de0c2381df/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/eb34d665c9e14ffb2b8201de0c2381df/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "9568982",
+          "name": "Cigarettes After Sex"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3124748521"
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2723930152",
+      "name": "Into Black",
+      "popularity": 33,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/b/0/c1bd572e4cbd6043c1746fdd93d92ddf.mp3?hdnea=exp=1774859896~acl=/api/1/1/c/1/b/0/c1bd572e4cbd6043c1746fdd93d92ddf.mp3*~data=user_id=0,application_id=42~hmac=b35bfb277c7e06f119b73aef337742e36b37f617de6ce0c74eae7ccb6719a5c2",
+      "duration_ms": 208000,
+      "track_number": 1,
+      "album": {
+        "id": "565377092",
+        "name": "Blouse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2723930152"
+      }
+    },
+    {
+      "id": "2723930132",
+      "name": "Time Travel",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/9/0/4d9bf0dcd368ffa3d49c958854c0f866.mp3?hdnea=exp=1774859896~acl=/api/1/1/4/d/9/0/4d9bf0dcd368ffa3d49c958854c0f866.mp3*~data=user_id=0,application_id=42~hmac=51df0cbde93eaf7e94cebe8eb483d74e3467c4d1d3648aafbbec69e05b2e2daf",
+      "duration_ms": 241000,
+      "track_number": 2,
+      "album": {
+        "id": "565377092",
+        "name": "Blouse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2723930132"
+      }
+    },
+    {
+      "id": "2723930172",
+      "name": "Controller",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/e/0/bcebc47524f607598ba3e32f08073002.mp3?hdnea=exp=1774859896~acl=/api/1/1/b/c/e/0/bcebc47524f607598ba3e32f08073002.mp3*~data=user_id=0,application_id=42~hmac=1f0966f60d03ecac8d728f78265f1838d09333b7ee285de1a9cf36b721278a25",
+      "duration_ms": 233000,
+      "track_number": 3,
+      "album": {
+        "id": "565377092",
+        "name": "Blouse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2723930172"
+      }
+    },
+    {
+      "id": "2723930202",
+      "name": "Ghost Dream",
+      "popularity": 17,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/a/0/9fa51ca96267a6040bce267022f54f68.mp3?hdnea=exp=1774859896~acl=/api/1/1/9/f/a/0/9fa51ca96267a6040bce267022f54f68.mp3*~data=user_id=0,application_id=42~hmac=3827f8817632c6d869b5826fa982705d50c8e7b1c4a130f3a3390951b9a0cd6f",
+      "duration_ms": 201000,
+      "track_number": 4,
+      "album": {
+        "id": "565377092",
+        "name": "Blouse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2723930202"
+      }
+    },
+    {
+      "id": "2723930122",
+      "name": "Firestarter",
+      "popularity": 14,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/2/0/d12526c0196a8a526425eb6323904a35.mp3?hdnea=exp=1774859896~acl=/api/1/1/d/1/2/0/d12526c0196a8a526425eb6323904a35.mp3*~data=user_id=0,application_id=42~hmac=f66b0f1e86c69facdc6637d39a3ac5875d72c8481d9aaafc8235bc8ce5330e6a",
+      "duration_ms": 251000,
+      "track_number": 5,
+      "album": {
+        "id": "565377092",
+        "name": "Blouse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2723930122"
+      }
+    },
+    {
+      "id": "2723930142",
+      "name": "They Always Fly Away",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/c/0/afc788592a1fe4994cb1ebb1285b391e.mp3?hdnea=exp=1774859896~acl=/api/1/1/a/f/c/0/afc788592a1fe4994cb1ebb1285b391e.mp3*~data=user_id=0,application_id=42~hmac=93742fb1282e38cdb8fc6582d2a2d8761de5d8ffd12d5fa899851395a30930a7",
+      "duration_ms": 272000,
+      "track_number": 6,
+      "album": {
+        "id": "565377092",
+        "name": "Blouse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2723930142"
+      }
+    },
+    {
+      "id": "2773519471",
+      "name": "1000 Years",
+      "popularity": 6,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/0/0/4d0bd477a31416757a06d2c557b10a49.mp3?hdnea=exp=1774859896~acl=/api/1/1/4/d/0/0/4d0bd477a31416757a06d2c557b10a49.mp3*~data=user_id=0,application_id=42~hmac=f4b860cd6e67a4c7e9ed5a584f012deff1d886db368220559f870d9647d4654b",
+      "duration_ms": 224000,
+      "track_number": 7,
+      "album": {
+        "id": "579755631",
+        "name": "Imperium",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97ffda0f10efcfac13a4df5940881160/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97ffda0f10efcfac13a4df5940881160/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97ffda0f10efcfac13a4df5940881160/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2773519471"
+      }
+    },
+    {
+      "id": "2723930212",
+      "name": "Fountain In Rewind",
+      "popularity": 9,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/f/0/baf1f4f129eda050ca4db072a295131e.mp3?hdnea=exp=1774859896~acl=/api/1/1/b/a/f/0/baf1f4f129eda050ca4db072a295131e.mp3*~data=user_id=0,application_id=42~hmac=13824b33428a51f1cc8673aa9640a97f1d7f6bd0589c18add5fbc349fcc5c379",
+      "duration_ms": 225000,
+      "track_number": 8,
+      "album": {
+        "id": "565377092",
+        "name": "Blouse",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a1ad53c20522867dedfe367705334ab5/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2723930212"
+      }
+    },
+    {
+      "id": "2773519511",
+      "name": "No Shelter",
+      "popularity": 3,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/0/5/0/505bc9cac59e657d3fd62e6d73682f8e.mp3?hdnea=exp=1774859896~acl=/api/1/1/5/0/5/0/505bc9cac59e657d3fd62e6d73682f8e.mp3*~data=user_id=0,application_id=42~hmac=6ee1f9d8e8ad93cb1cacd1e753539dc4743fda2bc20b57d4492ab8e5a0bdfeb4",
+      "duration_ms": 189000,
+      "track_number": 9,
+      "album": {
+        "id": "579755631",
+        "name": "Imperium",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97ffda0f10efcfac13a4df5940881160/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97ffda0f10efcfac13a4df5940881160/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97ffda0f10efcfac13a4df5940881160/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2773519511"
+      }
+    },
+    {
+      "id": "2773519491",
+      "name": "Capote",
+      "popularity": 3,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/1/0/0f10e672f448ba6053cc2602f8e9ca2d.mp3?hdnea=exp=1774859896~acl=/api/1/1/0/f/1/0/0f10e672f448ba6053cc2602f8e9ca2d.mp3*~data=user_id=0,application_id=42~hmac=66cadfe8039642c147ccce4095f599eb9b12e4e51dd55feb0ffdcc0f3cefb45e",
+      "duration_ms": 209000,
+      "track_number": 10,
+      "album": {
+        "id": "579755631",
+        "name": "Imperium",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97ffda0f10efcfac13a4df5940881160/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97ffda0f10efcfac13a4df5940881160/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/97ffda0f10efcfac13a4df5940881160/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "1295714",
+          "name": "Blouse"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2773519491"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "tracks": [
+    {
+      "id": "3818324011",
+      "name": "Ready for the Ride",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/5/0/d357051af5f0867ca159d5bfca122aff.mp3?hdnea=exp=1774860107~acl=/api/1/1/d/3/5/0/d357051af5f0867ca159d5bfca122aff.mp3*~data=user_id=0,application_id=42~hmac=00964e48af92802135aa46b0df614b24efc00425c9a3ee6bb0c2cd73699af6de",
+      "duration_ms": 207000,
+      "track_number": 1,
+      "album": {
+        "id": "910278131",
+        "name": "Ready for the Ride",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c834467563c989d45d43522bcff8770f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c834467563c989d45d43522bcff8770f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c834467563c989d45d43522bcff8770f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "266523712",
+          "name": "Sean Paul"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3818324011"
+      }
+    },
+    {
+      "id": "3401876061",
+      "name": "The Greatest Bend Over (Take It Easy) (Sean Paul Remix)",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/a/0/59a6da3e78a797e6b897eee5d9640fb6.mp3?hdnea=exp=1774860107~acl=/api/1/1/5/9/a/0/59a6da3e78a797e6b897eee5d9640fb6.mp3*~data=user_id=0,application_id=42~hmac=5a4e2a93f4afc7aff59bcd442a5d13b18d3b9295986c02847e60a847b85a2c74",
+      "duration_ms": 155000,
+      "track_number": 2,
+      "album": {
+        "id": "768275971",
+        "name": "The Greatest Bend Over (Take It Easy) (Sean Paul Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8bb1f819134cffecc05a705e97d15e60/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8bb1f819134cffecc05a705e97d15e60/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8bb1f819134cffecc05a705e97d15e60/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "266523712",
+          "name": "Sean Paul"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3401876061"
+      }
+    }
+  ]
+}

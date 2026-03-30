@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "402043172",
+      "name": "Come Together",
+      "popularity": 56,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/a/0/71a9e1e731070b8ccfcfe69da718d381.mp3?hdnea=exp=1774859958~acl=/api/1/1/7/1/a/0/71a9e1e731070b8ccfcfe69da718d381.mp3*~data=user_id=0,application_id=42~hmac=3955fb5044bbf8822fda541c11dbbefbcb65721e3a3fd915c413fcb4157d9cf2",
+      "duration_ms": 193000,
+      "track_number": 1,
+      "album": {
+        "id": "47375222",
+        "name": "Come Together",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c05a11cfc67d7d39d5e1d10db8f4874f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c05a11cfc67d7d39d5e1d10db8f4874f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c05a11cfc67d7d39d5e1d10db8f4874f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/402043172"
+      }
+    },
+    {
+      "id": "3648701202",
+      "name": "Rock Bottom",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/f/0/b7fc9d69f1e1b35561e2e175b61a6b30.mp3?hdnea=exp=1774859958~acl=/api/1/1/b/7/f/0/b7fc9d69f1e1b35561e2e175b61a6b30.mp3*~data=user_id=0,application_id=42~hmac=b50efeb46042de65c3671f82464d5e6f12a15d26f2650af667d56526b6b225c7",
+      "duration_ms": 198000,
+      "track_number": 2,
+      "album": {
+        "id": "854021492",
+        "name": "Flagrant Act of Bliss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d7950371e60f3de692e7d8fbd97208f/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d7950371e60f3de692e7d8fbd97208f/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0d7950371e60f3de692e7d8fbd97208f/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3648701202"
+      }
+    },
+    {
+      "id": "13392837",
+      "name": "Don't Owe You a Thang",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/b/0/0eb45775a553d3bfbd01fb7dc88817f6.mp3?hdnea=exp=1774859958~acl=/api/1/1/0/e/b/0/0eb45775a553d3bfbd01fb7dc88817f6.mp3*~data=user_id=0,application_id=42~hmac=849c5607fe78d5da2d6c93ab8c531f0183e138190023fdf09196a643f5e13843",
+      "duration_ms": 215000,
+      "track_number": 3,
+      "album": {
+        "id": "1227073",
+        "name": "The Bright Lights EP",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86a1212ef96090249dc9b8076c200baf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86a1212ef96090249dc9b8076c200baf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/86a1212ef96090249dc9b8076c200baf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13392837"
+      }
+    },
+    {
+      "id": "61309065",
+      "name": "Bright Lights",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/1/0/04166b13e259d1ef76bc539699ded355.mp3?hdnea=exp=1774859958~acl=/api/1/1/0/4/1/0/04166b13e259d1ef76bc539699ded355.mp3*~data=user_id=0,application_id=42~hmac=5d9359294cbc3548ede2d395dd7cab4b2d07856b1aae579abfa9289d53e4049c",
+      "duration_ms": 324000,
+      "track_number": 4,
+      "album": {
+        "id": "6006682",
+        "name": "Blak and Blu",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cdeac7a3763d419c9a4410cc715215b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cdeac7a3763d419c9a4410cc715215b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cdeac7a3763d419c9a4410cc715215b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/61309065"
+      }
+    },
+    {
+      "id": "104421990",
+      "name": "The Healing",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/3/0/fb3b5fb4075550514791c538845afecd.mp3?hdnea=exp=1774859958~acl=/api/1/1/f/b/3/0/fb3b5fb4075550514791c538845afecd.mp3*~data=user_id=0,application_id=42~hmac=b1997d176fee6eded776bfcf632c3d4f2e5a7055f5f90a2befddf2b65411d8f6",
+      "duration_ms": 288000,
+      "track_number": 5,
+      "album": {
+        "id": "10865492",
+        "name": "The Healing",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4612d842c5d864b7f0e56ee62d3a124a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4612d842c5d864b7f0e56ee62d3a124a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4612d842c5d864b7f0e56ee62d3a124a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/104421990"
+      }
+    },
+    {
+      "id": "61309063",
+      "name": "When My Train Pulls In",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/7/0/ec75157d3028fc20661add43e243b51f.mp3?hdnea=exp=1774859958~acl=/api/1/1/e/c/7/0/ec75157d3028fc20661add43e243b51f.mp3*~data=user_id=0,application_id=42~hmac=ef7b9fdd351d1573a822c9ecb86c39942f72181a9ab214ddd7f246dd804ca3f7",
+      "duration_ms": 465000,
+      "track_number": 6,
+      "album": {
+        "id": "6006682",
+        "name": "Blak and Blu",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cdeac7a3763d419c9a4410cc715215b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cdeac7a3763d419c9a4410cc715215b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cdeac7a3763d419c9a4410cc715215b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/61309063"
+      }
+    },
+    {
+      "id": "635321362",
+      "name": "Low Down Rolling Stone",
+      "popularity": 31,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/f/f/0/cff00ebab41d7c7283064c7780c62d56.mp3?hdnea=exp=1774859958~acl=/api/1/1/c/f/f/0/cff00ebab41d7c7283064c7780c62d56.mp3*~data=user_id=0,application_id=42~hmac=d88d2a9f8fc3ec2a9c9602804b1d80e2ae6ed3662a3f464651d21226fca409ca",
+      "duration_ms": 258000,
+      "track_number": 7,
+      "album": {
+        "id": "87876822",
+        "name": "This Land",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/efdc5fce44b4277a8a5a10a0a7c48dce/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/efdc5fce44b4277a8a5a10a0a7c48dce/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/efdc5fce44b4277a8a5a10a0a7c48dce/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/635321362"
+      }
+    },
+    {
+      "id": "84928193",
+      "name": "Next Door Neighbor Blues (Live)",
+      "popularity": 25,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/4/0/8a4ad7428cd3a9dc15d0df0f30810c49.mp3?hdnea=exp=1774859958~acl=/api/1/1/8/a/4/0/8a4ad7428cd3a9dc15d0df0f30810c49.mp3*~data=user_id=0,application_id=42~hmac=d6a4b153794c272907e77b53953d05dea574a6bd5ca2e747abaef0e0a97d11ac",
+      "duration_ms": 245000,
+      "track_number": 8,
+      "album": {
+        "id": "8562501",
+        "name": "Gary Clark Jr. Live",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42accb5b3b08ad24c559ea5b8141accf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42accb5b3b08ad24c559ea5b8141accf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42accb5b3b08ad24c559ea5b8141accf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84928193"
+      }
+    },
+    {
+      "id": "106586504",
+      "name": "Wings",
+      "popularity": 15,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/5/0/6553b17d7cf080eda2a9c39141d8892f.mp3?hdnea=exp=1774859958~acl=/api/1/1/6/5/5/0/6553b17d7cf080eda2a9c39141d8892f.mp3*~data=user_id=0,application_id=42~hmac=86170ee34302a9da07c3f2700cf9af2e3e33155005f8ac08c994dcdcdb9b80b5",
+      "duration_ms": 252000,
+      "track_number": 9,
+      "album": {
+        "id": "11115184",
+        "name": "The Story of Sonny Boy Slim",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4612d842c5d864b7f0e56ee62d3a124a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4612d842c5d864b7f0e56ee62d3a124a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4612d842c5d864b7f0e56ee62d3a124a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/106586504"
+      }
+    },
+    {
+      "id": "84928191",
+      "name": "Catfish Blues (Live)",
+      "popularity": 36,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/e/0/d8ea42919620bb7874d3611eec89611e.mp3?hdnea=exp=1774859958~acl=/api/1/1/d/8/e/0/d8ea42919620bb7874d3611eec89611e.mp3*~data=user_id=0,application_id=42~hmac=06d01589ac4519812962470893304430de32cac29dff19eae73ca722831b0689",
+      "duration_ms": 480000,
+      "track_number": 10,
+      "album": {
+        "id": "8562501",
+        "name": "Gary Clark Jr. Live",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42accb5b3b08ad24c559ea5b8141accf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42accb5b3b08ad24c559ea5b8141accf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/42accb5b3b08ad24c559ea5b8141accf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "265084",
+          "name": "Gary Clark Jr."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84928191"
+      }
+    }
+  ]
+}

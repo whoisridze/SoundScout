@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "2704610682",
+      "name": "Too Sweet",
+      "popularity": 95,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/4/0/ac4097bdcb716e55282570ca08c09b58.mp3?hdnea=exp=1774860053~acl=/api/1/1/a/c/4/0/ac4097bdcb716e55282570ca08c09b58.mp3*~data=user_id=0,application_id=42~hmac=616f70eaccace2a7e8e5d180280f8909143cb4c70dd8ccb09a231f87ced21ba7",
+      "duration_ms": 251000,
+      "track_number": 1,
+      "album": {
+        "id": "560433462",
+        "name": "Unheard",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a7c512b717a4aa7452f3c3e46675322/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a7c512b717a4aa7452f3c3e46675322/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7a7c512b717a4aa7452f3c3e46675322/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2704610682"
+      }
+    },
+    {
+      "id": "84791735",
+      "name": "Take Me To Church",
+      "popularity": 93,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/f/0/52faa238ac6801a1eb418bb9e7c7a3e7.mp3?hdnea=exp=1774860053~acl=/api/1/1/5/2/f/0/52faa238ac6801a1eb418bb9e7c7a3e7.mp3*~data=user_id=0,application_id=42~hmac=471853ff7a1318eea04ef6c6093e8e474865b6b65e52ccdd089b22c002df9489",
+      "duration_ms": 242000,
+      "track_number": 2,
+      "album": {
+        "id": "8548975",
+        "name": "Hozier",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84791735"
+      }
+    },
+    {
+      "id": "111774662",
+      "name": "Jackie And Wilson",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/9/6/0/596880edd90b158cf1a4c1541f03fd35.mp3?hdnea=exp=1774860053~acl=/api/1/1/5/9/6/0/596880edd90b158cf1a4c1541f03fd35.mp3*~data=user_id=0,application_id=42~hmac=44e9cc6f387b49b8ca19e84e8d2db636c1f4b9e32d456a0eb0e230751bddb699",
+      "duration_ms": 226000,
+      "track_number": 3,
+      "album": {
+        "id": "11602938",
+        "name": "Hozier (Special Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7fcbfe1ba6feee6a1828d70cd10e4fdf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7fcbfe1ba6feee6a1828d70cd10e4fdf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7fcbfe1ba6feee6a1828d70cd10e4fdf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/111774662"
+      }
+    },
+    {
+      "id": "2185005677",
+      "name": "Eat Your Young",
+      "popularity": 63,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/b/0/eab1466b871389c2949326e772b0efe2.mp3?hdnea=exp=1774860053~acl=/api/1/1/e/a/b/0/eab1466b871389c2949326e772b0efe2.mp3*~data=user_id=0,application_id=42~hmac=32113a9d5b2b561ca4b0cc24c32e2498c20f5391cbcaf76d707c2852da251eb5",
+      "duration_ms": 245000,
+      "track_number": 4,
+      "album": {
+        "id": "415985677",
+        "name": "Eat Your Young",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d9feebf1ba8f23176b487eeba238c20/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d9feebf1ba8f23176b487eeba238c20/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/2d9feebf1ba8f23176b487eeba238c20/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2185005677"
+      }
+    },
+    {
+      "id": "111774706",
+      "name": "Do I Wanna Know? (Live At the BBC)",
+      "popularity": 75,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/f/0/7ef9a4bba4423c9e7d0fcc649fb85674.mp3?hdnea=exp=1774860053~acl=/api/1/1/7/e/f/0/7ef9a4bba4423c9e7d0fcc649fb85674.mp3*~data=user_id=0,application_id=42~hmac=185c7a43380f8e10ddc2f45d8af20fee869a21a14cec46cbf1813d3ea78e8d6c",
+      "duration_ms": 258000,
+      "track_number": 5,
+      "album": {
+        "id": "11602938",
+        "name": "Hozier (Special Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7fcbfe1ba6feee6a1828d70cd10e4fdf/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7fcbfe1ba6feee6a1828d70cd10e4fdf/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/7fcbfe1ba6feee6a1828d70cd10e4fdf/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/111774706"
+      }
+    },
+    {
+      "id": "638484182",
+      "name": "Movement",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/3/0/143760e8660d6ca78c91dee1fa89a8bf.mp3?hdnea=exp=1774860053~acl=/api/1/1/1/4/3/0/143760e8660d6ca78c91dee1fa89a8bf.mp3*~data=user_id=0,application_id=42~hmac=e3c6777830a8374250ecaf85d0f7f2fb3f9ca0d91d59964a10095f2255509a17",
+      "duration_ms": 237000,
+      "track_number": 6,
+      "album": {
+        "id": "88432262",
+        "name": "Wasteland, Baby!",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ced08a09eb93982eb30ae9ae44a1c5ba/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ced08a09eb93982eb30ae9ae44a1c5ba/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ced08a09eb93982eb30ae9ae44a1c5ba/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/638484182"
+      }
+    },
+    {
+      "id": "84791751",
+      "name": "Work Song",
+      "popularity": 73,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/9/2/0/e920365cdd9a569de4f3485a032238a2.mp3?hdnea=exp=1774860053~acl=/api/1/1/e/9/2/0/e920365cdd9a569de4f3485a032238a2.mp3*~data=user_id=0,application_id=42~hmac=2a6e7bcc72635dc29a7ca3a1e3a73e2f2c9bf471d1acb5b8559b714f3a5e0646",
+      "duration_ms": 229000,
+      "track_number": 7,
+      "album": {
+        "id": "8548975",
+        "name": "Hozier",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84791751"
+      }
+    },
+    {
+      "id": "84791737",
+      "name": "Angel Of Small Death & The Codeine Scene",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/4/0/dd402f7e5409337906fc8eb189a3c6d9.mp3?hdnea=exp=1774860053~acl=/api/1/1/d/d/4/0/dd402f7e5409337906fc8eb189a3c6d9.mp3*~data=user_id=0,application_id=42~hmac=b27f3d54b557e31056b450a97a486ef56b80e85db9f7aeb702e4c726be052cd6",
+      "duration_ms": 219000,
+      "track_number": 8,
+      "album": {
+        "id": "8548975",
+        "name": "Hozier",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84791737"
+      }
+    },
+    {
+      "id": "84791741",
+      "name": "Someone New",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/9/0/249ba41b66bb53d602c0ef54fcfc2102.mp3?hdnea=exp=1774860053~acl=/api/1/1/2/4/9/0/249ba41b66bb53d602c0ef54fcfc2102.mp3*~data=user_id=0,application_id=42~hmac=c0809dae089f54ac067d0e536afe13c2cb2a2a782341d52d0a02c7d957aa753b",
+      "duration_ms": 224000,
+      "track_number": 9,
+      "album": {
+        "id": "8548975",
+        "name": "Hozier",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/8442e9ac0227a07b00c9dfd0ec00032d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/84791741"
+      }
+    },
+    {
+      "id": "2945628741",
+      "name": "Nobody's Soldier",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/6/0/b26bb621b5d68c57591660331ffd1c82.mp3?hdnea=exp=1774860053~acl=/api/1/1/b/2/6/0/b26bb621b5d68c57591660331ffd1c82.mp3*~data=user_id=0,application_id=42~hmac=d905e5f2b26bc99d4aff27697e1cf187fd77235192391b9b9c340c42af696e74",
+      "duration_ms": 237000,
+      "track_number": 10,
+      "album": {
+        "id": "628920311",
+        "name": "Unaired",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/491f9e008bf3f644a53a8a88c8727ce8/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/491f9e008bf3f644a53a8a88c8727ce8/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/491f9e008bf3f644a53a8a88c8727ce8/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "5062414",
+          "name": "Hozier"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2945628741"
+      }
+    }
+  ]
+}

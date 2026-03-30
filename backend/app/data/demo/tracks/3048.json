@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "65690440",
+      "name": "Angel Of Death",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/d/0/e8d217e93ea15b2c75acab02d4c0aa9e.mp3?hdnea=exp=1774860023~acl=/api/1/1/e/8/d/0/e8d217e93ea15b2c75acab02d4c0aa9e.mp3*~data=user_id=0,application_id=42~hmac=720a73a5461b8914788ac7bd040544cee8f19275f9b316a8eb56b1440c69d08d",
+      "duration_ms": 291000,
+      "track_number": 1,
+      "album": {
+        "id": "6439870",
+        "name": "Reign In Blood (Expanded)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f3a4d7b906782502b53231fd546fa6b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f3a4d7b906782502b53231fd546fa6b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f3a4d7b906782502b53231fd546fa6b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65690440"
+      }
+    },
+    {
+      "id": "65724647",
+      "name": "South Of Heaven",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/b/0/66bf51a63fa31602e9f0ea196352d778.mp3?hdnea=exp=1774860023~acl=/api/1/1/6/6/b/0/66bf51a63fa31602e9f0ea196352d778.mp3*~data=user_id=0,application_id=42~hmac=29def649ec6e5343ef3e439bde0e34ff7677362e2f52a398ed8625686bd48a5c",
+      "duration_ms": 298000,
+      "track_number": 2,
+      "album": {
+        "id": "6443119",
+        "name": "South Of Heaven",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8abbb763d091672f26c0fd0bf449481/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8abbb763d091672f26c0fd0bf449481/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/c8abbb763d091672f26c0fd0bf449481/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65724647"
+      }
+    },
+    {
+      "id": "65690449",
+      "name": "Raining Blood",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/5/0/9c5cd5fa2569cf4d3c1b4d67286d8e35.mp3?hdnea=exp=1774860023~acl=/api/1/1/9/c/5/0/9c5cd5fa2569cf4d3c1b4d67286d8e35.mp3*~data=user_id=0,application_id=42~hmac=31bbf879a2ce882deb8edf45b940904e8f57f13fec39e14fe46880e482203d4d",
+      "duration_ms": 254000,
+      "track_number": 3,
+      "album": {
+        "id": "6439870",
+        "name": "Reign In Blood (Expanded)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f3a4d7b906782502b53231fd546fa6b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f3a4d7b906782502b53231fd546fa6b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/9f3a4d7b906782502b53231fd546fa6b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65690449"
+      }
+    },
+    {
+      "id": "65707342",
+      "name": "Seasons In The Abyss (Album Version)",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/d/0/0cdb36f1ffa8797292a5a2a392c10b38.mp3?hdnea=exp=1774860023~acl=/api/1/1/0/c/d/0/0cdb36f1ffa8797292a5a2a392c10b38.mp3*~data=user_id=0,application_id=42~hmac=9e7cd9a54251301d3b96464ed9c276ba4094ccdf84d3e652c32d96e045e954ec",
+      "duration_ms": 392000,
+      "track_number": 4,
+      "album": {
+        "id": "6441476",
+        "name": "Seasons In The Abyss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7f7f64179ad3549bdb94270c4649a63/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7f7f64179ad3549bdb94270c4649a63/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7f7f64179ad3549bdb94270c4649a63/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65707342"
+      }
+    },
+    {
+      "id": "651520652",
+      "name": "Vices",
+      "popularity": 32,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/c/0/21cfb9eb61558d42a3322ed5ea0bbdd2.mp3?hdnea=exp=1774860023~acl=/api/1/1/2/1/c/0/21cfb9eb61558d42a3322ed5ea0bbdd2.mp3*~data=user_id=0,application_id=42~hmac=8f52233369ef2368bc689f7f9428d700015315773df2ec7e38288ee456ce5dd1",
+      "duration_ms": 212000,
+      "track_number": 5,
+      "album": {
+        "id": "90904272",
+        "name": "Repentless",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ceee2f7b73cd590d4307d16ba5947140/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ceee2f7b73cd590d4307d16ba5947140/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ceee2f7b73cd590d4307d16ba5947140/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/651520652"
+      }
+    },
+    {
+      "id": "65690435",
+      "name": "Bloodline",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/6/0/046fe907dc42f7ac0ab3ad28d319b78c.mp3?hdnea=exp=1774860023~acl=/api/1/1/0/4/6/0/046fe907dc42f7ac0ab3ad28d319b78c.mp3*~data=user_id=0,application_id=42~hmac=bbde02b3a293a28438c1f809ddcdd329695eb904c7a326ad6d3fc1113ed0c004",
+      "duration_ms": 216000,
+      "track_number": 6,
+      "album": {
+        "id": "6439869",
+        "name": "God Hates Us All",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a569fdb25edb8aeb44a43a75b6dfc8a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a569fdb25edb8aeb44a43a75b6dfc8a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/1a569fdb25edb8aeb44a43a75b6dfc8a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65690435"
+      }
+    },
+    {
+      "id": "651520622",
+      "name": "Repentless",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/9/1/0/791d48935ac38d733e3cea3772420fe3.mp3?hdnea=exp=1774860023~acl=/api/1/1/7/9/1/0/791d48935ac38d733e3cea3772420fe3.mp3*~data=user_id=0,application_id=42~hmac=8597d05a818c8843fd72f89d8e4a15922fa39e14e1eebe01b1871810f0ed7021",
+      "duration_ms": 199000,
+      "track_number": 7,
+      "album": {
+        "id": "90904272",
+        "name": "Repentless",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ceee2f7b73cd590d4307d16ba5947140/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ceee2f7b73cd590d4307d16ba5947140/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/ceee2f7b73cd590d4307d16ba5947140/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/651520622"
+      }
+    },
+    {
+      "id": "65707333",
+      "name": "War Ensemble (Album Version)",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/b/0/5fba1e739bdaf039be60200621ea1453.mp3?hdnea=exp=1774860023~acl=/api/1/1/5/f/b/0/5fba1e739bdaf039be60200621ea1453.mp3*~data=user_id=0,application_id=42~hmac=764c2dbf76b21566fbbb49a603d5fca09b08aeab05a801f106be456516bea0d2",
+      "duration_ms": 292000,
+      "track_number": 8,
+      "album": {
+        "id": "6441476",
+        "name": "Seasons In The Abyss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7f7f64179ad3549bdb94270c4649a63/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7f7f64179ad3549bdb94270c4649a63/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7f7f64179ad3549bdb94270c4649a63/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65707333"
+      }
+    },
+    {
+      "id": "76391265",
+      "name": "World Painted Blood",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/6/0/d561ac25691e7a46cb90e6e4e6c2f87e.mp3?hdnea=exp=1774860023~acl=/api/1/1/d/5/6/0/d561ac25691e7a46cb90e6e4e6c2f87e.mp3*~data=user_id=0,application_id=42~hmac=c8faf42c8d067527e46e174aa73500791131e0d18f889344aff560f74da163a4",
+      "duration_ms": 353000,
+      "track_number": 9,
+      "album": {
+        "id": "7574564",
+        "name": "World Painted Blood",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11dcd68f10636abf22ab1714f0e0a88c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11dcd68f10636abf22ab1714f0e0a88c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/11dcd68f10636abf22ab1714f0e0a88c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/76391265"
+      }
+    },
+    {
+      "id": "65707339",
+      "name": "Skeletons Of Society (Album Version)",
+      "popularity": 46,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/7/0/54774f03816ff2d298820a0f5410ae21.mp3?hdnea=exp=1774860023~acl=/api/1/1/5/4/7/0/54774f03816ff2d298820a0f5410ae21.mp3*~data=user_id=0,application_id=42~hmac=d36665944eb6227c865aadf95fbe74f82b5ff91691030a6a11fcfc659e8dcca9",
+      "duration_ms": 281000,
+      "track_number": 10,
+      "album": {
+        "id": "6441476",
+        "name": "Seasons In The Abyss",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7f7f64179ad3549bdb94270c4649a63/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7f7f64179ad3549bdb94270c4649a63/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d7f7f64179ad3549bdb94270c4649a63/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "3048",
+          "name": "Slayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/65707339"
+      }
+    }
+  ]
+}

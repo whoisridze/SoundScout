@@ -1,0 +1,32 @@
+{
+  "id": "5412407",
+  "name": "Sech",
+  "popularity": 99,
+  "followers": {
+    "total": 1566241
+  },
+  "genres": [
+    "reggaeton"
+  ],
+  "images": [
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/df603ce80d18e234c1cfc66a14c1713e/1000x1000-000000-80-0-0.jpg",
+      "height": 1000,
+      "width": 1000
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/df603ce80d18e234c1cfc66a14c1713e/500x500-000000-80-0-0.jpg",
+      "height": 500,
+      "width": 500
+    },
+    {
+      "url": "https://cdn-images.dzcdn.net/images/artist/df603ce80d18e234c1cfc66a14c1713e/250x250-000000-80-0-0.jpg",
+      "height": 250,
+      "width": 250
+    }
+  ],
+  "external_urls": {
+    "spotify": "https://www.deezer.com/artist/5412407"
+  },
+  "uri": "deezer:artist:5412407"
+}

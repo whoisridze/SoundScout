@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "738911332",
+      "name": "Carried Away",
+      "popularity": 67,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/6/0/0262e64c4e44d1cf15d5943d907759e1.mp3?hdnea=exp=1774859999~acl=/api/1/1/0/2/6/0/0262e64c4e44d1cf15d5943d907759e1.mp3*~data=user_id=0,application_id=42~hmac=34d0e200108fc78c81285ce9e77457b79727359a02c05338309cb69ad74dc85a",
+      "duration_ms": 221000,
+      "track_number": 1,
+      "album": {
+        "id": "108612682",
+        "name": "I Used To Know Her",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0b84cef7af7bfa2499cda1c3fff0028/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0b84cef7af7bfa2499cda1c3fff0028/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0b84cef7af7bfa2499cda1c3fff0028/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/738911332"
+      }
+    },
+    {
+      "id": "1348199612",
+      "name": "Come Through (feat. Chris Brown)",
+      "popularity": 57,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/3/0/b43d11b04e38ea756135598c657644e5.mp3?hdnea=exp=1774859999~acl=/api/1/1/b/4/3/0/b43d11b04e38ea756135598c657644e5.mp3*~data=user_id=0,application_id=42~hmac=c8a78618e76460a51b94c94e7c8dc12d47a833880a8781721d472d71b36f58bf",
+      "duration_ms": 214000,
+      "track_number": 2,
+      "album": {
+        "id": "224016692",
+        "name": "Come Through (feat. Chris Brown)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc60592b212ae12bf0d6164a0dc628de/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc60592b212ae12bf0d6164a0dc628de/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/cc60592b212ae12bf0d6164a0dc628de/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1348199612"
+      }
+    },
+    {
+      "id": "1400843172",
+      "name": "Convince Me Otherwise",
+      "popularity": 49,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/1/b/0/01bcf5bac30ff960c118ed8e9863b987.mp3?hdnea=exp=1774859999~acl=/api/1/1/0/1/b/0/01bcf5bac30ff960c118ed8e9863b987.mp3*~data=user_id=0,application_id=42~hmac=80b3f5158af04e3cd9f4428d9ed78534a229449e4586a936a249775ea6eb8336",
+      "duration_ms": 187000,
+      "track_number": 3,
+      "album": {
+        "id": "236529752",
+        "name": "JORDI (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d6f17a706ac04fdd3dccddfdb65653/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d6f17a706ac04fdd3dccddfdb65653/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/62d6f17a706ac04fdd3dccddfdb65653/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1400843172"
+      }
+    },
+    {
+      "id": "417767142",
+      "name": "Say It Again",
+      "popularity": 34,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/6/0/d567ddf1fa7dff9b53c008e44b09e1e3.mp3?hdnea=exp=1774859999~acl=/api/1/1/d/5/6/0/d567ddf1fa7dff9b53c008e44b09e1e3.mp3*~data=user_id=0,application_id=42~hmac=6bcf40c8e23b86c4c862480507b2bb359157580434cff731dda08140db2c6f59",
+      "duration_ms": 172000,
+      "track_number": 4,
+      "album": {
+        "id": "49911462",
+        "name": "H.E.R.",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dff56488d13d0b5e96d93d895c9624b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dff56488d13d0b5e96d93d895c9624b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dff56488d13d0b5e96d93d895c9624b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/417767142"
+      }
+    },
+    {
+      "id": "415312022",
+      "name": "2",
+      "popularity": 20,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/d/0/f5d5e6a0a5ea5af5e489047354503a2a.mp3?hdnea=exp=1774859999~acl=/api/1/1/f/5/d/0/f5d5e6a0a5ea5af5e489047354503a2a.mp3*~data=user_id=0,application_id=42~hmac=c4c2b71e41a4d473a38ac9fedd4109f30b71542e790f87a23401dd458009d04e",
+      "duration_ms": 188000,
+      "track_number": 5,
+      "album": {
+        "id": "49533202",
+        "name": "2",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dff56488d13d0b5e96d93d895c9624b/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dff56488d13d0b5e96d93d895c9624b/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4dff56488d13d0b5e96d93d895c9624b/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/415312022"
+      }
+    },
+    {
+      "id": "865683652",
+      "name": "Comfortable",
+      "popularity": 50,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/0/0/ff01f6bf36ff6ba0bc85f6ab2a72e92e.mp3?hdnea=exp=1774859999~acl=/api/1/1/f/f/0/0/ff01f6bf36ff6ba0bc85f6ab2a72e92e.mp3*~data=user_id=0,application_id=42~hmac=56d835c30d55fe4cca40b176c635ef3b464484d03a2539e1374f8f1742bbc852",
+      "duration_ms": 255000,
+      "track_number": 6,
+      "album": {
+        "id": "129680262",
+        "name": "Comfortable",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0cae3c28ccb69ee77caf3ae716dfb7a2/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0cae3c28ccb69ee77caf3ae716dfb7a2/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/0cae3c28ccb69ee77caf3ae716dfb7a2/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/865683652"
+      }
+    },
+    {
+      "id": "1406489022",
+      "name": "Bloody Waters",
+      "popularity": 42,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/3/0/1836b8be01fcf4dbb330a05c01f21657.mp3?hdnea=exp=1774859999~acl=/api/1/1/1/8/3/0/1836b8be01fcf4dbb330a05c01f21657.mp3*~data=user_id=0,application_id=42~hmac=6c2782442b8b0244347f3fd1a434efbe254596d83d5762bcddb6c545f2f30922",
+      "duration_ms": 260000,
+      "track_number": 7,
+      "album": {
+        "id": "237729492",
+        "name": "Back of My Mind",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fcf744b07812c23371ba8b9f24a4eaea/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fcf744b07812c23371ba8b9f24a4eaea/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/fcf744b07812c23371ba8b9f24a4eaea/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1406489022"
+      }
+    },
+    {
+      "id": "138739427",
+      "name": "Pigment",
+      "popularity": 10,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/0/0/990f23f480c1680c3942c90ef6724d06.mp3?hdnea=exp=1774859999~acl=/api/1/1/9/9/0/0/990f23f480c1680c3942c90ef6724d06.mp3*~data=user_id=0,application_id=42~hmac=049d099d529a5cf72f5a2ed707060f405ec7b2f617e0e1f0a29549418fbae145",
+      "duration_ms": 178000,
+      "track_number": 8,
+      "album": {
+        "id": "14904591",
+        "name": "Pigment",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23f511b72b083ec1d26a8e79c484d4b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23f511b72b083ec1d26a8e79c484d4b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/23f511b72b083ec1d26a8e79c484d4b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/138739427"
+      }
+    },
+    {
+      "id": "738911342",
+      "name": "Going (Full)",
+      "popularity": 28,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/1/0/521a8e01156c1a3c7347ba69b227751f.mp3?hdnea=exp=1774859999~acl=/api/1/1/5/2/1/0/521a8e01156c1a3c7347ba69b227751f.mp3*~data=user_id=0,application_id=42~hmac=55c28e785cc0c1d92d48fb11e6c2b8db3359183b795f2f98c0cc4f3495207dbd",
+      "duration_ms": 173000,
+      "track_number": 9,
+      "album": {
+        "id": "108612682",
+        "name": "I Used To Know Her",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0b84cef7af7bfa2499cda1c3fff0028/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0b84cef7af7bfa2499cda1c3fff0028/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/b0b84cef7af7bfa2499cda1c3fff0028/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/738911342"
+      }
+    },
+    {
+      "id": "1059252992",
+      "name": "Slow Down",
+      "popularity": 45,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/a/0/8da7b2c5296f9dd031349da6e0233af0.mp3?hdnea=exp=1774859999~acl=/api/1/1/8/d/a/0/8da7b2c5296f9dd031349da6e0233af0.mp3*~data=user_id=0,application_id=42~hmac=195c30f7bc0bda2b4fc38a9815f766ea5ee70f26ce0d436210a3e7ad5b982df9",
+      "duration_ms": 195000,
+      "track_number": 10,
+      "album": {
+        "id": "168876172",
+        "name": "Higher Place",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91a3dd125b456ccbb2fecfec8a1b5cf9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91a3dd125b456ccbb2fecfec8a1b5cf9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/91a3dd125b456ccbb2fecfec8a1b5cf9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "8114447",
+          "name": "H.E.R."
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1059252992"
+      }
+    }
+  ]
+}

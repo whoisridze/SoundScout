@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "978387002",
+      "name": "La Curiosidad",
+      "popularity": 68,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/6/0/a66457b27d5284ca4f1683181cb86e18.mp3?hdnea=exp=1774860016~acl=/api/1/1/a/6/6/0/a66457b27d5284ca4f1683181cb86e18.mp3*~data=user_id=0,application_id=42~hmac=477c8f88ed8c3dc12f87f2d99da2eedc562fcc4325279cfe777aac5f618e480c",
+      "duration_ms": 219000,
+      "track_number": 1,
+      "album": {
+        "id": "152280052",
+        "name": "Platonicos",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f46d5fcc09259d3981622bf5d33a572a/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f46d5fcc09259d3981622bf5d33a572a/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/f46d5fcc09259d3981622bf5d33a572a/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/978387002"
+      }
+    },
+    {
+      "id": "1142380132",
+      "name": "Bandido",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/f/0/91f618dd4dfc2ecaca4f0f2b352bdce9.mp3?hdnea=exp=1774860016~acl=/api/1/1/9/1/f/0/91f618dd4dfc2ecaca4f0f2b352bdce9.mp3*~data=user_id=0,application_id=42~hmac=f8853c6a5cb587ea758295351b2fe528a65596904d1183fccaf1a2273cbf5f23",
+      "duration_ms": 232000,
+      "track_number": 2,
+      "album": {
+        "id": "186333922",
+        "name": "Bandido",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e08eb11580eee9678dd97ccad39b8707/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e08eb11580eee9678dd97ccad39b8707/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e08eb11580eee9678dd97ccad39b8707/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1142380132"
+      }
+    },
+    {
+      "id": "2622772422",
+      "name": "LA FALDA",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/e/0/24ef0bd92b33ee18b401ca72ed4ed082.mp3?hdnea=exp=1774860016~acl=/api/1/1/2/4/e/0/24ef0bd92b33ee18b401ca72ed4ed082.mp3*~data=user_id=0,application_id=42~hmac=dc11faa6c304794817c450a2132b07d4c18df57f1caa2cafaa1fda3b67dc475c",
+      "duration_ms": 174000,
+      "track_number": 3,
+      "album": {
+        "id": "535723342",
+        "name": "LA FALDA",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afc1539c3fe20a2fed707ba72aacbb05/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afc1539c3fe20a2fed707ba72aacbb05/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/afc1539c3fe20a2fed707ba72aacbb05/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2622772422"
+      }
+    },
+    {
+      "id": "3434062781",
+      "name": "Baja California",
+      "popularity": 44,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/0/0/230cee3f37c77d24ae259b2086760248.mp3?hdnea=exp=1774860016~acl=/api/1/1/2/3/0/0/230cee3f37c77d24ae259b2086760248.mp3*~data=user_id=0,application_id=42~hmac=22f65082d4b1ad9353c09fcb4aacbf49f268478337cf7f8c7c3c8ba8f787e018",
+      "duration_ms": 143000,
+      "track_number": 4,
+      "album": {
+        "id": "779244291",
+        "name": "F1 The Album (Cinematic Edition)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04fc92712f724ceb3aef570fa09fed48/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04fc92712f724ceb3aef570fa09fed48/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/04fc92712f724ceb3aef570fa09fed48/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3434062781"
+      }
+    },
+    {
+      "id": "1095137892",
+      "name": "La Nota",
+      "popularity": 71,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/4/0/d64a892113e154cd1067c0cf5c73922e.mp3?hdnea=exp=1774860016~acl=/api/1/1/d/6/4/0/d64a892113e154cd1067c0cf5c73922e.mp3*~data=user_id=0,application_id=42~hmac=5c91d980ce06e5e50ec34319ac4281f8323a1c67abc11285113f5309ed97056e",
+      "duration_ms": 216000,
+      "track_number": 5,
+      "album": {
+        "id": "176594342",
+        "name": "La Nota",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a871bc44a406ccead04f94d925ffd959/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a871bc44a406ccead04f94d925ffd959/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a871bc44a406ccead04f94d925ffd959/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1095137892"
+      }
+    },
+    {
+      "id": "3368936011",
+      "name": "SOLEAO",
+      "popularity": 74,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/d/0/63d86516fd32185c8991a78b00b3bc6d.mp3?hdnea=exp=1774860016~acl=/api/1/1/6/3/d/0/63d86516fd32185c8991a78b00b3bc6d.mp3*~data=user_id=0,application_id=42~hmac=2b43a301f0700c6ee24d5f464384f14f26c17074562a25d684a21ba5b088310a",
+      "duration_ms": 218000,
+      "track_number": 6,
+      "album": {
+        "id": "757386981",
+        "name": "SOLEAO",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16b67b91829f182cd519119796259333/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16b67b91829f182cd519119796259333/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/16b67b91829f182cd519119796259333/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3368936011"
+      }
+    },
+    {
+      "id": "2045122487",
+      "name": "PLAYA DEL INGLÉS",
+      "popularity": 69,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/0/0/b503996b66152f223129654b0633a7bf.mp3?hdnea=exp=1774860016~acl=/api/1/1/b/5/0/0/b503996b66152f223129654b0633a7bf.mp3*~data=user_id=0,application_id=42~hmac=f10cb9274ce24711299400e60bce17296529f51f7b9c0726404753f413f9d373",
+      "duration_ms": 237000,
+      "track_number": 7,
+      "album": {
+        "id": "382414087",
+        "name": "PLAYA DEL INGLÉS",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bea799c4069935a17a3aa78ef544a1c/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bea799c4069935a17a3aa78ef544a1c/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6bea799c4069935a17a3aa78ef544a1c/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/2045122487"
+      }
+    },
+    {
+      "id": "828486762",
+      "name": "La Playa (Remix)",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/4/0/6548a428d3c7a735841bad3b0dcf9095.mp3?hdnea=exp=1774860016~acl=/api/1/1/6/5/4/0/6548a428d3c7a735841bad3b0dcf9095.mp3*~data=user_id=0,application_id=42~hmac=71276b927bed4254946f87a1cc7826d444213b1bcd4ea61cf007b2eba6e5cff2",
+      "duration_ms": 250000,
+      "track_number": 8,
+      "album": {
+        "id": "122360152",
+        "name": "La Playa (Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bf2ff53113ec2208f3687537559e646/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bf2ff53113ec2208f3687537559e646/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/4bf2ff53113ec2208f3687537559e646/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/828486762"
+      }
+    },
+    {
+      "id": "857827262",
+      "name": "Diosa",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/2/0/be2c70f8b8b8d0d07068a0c2e13b6024.mp3?hdnea=exp=1774860016~acl=/api/1/1/b/e/2/0/be2c70f8b8b8d0d07068a0c2e13b6024.mp3*~data=user_id=0,application_id=42~hmac=a9329322d0d7f015ffec06947672f895032d50da6f8916e16d65d46a8d616615",
+      "duration_ms": 214000,
+      "track_number": 9,
+      "album": {
+        "id": "127911322",
+        "name": "Easy Money Baby",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9813d681dc888bc53c70349ca9315ba/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9813d681dc888bc53c70349ca9315ba/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/d9813d681dc888bc53c70349ca9315ba/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/857827262"
+      }
+    },
+    {
+      "id": "3202603181",
+      "name": "MÓNTATE BABY (feat. De La Rose)",
+      "popularity": 52,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/4/0/1b4fdfc928c5cacdfbecc1364632d12d.mp3?hdnea=exp=1774860016~acl=/api/1/1/1/b/4/0/1b4fdfc928c5cacdfbecc1364632d12d.mp3*~data=user_id=0,application_id=42~hmac=d4c2cdf6d3c377882b7c6670f4382ebd651807628539a080591be29f58f46c0b",
+      "duration_ms": 205000,
+      "track_number": 10,
+      "album": {
+        "id": "702924681",
+        "name": "LYKE MIIKE (DELUXE)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5fa8173844e5a5206e2ae9708ed2350d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5fa8173844e5a5206e2ae9708ed2350d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/5fa8173844e5a5206e2ae9708ed2350d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "12029862",
+          "name": "Myke Towers"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/3202603181"
+      }
+    }
+  ]
+}

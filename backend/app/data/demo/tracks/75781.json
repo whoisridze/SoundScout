@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "1094913102",
+      "name": "Step",
+      "popularity": 53,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/7/f/4/0/7f4af8848443e3d9a9e39fc5cce0a4e0.mp3?hdnea=exp=1774859878~acl=/api/1/1/7/f/4/0/7f4af8848443e3d9a9e39fc5cce0a4e0.mp3*~data=user_id=0,application_id=42~hmac=efc016c33d699368e82f0ff84d76847c5d3badaa03fb8103ae2a96084476befc",
+      "duration_ms": 251000,
+      "track_number": 1,
+      "album": {
+        "id": "176532302",
+        "name": "Modern Vampires of the City",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/470b179cc499f76813311609e4e3b9b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/470b179cc499f76813311609e4e3b9b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/470b179cc499f76813311609e4e3b9b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1094913102"
+      }
+    },
+    {
+      "id": "937332",
+      "name": "A-Punk",
+      "popularity": 76,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/2/b/0/b2b0b1997b7c9fc7591daced33ae27ec.mp3?hdnea=exp=1774859878~acl=/api/1/1/b/2/b/0/b2b0b1997b7c9fc7591daced33ae27ec.mp3*~data=user_id=0,application_id=42~hmac=ddd1f65b5e715943108821f37d850d3422ccc92e663d0e7371f093f092ec6904",
+      "duration_ms": 137000,
+      "track_number": 2,
+      "album": {
+        "id": "105411",
+        "name": "Vampire Weekend",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/937332"
+      }
+    },
+    {
+      "id": "937340",
+      "name": "Campus",
+      "popularity": 55,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/3/0/363026c031eb4dc373c0b31ecf888c46.mp3?hdnea=exp=1774859878~acl=/api/1/1/3/6/3/0/363026c031eb4dc373c0b31ecf888c46.mp3*~data=user_id=0,application_id=42~hmac=e30903b774fa666b45c8073adace912853a0d173452bf58bce55509b753c768e",
+      "duration_ms": 176000,
+      "track_number": 3,
+      "album": {
+        "id": "105411",
+        "name": "Vampire Weekend",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/937340"
+      }
+    },
+    {
+      "id": "937330",
+      "name": "Oxford Comma",
+      "popularity": 51,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/d/0/90dfc592491093d0d8d78d141cad4eea.mp3?hdnea=exp=1774859878~acl=/api/1/1/9/0/d/0/90dfc592491093d0d8d78d141cad4eea.mp3*~data=user_id=0,application_id=42~hmac=f8ca81738db60d8269e8b5e00bc21b88beea3f08fa4d244e268dffb7304bc37a",
+      "duration_ms": 195000,
+      "track_number": 4,
+      "album": {
+        "id": "105411",
+        "name": "Vampire Weekend",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/937330"
+      }
+    },
+    {
+      "id": "937352",
+      "name": "Walcott",
+      "popularity": 37,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/c/0/0dced7a20a1ef265af052b807abc9721.mp3?hdnea=exp=1774859878~acl=/api/1/1/0/d/c/0/0dced7a20a1ef265af052b807abc9721.mp3*~data=user_id=0,application_id=42~hmac=55922237d43a456343401e13ffa242260e4c753636d10f094b27bf8d52786776",
+      "duration_ms": 221000,
+      "track_number": 5,
+      "album": {
+        "id": "105411",
+        "name": "Vampire Weekend",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/6fc963e3e5bd489dd82b0e02c3122792/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/937352"
+      }
+    },
+    {
+      "id": "672770882",
+      "name": "This Life",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/c/0/6dc163330729cc501bf2dcc2ea5fefb4.mp3?hdnea=exp=1774859878~acl=/api/1/1/6/d/c/0/6dc163330729cc501bf2dcc2ea5fefb4.mp3*~data=user_id=0,application_id=42~hmac=d835efd0f19f04c8f4ee859fc5a92cb6adc2f2d0008aa0a9d262048250c8e714",
+      "duration_ms": 268000,
+      "track_number": 6,
+      "album": {
+        "id": "95224612",
+        "name": "Father of the Bride",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aee106a0dc2eba379ae92998e51fe3d3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aee106a0dc2eba379ae92998e51fe3d3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aee106a0dc2eba379ae92998e51fe3d3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/672770882"
+      }
+    },
+    {
+      "id": "1094913112",
+      "name": "Diane Young",
+      "popularity": 27,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/b/4/2/0/b42a84f0066e41b0225035fd9c0be1f8.mp3?hdnea=exp=1774859878~acl=/api/1/1/b/4/2/0/b42a84f0066e41b0225035fd9c0be1f8.mp3*~data=user_id=0,application_id=42~hmac=79ee82cc7f27911ef105a62bc19ed69e497418024055f161cb5fcc08e7fa3162",
+      "duration_ms": 160000,
+      "track_number": 7,
+      "album": {
+        "id": "176532302",
+        "name": "Modern Vampires of the City",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/470b179cc499f76813311609e4e3b9b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/470b179cc499f76813311609e4e3b9b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/470b179cc499f76813311609e4e3b9b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1094913112"
+      }
+    },
+    {
+      "id": "4848231",
+      "name": "Cousins",
+      "popularity": 39,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/0/0/c40a9d27e47f25662e661a3606abe837.mp3?hdnea=exp=1774859878~acl=/api/1/1/c/4/0/0/c40a9d27e47f25662e661a3606abe837.mp3*~data=user_id=0,application_id=42~hmac=91c8e0c2d81fae4baf51f62e9d2fb18fe23e4fad72b925ef311364f1bf421ce5",
+      "duration_ms": 145000,
+      "track_number": 8,
+      "album": {
+        "id": "444895",
+        "name": "Contra",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59327de36493020190874f2725a8ae2d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59327de36493020190874f2725a8ae2d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/59327de36493020190874f2725a8ae2d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4848231"
+      }
+    },
+    {
+      "id": "1094913092",
+      "name": "Unbelievers",
+      "popularity": 43,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/9/0/2b99383e03290967b9d632473dd40a88.mp3?hdnea=exp=1774859878~acl=/api/1/1/2/b/9/0/2b99383e03290967b9d632473dd40a88.mp3*~data=user_id=0,application_id=42~hmac=659c28e29986ee90f94b37cc621ae032489a272975cb576cda25432f7a7da80a",
+      "duration_ms": 202000,
+      "track_number": 9,
+      "album": {
+        "id": "176532302",
+        "name": "Modern Vampires of the City",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/470b179cc499f76813311609e4e3b9b9/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/470b179cc499f76813311609e4e3b9b9/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/470b179cc499f76813311609e4e3b9b9/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1094913092"
+      }
+    },
+    {
+      "id": "884541742",
+      "name": "Hold You Now (feat. Danielle Haim)",
+      "popularity": 13,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/1/0/531da328385d569b483bd8e972411c15.mp3?hdnea=exp=1774859878~acl=/api/1/1/5/3/1/0/531da328385d569b483bd8e972411c15.mp3*~data=user_id=0,application_id=42~hmac=6c461f93f78f0115508ae2a23df4c87e7b3e36cdad05d1a3fcdc9f0fdd2fab23",
+      "duration_ms": 153000,
+      "track_number": 10,
+      "album": {
+        "id": "132938482",
+        "name": "Father of the Bride (Deluxe)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aee106a0dc2eba379ae92998e51fe3d3/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aee106a0dc2eba379ae92998e51fe3d3/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/aee106a0dc2eba379ae92998e51fe3d3/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "75781",
+          "name": "Vampire Weekend"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/884541742"
+      }
+    }
+  ]
+}

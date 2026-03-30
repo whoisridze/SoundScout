@@ -1,0 +1,404 @@
+{
+  "tracks": [
+    {
+      "id": "14875482",
+      "name": "Slow Dancing in a Burning Room",
+      "popularity": 61,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/1/e/e/0/1eef0580c12d7eec86409a1d155e1dc9.mp3?hdnea=exp=1774859961~acl=/api/1/1/1/e/e/0/1eef0580c12d7eec86409a1d155e1dc9.mp3*~data=user_id=0,application_id=42~hmac=22bfa29d4b6ec205d7dbd6f7c7d949b5bfd327c7cac57dd8591e25f04eb34374",
+      "duration_ms": 242000,
+      "track_number": 1,
+      "album": {
+        "id": "1372014",
+        "name": "Continuum",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a49f22668c3f7f26d9de7fcc93537742/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a49f22668c3f7f26d9de7fcc93537742/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a49f22668c3f7f26d9de7fcc93537742/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14875482"
+      }
+    },
+    {
+      "id": "1432113162",
+      "name": "Wild Blue",
+      "popularity": 60,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/2/4/0/224b8b4489de7d42f929e1e53009090b.mp3?hdnea=exp=1774859961~acl=/api/1/1/2/2/4/0/224b8b4489de7d42f929e1e53009090b.mp3*~data=user_id=0,application_id=42~hmac=ae0cd47131d112e778b39d20f2ecf534373395d631282c93c44c82cdef0921fe",
+      "duration_ms": 252000,
+      "track_number": 2,
+      "album": {
+        "id": "243883782",
+        "name": "Sob Rock",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e1ac61eb5d07f8c1df7ffeff7a6e0094/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e1ac61eb5d07f8c1df7ffeff7a6e0094/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e1ac61eb5d07f8c1df7ffeff7a6e0094/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1432113162"
+      }
+    },
+    {
+      "id": "14875478",
+      "name": "Gravity",
+      "popularity": 64,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/5/0/0b511de9488934f1b185c9ba177ea503.mp3?hdnea=exp=1774859961~acl=/api/1/1/0/b/5/0/0b511de9488934f1b185c9ba177ea503.mp3*~data=user_id=0,application_id=42~hmac=0a46eb6de91dc5afae12d1a652e500dd0dfac1674c01cd75c60feb085b43d6c8",
+      "duration_ms": 245000,
+      "track_number": 3,
+      "album": {
+        "id": "1372014",
+        "name": "Continuum",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a49f22668c3f7f26d9de7fcc93537742/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a49f22668c3f7f26d9de7fcc93537742/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a49f22668c3f7f26d9de7fcc93537742/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14875478"
+      }
+    },
+    {
+      "id": "4636515",
+      "name": "Assassin",
+      "popularity": 29,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/1/0/24177a1437d1b4fce6dc2310bec5d9e5.mp3?hdnea=exp=1774859961~acl=/api/1/1/2/4/1/0/24177a1437d1b4fce6dc2310bec5d9e5.mp3*~data=user_id=0,application_id=42~hmac=440761281b4f559501fe79bcf82c7251f521a5d52898aa17cba4c3237d4cca7f",
+      "duration_ms": 314000,
+      "track_number": 4,
+      "album": {
+        "id": "426587",
+        "name": "Battle Studies",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/940be6461bf5dc1a715fefbaafe35891/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/940be6461bf5dc1a715fefbaafe35891/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/940be6461bf5dc1a715fefbaafe35891/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4636515"
+      }
+    },
+    {
+      "id": "13146260",
+      "name": "Neon",
+      "popularity": 41,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/4/d/c/0/4dc326f25fe533123ef2d79344a15eb6.mp3?hdnea=exp=1774859961~acl=/api/1/1/4/d/c/0/4dc326f25fe533123ef2d79344a15eb6.mp3*~data=user_id=0,application_id=42~hmac=5b0f3a3d55ccf0e754023e88267b5e2649b56ffc4cf00d9d2a709208d2fedd8a",
+      "duration_ms": 262000,
+      "track_number": 5,
+      "album": {
+        "id": "1206253",
+        "name": "Room For Squares",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70933e9355b563d73f3eb7272f1f8960/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70933e9355b563d73f3eb7272f1f8960/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70933e9355b563d73f3eb7272f1f8960/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13146260"
+      }
+    },
+    {
+      "id": "14875477",
+      "name": "Belief",
+      "popularity": 47,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/f/0/39ff694cafa5a949dbbbcb4e76100fef.mp3?hdnea=exp=1774859961~acl=/api/1/1/3/9/f/0/39ff694cafa5a949dbbbcb4e76100fef.mp3*~data=user_id=0,application_id=42~hmac=ff6a5272a4226adbb2560b4a4bd6cdf1dfcb1582834527705f52d158d4ef9c51",
+      "duration_ms": 242000,
+      "track_number": 6,
+      "album": {
+        "id": "1372014",
+        "name": "Continuum",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a49f22668c3f7f26d9de7fcc93537742/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a49f22668c3f7f26d9de7fcc93537742/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/a49f22668c3f7f26d9de7fcc93537742/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/14875477"
+      }
+    },
+    {
+      "id": "13146259",
+      "name": "Your Body Is a Wonderland",
+      "popularity": 66,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/a/0/e8a4c05c957682ca58515022b7e53902.mp3?hdnea=exp=1774859961~acl=/api/1/1/e/8/a/0/e8a4c05c957682ca58515022b7e53902.mp3*~data=user_id=0,application_id=42~hmac=6e37094095479b7335a3be28a9960ac6b02cb92c8cb5e7560821b52ddedab8fa",
+      "duration_ms": 248000,
+      "track_number": 7,
+      "album": {
+        "id": "1206253",
+        "name": "Room For Squares",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70933e9355b563d73f3eb7272f1f8960/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70933e9355b563d73f3eb7272f1f8960/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/70933e9355b563d73f3eb7272f1f8960/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/13146259"
+      }
+    },
+    {
+      "id": "537071322",
+      "name": "New Light (Zookëper Remix)",
+      "popularity": 26,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/0/0/0803335ef2931f7bb286cd14d3cc861e.mp3?hdnea=exp=1774859961~acl=/api/1/1/0/8/0/0/0803335ef2931f7bb286cd14d3cc861e.mp3*~data=user_id=0,application_id=42~hmac=0e94e7818c467c6dc3f7106bfec8c68f64bab0de6f6d5fcc6f946b6a4986ae9a",
+      "duration_ms": 228000,
+      "track_number": 8,
+      "album": {
+        "id": "69927822",
+        "name": "New Light (Zookëper Remix)",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/485cf439f7cd5037d78d475d1ea03e0d/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/485cf439f7cd5037d78d475d1ea03e0d/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/485cf439f7cd5037d78d475d1ea03e0d/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/537071322"
+      }
+    },
+    {
+      "id": "1432113142",
+      "name": "New Light",
+      "popularity": 62,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/d/2/b/0/d2ba34a7279b738b5b683b95c184dd97.mp3?hdnea=exp=1774859961~acl=/api/1/1/d/2/b/0/d2ba34a7279b738b5b683b95c184dd97.mp3*~data=user_id=0,application_id=42~hmac=909f8865990aad5b3619eca8422d1fa4bd5e22539ed474a472307d53c086948f",
+      "duration_ms": 216000,
+      "track_number": 9,
+      "album": {
+        "id": "243883782",
+        "name": "Sob Rock",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e1ac61eb5d07f8c1df7ffeff7a6e0094/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e1ac61eb5d07f8c1df7ffeff7a6e0094/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/e1ac61eb5d07f8c1df7ffeff7a6e0094/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/1432113142"
+      }
+    },
+    {
+      "id": "4636510",
+      "name": "Heartbreak Warfare",
+      "popularity": 58,
+      "preview_url": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/e/0/61eb4fc31c62061ddde1a5710994ba9f.mp3?hdnea=exp=1774859961~acl=/api/1/1/6/1/e/0/61eb4fc31c62061ddde1a5710994ba9f.mp3*~data=user_id=0,application_id=42~hmac=2d820649d58372e1b736e19a9be5a7c5e2d27895030e0f4648e7101dbca21012",
+      "duration_ms": 267000,
+      "track_number": 10,
+      "album": {
+        "id": "426587",
+        "name": "Battle Studies",
+        "images": [
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/940be6461bf5dc1a715fefbaafe35891/1000x1000-000000-80-0-0.jpg",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/940be6461bf5dc1a715fefbaafe35891/500x500-000000-80-0-0.jpg",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://cdn-images.dzcdn.net/images/cover/940be6461bf5dc1a715fefbaafe35891/250x250-000000-80-0-0.jpg",
+            "height": 120,
+            "width": 120
+          }
+        ],
+        "release_date": "2023-01-01",
+        "album_type": "album"
+      },
+      "artists": [
+        {
+          "id": "598",
+          "name": "John Mayer"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://www.deezer.com/track/4636510"
+      }
+    }
+  ]
+}
