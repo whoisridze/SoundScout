@@ -2,7 +2,7 @@
 
 A full-stack music discovery platform where users explore genres, discover artists, listen to track previews, save favorites, and interact through comments. Built as a capstone project at Odessa National Polytechnic University.
 
-**Live demo:** _coming soon_
+**Live demo:** [sound-scout-zeta.vercel.app](https://sound-scout-zeta.vercel.app)
 
 ![SoundScout — Artist Detail](preview.png)
 
