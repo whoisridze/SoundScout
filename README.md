@@ -1,10 +1,20 @@
+<div align="center">
+
 # SoundScout
 
-A full-stack music discovery platform where users explore genres, discover artists, listen to track previews, save favorites, and interact through comments. Built as a capstone project at Odessa National Polytechnic University.
+[![Live](https://img.shields.io/badge/Live-sound--scout--zeta.vercel.app-7c3aed?style=for-the-badge)](https://sound-scout-zeta.vercel.app)
+[![React](https://img.shields.io/badge/React_19-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
-**Live demo:** [sound-scout-zeta.vercel.app](https://sound-scout-zeta.vercel.app)
+_Full-stack music discovery platform with genre browsing, 30-second previews, favorites, comments, and user profiles._
 
 ![SoundScout — Artist Detail](preview.png)
+
+</div>
+
+---
 
 > **Note on demo mode:** Spotify introduced mandatory paid subscriptions for API access in March 2026, which broke the original integration. The deployed version runs in demo mode with cached data from Deezer's free API (293 real artists across 20 genres with working 30-second previews). All features — auth, profiles, favorites, comments, admin — work normally against a live database. The full Spotify-powered version runs locally with valid API credentials.
 
